@@ -6,7 +6,7 @@
 
 <img src="./resources/Banner-UPC.png" alt="Banner UPC">
 
-### Universidad Peruana de Ciencias Aplicadas 🎓
+## Universidad Peruana de Ciencias Aplicadas 🎓
 
 Ingeniería de software - 2025-02
 
@@ -70,7 +70,7 @@ Agosto de 2025 🗓️
 Tabla de contenidos
 </div>
 
-- Capítulo I: Presentacion
+- Capítulo I: Presentación
     - 1.1 Startup profile
         - 1.1.1 Descripcion de la startup
         - 1.1.2 Perfiles de integrantes del equipo
@@ -172,3 +172,84 @@ Tabla de contenidos
 ## Student Outcome
 
 ## Objetivos SMART
+
+# Capitulo I: Presentación
+
+## 1.1 Startup profile
+
+### 1.1.1 Descripción de la startup
+
+**Teatrope** es una plataforma que reúne a todos los teatros en Lima Metropolitana para difundir y promover las obras de teatro, teniendo como principal objetivo ofrecer información detallada como las fechas de función, disponibilidad, ubicación y datos acerca del teatro, información de los actores y directores, etc. La startup busca generar una plataforma "todo en uno" donde los consumidores del arte escénico puedan enterarse rápidamente y en un solo lugar de las obras en sus teatros favoritos. 
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+## 1.2 Solution profile
+
+### 1.2.1 Antecedentes y problemática
+
+Actualmente los consumidores de teatro se enteran de los nuevos estrenos  principalmente a través de las redes sociales o canales de difusión, incluso muchas veces es necesario revisar las páginas web una por una para obtener información más actualizada. Esto ocasiona que mucha gente prefiera consumir otro tipo de arte a la cual tienen más fácil acceso, como cine o conciertos, y por ende se pierden muchos posibles clientes para la industria del arte escénico. 
+
+#### ⁉️5“W”s + 2"H"'s
+
+##### 🟡 WHAT (QUÉ)
+ 
+- **¿Cual es el problema?**
+    
+    El problema es la pérdida de tiempo al investigar sobre las obras de teatro en Lima Metropolitana ya que uno se ve obligado a revisar cada teatro por separado. 
+
+- **¿Qué consecuencias tiene?**
+
+    El cliente pierde el interés y decide consumir otro tipo de entrenimiento dejando de lado el teatro.
+
+##### 🟡 WHEN (CUANDO)
+
+- **¿Cuando sucede el problema?**
+
+    El problema ocurre cuando el cliente investiga sobre las obras de teatro, es decir, tiene la intención de asistir a un teatro para ver una obra. 
+
+- **¿Cuando utiliza el cliente el producto?**
+
+    El cliente utiliza el producto cuando investiga sobre las obras de teatro, encontrando toda la información que necesita sobre todos los teatros disponibles en el mismo lugar. 
+
+##### 🟡 WHERE (DONDE)
+
+- **¿Dónde se presenta el problema?**
+
+    El problema tiene potencial para presentarse en cualquier lugar ya que lo tiene el usuario en sí. 
+
+- **¿Dónde se usa el producto?**
+
+    El producto se usaría en smartphones con sistema operativo android y acceso a internet. 
+
+##### 🟡 WHO (QUIEN)
+
+- **¿Quién tiene este problema?**
+
+    Personas en general que quieren ver una obra de teatro e investigan sobre las obras en función y nuevos estrenos. 
+
+- **¿Quién se beneficia del producto?**
+
+    El producto beneficiaría tanto a los clientes como a las empresas, aumentando significativamente las ventas de entradas para obras de teatro a través de un método más eficiente de la difusión de información. 
+
+##### 🟡 WHY (POR QUE)
+
+- **¿Por qué ocurre el problema?**
+
+    El problema ocurre porque no existe una plataforma que reúna las carteleras de los teatros, y es poco probable que las empresas mismas lo solucionen ya que se consideran unas a otras "competencia".
+
+- **¿Por qué es importante automatizar?**
+
+    La automatización mejora la eficiencia y beneficiaría significativamente al cliente y los teatros ya que indirectamente se reducirían costos en publicidad y marketing. 
+
+##### 🟡 HOW (COMO)
+
+- **¿Cómo soluciona el producto el problema?**
+
+    La solución combina el desarrollo de una API y una aplicación mobile donde los teatros puedan publicar sus anuncios y los clientes puedan ver estos mismos. 
+
+##### 🟡 HOW MUCH (CUANTO)
+
+- **¿Cuánto mejora el producto la situación actual?**
+
+    El uso de esta aplicación mobile mejora significativamente el tiempo que tardaría un usuario en investigar, considerando que actualmente el smartphone es el dispositivo que más se usa y al cual se tiene amplio acceso en Lima. 
+
