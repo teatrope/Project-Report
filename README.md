@@ -253,3 +253,54 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
 
     El uso de esta aplicación mobile mejora significativamente el tiempo que tardaría un usuario en investigar, considerando que actualmente el smartphone es el dispositivo que más se usa y al cual se tiene amplio acceso en Lima. 
 
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1 Lean UX Problem Statments
+
+- **Objetivos actuales** 
+
+    La industria teatral en Lima Metropolitana busca promover y difundir obras escénicas a través de múltiples teatros, ofreciendo entretenimiento cultural y generando ingresos mediante la venta de entradas a un público interesado en el arte escénico.
+
+- **Problema identificado:** 
+    
+    Los consumidores de teatro enfrentan dificultades para acceder a información detallada y actualizada sobre obras, como fechas de funciones, disponibilidad, ubicaciones y detalles de actores y directores, lo que resulta en una pérdida de interés y menor asistencia a los eventos.
+
+- **Solicitud de mejora:** 
+    
+    ¿Cómo mejorar la accesibilidad y centralización de la información sobre obras teatrales en Lima Metropolitana para aumentar la participación del público y la satisfacción tanto de los consumidores como de los teatros?
+
+- **Dominio:**
+    
+    La industria teatral en Lima depende en gran medida de canales de comunicación fragmentados, como redes sociales y sitios web individuales de teatros, para llegar a su audiencia. La tendencia es el aumento del uso de smartphones para buscar entretenimiento, creciente interés en experiencias culturales auténticas y necesidad de plataformas digitales integradas para facilitar el acceso a la información. Nos enfocamos en los teatros de Lima Metropolitana y los consumidores de arte escénico interesados en obras teatrales.
+
+- **Segmentos**
+
+    Segmento 1: Consumidores de teatro. Personas entre 10 y 60 años, residentes en Lima Metropolitana, interesados en el arte escénico, que buscan información sobre obras de teatro y prefieren experiencias culturales locales.
+
+    Segmento 2: Teatros y productores. Teatros y compañías teatrales en Lima Metropolitana que buscan aumentar la visibilidad de sus obras y la venta de entradas.
+
+- **Puntos de dolor**
+
+    Punto de dolor 1: Los consumidores pierden tiempo buscando información actualizada sobre obras de teatro, ya que deben revisar múltiples sitios web y redes sociales de teatros individuales.
+
+    Punto de dolor 2: La falta de una plataforma centralizada reduce el interés de los consumidores, quienes optan por otras formas de entretenimiento, como cine o conciertos, con información más accesible.
+
+    Punto de dolor 3: Los teatros enfrentan dificultades para llegar a nuevas audiencias debido a la fragmentación de los canales de difusión y los altos costos de publicidad.
+
+- **Brecha**
+
+    Las soluciones actuales no satisfacen las necesidades de los clientes de manera eficiente. Entre ellas se encuentran las redes sociales y los sitios web de los teatros. No existe una plataforma unificada que centralice la información de todas las obras teatrales en Lima Metropolitana, integrando carteleras, disponibilidad de entradas y detalles de las producciones en un solo lugar accesible desde dispositivos móviles.
+
+- **Vision y estrategia**
+
+    Visión: Convertirnos en la plataforma de referencia para los amantes del teatro en Lima Metropolitana, ofreciendo una experiencia fluida y centralizada para descubrir y asistir a obras teatrales.
+
+    Estrategia: Identificar suposiciones clave, priorizar riesgos, definir outcomes medibles (con métricas como Objective-Key-Results) y formular hipótesis testeables para validar la mejora en la accesibilidad de información.
+
+- **Segmento inicial**
+     
+    Segmento inicial: Adultos jóvenes (18-35 años) en Lima Metropolitana, con interés en el arte escénico, que usan smartphones Android y buscan experiencias culturales locales. Este grupo incluye tanto asistentes frecuentes al teatro como aquellos que exploran nuevas opciones de entretenimiento.
+
+    Razón de elección: Este segmento es tecnológicamente activo, utiliza smartphones para buscar entretenimiento y está dispuesto a probar nuevas plataformas digitales. Además, representa una porción significativa del mercado cultural en Lima.
+
+    Plan de validación: Lanzar una versión beta con 5 teatros piloto, midiendo outcomes como aumento en consultas de información y feedback sobre facilidad de uso.
