@@ -304,3 +304,46 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
     Razón de elección: Este segmento es tecnológicamente activo, utiliza smartphones para buscar entretenimiento y está dispuesto a probar nuevas plataformas digitales. Además, representa una porción significativa del mercado cultural en Lima.
 
     Plan de validación: Lanzar una versión beta con 5 teatros piloto, midiendo outcomes como aumento en consultas de información y feedback sobre facilidad de uso.
+
+#### 1.2.2.1 Lean UX Assumptions
+
+**Bussiness outcomes:**
+
+1. Creo que mis clientes necesitan una plataforma centralizada para acceder a información sobre obras de teatro en Lima Metropolitana.
+
+2. Estas necesidades se pueden resolver con una aplicación móvil y API que agregue carteleras de múltiples teatros.
+
+3. Mis clientes iniciales son (o serán) consumidores de arte escénico en Lima Metropolitana y teatros locales.
+
+4. El valor #1 que un cliente quiere de mi servicio es acceso rápido y unificado a información detallada de obras teatrales.
+
+5. El cliente también puede obtener estos beneficios adicionales como recomendaciones personalizadas, información de los actores y notificaciones de estrenos.
+
+6. Voy a adquirir la mayoría de mis clientes a través de marketing digital en redes sociales y partnerships con teatros.
+
+7. Haré dinero a través de comisiones por venta de entradas, suscripciones premium para teatros y publicidad en la app.
+
+8. Mi competencia principal en el mercado será plataformas como Teleticket o redes sociales individuales de teatros.
+
+9. Los venceremos debido a la centralización exclusiva de información teatral y una interfaz móvil optimizada.
+
+10. Mi mayor riesgo de producto es la falta de adopción por parte de los teatros debido a percepciones de competencia.
+
+11. Resolveremos esto a través de incentivos como mayor visibilidad y reducción de costos de marketing para los teatros.
+
+12. Suponemos que hay suficiente demanda cultural en Lima para sostener el modelo; si no, el proyecto fallará por baja retención de usuarios.
+
+**User outcomes:**
+
+1. ¿Quién es el usuario? Adultos jóvenes (18-35 años) interesados en el teatro, residentes en Lima Metropolitana, con acceso a smartphones Android.
+
+2. ¿Dónde encaja nuestro producto en su trabajo o vida? En su tiempo libre para planificación de ocio cultural, integrándose en rutinas diarias de búsqueda de entretenimiento vía móvil.
+
+3. ¿Qué problemas tiene nuestro producto resolver? La fragmentación de información sobre obras teatrales, reduciendo el tiempo de búsqueda y aumentando el interés en asistir a eventos.
+
+4. ¿Cuándo y cómo es nuestro producto usado? Cuando buscan opciones de entretenimiento, principalmente en feridos o fines de semana, a través de una app móvil con búsquedas intuitivas y notificaciones.
+
+5. ¿Qué características son importantes? Búsqueda por teatro/obra, detalles de funciones (fechas, ubicaciones, actores), disponibilidad de entradas y mapas integrados.
+
+6. ¿Cómo debe verse nuestro producto y comportarse? Interfaz limpia y moderna, con navegación simple, responsive en móviles, comportándose de manera rápida y con actualizaciones en tiempo real para evitar frustración.
+
