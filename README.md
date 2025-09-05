@@ -395,3 +395,27 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 | Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
 | Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
 
+# Bibliografía
+
+(falta citar en APA7)
+
+- https://www.operala.org/interesantes-resultados-del-primer-estudio-de-publicos-digitales-del-gran-teatro-nacional-de-peru/?lang=en
+
+- https://eunicglobal.eu/projects/peru
+
+- https://www.euromonitor.com/store/explore-reports/latin-america/peru
+
+- https://eunicglobal.eu/projects/peru
+
+- https://www.tripadvisor.com/Attractions-g294316-Activities-c58-t116-Lima_Lima_Region.html
+
+- https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1139&context=jgi
+
+- https://en.wikipedia.org/wiki/Theatre_of_Peru
+
+- https://www.limaeasy.com/peru-guide/peru-culture-entertainment/theaters-in-peru
+
+- https://www.tripadvisor.com/Attraction_Review-g294316-d3838521-Reviews-Gran_Teatro_Nacional-Lima_Lima_Region.html
+
+- https://thetheatretimes.com/latest-post/worldwide/south-america/peru/
+
