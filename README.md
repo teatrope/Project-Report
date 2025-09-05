@@ -372,3 +372,26 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
 #### 1.2.2.4 Lean UX Canvas
 
 <img src="./resources/leanux_canvas.jpg" alt="Lean UX Canvas">
+
+## 1.3 Segmentos Objetivo
+
+Segmento 1: Usuarios (Consumidores de teatro)
+
+| Característica Demográfica | Descripción | Información Estadística de Sustento |
+|----------------------------|-------------|-------------------------------------|
+| Edad | Principalmente adultos jóvenes entre 18 y 55 años, con énfasis en el rango 25-34 años, que representan la mayoría de la audiencia digital y física activa en eventos culturales. | El 62% de la audiencia digital del Gran Teatro Nacional (GTN) en Perú es menor de 35 años, con el 33.5% específicamente en el rango 25-34 años, según el primer estudio de públicos digitales del GTN (2024). En general, solo el 7-10% de la población peruana asiste a teatros o museos anualmente, con un enfoque en grupos urbanos jóvenes. |
+| Género | Mixto, con una ligera predominancia masculina (aprox. 54% hombres y 46% mujeres), reflejando brechas digitales en el acceso a artes escénicas. | Estudio del GTN indica 54% hombres y 46% mujeres en audiencias digitales, destacando una brecha de género digital del 12% en Perú que afecta el acceso femenino a contenidos culturales. |
+| Ubicación | Residentes en Lima Metropolitana y regiones cercanas (e.g., La Libertad, Arequipa, Cusco), con extensión a audiencias internacionales hispanohablantes. | El 80% de la población peruana vive en áreas urbanas, con Lima como centro cultural principal. Audiencias digitales del GTN incluyen regiones peruanas clave y países como España, EE.UU., México, Argentina y Colombia. Aprox. 42% de la audiencia digital nunca ha visitado teatros en persona, indicando potencial para captar nuevos usuarios urbanos. |
+| Nivel Socioeconómico | Clases media y media-alta, con acceso a smartphones y tiempo libre para ocio cultural. | En Perú, el ingreso bruto promedio es de ~USD 6,417 en 2024, con mayor participación cultural en segmentos urbanos de ingresos medios (ranking 10° en Latinoamérica). Asistencia a eventos como teatros es baja (7-10% nacional), pero concentrada en Lima con mayor poder adquisitivo. |
+| Hábitos Tecnológicos | Usuarios activos de dispositivos móviles, con alto consumo de contenido cultural digital en las primeras 24 horas de publicación. | El 82.3% de la audiencia accede a contenido digital en las primeras 24 horas (58.35% inmediatamente), con un lifespan corto de engagement (solo 17.88% después del primer día). |
+
+Segmento 2: Teatros (Empresas o Compañías Teatrales)
+
+| Característica Demográfica (Adaptada a Empresas) | Descripción | Información Estadística de Sustento |
+|--------------------------------------------------|-------------|-------------------------------------|
+| Tamaño de la Empresa | Pequeñas y medianas compañías teatrales, con capacidad para 100-1,500 espectadores, incluyendo venues independientes y multi-propósito. | Hay aprox. 20-30 teatros activos en Lima, con capacidades variadas (e.g., Gran Teatro Nacional: 1,500 asientos; Teatro Municipal: 1,181). Listados como Tripadvisor mencionan 15 principales, mientras que hay ~250 grupos teatrales en todo Perú, con concentración en Lima. Más de 40 compañías han visitado Lima históricamente, con énfasis en producciones modernas y experimentales. |
+| Tipo de Organización | Compañías independientes, circos-teatro (e.g., La Tarumba) y venues municipales/multipropósito, enfocadas en drama, ballet, ópera y teatro experimental. | Principales incluyen Gran Teatro Nacional (multi-propósito, inaugurado 2012), Teatro Municipal (clásico, re-inaugurado 2010), y grupos como Maguey (fundado 1982, teatro alternativo). Hay énfasis en organizaciones independientes como La Tarumba, una de las más exitosas en Perú. |
+| Ubicación | Concentrado en Lima Metropolitana, con venues en distritos como el Centro Histórico, Barranco y Miraflores. | La mayoría de teatros están en Lima (e.g., Segura Theater: el más antiguo de Latinoamérica; Marsano, Canout). Listados muestran ~10-15 venues clave en áreas urbanas centrales. |
+| Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
+| Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
+
