@@ -395,6 +395,21 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 | Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
 | Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
 
+
+## 2.3. Needfinding
+### 2.3.1. User Persona
+
+Los User Personas son arquetipos que representan a los segmentos de usuarios identificados para el proyecto Teatrope. Se construyen a partir del análisis de entrevistas preliminares y la observación de la competencia, con el fin de sintetizar comportamientos, necesidades, motivaciones y frustraciones comunes.
+Estos perfiles no describen a individuos reales, sino a representaciones basadas en patrones recurrentes de los usuarios meta. Su objetivo es guiar el diseño de la plataforma, asegurando que las decisiones estratégicas respondan a necesidades concretas tanto de consumidores de teatro como de teatros y productores.
+
+**User Persona 1: Consumidores de teatro**
+<div align="center"><img src="resources/Valeria%20Soto.png" alt="user-persona1"></div>
+
+**User Persona 2: Teatros y productores**
+<div align="center"><img src="resources/Ricardo%20Guzmán.png" alt="user-persona2"></div>
+
+Estos dos User Personas guiarán el diseño de Teatrope, asegurando que la plataforma responda a los dos frentes clave: usuarios finales que buscan información y experiencias culturales y productores que requieren difusión y venta eficiente.
+
 # Bibliografía
 
 (falta citar en APA7)
