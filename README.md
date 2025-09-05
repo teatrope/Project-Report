@@ -305,7 +305,7 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
 
     Plan de validación: Lanzar una versión beta con 5 teatros piloto, midiendo outcomes como aumento en consultas de información y feedback sobre facilidad de uso.
 
-#### 1.2.2.1 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
 **Bussiness outcomes:**
 
@@ -346,4 +346,3 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
 5. ¿Qué características son importantes? Búsqueda por teatro/obra, detalles de funciones (fechas, ubicaciones, actores), disponibilidad de entradas y mapas integrados.
 
 6. ¿Cómo debe verse nuestro producto y comportarse? Interfaz limpia y moderna, con navegación simple, responsive en móviles, comportándose de manera rápida y con actualizaciones en tiempo real para evitar frustración.
-
