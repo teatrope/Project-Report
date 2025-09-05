@@ -346,3 +346,26 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
 5. ¿Qué características son importantes? Búsqueda por teatro/obra, detalles de funciones (fechas, ubicaciones, actores), disponibilidad de entradas y mapas integrados.
 
 6. ¿Cómo debe verse nuestro producto y comportarse? Interfaz limpia y moderna, con navegación simple, responsive en móviles, comportándose de manera rápida y con actualizaciones en tiempo real para evitar frustración.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+1. **Creemos que** proporcionar una plataforma centralizada con información detallada de todas las obras teatrales en Lima Metropolitana reducirá el tiempo de búsqueda de los consumidores y aumentará su interés en asistir a eventos.
+    
+    **Sabremos que estamos bien cuando** veamos comentarios positivos de usuarios sobre la facilidad de acceso a la información y un aumento del 20% en el tiempo de sesión en la app comparado con búsquedas tradicionales en redes sociales y / o un incremento en el número de consultas diarias por usuario.
+
+2. **Creemos que** ofrecer incentivos como mayor visibilidad y reducción de costos de marketing a los teatros fomentará su participación activa en la plataforma, publicando sus carteleras regularmente.
+
+    **Sabremos que estamos bien cuando** veamos reseñas de teatros destacando ahorros en publicidad y / o un aumento del 15% en el número de teatros registrados en los primeros 3 meses y / o un crecimiento en las ventas de entradas atribuidas a la app.
+
+3. **Creemos que** una interfaz móvil limpia y responsive, optimizada para smartphones Android, mejorará la experiencia de usuario al navegar por detalles de obras, ubicaciones y actores.
+
+    **Sabremos que estamos bien cuando** veamos feedback de usuarios describiendo la app como "intuitiva y rápida" en encuestas post-uso y / o una tasa de abandono de la app por debajo del 10% y / o un aumento en la calificación promedio de la app en tiendas.
+
+4. **Creemos que** agregar recomendaciones personalizadas de obras basadas en preferencias previas incrementará la retención de usuarios y la frecuencia de visitas a la plataforma.
+
+    **Sabremos que estamos bien cuando** veamos comentarios de usuarios sobre recomendaciones relevantes que los motivaron a asistir a más eventos y / o un aumento del 25% en las visitas recurrentes semanales y / o un incremento en la tasa de conversión a compra de entradas.
+
+5. **Creemos que** implementar comisiones por venta de entradas y suscripciones premium para teatros generará ingresos sostenibles mientras beneficia a ambos lados del mercado.
+
+    **Sabremos que estamos bien cuando** veamos testimonios de teatros sobre aumento en ventas sin costos adicionales y / o un revenue mensual inicial de al menos s./5,000 en los primeros 6 meses y / o un ROI positivo medido por el ratio de ingresos vs. costos de desarrollo.
+
