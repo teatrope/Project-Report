@@ -369,3 +369,6 @@ Actualmente los consumidores de teatro se enteran de los nuevos estrenos  princi
 
     **Sabremos que estamos bien cuando** veamos testimonios de teatros sobre aumento en ventas sin costos adicionales y / o un revenue mensual inicial de al menos s./5,000 en los primeros 6 meses y / o un ROI positivo medido por el ratio de ingresos vs. costos de desarrollo.
 
+#### 1.2.2.4 Lean UX Canvas
+
+<img src="./resources/leanux_canvas.jpg" alt="Lean UX Canvas">
