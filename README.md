@@ -401,6 +401,34 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 ### 2.1.2 Estrategias y tácticas frente a competidores
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
+# Preguntas para Segmento 1: Consumidores de teatro
+Objetivo: Conocer hábitos de consumo cultural, canales de información, motivaciones y expectativas respecto a una plataforma centralizada.
+Introducción: “Queremos conocer mejor cómo el público de Lima Metropolitana se informa y consume teatro, para diseñar una plataforma que se adapte a sus necesidades.”
+•	¿Con qué frecuencia asistes a obras de teatro al año o al mes?
+•	¿Cómo te informas actualmente sobre funciones de teatro? (redes sociales, boca a boca, webs de teatros, etc.)
+•	¿Qué dificultades encuentras al buscar información sobre obras en Lima?
+•	¿Qué factores influyen más en tu decisión de asistir a una obra? (precio, cercanía, elenco, recomendaciones, etc.)
+•	¿Qué opinas de la idea de una plataforma “todo en uno” donde encuentres fechas, disponibilidad y compra de entradas?
+•	¿Qué funcionalidades valoras más en una aplicación o web sobre teatro? (notificaciones, filtros por género/ubicación, reseñas, descuentos, etc.)
+•	¿Qué redes sociales usas más para informarte sobre actividades culturales?
+•	¿Sueles comprar entradas online o prefieres en boletería? ¿Por qué?
+•	¿Has dejado de ir a una obra por no encontrar información clara?
+•	Si tuvieras una aplicación así, ¿qué es lo primero que quisieras ver al abrirla?
+
+# Preguntas para Segmento 2: Teatros y productores
+Objetivo: Identificar necesidades de difusión, gestión de entradas y relación con el público.
+Introducción: “Estamos desarrollando una plataforma que busca reunir en un solo espacio toda la oferta teatral de Lima Metropolitana. Queremos conocer su perspectiva como productor/teatro.”
+•	¿Qué canales utilizan actualmente para difundir sus obras? (redes sociales, prensa, carteleras, alianzas, etc.)
+•	¿Cuáles son los principales retos para atraer público y llenar funciones?
+•	¿Qué limitaciones encuentra en los sistemas de venta de entradas actuales?
+•	¿Qué tan importante es para ustedes contar con información centralizada sobre la oferta teatral de Lima?
+•	¿Qué beneficios esperaría de una plataforma que concentre obras, funciones y venta de entradas?
+•	¿Qué tipo de estadísticas o reportes les serían más útiles? (visibilidad e interacción, perfil del público, ventas en tiempo real, etc.)
+•	¿Estarían dispuestos a pagar o suscribirse a una plataforma así? ¿En qué condiciones?
+•	¿Qué experiencia han tenido con alianzas de promoción cultural (municipios, festivales, apps)?
+•	¿Cuánto tiempo y recursos invierten en publicidad digital por obra?
+•	¿Qué tan abiertos estarían a recibir reseñas del público en línea?
+•	Si existiera una integración con redes sociales o Google Maps, ¿les resultaría atractivo?
 
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
