@@ -395,6 +395,12 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 | Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
 | Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
 
+# Capítulo II: Requierements Elicitation & Analysis
+## 2.1 Competidores
+### 2.1.1 Analisis Competitivo
+### 2.1.2 Estrategias y tácticas frente a competidores
+## 2.2 Entrevistas
+### 2.2.1 Diseño de entrevistas
 
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
