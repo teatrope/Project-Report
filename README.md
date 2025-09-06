@@ -410,6 +410,34 @@ Estos perfiles no describen a individuos reales, sino a representaciones basadas
 
 Estos dos User Personas guiarán el diseño de Teatrope, asegurando que la plataforma responda a los dos frentes clave: usuarios finales que buscan información y experiencias culturales y productores que requieren difusión y venta eficiente.
 
+### 2.3.2. User Task Matrix
+El presente User Task Matrix se construye a partir de los User Personas definidos previamente:
+- Consumidor de teatro (Valeria Soto) → Representa a personas entre 10 y 60 años interesadas en el arte escénico y que buscan información centralizada sobre obras en Lima Metropolitana.
+- Teatros y productores (Ricardo Guzmán) → Representa a teatros y compañías que requieren mayor visibilidad, venta de entradas y conexión con su público.
+El objetivo de esta matriz es identificar las tareas clave que cada segmento realiza en su vida real para cumplir sus objetivos culturales y de gestión, independientemente de la existencia de una plataforma como Teatrope.
+
+|Tareas/Tasks| Frecuencia<br/>(Consumidor de teatro - Valeria) |Importancia|Frecuencia|Importancia|
+|------------|-------------------------------------------------|---------|----------|-----------|
+|Buscar información sobre obras (cartelera, horarios, géneros)|Alta|Muy Alta|Media|Alta|
+|Comprar entradas (online o boletería)|Media|Muy alta|Alta|Muy alta|
+|Recibir/consultar recomendaciones o reseñas|Media|Alta|Baja|Media|
+|Compartir experiencias en redes sociales|Media|Media|Baja|Baja|
+|Descubrir nuevas obras o teatros|Media|Alta|Media|Alta|
+|Difundir obras y funciones (redes, prensa, afiches)|Baja|Media|Alta|Muy alta|
+|Gestionar disponibilidad y precios de entradas|Baja|Media|Alta|Muy alta|
+|Analizar asistencia y comportamiento del público|Baja|Baja|Media|Muy alta|
+|Administrar campañas de publicidad digital|Baja|Baja|Alta|Muy alta|
+|Establecer contacto con el público (comunidad, fidelización)|Media|Alta|Media|Muy alta|
+
+Con esta matriz, se observa que Teatrope debe equilibrar funciones que faciliten la búsqueda y compra de entradas para consumidores y al mismo tiempo ofrezcan a productores herramientas de difusión y gestión.
+
+### 2.3.3. User Journey Mapping
+
+
+
+### 2.3.4. Empathy Mapping
+
+
 # Bibliografía
 
 (falta citar en APA7)
