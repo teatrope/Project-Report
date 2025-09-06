@@ -395,6 +395,521 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 | Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
 | Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
 
+# Capítulo II: Requierements Elicitation & Analysis
+## 2.1 Competidores
+### 2.1.1 Analisis Competitivo
+El analisis de la competencia constituye un recurso esencial en la planificación estratégica, pues facilita la detección de oportunidades, la anticipación de riesgos y la creación de ventajas diferenciales duraderas en el mercado. Su relevancia se centra en apoyar a las organizaciones a responder a un entorno cambiante y a decidir con base en información sólida. En este sentido, se expone a continuación la aplicación de esta herramienta en el proyecto y la evaluación de los competidores.
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape – Teatrope</th>
+  </tr>
+  <tr>
+    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center">
+      Se analizan plataformas digitales y aplicaciones móviles de teatro y espectáculos que ofrecen funcionalidades similares a Teatrope: información de funciones, compra de entradas, acceso a contenidos exclusivos y difusión cultural. Esto permite entender su posicionamiento y diseñar estrategias diferenciadoras.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">Nombre y logo</th>
+    <td align="center"><b>Teatrope</b><br><img src="./resources/teatrope_logo_provisional.jpg" alt="TeatroPe Logo" width="50" height="50"></td>
+    <td align="center"><b>TodayTix</b><br><img src="./resources/todaytix_logo.png" alt="TodayTix Logo" width="50" height="50"></td>
+    <td align="center"><b>Teatrix</b><br><img src="./resources/teatrix_logo.png" alt="Teatrix" width="50" height="50"></td>
+    <td align="center"><b>Gran Teatro Nacional (GTN App)</b><br><img src="./resources/gran_teatro_nacional_logo.png" alt="Gran Teatro Logo" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <th rowspan="2" align="center">Perfil</th>
+    <td align="center">Overview</td>
+    <td>Plataforma que reúne todos los teatros en Lima con detalles de funciones, ubicación, elenco y directores.</td>
+    <td>App internacional de venta de entradas para teatro con descuentos, loterías y compra rápida.</td>
+    <td>Aplicación de streaming con obras teatrales y musicales en alta calidad.</td>
+    <td>App institucional del Gran Teatro Nacional con programación y difusión cultural.</td>
+  </tr>
+  <tr>
+    <td align="center">Ventaja competitiva</td>
+    <td>
+      <ul>
+        <li>Información centralizada del teatro limeño.</li>
+        <li>Calendario y mapas en tiempo real.</li>
+        <li>Experiencia “todo en uno” para los amantes del teatro local.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Acceso a entradas con grandes descuentos.</li>
+        <li>Promociones exclusivas y loterías.</li>
+        <li>Proceso de compra rápido e intuitivo.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Acceso ilimitado a obras grabadas.</li>
+        <li>Contenido adicional como entrevistas.</li>
+        <li>Calidad audiovisual HD y subtítulos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Respaldo institucional del Estado.</li>
+        <li>Difusión cultural y acceso gratuito.</li>
+        <li>Programación exclusiva del GTN.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th rowspan="2" align="center">Perfil de marketing</th>
+    <td align="center">Mercado objetivo</td>
+    <td>
+      <ul>
+        <li>Público limeño aficionado al teatro.</li>
+        <li>Teatros independientes y grandes salas.</li>
+        <li>Usuarios que buscan descubrir obras locales.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Público internacional interesado en Broadway.</li>
+        <li>Turistas y locales que buscan espectáculos.</li>
+        <li>Consumidores que priorizan descuentos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Usuarios que prefieren teatro en streaming.</li>
+        <li>Amantes de obras clásicas y modernas.</li>
+        <li>Público que busca comodidad en casa.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Asistentes frecuentes al GTN.</li>
+        <li>Estudiantes y promotores culturales.</li>
+        <li>Turistas culturales en Lima.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Estrategias de marketing</td>
+    <td>
+      <ul>
+        <li>Alianzas con teatros locales.</li>
+        <li>Campañas en redes sociales.</li>
+        <li>Eventos culturales comunitarios.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Marketing digital global.</li>
+        <li>Promociones flash y descuentos.</li>
+        <li>Campañas dirigidas en turismo cultural.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Publicidad en plataformas de streaming.</li>
+        <li>Campañas de suscripción mensual.</li>
+        <li>Promociones en App Store y Google Play.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Comunicación institucional.</li>
+        <li>Promoción de eventos en medios.</li>
+        <li>Difusión en escuelas y universidades.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th rowspan="3" align="center">Perfil del producto</th>
+    <td align="center">Productos & Servicios</td>
+    <td>
+      <ul>
+        <li>Directorio de teatros y obras.</li>
+        <li>Información de funciones y elencos.</li>
+        <li>Calendario y geolocalización.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Venta de entradas online.</li>
+        <li>Loterías y descuentos especiales.</li>
+        <li>Promociones de último minuto.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Streaming de obras teatrales.</li>
+        <li>Catálogo bajo demanda.</li>
+        <li>Contenido exclusivo para suscriptores.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Programación cultural del GTN.</li>
+        <li>Eventos y actividades educativas.</li>
+        <li>Acceso a contenidos multimedia.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Precios y Costos</td>
+    <td>
+      <ul>
+        <li>Acceso gratuito.</li>
+        <li>Ingresos por publicidad.</li>
+        <li>Alianzas con teatros para monetización.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Compra directa de entradas.</li>
+        <li>Tarifas variables según espectáculo.</li>
+        <li>Comisiones por transacción.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Suscripción mensual.</li>
+        <li>Planes anuales con descuentos.</li>
+        <li>Prueba gratuita limitada.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>App gratuita.</li>
+        <li>Financiamiento estatal.</li>
+        <li>Sin modelo de monetización comercial.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Canales de distribución</td>
+    <td>Web y aplicación móvil.</td>
+    <td>App iOS/Android y sitio web.</td>
+    <td>App móvil y web streaming.</td>
+    <td>App móvil y web institucional.</td>
+  </tr>
+  <tr>
+    <th rowspan="4" align="center">Análisis SWOT</th>
+    <td align="center">Fortalezas</td>
+    <td>
+      <ul>
+        <li>Especialización en teatro limeño.</li>
+        <li>Información centralizada.</li>
+        <li>Experiencia cultural integral.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Popularidad internacional.</li>
+        <li>Acceso rápido y descuentos.</li>
+        <li>Proceso simple de compra.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Amplio catálogo en streaming.</li>
+        <li>Alta calidad audiovisual.</li>
+        <li>Contenido exclusivo adicional.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Respaldo institucional.</li>
+        <li>Difusión cultural gratuita.</li>
+        <li>Acceso a públicos diversos.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Debilidades</td>
+    <td>
+      <ul>
+        <li>No gestiona venta directa de entradas.</li>
+        <li>Dependencia de alianzas con teatros.</li>
+        <li>Escasa visibilidad fuera de Lima.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Enfoque en Broadway, no teatro local.</li>
+        <li>Competencia fuerte global.</li>
+        <li>Limitado en información de actores/directores.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>No cubre funciones presenciales.</li>
+        <li>Dependencia de internet estable.</li>
+        <li>Limitado a formato digital.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Solo cubre un teatro específico.</li>
+        <li>Alcance limitado geográficamente.</li>
+        <li>No orientado a venta de entradas.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Oportunidades</td>
+    <td>
+      <ul>
+        <li>Expandirse a todo el Perú.</li>
+        <li>Agregar módulo de venta de entradas.</li>
+        <li>Alianzas con festivales culturales.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Ingresar a nuevos mercados.</li>
+        <li>Ampliar alianzas con teatros globales.</li>
+        <li>Fortalecer presencia en turismo cultural.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Mayor consumo cultural en streaming.</li>
+        <li>Ampliar catálogo con obras latinoamericanas.</li>
+        <li>Ofrecer experiencias inmersivas (VR/AR).</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Mayor digitalización cultural en Perú.</li>
+        <li>Programas de apoyo estatal al arte.</li>
+        <li>Integración con apps educativas.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Amenazas</td>
+    <td>
+      <ul>
+        <li>Competencia con Teleticket/Joinnus.</li>
+        <li>Plataformas internacionales consolidadas.</li>
+        <li>Baja adopción tecnológica en algunos sectores.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Competencia feroz en apps de boletaje.</li>
+        <li>Alternativas más económicas.</li>
+        <li>Dependencia de tendencias de consumo.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Nuevos competidores en streaming.</li>
+        <li>Alternativas con más funcionalidades.</li>
+        <li>Competencia con plataformas globales.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Alternativas privadas con más recursos.</li>
+        <li>Competencia con apps culturales externas.</li>
+        <li>Dependencia del financiamiento estatal.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 2.1.2 Estrategias y tácticas frente a competidores
+Con base en el análisis competitivo realizado, fue posible identificar con mayor claridad las principales fortalezas, debilidades, oportunidades y amenazas que caracterizan a las plataformas rivales en el sector teatral y cultural. Esta información es un insumo clave para diseñar un plan estratégico que permita a Teatrope ingresar al mercado con una propuesta sólida y diferenciada. A continuación, se detallan las estrategias y tácticas que se plantean para consolidar su posicionamiento.
+
+
+#### Frente a las fortalezas de los competidores 
+
+* TodayTix sobresale por sus promociones, loterías y la rapidez en la compra de entradas.
+
+* Teatrix ofrece un catálogo amplio en streaming y contenidos audiovisuales en alta definición.
+
+* GTN App cuenta con el respaldo institucional del Estado y acceso gratuito a su programación.
+
+#### Fortalezas de Teatrope:
+
+* Concentración de la oferta teatral limeña en una sola plataforma.
+
+* Experiencia integral que incluye cartelera, ubicaciones, fichas de actores y directores.
+
+* Especialización en teatro local, un enfoque poco explorado por otras aplicaciones.
+
+#### Estrategias
+
+* Diferenciar la propuesta resaltando el enfoque cultural limeño.
+
+* Convertirse en el punto digital de referencia para los espectadores de teatro en Lima.
+
+* Comunicar el aporte social y cultural como elemento central de valor.
+
+#### Tácticas
+
+* Crear campañas en redes sociales que cuenten historias de teatros, actores y directores locales.
+
+* Producir material audiovisual que muestre la experiencia completa de asistir al teatro.
+
+* Establecer alianzas con medios culturales y críticos especializados para reseñar obras en la app.
+
+#### Frente a las debilidades de los competidores
+
+* TodayTix carece de cobertura sobre el teatro local y su talento.
+
+* Teatrix está limitado al consumo en línea y no atiende la asistencia presencial.
+
+* GTN App restringe su alcance a un solo teatro y a su propia programación.
+
+#### Debilidades de Teatrope:
+
+* No gestiona todavía la venta directa de boletos.
+
+* Depende de la colaboración activa de los teatros para mantener información actualizada.
+
+* Limitada visibilidad más allá de Lima Metropolitana.
+
+#### Estrategias
+
+* Implementar integraciones con sistemas de boletería locales.
+
+* Desarrollar un mecanismo de autogestión para que cada teatro pueda actualizar sus funciones.
+
+* Planificar una expansión gradual hacia otras ciudades del país.
+
+#### Tácticas
+
+* Lanzar una versión piloto en alianza con teatros principales de Lima.
+
+* Crear paneles de administración para teatros afiliados.
+
+* Impulsar campañas de difusión en universidades, festivales y espacios culturales nacionales.
+
+#### Frente a las oportunidades de los competidores
+
+* TodayTix capitaliza el turismo cultural y el mercado internacional.
+
+* Teatrix se beneficia del crecimiento del consumo digital de contenidos culturales.
+
+* GTN App aprovecha las iniciativas estatales de digitalización cultural.
+
+#### Oportunidades de Teatrope:
+
+* Crecimiento de la digitalización cultural en el Perú y la región.
+
+* Potencial de alianzas con teatros, festivales e instituciones culturales.
+
+* Demanda creciente por experiencias centralizadas y accesibles.
+
+#### Estrategias
+
+* Posicionar a Teatrope como la principal plataforma digital para el teatro en Perú.
+
+* Incorporar funcionalidades innovadoras como reseñas, alertas y recomendaciones personalizadas.
+
+* Establecer vínculos con organizaciones educativas y culturales.
+
+#### Tácticas
+
+* Realizar campañas dirigidas a estudiantes y jóvenes amantes del arte.
+
+* Generar colaboraciones con festivales teatrales para integrar su programación.
+
+* Activar un sistema de notificaciones que informe sobre estrenos y últimas entradas disponibles.
+
+#### Frente a las amenazas de los competidores
+
+* Teleticket y Joinnus son plataformas consolidadas de boletería en el mercado local.
+
+* TodayTix cuenta con un fuerte reconocimiento internacional y grandes recursos.
+
+* El costo de adquisición de usuarios en el sector cultural es elevado.
+
+#### Amenazas de Teatrope:
+
+* Competencia con aplicaciones de boletería masivas.
+
+* Riesgo de posicionamiento de marcas extranjeras con mayor alcance.
+
+* Brecha tecnológica en parte del público objetivo.
+
+#### Estrategias
+
+* Diferenciarse mediante un enfoque local y cultural.
+
+* Fidelizar al usuario ofreciendo beneficios exclusivos y experiencias únicas.
+
+* Construir identidad de marca vinculada al orgullo cultural peruano.
+
+#### Tácticas
+
+* Implementar un programa de recompensas para usuarios frecuentes.
+
+* Desarrollar un sistema de referidos que incentive a atraer nuevos usuarios.
+
+* Diseñar campañas de comunicación bajo un concepto cultural como: “El teatro en un solo lugar”.
+
+## 2.2 Entrevistas
+### 2.2.1 Diseño de entrevistas
+### Preguntas para Segmento 1: Consumidores de teatro
+
+#### Objetivo: 
+Conocer hábitos de consumo cultural, canales de información, motivaciones y expectativas respecto a una plataforma centralizada.
+
+#### Introducción: 
+
+“Queremos conocer mejor cómo el público de Lima Metropolitana se informa y consume teatro, para diseñar una plataforma que se adapte a sus necesidades.”
+
+•	¿Con qué frecuencia asistes a obras de teatro al año o al mes?
+
+•	¿Cómo te informas actualmente sobre funciones de teatro? (redes sociales, boca a boca, webs de teatros, etc.)
+
+•	¿Qué dificultades encuentras al buscar información sobre obras en Lima?
+
+•	¿Qué factores influyen más en tu decisión de asistir a una obra? (precio, cercanía, elenco, recomendaciones, etc.)
+
+•	¿Qué opinas de la idea de una plataforma “todo en uno” donde encuentres fechas, disponibilidad y compra de entradas?
+
+•	¿Qué funcionalidades valoras más en una aplicación o web sobre teatro? (notificaciones, filtros por género/ubicación, reseñas, descuentos, etc.)
+
+•	¿Qué redes sociales usas más para informarte sobre actividades culturales?
+
+•	¿Sueles comprar entradas online o prefieres en boletería? ¿Por qué?
+
+•	¿Has dejado de ir a una obra por no encontrar información clara?
+
+•	Si tuvieras una aplicación así, ¿qué es lo primero que quisieras ver al abrirla?
+
+### Preguntas para Segmento 2: Teatros y productores
+
+#### Objetivo: 
+Identificar necesidades de difusión, gestión de entradas y relación con el público.
+
+#### Introducción:
+“Estamos desarrollando una plataforma que busca reunir en un solo espacio toda la oferta teatral de Lima Metropolitana. Queremos conocer su perspectiva como productor/teatro.”
+
+•	¿Qué canales utilizan actualmente para difundir sus obras? (redes sociales, prensa, carteleras, alianzas, etc.)
+
+•	¿Cuáles son los principales retos para atraer público y llenar funciones?
+
+•	¿Qué limitaciones encuentra en los sistemas de venta de entradas actuales?
+
+•	¿Qué tan importante es para ustedes contar con información centralizada sobre la oferta teatral de Lima?
+
+•	¿Qué beneficios esperaría de una plataforma que concentre obras, funciones y venta de entradas?
+
+•	¿Qué tipo de estadísticas o reportes les serían más útiles? (visibilidad e interacción, perfil del público, ventas en tiempo real, etc.)
+
+•	¿Estarían dispuestos a pagar o suscribirse a una plataforma así? ¿En qué condiciones?
+
+•	¿Qué experiencia han tenido con alianzas de promoción cultural (municipios, festivales, apps)?
+
+•	¿Cuánto tiempo y recursos invierten en publicidad digital por obra?
+
+•	¿Qué tan abiertos estarían a recibir reseñas del público en línea?
+
+•	Si existiera una integración con redes sociales o Google Maps, ¿les resultaría atractivo?
 
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
