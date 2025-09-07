@@ -934,21 +934,21 @@ El presente User Task Matrix se construye a partir de los User Personas definido
 - Teatros y productores (Ricardo Guzmán) → Representa a teatros y compañías que requieren mayor visibilidad, venta de entradas y conexión con su público.<br>
 El objetivo de esta matriz es identificar las tareas clave que cada segmento realiza en su vida real para cumplir sus objetivos culturales y de gestión, independientemente de la existencia de una plataforma como Teatrope.
 
-| Tareas/Tasks                                                  | Frecuencia<br/>(Consumidor de teatro - Valeria) | Importancia |Frecuencia|Importancia|
-|---------------------------------------------------------------|-------------------------------------------------|------------|----------|-----------|
-| Buscar información sobre obras (cartelera, horarios, géneros) |Alta| Muy Alta   |Media|Alta|
-| Comprar entradas (online o boletería)                         |Media| Muy alta   |Alta|Muy alta|
-| Recibir/consultar recomendaciones o reseñas                   |Media| Alta       |Baja|Media|
-| Compartir experiencias en redes sociales                      |Media| Media      |Baja|Baja|
-| Descubrir nuevas obras o teatros                              |Media| Alta       |Media|Alta|
-| Difundir obras y funciones (redes, prensa, afiches)           |Baja| Media      |Alta|Muy alta|
-| Gestionar disponibilidad y precios de entradas                |Baja| Media      |Alta|Muy alta|
-| Destacar funciones especiales (estrenos, festivales, invitados)|Baja|Media|Media|Muy alta|
-| Subir y actualizar información de obras en cartelera          |Baja| Baja       |Alta|Muy alta|
-| Establecer contacto con el público (comunidad, fidelización)  |Media| Alta       |Media|Muy alta|
-| Guardar o marcar obras de interés (“favoritos”)               |Media| Alta       |Media|Media|
-|Verificar visibilidad de sus obras en la cartelera|Baja|Media|Alta|Alta|
-|Compartir cartelera y obras con amigos/familia|Media|Media|Media|Media|
+| Tareas/Tasks                                                  | Frecuencia<br/>(Consumidor de teatro - Valeria) | Importancia<br/>(Consumidor de teatro - Valeria) |Frecuencia<br/>(Teatro y productor de teatro - Ricardo)| Importancia<br/>(Teatro y productor de teatro - Ricardo)|
+|---------------------------------------------------------------|-------------------------------------------------|------------|----------|---------------------------------------------------------|
+| Buscar información sobre obras (cartelera, horarios, géneros) |Alta| Muy Alta   |Media| Alta                                                    |
+| Comprar entradas (online o boletería)                         |Media| Muy alta   |Alta| Muy alta                                                |
+| Recibir/consultar recomendaciones o reseñas                   |Media| Alta       |Baja| Media                                                   |
+| Compartir experiencias en redes sociales                      |Media| Media      |Baja| Baja                                                    |
+| Descubrir nuevas obras o teatros                              |Media| Alta       |Media| Alta                                                    |
+| Difundir obras y funciones (redes, prensa, afiches)           |Baja| Media      |Alta| Muy alta                                                |
+| Gestionar disponibilidad y precios de entradas                |Baja| Media      |Alta| Muy alta                                                |
+| Destacar funciones especiales (estrenos, festivales, invitados)|Baja|Media|Media| Muy alta                                                |
+| Subir y actualizar información de obras en cartelera          |Baja| Baja       |Alta| Muy alta                                                |
+| Establecer contacto con el público (comunidad, fidelización)  |Media| Alta       |Media| Muy alta                                                |
+| Guardar o marcar obras de interés (“favoritos”)               |Media| Alta       |Media| Media                                                   |
+|Verificar visibilidad de sus obras en la cartelera|Baja|Media|Alta| Alta                                                    |
+|Compartir cartelera y obras con amigos/familia|Media|Media|Media| Media                                                   |
 
 Con esta matriz, se observa que Teatrope debe equilibrar funciones que faciliten la búsqueda y compra de entradas para consumidores y al mismo tiempo ofrezcan a productores herramientas de difusión y gestión.
 
