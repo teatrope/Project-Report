@@ -972,7 +972,9 @@ Se puede determinar que:
 Ambos comparten la necesidad de una cartelera centralizada como punto de encuentro.
 
 ### 2.3.4. Empathy Mapping
+**Consumidor - Valeria Soto**
 <img src="resources/ValeriaSoto.png" alt="empathy map user persona 1">
+**Productor - Ricardo Guzmán**
 <img src="resources/RicardoGuzman.png" alt="empathy map user persona 2">
 Con estos Empathy Maps, se evidencia que:
 - El consumidor necesita información clara, centralizada y confiable.
