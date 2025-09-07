@@ -1009,6 +1009,11 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
 
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
+
+El EventStorming es una técnica colaborativa que permite a los equipos explorar, descubrir y modelar procesos de negocio a través de la identificación de eventos clave dentro del dominio. Su valor radica en que facilita una visión compartida entre stakeholders técnicos y no técnicos, ayudando a definir de manera más clara los límites y necesidades del sistema.
+
+![Event Storming](resources/eventstorming.png)
+
 #### 4.1.1.1. Candidate Context Discovery
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
