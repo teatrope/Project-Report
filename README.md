@@ -931,24 +931,42 @@ El presente User Task Matrix se construye a partir de los User Personas definido
 - Teatros y productores (Ricardo Guzmán) → Representa a teatros y compañías que requieren mayor visibilidad, venta de entradas y conexión con su público.
 El objetivo de esta matriz es identificar las tareas clave que cada segmento realiza en su vida real para cumplir sus objetivos culturales y de gestión, independientemente de la existencia de una plataforma como Teatrope.
 
-|Tareas/Tasks| Frecuencia<br/>(Consumidor de teatro - Valeria) |Importancia|Frecuencia|Importancia|
-|------------|-------------------------------------------------|---------|----------|-----------|
-|Buscar información sobre obras (cartelera, horarios, géneros)|Alta|Muy Alta|Media|Alta|
-|Comprar entradas (online o boletería)|Media|Muy alta|Alta|Muy alta|
-|Recibir/consultar recomendaciones o reseñas|Media|Alta|Baja|Media|
-|Compartir experiencias en redes sociales|Media|Media|Baja|Baja|
-|Descubrir nuevas obras o teatros|Media|Alta|Media|Alta|
-|Difundir obras y funciones (redes, prensa, afiches)|Baja|Media|Alta|Muy alta|
-|Gestionar disponibilidad y precios de entradas|Baja|Media|Alta|Muy alta|
-|Analizar asistencia y comportamiento del público|Baja|Baja|Media|Muy alta|
-|Administrar campañas de publicidad digital|Baja|Baja|Alta|Muy alta|
-|Establecer contacto con el público (comunidad, fidelización)|Media|Alta|Media|Muy alta|
+| Tareas/Tasks                                                  | Frecuencia<br/>(Consumidor de teatro - Valeria) | Importancia |Frecuencia|Importancia|
+|---------------------------------------------------------------|-------------------------------------------------|------------|----------|-----------|
+| Buscar información sobre obras (cartelera, horarios, géneros) |Alta| Muy Alta   |Media|Alta|
+| Comprar entradas (online o boletería)                         |Media| Muy alta   |Alta|Muy alta|
+| Recibir/consultar recomendaciones o reseñas                   |Media| Alta       |Baja|Media|
+| Compartir experiencias en redes sociales                      |Media| Media      |Baja|Baja|
+| Descubrir nuevas obras o teatros                              |Media| Alta       |Media|Alta|
+| Difundir obras y funciones (redes, prensa, afiches)           |Baja| Media      |Alta|Muy alta|
+| Gestionar disponibilidad y precios de entradas                |Baja| Media      |Alta|Muy alta|
+| Destacar funciones especiales (estrenos, festivales, invitados)|Baja|Media|Media|Muy alta|
+| Subir y actualizar información de obras en cartelera          |Baja| Baja       |Alta|Muy alta|
+| Establecer contacto con el público (comunidad, fidelización)  |Media| Alta       |Media|Muy alta|
+| Guardar o marcar obras de interés (“favoritos”)               |Media| Alta       |Media|Media|
+|Verificar visibilidad de sus obras en la cartelera|Baja|Media|Alta|Alta|
+|Compartir cartelera y obras con amigos/familia|Media|Media|Media|Media|
 
 Con esta matriz, se observa que Teatrope debe equilibrar funciones que faciliten la búsqueda y compra de entradas para consumidores y al mismo tiempo ofrezcan a productores herramientas de difusión y gestión.
 
 ### 2.3.3. User Journey Mapping
 
+El User Journey Mapping permite visualizar el recorrido actual (As-Is) que siguen los segmentos de usuarios para cumplir sus objetivos principales en relación con la oferta teatral de Lima Metropolitana.
+En este caso, se elaboran los journey maps de cada User Persona:
+- Consumidor (Valeria Soto): su viaje comienza al buscar información sobre obras y termina en la decisión de asistir (o no) a una función.
+- Productor (Ricardo Guzmán): su viaje inicia al planificar una temporada y culmina en la difusión y monitoreo de sus funciones.
+El objetivo es identificar puntos de dolor, emociones y oportunidades en la situación actual sin la existencia de Teatrope.
 
+**User Journey Map - Consumidor (Valeria Soto)**
+<div align="center"><img src="resources/userjourneymap1.png" alt="user journey mapping 1"> </div>
+
+**User Journey Map - Productor (Ricardo Guzmán)**
+<img src="resources/userjourneymap2.png" alt="user journey mapping 2">
+<br><br>
+Se puede determinar que: 
+- El consumidor sufre por la dispersión de información.
+- El productor por la fragmentación en la difusión.
+Ambos comparten la necesidad de una cartelera centralizada como punto de encuentro.
 
 ### 2.3.4. Empathy Mapping
 
