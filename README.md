@@ -972,9 +972,9 @@ Se puede determinar que:
 Ambos comparten la necesidad de una cartelera centralizada como punto de encuentro.
 
 ### 2.3.4. Empathy Mapping
-**Consumidor - Valeria Soto**
+**Consumidores de teatro - Valeria Soto**
 <img src="resources/ValeriaSoto.png" alt="empathy map user persona 1">
-**Productor - Ricardo Guzmán**
+**Teatro y productor de teatro - Ricardo Guzmán**
 <img src="resources/RicardoGuzman.png" alt="empathy map user persona 2">
 Con estos Empathy Maps, se evidencia que:
 - El consumidor necesita información clara, centralizada y confiable.
@@ -982,6 +982,19 @@ Con estos Empathy Maps, se evidencia que:
 Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatrope sería el puente entre sus necesidades.
 
 ### 2.3.5. As-is Scenario Mapping
+**Segmento 1: Consumidores de teatro**
+<img src="resources/as-is.jpg" alt="as-is scenario mapping 1">
+Áreas identificadas:
+- Positivas: entusiasmo inicial en descubrimiento, satisfacción cuando logra asistir.
+- Negativas: frustración por información dispersa, inseguridad al evaluar opciones.
+- Blank areas: ¿Cómo prioriza qué obras elegir cuando tiene varias opciones? ¿Qué canales considera más confiables?
+
+**Segmento 2: Teatro y productor de teatro**
+<img src="resources/as-is2.jpg" alt="as-is scenario mapping 2">
+Áreas identificadas:
+- Positivas: motivación en planificación, creatividad en preparación, satisfacción si logra buena asistencia.
+- Negativas: presión de tiempos, frustración por métricas poco claras, incertidumbre en resultados.
+- Blank areas: ¿Cómo prioriza en qué canales invertir más recursos? ¿Qué métricas considera más valiosas (ingresos, alcance, reseñas)?
 
 ## 2.4. Ubiquitous Language
 
