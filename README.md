@@ -911,6 +911,9 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 
 •	Si existiera una integración con redes sociales o Google Maps, ¿les resultaría atractivo?
 
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
 
@@ -928,7 +931,7 @@ Estos dos User Personas guiarán el diseño de Teatrope, asegurando que la plata
 ### 2.3.2. User Task Matrix
 El presente User Task Matrix se construye a partir de los User Personas definidos previamente:
 - Consumidor de teatro (Valeria Soto) → Representa a personas entre 10 y 60 años interesadas en el arte escénico y que buscan información centralizada sobre obras en Lima Metropolitana.
-- Teatros y productores (Ricardo Guzmán) → Representa a teatros y compañías que requieren mayor visibilidad, venta de entradas y conexión con su público.
+- Teatros y productores (Ricardo Guzmán) → Representa a teatros y compañías que requieren mayor visibilidad, venta de entradas y conexión con su público.<br>
 El objetivo de esta matriz es identificar las tareas clave que cada segmento realiza en su vida real para cumplir sus objetivos culturales y de gestión, independientemente de la existencia de una plataforma como Teatrope.
 
 | Tareas/Tasks                                                  | Frecuencia<br/>(Consumidor de teatro - Valeria) | Importancia |Frecuencia|Importancia|
@@ -954,7 +957,7 @@ Con esta matriz, se observa que Teatrope debe equilibrar funciones que faciliten
 El User Journey Mapping permite visualizar el recorrido actual (As-Is) que siguen los segmentos de usuarios para cumplir sus objetivos principales en relación con la oferta teatral de Lima Metropolitana.
 En este caso, se elaboran los journey maps de cada User Persona:
 - Consumidor (Valeria Soto): su viaje comienza al buscar información sobre obras y termina en la decisión de asistir (o no) a una función.
-- Productor (Ricardo Guzmán): su viaje inicia al planificar una temporada y culmina en la difusión y monitoreo de sus funciones.
+- Productor (Ricardo Guzmán): su viaje inicia al planificar una temporada y culmina en la difusión y monitoreo de sus funciones.<br>
 El objetivo es identificar puntos de dolor, emociones y oportunidades en la situación actual sin la existencia de Teatrope.
 
 **User Journey Map - Consumidor (Valeria Soto)**
@@ -965,11 +968,50 @@ El objetivo es identificar puntos de dolor, emociones y oportunidades en la situ
 <br><br>
 Se puede determinar que: 
 - El consumidor sufre por la dispersión de información.
-- El productor por la fragmentación en la difusión.
+- El productor por la fragmentación en la difusión.<br>
 Ambos comparten la necesidad de una cartelera centralizada como punto de encuentro.
 
 ### 2.3.4. Empathy Mapping
+<img src="resources/ValeriaSoto.png" alt="empathy map user persona 1">
+<img src="resources/RicardoGuzman.png" alt="empathy map user persona 2">
+Con estos Empathy Maps, se evidencia que:
+- El consumidor necesita información clara, centralizada y confiable.
+- El productor necesita visibilidad, eficiencia en difusión y métricas.<br>
+Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatrope sería el puente entre sus necesidades.
 
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+# Capítulo III: Requirements specification
+
+## 3.1. To-be Scenario Mapping
+## 3.2. User Stories
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
+
+# Capítulo IV: Solution Software Design
+
+## 4.1. Strategic-Level Domain-Driven Design
+### 4.1.1. EventStorming
+#### 4.1.1.1. Candidate Context Discovery
+#### 4.1.1.2. Domain Message Flows Modeling
+#### 4.1.1.3. Bounded Context Canvases
+### 4.1.2. Context Mapping
+### 4.1.3. Software Architecture
+#### 4.1.3.1. Software Architecture Context Level Diagrams
+#### 4.1.3.2. Software Architecture Container Level Diagrams
+#### 4.1.3.3. Software Architecture Deployment Diagrams
+## 4.2. Tactical-Level Domain-Driven Design
+### 4.2.1. Bounded Context: 
+#### 4.2.1.1. Domain Layer
+#### 4.2.1.2. Interface Layer
+#### 4.2.1.3. Application Layer
+#### 4.2.1.4. Infrastructure Layer
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
 # Bibliografía
 
