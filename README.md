@@ -1033,9 +1033,15 @@ El EventStorming es una técnica colaborativa que permite a los equipos explorar
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
 ### 4.1.2. Context Mapping
+
 ### 4.1.3. Software Architecture
+
 #### 4.1.3.1. Software Architecture Context Level Diagrams
+
+![https://www.plantuml.com/plantuml/png/TLBDKjim4BxdARQSmWp4bvvwWaAcC9CGJsE6wIcpbZT4KrbofPKBVQUUU0HUh2iB3nwWbyHQxVUpt-eiC7gEhPbzqbQPs10ScBlmfIWy_bxSQpx4EWRoobacomlbsg8pQ1FcD71ZT5rSV3ujK-bslIfQ34nUIhkBX7ZWHPVOPwpP45nglFVO8eYEolSEElG85I5xrz5iLf8Fpiu57c8htoTmbBzrupo51CtDHt9p6o9wxGBijKKZjxyYWHXMQE4HUYtNHl-HWxPxvrjK-ld9Gd2r9v0V3C29Qu2IXPKMRsjAJfpHZ1ONHyUZe-eWhTbGDX14elIkYOgJi-H7ZZrHCfgjTB4sEfbHw9aCUKmWjD6gvBfvSP5Kje-1gPsFGUJZg2K5o9L1nI3ZC0yeiko76HlCIJPw7yCmPlDknXCOjln8jd60NGVjyrElZLYgKVsKAfoNrwzcTii7dg-n2r8LsItvNellH2nL72QMAv0rahSl-h6MWQNBvbrnZkeDwOrZlPS-bhvCIsy4nexCb9IsEi7nHSrbjIw60zW9sw0q-qvc-eBUXVerFP7f2yb9dO0dfMjAVwwLF2RolKOubyZMGsGY8XhvJNmiKURLVxpvaL3I6vdUu5zZtzIioT8qM65gnmLSLLMvBVvFz77KIzi__qL0CSOuB8e2UxBPMfbIdG932dLr_cDpM-tkhgkhtMhvRNbpEJyUYzMct5rkxcwaCZkJu69h_W40](./resources/c4/context_diagram.puml)
+
 #### 4.1.3.2. Software Architecture Container Level Diagrams
+
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.1. Bounded Context: 
