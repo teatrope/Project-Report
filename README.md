@@ -1001,6 +1001,21 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
 # Capítulo III: Requirements specification
 
 ## 3.1. To-be Scenario Mapping
+**Segmento 1: Consumidores de teatro**
+<img src="resources/to-be1.jpg" alt="to-be scenario mapping 1">
+
+**Segmento 2: Teatro y productor de teatro**
+<img src="resources/to-be2.jpg" alt="to-be scenario mapping 2">
+
+**Comparación As-Is vs To-Be**
+
+Consumidor:
+- Antes: información dispersa, frustración, incertidumbre.
+- Después: claridad en la cartelera, confianza en reseñas, seguridad de no perderse funciones.<br>
+
+Productor:
+- Antes: difusión fragmentada, ansiedad, falta de métricas claras.
+- Después: gestión centralizada, mayor visibilidad, decisiones basadas en datos.
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
