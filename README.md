@@ -1045,6 +1045,9 @@ El EventStorming es una técnica colaborativa que permite a los equipos explorar
 ![container diagram](./resources/c4/container_diagram.png)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
+
+![deployment diagram](./resources/c4/deployment_diagram.png)
+
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.1. Bounded Context: 
 #### 4.2.1.1. Domain Layer
