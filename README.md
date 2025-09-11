@@ -980,83 +980,51 @@ Con estos Empathy Maps, se evidencia que:
 - El productor necesita visibilidad, eficiencia en difusión y métricas.<br>
 Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatrope sería el puente entre sus necesidades.
 
-### 2.3.5. As-is Scenario Mapping
-**Segmento 1: Consumidores de teatro**
-<img src="resources/as-is.jpg" alt="as-is scenario mapping 1">
-Áreas identificadas:
-- Positivas: entusiasmo inicial en descubrimiento, satisfacción cuando logra asistir.
-- Negativas: frustración por información dispersa, inseguridad al evaluar opciones.
-- Blank areas: ¿Cómo prioriza qué obras elegir cuando tiene varias opciones? ¿Qué canales considera más confiables?
+### 2.3.5. Ubiquitous Language
 
-**Segmento 2: Teatro y productor de teatro**
-<img src="resources/as-is2.jpg" alt="as-is scenario mapping 2">
-Áreas identificadas:
-- Positivas: motivación en planificación, creatividad en preparación, satisfacción si logra buena asistencia.
-- Negativas: presión de tiempos, frustración por métricas poco claras, incertidumbre en resultados.
-- Blank areas: ¿Cómo prioriza en qué canales invertir más recursos? ¿Qué métricas considera más valiosas (ingresos, alcance, reseñas)?
+## 2.4 Requirements Specification
 
-## 2.4. Ubiquitous Language
+### 2.4.1 User Stories
+### 2.4.2 Impact Mapping
+### 2.4.3 Product Backlog
 
-# Capítulo III: Requirements specification
-
-## 3.1. To-be Scenario Mapping
-**Segmento 1: Consumidores de teatro**
-<img src="resources/to-be1.jpg" alt="to-be scenario mapping 1">
-
-**Segmento 2: Teatro y productor de teatro**
-<img src="resources/to-be2.jpg" alt="to-be scenario mapping 2">
-
-**Comparación As-Is vs To-Be**
-
-Consumidor:
-- Antes: información dispersa, frustración, incertidumbre.
-- Después: claridad en la cartelera, confianza en reseñas, seguridad de no perderse funciones.<br>
-
-Productor:
-- Antes: difusión fragmentada, ansiedad, falta de métricas claras.
-- Después: gestión centralizada, mayor visibilidad, decisiones basadas en datos.
-## 3.2. User Stories
-## 3.3. Impact Mapping
-## 3.4. Product Backlog
-
-# Capítulo IV: Solution Software Design
-
-## 4.1. Strategic-Level Domain-Driven Design
-### 4.1.1. EventStorming
+## 2.5 Strategic-Level Domain-Driven Design
+### 2.5.1 EventStorming
 
 El EventStorming es una técnica colaborativa que permite a los equipos explorar, descubrir y modelar procesos de negocio a través de la identificación de eventos clave dentro del dominio. Su valor radica en que facilita una visión compartida entre stakeholders técnicos y no técnicos, ayudando a definir de manera más clara los límites y necesidades del sistema.
 
 ![Event Storming](resources/eventstorming.png)
 
-#### 4.1.1.1. Candidate Context Discovery
-#### 4.1.1.2. Domain Message Flows Modeling
-#### 4.1.1.3. Bounded Context Canvases
-### 4.1.2. Context Mapping
+#### 2.5.1.1 Candidate Context Discovery
+#### 2.5.1.2 Domain Message Flows Modeling
+#### 2.5.1.3 Bounded Context Canvases
 
-### 4.1.3. Software Architecture
+### 2.5.2 Context Mapping
 
-#### 4.1.3.1. Software Architecture Context Level Diagrams
+### 2.5.3 Software Architecture
+
+#### 2.5.3.1 Software Architecture Context Level Diagrams
 
 ![contex diagram](./resources/c4/context_diagram.png)
 
-#### 4.1.3.2. Software Architecture Container Level Diagrams
+#### 2.5.3.2 Software Architecture Container Level Diagrams
 
 ![container diagram](./resources/c4/container_diagram.png)
 
-#### 4.1.3.3. Software Architecture Deployment Diagrams
+#### 2.5.3.3 Software Architecture Deployment Diagrams
 
 ![deployment diagram](./resources/c4/deployment_diagram.png)
 
-## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.1. Bounded Context: 
-#### 4.2.1.1. Domain Layer
-#### 4.2.1.2. Interface Layer
-#### 4.2.1.3. Application Layer
-#### 4.2.1.4. Infrastructure Layer
-#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.1.6.2. Bounded Context Database Design Diagram
+## 2.6 Tactical-Level Domain-Driven Design
+### 2.6.1 Bounded Context: 
+#### 2.6.1.1 Domain Layer
+#### 2.6.1.2 Interface Layer
+#### 2.6.1.3 Application Layer
+#### 2.6.1.4 Infrastructure Layer
+#### 2.6.1.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.2.1.6.2. Bounded Context Database Design Diagram
 
 # Bibliografía
 
