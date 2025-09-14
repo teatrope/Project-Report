@@ -2092,11 +2092,64 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 ## 2.5 Strategic-Level Domain-Driven Design
 ### 2.5.1 EventStorming
 
-El EventStorming es una técnica colaborativa que permite a los equipos explorar, descubrir y modelar procesos de negocio a través de la identificación de eventos clave dentro del dominio. Su valor radica en que facilita una visión compartida entre stakeholders técnicos y no técnicos, ayudando a definir de manera más clara los límites y necesidades del sistema.
-
-![Event Storming](resources/eventstorming.png)
+Realizamos sesiones de Event Storming en Miro. Esta técnica colaborativa permite a equipos técnicos y no técnicos explorar y modelar procesos de negocio a partir de eventos del dominio, creando una visión compartida y aclarando límites y necesidades del sistema. En nuestro caso recorrimos: unstructured exploration, timelines, pain points, pivotal points, commands, policies, read models, external systems y, finalmente, aggregates y bounded contexts. Las figuras siguientes documentan cada paso.
 
 #### 2.5.1.1 Candidate Context Discovery
+
+Siguiendo DDD, realizamos el Event Storming en Miro (sesión de 3 horas). A partir de los eventos y comandos del dominio, agrupamos responsabilidades y reducimos acoplamientos; de este proceso emergieron cinco bounded contexts:
+
+- Gestión de contenido teatral 
+
+- Descubrimiento de eventos
+
+- Autenticación y usuarios
+
+- Entradas
+
+- Notificaciones y recomendaciones
+
+[Tablero de Miro con Event Storming](https://miro.com/welcomeonboard/Sk5KMDcrZzZwL282WG5leEsvb29YZFdTVFJjWlBlYzgzWmFWTHVIQU5BcG9EVTVLcDFhUWhuMldmWERVdmhLY0ozQUdUVWFmODVpeVZ4Q013RUZlQjV0eXVUNjh4T000emdVRWszTGM0cjg5TmdaVzIvQ2V1UjhrdDV5bXl4TjR0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=562103997021)
+
+Paso 1: Unstructured Exploration
+
+<img src="resources/Unstructured_Exploration.jpg" alt="Unstructured Exploration">
+
+Paso 2: Timelines
+
+<img src="resources/Timelines.jpg" alt="Timelines">
+
+Paso 3: Pain Points
+
+<img src="resources/Pain_Points.jpg" alt="Pain Points">
+
+Paso 4: Pivotal Points
+
+<img src="resources/Pivotal_Points.jpg" alt="Pivotal Points">
+
+Paso 5: Commands
+
+<img src="resources/Commands.jpg" alt="Commands">
+
+Paso 6: Policies
+
+<img src="resources/Policies.jpg" alt="Policies">
+
+Paso 7: Read Models
+
+<img src="resources/Read_Models.jpg" alt="Read Models">
+
+Paso 8: External Systems
+
+<img src="resources/External_Systems.jpg" alt="External Systems">
+
+Paso 9: Aggregates
+
+<img src="resources/Aggregates.jpg" alt="Aggregates">
+
+Paso 10: Bounded context
+
+<img src="resources/Bounded_context.jpg" alt="Bounded context">
+
 #### 2.5.1.2 Domain Message Flows Modeling
 #### 2.5.1.3 Bounded Context Canvases
 
