@@ -911,6 +911,81 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 •	Si existiera una integración con redes sociales o Google Maps, ¿les resultaría atractivo?
 
 ### 2.2.2. Registro de entrevistas
+### Segmento objetivo #1: Consumidores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
+
+### Segmento objetivo #2: Teatros y productores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
