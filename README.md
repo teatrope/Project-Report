@@ -2151,6 +2151,29 @@ Paso 10: Bounded context
 <img src="resources/Bounded_context.jpg" alt="Bounded context">
 
 #### 2.5.1.2 Domain Message Flows Modeling
+
+Los siguientes diagramas muestran el flujo de mensajes entre los bounded contexts del sistema. Fueron elaborados en Miro y evidencian cómo los contextos interactúan mediante Commands , Events y Queries.
+
+[Tablero de Miro con Event Storming](https://miro.com/welcomeonboard/emQyb05TQm9XNDh2R2NUb2JtcEkvNENVWGpRK0hBcSszcUQ5amRldkNiNkdxc2pKbytVZHA4YlNuVytTN3F3UW90L3dqT1FUSFlheWkxL0cyZXMrc0p0eXVUNjh4T000emdVRWszTGM0ci9WZ2djSFNveFY5Rm1TK3lUZ2syUDJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=53157372795)
+
+<img src="resources/Scenario_5.jpg" alt="Scenario 5">
+
+<img src="resources/Scenario_1.jpg" alt="Scenario 1">
+
+<img src="resources/Scenario_2.jpg" alt="Scenario 2">
+
+<img src="resources/Scenario_3.jpg" alt="Scenario 3">
+
+<img src="resources/Scenario_4.jpg" alt="Scenario 4">
+
+<img src="resources/Scenario_6.jpg" alt="Scenario 6">
+
+<img src="resources/Scenario_7.jpg" alt="Scenario 7">
+
+<img src="resources/Scenario_8.jpg" alt="Scenario 8">
+
+
+
 #### 2.5.1.3 Bounded Context Canvases
 
 ### 2.5.2 Context Mapping
