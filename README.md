@@ -2487,15 +2487,89 @@ Los siguientes diagramas muestran el flujo de mensajes entre los bounded context
 ![deployment diagram](./resources/c4/deployment_diagram.png)
 
 ## 2.6 Tactical-Level Domain-Driven Design
-### 2.6.1 Bounded Context: 
+
+<p>
+En esta sección se aborda la perspectiva táctica del Domain-Driven Design (DDD), que se enfoca en la representación del dominio del negocio a través de elementos específicos de software. Partiendo de los límites definidos en el diseño estratégico, se identifican los componentes esenciales que modelan las reglas del dominio, gestionan los flujos de la aplicación y facilitan la interacción con sistemas externos.
+</p>
+
+<!--
+### 2.6.X Bounded Context: 
+#### 2.6.X.1 Domain Layer
+#### 2.6.X.2 Interface Layer
+#### 2.6.X.3 Application Layer
+#### 2.6.X.4 Infrastructure Layer
+#### 2.6.X.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.2.X.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.2.X.6.2. Bounded Context Database Design Diagram
+-->
+
+### 2.6.1 Bounded Context: Gestión de contenido teatral
+
+En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Gestión de Contenido Teatral", que maneja la publicación, actualización y validación de información teatral por parte de los teatros (proveedores). Siguiendo principios de DDD táctico, se detalla un diccionario de clases por capa, incluyendo nombre, tipo, propósito, atributos clave, métodos principales y relaciones.
+
 #### 2.6.1.1 Domain Layer
+
+Esta capa contiene el modelo de dominio central, enfocado en lógica de negocio pura (entidades, agregados, servicios de dominio) para la gestión de contenido teatral.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| Teatro | Entity | Representa un teatro o compañía productora como entidad raíz del agregado, gestionando identidad y atributos básicos para publicación. |
+| Obra | Entity | Modela una obra teatral específica, parte del agregado de Teatro, encapsulando detalles creativos. |
+| Funcion | Value Object | Representa una función específica de una obra (inmutable, sin identidad propia), encapsula detalles de programación para validación |
+| Persona | Value Object | Objeto de valor inmutable para actores/directores, evitando duplicación.|
+| ContenidoService | Domain Service | Servicio de dominio para lógica compleja como validación de publicaciones antes de persistencia. Coordina invariantes de dominio sin estado. |
+| TeatroRepository | Repository (Interface) | Interfaz para persistencia de agregados Teatro. Abstrae acceso a datos, soportando almacenamiento local en app móvil para offline. |
+| ContenidoPublicadoEvent | Domain Event | Evento emitido al publicar/actualizar contenido para integración con otros BCs. |
+
 #### 2.6.1.2 Interface Layer
+
+Esta capa maneja interacciones externas, como endpoints REST para teatros publicar contenido vía API interna, y adapters para recursos del dispositivo 
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| ContenidoController | Controller |Maneja endpoints REST de la API interna para publicación por teatros. Expone API segura para teatros autenticados. |
+| ObraRequestDTO | DTO | Data Transfer Object para entrada de datos de obra desde API. Valida y transporta datos de request sin exponer dominio interno. |
+| ObraResponseDTO | DTO | DTO para respuesta de obra publicada. Serializa datos seguros para respuesta API, ocultando detalles sensibles. |
+| GPSAdapter | Adapter | Adapter para acceso a recurso interno del dispositivo (GPS) en app móvil. Integra con Android Location Services para enriquecer Direccion. | 
+
 #### 2.6.1.3 Application Layer
+
+Esta capa orquesta flujos de aplicación, coordinando domain services y repositories sin lógica de negocio, soportando CQRS para separación de lecturas/escrituras en la app móvil. 
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| PublicarContenidoService | Application Service | Servicio para orquestar publicación de contenido. Maneja transacciones unitarias en API interna. |
+| ActualizarContenidoService | Application Service | Maneja actualizaciones de contenido existente. Asegura consistencia en updates, integrando con almacenamiento local para offline. |
+| ContenidoQueryService | Application Service (Query) | Para consultas de contenido (CQRS). Optimiza lecturas para app móvil, soportando queries eficientes. |
+
 #### 2.6.1.4 Infrastructure Layer
+
+Esta capa implementa detalles técnicos como persistencia (incluyendo almacenamiento local en dispositivo), adapters para servicios externos (maps, notifications) y eventos.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+|JPATeatroRepository | Repository Implementation | Implementación de TeatroRepository usando JPA para backend y Room para almacenamiento local en Android. Conecta dominio a persistencia, soportando offline en app móvil. | 
+| EventPublisherAdapter | Adapter | Implementa publicación de Domain Events. Integra con otros BCs para notificaciones push. |
+| MapsIntegrationAdapter | Adapter | Adapter para servicio externo de mapas. Valida y obtiene coords para teatros durante publicación. |
+| NotificationSender | Adapter | Envía notificaciones vía servicio externo (Firebase). Notifica cambios a usuarios (e.g., nueva obra), integrando con recurso del dispositivo (push). |
+
 #### 2.6.1.5 Bounded Context Software Architecture Component Level Diagrams
 #### 2.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+
 ##### 2.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+![domain layer class diagram](./resources/ddd/gestion_contenido_teatral_class_diagram.png)
+
 ##### 2.2.1.6.2. Bounded Context Database Design Diagram
+
+En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
+
+![domain layer database design diagram](./resources/ddd/gestion_contenido_teatral_database_diagram.png)
 
 # Bibliografía
 
