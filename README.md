@@ -911,7 +911,301 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 •	Si existiera una integración con redes sociales o Google Maps, ¿les resultaría atractivo?
 
 ### 2.2.2. Registro de entrevistas
+### Segmento objetivo #1: Consumidores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
+
+### Segmento objetivo #2: Teatros y productores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:** Mario César Mendoza Peña
+- **Segmento Objetivo:** Teatros y productores de teatro
+- **Edad:** 35
+- **Distrito:** Miraflores
+- **Inicio de la entrevista:** 
+- **Duración:** 
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:** 
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
 ### 2.2.3. Análisis de entrevistas
+
+#### Segmento 1: Consumidores de teatro
+
+<div>
+<img src="resources/analisis/seg1-pregunta1.png" alt="seg1-pregunta1">
+<br>
+<p>El 28.6% de los entrevistados asisten al teatro frecuentemente, y el 14.3% de los entrevistados asisten casi siempre. El resto de los entrevistados son personas que no asisten mucho precisamente por los problemas que nuestra app intenta solucionar. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta2.png" alt="seg1-pregunta2">
+<br>
+<p>
+Mas del 70% de los entrevistados se informan sobre funciones de teatro a través de redes sociales. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta3.png" alt="seg1-pregunta3">
+<br>
+<p>
+Las principales dificultades que los usuarios manifiestan se relacionan con la falta de centralización de la información, donde puedan encontrar toda la data disponible en un solo lugar. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta4.png" alt="seg1-pregunta4">
+<br>
+<p>
+La mayoría de usuarios indican que el precio y la cercanía influyen más en su decisión de asistir a una obra, lo que nos da oportunidades para implementar funcionalidades que se concentren en esto.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta5.png" alt="seg1-pregunta5">
+<br>
+<p>
+La mayoría de usuarios entrevistados estarían de acuerdo en una plataforma "todo en uno" sobre información de obras de teatro. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta6.png" alt="seg1-pregunta6">
+<br>
+<p>
+Se podría decir que las funcionalidades que el usuario más valora en la aplicación web serían filtros de búsqueda, reseñas que puedan dejar ellos sobre las obras y descuentos especiales para usuarios recurrentes. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta7.png" alt="seg1-pregunta7">
+<br>
+<p>
+La gran mayoría de usuarios afirman que para enterarse sobre actividades culturales utilizan principalmente Instagram y Tiktok, lo que nos indican las principales plataformas para hacer promoción a nuestro producto.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta8.png" alt="seg1-pregunta8">
+<br>
+<p>
+Todos los usuarios prefieren comprar entradas online, esto es bueno ya que la aplicación busca promover principalmente las ventas a través de canales online.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta9.png" alt="seg1-pregunta9">
+<br>
+<p>
+Más del 70% de encuestados afirman haber dejado de ir a una obra por no encontrar información clara y a tiempo. Esto evidencia que el usuario no quiere invertir mucho esfuerzo en buscar y tomarse el tiempo de investigar sobre las obras de teatro. Es decir, se requiere una solución que haga este proceso más rápido y eficiente. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta10.png" alt="seg1-pregunta10">
+<br>
+<p>
+La mayoría de usuarios afirman que lo primero que querrían ver al abrir la aplicación serían obras recomendadas y obras del día con descuentos o promociones. 
+</p>
+</div>
+
+#### Segmento 2: Teatros y productores
+
+<div>
+<img src="resources/analisis/seg2-pregunta1.png" alt="seg2-pregunta1">
+<br>
+<p>
+Se tiene como muestra a un trabajador y un director de teatro. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta2.png" alt="seg2-pregunta2">
+<br>
+<p>
+Actualmente no se utilizan alianzas estratégicas como canales para difundir las obras de teatro, lo que podría significar una oportunidad de mejora. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta3.png" alt="seg2-pregunta3">
+<br>
+<p>
+Mencionan que los principales retos para atraer público es saber si les gustará el género específico de la obra y poder llenar las salas en periodos de temporadas largas. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta4.png" alt="seg2-pregunta4">
+<br>
+<p>
+Los sistemas de venta de entradas tienen dificultades al momento de cambio o reembolos de entradas. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta5.png" alt="seg2-pregunta5">
+<br>
+<p>
+Para los encuestados es importante saber qué obras hay actualmente. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta6.png" alt="seg2-pregunta6">
+<br>
+<p>
+Se esperaría poder atraer más público, y para los usuarios de la aplicación descuentos, material extra de las funciones o detrás de cámaras, y mejores ubicaciones en las funciones principales. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta7.png" alt="seg2-pregunta7">
+<br>
+<p>
+Los encuestados mencionan que reportes como el perfil del público o reportes de visibilidad e interacción serían de utilidad para su labor. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta8.png" alt="seg2-pregunta8">
+<br>
+<p>
+Los encuestados sugieren otros datos como feedback post-función, comentarios acerca de las obras dados por el público, recomendaciones, etc. Todo esto sería recopilado por la aplicación.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta9.png" alt="seg2-pregunta9">
+<br>
+<p>
+Todos los encuestados estarían dispuestos a pagar una suscripción para participar en la aplicación.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta10.png" alt="seg2-pregunta10">
+<br>
+<p>
+Los encuestados mencionan que han tenido buena experiencia con alianzas de promoción cultural, especialmente con municipios. Además valoran el hecho de tener una base de datos de contactos como punto de partida para una campaña publicitaria. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta11.png" alt="seg2-pregunta11">
+<br>
+<p>
+Por obra se invierten aproximadamente de 3 a 4 meses en tiempo para publicidad digital, pero depende mucho de la obra y el presupuesto, según los encuestados.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta12.png" alt="seg2-pregunta12">
+<br>
+<p>
+Mencionan que una gran parte de presupuesto de destina para la publicidad, lo que confirma la oportunidad de inversión de estas empresas en nuestra plataforma. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta13.png" alt="seg2-pregunta13">
+<br>
+<p>
+Los encuestados estarían de acuerdo a recibir reseñas públicas acerca de sus obras, lo cual sería una funcionalidad clave de nuestra aplicación.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta14.png" alt="seg2-pregunta14">
+<br>
+<p>
+Se menciona que les resultaría atractivo una integración con redes sociales o google maps, para facilitar la llegada de los clientes al teatro. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta15.png" alt="seg2-pregunta15">
+<br>
+<p>
+Se considera que falta más trabjo en equipo entre productoras y teatros, además de que no se le da mucho valor al trabajo y la calidad de la producción. Los encuestados piensan que es buena idea una plataforma que promueva la colaboración entre teatros. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta16.png" alt="seg2-pregunta16">
+<br>
+<p>
+Los encuestados sí han utilizado plataformas conocidas de ventas de entradas y publicidad, lo que asegura una familiaridad con este tipo de sistemas. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta17.png" alt="seg2-pregunta17">
+<br>
+<p>
+Los encuestados calificarían la efectividad de sus estrategias actuales para atraer nuevo público en un 7/10, lo que revela una oportunidad de mejora. 
+</p>
+</div>
 
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
