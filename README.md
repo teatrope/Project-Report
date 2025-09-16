@@ -3592,6 +3592,9 @@ Bounded Context Canvases - Descubrimiento de eventos
 
 <img src="resources/Bounded_Context_Canvases_2.jpg" alt="Bounded_Context_Canvases_2">
 
+Bounded Context Canvases - Autenticación y usuarios
+
+<img src="resources/Bounded_Context_Canvases_3.jpg" alt="Bounded_Context_Canvases_3">
 
 
 ### 2.5.2 Context Mapping
