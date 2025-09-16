@@ -3596,6 +3596,13 @@ Bounded Context Canvases - Autenticación y usuarios
 
 <img src="resources/Bounded_Context_Canvases_3.jpg" alt="Bounded_Context_Canvases_3">
 
+Bounded Context Canvases - Entradas
+
+<img src="resources/Bounded_Context_Canvases_4.jpg" alt="Bounded_Context_Canvases_4">
+
+Bounded Context Canvases - Notificaciones y recomendaciones
+
+<img src="resources/Bounded_Context_Canvases_5.jpg" alt="Bounded_Context_Canvases_5">
 
 ### 2.5.2 Context Mapping
 
