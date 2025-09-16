@@ -3588,7 +3588,9 @@ Bounded Context Canvases - Gestión de contenido teatral
 
 <img src="resources/Bounded_Context_Canvases_1.jpg" alt="Bounded_Context_Canvases_1">
 
+Bounded Context Canvases - Descubrimiento de eventos
 
+<img src="resources/Bounded_Context_Canvases_2.jpg" alt="Bounded_Context_Canvases_2">
 
 
 
