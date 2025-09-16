@@ -397,7 +397,7 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 # Capítulo II: Requierements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1 Analisis Competitivo
-El analisis de la competencia constituye un recurso esencial en la planificación estratégica, pues facilita la detección de oportunidades, la anticipación de riesgos y la creación de ventajas diferenciales duraderas en el mercado. Su relevancia se centra en apoyar a las organizaciones a responder a un entorno cambiante y a decidir con base en información sólida. En este sentido, se expone a continuación la aplicación de esta herramienta en el proyecto y la evaluación de los competidores.
+
 <table>
   <tr>
     <th colspan="6">Competitive Analysis Landscape – Teatrope</th>
