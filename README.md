@@ -2448,7 +2448,7 @@ Paso 10: Bounded context
 
 Los siguientes diagramas muestran el flujo de mensajes entre los bounded contexts del sistema. Fueron elaborados en Miro y evidencian cómo los contextos interactúan mediante Commands , Events y Queries.
 
-[Tablero de Miro con Event Storming](https://miro.com/welcomeonboard/emQyb05TQm9XNDh2R2NUb2JtcEkvNENVWGpRK0hBcSszcUQ5amRldkNiNkdxc2pKbytVZHA4YlNuVytTN3F3UW90L3dqT1FUSFlheWkxL0cyZXMrc0p0eXVUNjh4T000emdVRWszTGM0ci9WZ2djSFNveFY5Rm1TK3lUZ2syUDJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=53157372795)
+[Tablero de Miro con Domain Message Flows Modeling](https://miro.com/welcomeonboard/emQyb05TQm9XNDh2R2NUb2JtcEkvNENVWGpRK0hBcSszcUQ5amRldkNiNkdxc2pKbytVZHA4YlNuVytTN3F3UW90L3dqT1FUSFlheWkxL0cyZXMrc0p0eXVUNjh4T000emdVRWszTGM0ci9WZ2djSFNveFY5Rm1TK3lUZ2syUDJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=53157372795)
 
 <img src="resources/Scenario_5.jpg" alt="Scenario 5">
 
@@ -2469,6 +2469,20 @@ Los siguientes diagramas muestran el flujo de mensajes entre los bounded context
 
 
 #### 2.5.1.3 Bounded Context Canvases
+
+En esta sección, se presentan los Bounded Context Canvases. 
+
+El objetivo es crear un diagrama informativo para cada bounded context, capturando su información clave y su impacto en el negocio.
+
+[Tablero de Miro con Bounded Context Canvases](https://miro.com/welcomeonboard/ZVcrV3pXQ0tSVTdISVdrQVo5ZnN6eERaVWZydTl1RWtEOXEzQjNvdDJhUzJCckVhMXkvQlJuc2FUVXR0d1lBME9xNG5od3psOEI3UU9iWHFjMXJNd1RqcHlXRWt4T2tzOWZuUVJBQ1dPRzJSVmtQazhMZGtnZlI1cmpXdzVnSkpNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=299259442899)
+
+Bounded Context Canvases - Gestión de contenido teatral 
+
+<img src="resources/Bounded_Context_Canvases_1.jpg" alt="Bounded_Context_Canvases_1">
+
+
+
+
 
 ### 2.5.2 Context Mapping
 
