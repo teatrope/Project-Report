@@ -2555,21 +2555,88 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | NotificationSender | Adapter | Envía notificaciones vía servicio externo (Firebase). Notifica cambios a usuarios (e.g., nueva obra), integrando con recurso del dispositivo (push). |
 
 #### 2.6.1.5 Bounded Context Software Architecture Component Level Diagrams
-#### 2.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
 
-##### 2.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
 
 ![domain layer class diagram](./resources/ddd/gestion_contenido_teatral_class_diagram.png)
 
-##### 2.2.1.6.2. Bounded Context Database Design Diagram
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
 En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
 
 ![domain layer database design diagram](./resources/ddd/gestion_contenido_teatral_database_diagram.png)
+
+### 2.6.2 Bounded Context: Descubrimiento de eventos
+
+En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Descubrimiento de Eventos", que permite a los usuarios buscar, filtrar y visualizar información agregada de obras teatrales, incluyendo recomendaciones personalizadas y mapas de ubicaciones. Siguiendo principios de DDD táctico se detalla un diccionario de clases por capa. Incluye nombre, tipo, propósito, etc.
+
+#### 2.6.2.1 Domain Layer
+
+Esta capa contiene el modelo de dominio central, enfocado en lógica de negocio pura para búsquedas y recomendaciones, asegurando invariantes como personalización basada en preferencias de usuario.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| Busqueda | Entity | Representa una búsqueda de eventos teatrales como entidad raíz del agregado, gestionando filtros y resultados. |
+| Recomendacion | Entity | Modela una recomendación personalizada de obra, parte del agregado de Busqueda. | 
+| FiltrosBusqueda | ValueObject | Representa filtros de búsqueda inmutables. Encapsula criterios de búsqueda para validación. |
+| ObraVista | ValueObject | Vista simplificada de Obra para consumo (inmutable). Optimiza datos para display móvil sin cargar dominio completo. |
+| DescubrumientoService | Domain Service | Servicio de dominio para lógica compleja como generación de recomendaciones. Coordina algoritmos de matching sin estado. |
+| BusquedaRepository | Repository (Interface) | Interfaz para persistencia de agregados Busqueda. Abstrae persistencia, soportando almacenamiento local en app móvil para búsquedas offline. |
+| EventoDescubiertoEvent | Domain Event | Evento emitido al descubrir o recomendar eventos. Notifica interacciones a otros BCs. |
+
+#### 2.6.2.2 Interface Layer
+
+Esta capa maneja interacciones externas, como UI en app móvil para búsquedas y adapters para recursos del dispositivo.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| DescubrimientoController | Controller | Maneja endpoints REST o llamadas en app móvil para búsquedas. Expone interfaz para consumidores en app Android. |
+| BusquedaRequestDTO | DTO | Data Transfer Object para entrada de búsqueda. Valida y transporta datos de request UI sin exponer dominio. |
+| ObraVistaDTO | DTO | DTO para respuesta de vista de obra. Serializa datos optimizados para display móvil. |
+| GPSLocationAdapter | Adapter | Adapter para acceso a recurso interno del dispositivo (GPS) en app móvil. Integra con Android Location Services para búsquedas geolocalizadas. | 
+
+#### 2.6.2.3 Application Layer
+
+Esta capa orquesta flujos de aplicación, coordinando domain services y repositories sin lógica de negocio, soportando CQRS para separación de lecturas en la app móvil.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| RealizarBusquedaService | Application Service | Servicio para orquestar búsquedas. |
+| GenerarRecomendacionesService | Application Service | Maneja generación de recomendaciones. Asegura personalización, integrando con cache local. | 
+| DescubrumientoQueryService | Application Service (Query) | Para consultas avanzadas (CQRS). Optimiza lecturas para UX móvil, soportando offline vía storage local. |
+
+#### 2.6.2.4 Infrastructure Layer
+
+Esta capa implementa detalles técnicos como persistencia (incluyendo almacenamiento local en dispositivo para búsquedas offline), adapters para servicios externos (maps para visualización).
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| RoomBusquedaRepository | Repository Implementation | Implementación de BusquedaRepository usando Room para almacenamiento local en Android y JPA para backend. Soporta offline en app móvil. |
+| EventListenerAdapter | Adapter | Escucha Domain Events de otros BCs. Integra con Gestión de Contenido para real-time updates. | 
+| MapsDisplayAdapter | Adapter | Adapter para servicio externo de mapas (Google Maps API). Visualiza ubicaciones en UI móvil. | 
+| CacheManager | Adapter | Maneja cache local para recomendaciones/búsquedas. Optimiza performance en app Android con storage local. | 
+
+#### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+![domain layer class diagram](./resources/ddd/descubrimiento_eventos_class_diagram.png)
+
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
+
+En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
+
+![domain layer database design diagram](./resources/ddd/descubrimiento_eventos_database_diagram.png)
 
 # Bibliografía
 
