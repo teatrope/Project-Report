@@ -911,7 +911,301 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 •	Si existiera una integración con redes sociales o Google Maps, ¿les resultaría atractivo?
 
 ### 2.2.2. Registro de entrevistas
+### Segmento objetivo #1: Consumidores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
+
+### Segmento objetivo #2: Teatros y productores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:** Mario César Mendoza Peña
+- **Segmento Objetivo:** Teatros y productores de teatro
+- **Edad:** 35
+- **Distrito:** Miraflores
+- **Inicio de la entrevista:** 
+- **Duración:** 
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:** 
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
 ### 2.2.3. Análisis de entrevistas
+
+#### Segmento 1: Consumidores de teatro
+
+<div>
+<img src="resources/analisis/seg1-pregunta1.png" alt="seg1-pregunta1">
+<br>
+<p>El 28.6% de los entrevistados asisten al teatro frecuentemente, y el 14.3% de los entrevistados asisten casi siempre. El resto de los entrevistados son personas que no asisten mucho precisamente por los problemas que nuestra app intenta solucionar. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta2.png" alt="seg1-pregunta2">
+<br>
+<p>
+Mas del 70% de los entrevistados se informan sobre funciones de teatro a través de redes sociales. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta3.png" alt="seg1-pregunta3">
+<br>
+<p>
+Las principales dificultades que los usuarios manifiestan se relacionan con la falta de centralización de la información, donde puedan encontrar toda la data disponible en un solo lugar. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta4.png" alt="seg1-pregunta4">
+<br>
+<p>
+La mayoría de usuarios indican que el precio y la cercanía influyen más en su decisión de asistir a una obra, lo que nos da oportunidades para implementar funcionalidades que se concentren en esto.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta5.png" alt="seg1-pregunta5">
+<br>
+<p>
+La mayoría de usuarios entrevistados estarían de acuerdo en una plataforma "todo en uno" sobre información de obras de teatro. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta6.png" alt="seg1-pregunta6">
+<br>
+<p>
+Se podría decir que las funcionalidades que el usuario más valora en la aplicación web serían filtros de búsqueda, reseñas que puedan dejar ellos sobre las obras y descuentos especiales para usuarios recurrentes. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta7.png" alt="seg1-pregunta7">
+<br>
+<p>
+La gran mayoría de usuarios afirman que para enterarse sobre actividades culturales utilizan principalmente Instagram y Tiktok, lo que nos indican las principales plataformas para hacer promoción a nuestro producto.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta8.png" alt="seg1-pregunta8">
+<br>
+<p>
+Todos los usuarios prefieren comprar entradas online, esto es bueno ya que la aplicación busca promover principalmente las ventas a través de canales online.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta9.png" alt="seg1-pregunta9">
+<br>
+<p>
+Más del 70% de encuestados afirman haber dejado de ir a una obra por no encontrar información clara y a tiempo. Esto evidencia que el usuario no quiere invertir mucho esfuerzo en buscar y tomarse el tiempo de investigar sobre las obras de teatro. Es decir, se requiere una solución que haga este proceso más rápido y eficiente. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg1-pregunta10.png" alt="seg1-pregunta10">
+<br>
+<p>
+La mayoría de usuarios afirman que lo primero que querrían ver al abrir la aplicación serían obras recomendadas y obras del día con descuentos o promociones. 
+</p>
+</div>
+
+#### Segmento 2: Teatros y productores
+
+<div>
+<img src="resources/analisis/seg2-pregunta1.png" alt="seg2-pregunta1">
+<br>
+<p>
+Se tiene como muestra a un trabajador y un director de teatro. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta2.png" alt="seg2-pregunta2">
+<br>
+<p>
+Actualmente no se utilizan alianzas estratégicas como canales para difundir las obras de teatro, lo que podría significar una oportunidad de mejora. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta3.png" alt="seg2-pregunta3">
+<br>
+<p>
+Mencionan que los principales retos para atraer público es saber si les gustará el género específico de la obra y poder llenar las salas en periodos de temporadas largas. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta4.png" alt="seg2-pregunta4">
+<br>
+<p>
+Los sistemas de venta de entradas tienen dificultades al momento de cambio o reembolos de entradas. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta5.png" alt="seg2-pregunta5">
+<br>
+<p>
+Para los encuestados es importante saber qué obras hay actualmente. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta6.png" alt="seg2-pregunta6">
+<br>
+<p>
+Se esperaría poder atraer más público, y para los usuarios de la aplicación descuentos, material extra de las funciones o detrás de cámaras, y mejores ubicaciones en las funciones principales. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta7.png" alt="seg2-pregunta7">
+<br>
+<p>
+Los encuestados mencionan que reportes como el perfil del público o reportes de visibilidad e interacción serían de utilidad para su labor. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta8.png" alt="seg2-pregunta8">
+<br>
+<p>
+Los encuestados sugieren otros datos como feedback post-función, comentarios acerca de las obras dados por el público, recomendaciones, etc. Todo esto sería recopilado por la aplicación.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta9.png" alt="seg2-pregunta9">
+<br>
+<p>
+Todos los encuestados estarían dispuestos a pagar una suscripción para participar en la aplicación.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta10.png" alt="seg2-pregunta10">
+<br>
+<p>
+Los encuestados mencionan que han tenido buena experiencia con alianzas de promoción cultural, especialmente con municipios. Además valoran el hecho de tener una base de datos de contactos como punto de partida para una campaña publicitaria. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta11.png" alt="seg2-pregunta11">
+<br>
+<p>
+Por obra se invierten aproximadamente de 3 a 4 meses en tiempo para publicidad digital, pero depende mucho de la obra y el presupuesto, según los encuestados.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta12.png" alt="seg2-pregunta12">
+<br>
+<p>
+Mencionan que una gran parte de presupuesto de destina para la publicidad, lo que confirma la oportunidad de inversión de estas empresas en nuestra plataforma. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta13.png" alt="seg2-pregunta13">
+<br>
+<p>
+Los encuestados estarían de acuerdo a recibir reseñas públicas acerca de sus obras, lo cual sería una funcionalidad clave de nuestra aplicación.
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta14.png" alt="seg2-pregunta14">
+<br>
+<p>
+Se menciona que les resultaría atractivo una integración con redes sociales o google maps, para facilitar la llegada de los clientes al teatro. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta15.png" alt="seg2-pregunta15">
+<br>
+<p>
+Se considera que falta más trabjo en equipo entre productoras y teatros, además de que no se le da mucho valor al trabajo y la calidad de la producción. Los encuestados piensan que es buena idea una plataforma que promueva la colaboración entre teatros. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta16.png" alt="seg2-pregunta16">
+<br>
+<p>
+Los encuestados sí han utilizado plataformas conocidas de ventas de entradas y publicidad, lo que asegura una familiaridad con este tipo de sistemas. 
+</p>
+</div>
+
+<div>
+<img src="resources/analisis/seg2-pregunta17.png" alt="seg2-pregunta17">
+<br>
+<p>
+Los encuestados calificarían la efectividad de sus estrategias actuales para atraer nuevo público en un 7/10, lo que revela una oportunidad de mejora. 
+</p>
+</div>
 
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
@@ -1593,7 +1887,581 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
     </tr>
   </table>
 </div>
+### 2.3.5. Ubiquitous Language
 
+## 2.4 Requirements Specification
+
+### 2.4.1 User Stories
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US001</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">01</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver la cartelera del dia
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero ver la cartelera de las funciones del día de hoy
+        para decidir rápidamente a qué obra asistir.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Cartelera del día<br>
+        <strong>Given</strong> que estoy en la pantalla de inicio,<br>
+        <strong>When</strong> selecciono la opción “Cartelera”,<br>
+        <strong>Then</strong> se muestran únicamente las funciones disponibles para esa fecha.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US002</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">01</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Buscar por obra o teatro
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero buscar por nombre de obra o teatro
+        para encontrar fácilmente lo que estoy buscando.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Búsqueda por texto<br>
+        <strong>Given</strong> que estoy en la barra de búsqueda,<br>
+        <strong>When</strong> ingreso un término y confirmo,<br>
+        <strong>Then</strong> se muestran resultados relevantes.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US003</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">01</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Filtrar por fecha
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero filtrar las funciones por fecha
+        para ver únicamente aquellas de un día específico.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Filtro por fecha<br>
+        <strong>Given</strong> que tengo el panel de filtros abierto,<br>
+        <strong>When</strong> selecciono una fecha,<br>
+        <strong>Then</strong> la lista muestra solo funciones de ese día.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US004</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">01</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Filtrar por distrito
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero filtrar las funciones por distrito
+        para limitar la búsqueda a mi zona de interés.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Filtro por distrito<br>
+        <strong>Given</strong> que tengo el panel de filtros abierto,<br>
+        <strong>When</strong> selecciono un distrito,<br>
+        <strong>Then</strong> la lista muestra únicamente las funciones en ese distrito.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US005</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">01</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ordenar por hora
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero ordenar las funciones por hora
+        para ver cuáles ocurren primero.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Orden por hora<br>
+        <strong>Given</strong> que tengo una lista de funciones en pantalla,<br>
+        <strong>When</strong> selecciono la opción de ordenar por hora,<br>
+        <strong>Then</strong> la lista se organiza ascendentemente según el horario.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US006</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">02</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver ficha de obra
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero ver la ficha de la obra con sinopsis, elenco y horarios 
+        para decidir si asistir.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Ver ficha<br>
+        <strong>Given</strong> que estoy en una lista,<br>
+        <strong>When</strong> toco una obra,<br>
+        <strong>Then</strong> se muestra la sinopsis, elenco y horarios.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US007</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">02</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver mapa del teatro
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero ver un mapa con la ubicación del teatro 
+        para orientarme fácilmente.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Ver mapa<br>
+        <strong>Given</strong> que estoy en la ficha de la obra,<br>
+        <strong>When</strong> selecciono “Mapa”,<br>
+        <strong>Then</strong> veo la ubicación y opción de abrir en Google Maps.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US008</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">02</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Abrir enlace de compra externo
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero abrir el enlace de compra externo desde la ficha de la obra 
+        para adquirir entradas.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Enlace externo<br>
+        <strong>Given</strong> que estoy en la ficha,<br>
+        <strong>When</strong> selecciono “Comprar”,<br>
+        <strong>Then</strong> se abre el sitio externo correspondiente.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US009</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">02</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver galería de fotos
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero ver imágenes de la obra 
+        para conocer mejor la producción antes de asistir.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Galería<br>
+        <strong>Given</strong> que estoy en la ficha,<br>
+        <strong>When</strong> abro “Fotos”,<br>
+        <strong>Then</strong> veo un carrusel con imágenes de la obra.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US010</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">02</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Compartir ficha de obra
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero compartir la ficha de una obra por link 
+        para invitar a otros.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Compartir ficha<br>
+        <strong>Given</strong> que estoy en la ficha,<br>
+        <strong>When</strong> selecciono “Compartir”,<br>
+        <strong>Then</strong> se abre el menú de compartir con enlace disponible.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US011</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">03</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver estado de publicación
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero ver el estado de publicación de mis obras 
+        para saber cuáles están visibles en la cartelera.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Estado de publicación<br>
+        <strong>Given</strong> que inicio sesión,<br>
+        <strong>When</strong> abro “Mis obras”,<br>
+        <strong>Then</strong> veo el estado (publicado o borrador) de cada obra.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US012</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">03</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver última actualización de datos
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero ver la fecha y hora de la última actualización de mis obras 
+        para asegurar que la información esté vigente.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Ver frescura<br>
+        <strong>Given</strong> que estoy en el panel de control,<br>
+        <strong>When</strong> consulto una obra,<br>
+        <strong>Then</strong> se muestra la fecha y hora de última actualización.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US013</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">03</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Editar información de obra publicada
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero editar los datos de una obra publicada 
+        para corregir errores o actualizar información.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Editar obra<br>
+        <strong>Given</strong> que tengo una obra publicada,<br>
+        <strong>When</strong> modifico información y guardo,<br>
+        <strong>Then</strong> los cambios se reflejan en la vista pública.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US014</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">03</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Reportar enlace roto
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero reportar enlaces de compra rotos 
+        para que puedan ser corregidos a tiempo.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Enlace roto<br>
+        <strong>Given</strong> que detecto un enlace incorrecto,<br>
+        <strong>When</strong> lo marco como roto,<br>
+        <strong>Then</strong> el sistema registra el reporte.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US015</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">04</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Iniciar sesión
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero iniciar sesión en la plataforma 
+        para gestionar mis obras.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Login<br>
+        <strong>Given</strong> que tengo una cuenta válida,<br>
+        <strong>When</strong> ingreso usuario y contraseña,<br>
+        <strong>Then</strong> accedo al panel de gestión.
+      </td>
+    </tr>
+  </table>
+</div>
 <div style="max-width:900px;margin:0 auto;">
   <table style="width:100%;border-collapse:collapse;">
     <tr>
@@ -1669,7 +2537,81 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
     </tr>
   </table>
 </div>
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US016</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">04</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Crear obra
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero registrar una nueva obra con título, sinopsis e imagen 
+        para publicarla en la cartelera.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Crear obra<br>
+        <strong>Given</strong> que inicio sesión,<br>
+        <strong>When</strong> completo los campos obligatorios,<br>
+        <strong>Then</strong> la obra queda registrada en el sistema.
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US017</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">04</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Agregar funciones a una obra
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero añadir fechas, horas y salas a mis obras 
+        para completar la cartelera.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Agregar función<br>
+        <strong>Given</strong> que tengo una obra creada,<br>
+        <strong>When</strong> registro fecha, hora y sala,<br>
+        <strong>Then</strong> la función aparece en la ficha pública.
+      </td>
+    </tr>
+  </table>
+</div>
 <div style="max-width:900px;margin:0 auto;">
   <table style="width:100%;border-collapse:collapse;">
     <tr>
@@ -1708,6 +2650,43 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
   </table>
 </div>
 
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US018</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">04</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Publicar u ocultar obra
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero controlar la visibilidad de mis obras 
+        para decidir cuándo aparecen en la cartelera.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Visibilidad<br>
+        <strong>Given</strong> que tengo una obra creada,<br>
+        <strong>When</strong> cambio su estado a publicado/oculto,<br>
+        <strong>Then</strong> la obra aparece o desaparece de la cartelera pública.
+      </td>
+    </tr>
+  </table>
+</div>
 <div style="max-width:900px;margin:0 auto;">
   <table style="width:100%;border-collapse:collapse;">
     <tr>
@@ -1783,7 +2762,81 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
     </tr>
   </table>
 </div>
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US019</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">04</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Añadir enlace de compra
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero añadir el enlace de compra de entradas 
+        para redirigir al usuario a la boletería oficial.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Enlace de compra<br>
+        <strong>Given</strong> que edito una obra,<br>
+        <strong>When</strong> agrego una URL válida,<br>
+        <strong>Then</strong> aparece el botón “Comprar” en la ficha de la obra.
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US020</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">05</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Guardar obra como favorita
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero guardar obras en una lista de favoritos
+        para revisarlas después.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Favoritos<br>
+        <strong>Given</strong> que estoy en la ficha,<br>
+        <strong>When</strong> selecciono “Favorito”,<br>
+        <strong>Then</strong> la obra queda en mi lista.
+      </td>
+    </tr>
+  </table>
+</div>
 <div style="max-width:900px;margin:0 auto;">
   <table style="width:100%;border-collapse:collapse;">
     <tr>
@@ -1855,6 +2908,193 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
         <strong>Given</strong> que tengo un recordatorio activo,<br>
         <strong>When</strong> lo desactivo,<br>
         <strong>Then</strong> no recibo notificación.
+      </td>
+    </tr>
+  </table>
+</div>
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US021</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">05</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ver lista de favoritos
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero consultar mis obras favoritas
+        para tener acceso rápido a ellas.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Ver favoritos<br>
+        <strong>Given</strong> que tengo obras guardadas,<br>
+        <strong>When</strong> abro “Favoritos”,<br>
+        <strong>Then</strong> veo listado de mis obras guardadas.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US022</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">05</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Activar recordatorio
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero programar recordatorios de funciones
+        para no olvidarlas.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Recordatorio<br>
+        <strong>Given</strong> que veo un horario,<br>
+        <strong>When</strong> selecciono “Recordar”,<br>
+        <strong>Then</strong> recibo notificación según el tiempo configurado.
+      </td>
+    </tr>
+  </table>
+</div>
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US024</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">05</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Recibir alerta de estreno
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero recibir alertas cuando una obra que sigo 
+        tiene un nuevo estreno.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Alerta estreno<br>
+        <strong>Given</strong> que sigo una obra,<br>
+        <strong>When</strong> se publica un nuevo estreno,<br>
+        <strong>Then</strong> recibo una notificación.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US023</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">05</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Cancelar recordatorio
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero cancelar un recordatorio
+        para no recibir alertas innecesarias.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Cancelar recordatorio<br>
+        <strong>Given</strong> que tengo un recordatorio activo,<br>
+        <strong>When</strong> lo desactivo,<br>
+        <strong>Then</strong> no recibo notificación.
+      </td>
+    </tr>
+  </table>
+</div>
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US025</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">06</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Cambiar idioma de la app
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero cambiar el idioma de la app (ES/EN) 
+        para entender mejor la información.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Cambiar idioma<br>
+        <strong>Given</strong> que estoy en Configuración,<br>
+        <strong>When</strong> selecciono “English”,<br>
+        <strong>Then</strong> la interfaz se muestra en inglés.
       </td>
     </tr>
   </table>
@@ -2091,13 +3331,251 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 
 ## 2.5 Strategic-Level Domain-Driven Design
 ### 2.5.1 EventStorming
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US026</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">06</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Ajustar notificaciones generales
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero activar o desactivar notificaciones 
+        para controlar lo que recibo.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Ajustar notificaciones<br>
+        <strong>Given</strong> que estoy en Configuración,<br>
+        <strong>When</strong> desactivo “Notificaciones”,<br>
+        <strong>Then</strong> dejo de recibir avisos.
+      </td>
+    </tr>
+  </table>
+</div>
 
-El EventStorming es una técnica colaborativa que permite a los equipos explorar, descubrir y modelar procesos de negocio a través de la identificación de eventos clave dentro del dominio. Su valor radica en que facilita una visión compartida entre stakeholders técnicos y no técnicos, ayudando a definir de manera más clara los límites y necesidades del sistema.
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US027</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Media</td>
+      <td style="border:1px solid #ccc;padding:8px;">06</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Editar perfil
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero editar mis datos básicos (nombre y correo) 
+        para mantener mi perfil actualizado.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Editar perfil<br>
+        <strong>Given</strong> que estoy en Perfil,<br>
+        <strong>When</strong> cambio nombre y guardo,<br>
+        <strong>Then</strong> los datos se actualizan correctamente.
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Event Storming](resources/eventstorming.png)
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US028</td>
+      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">06</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Cerrar sesión
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como consumidor de teatro quiero cerrar sesión 
+        para salir de mi cuenta de forma segura.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Logout<br>
+        <strong>Given</strong> que estoy autenticado,<br>
+        <strong>When</strong> selecciono “Cerrar sesión”,<br>
+        <strong>Then</strong> regreso a la pantalla de inicio sin sesión activa.
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### 2.5.1.1 Candidate Context Discovery
 #### 2.5.1.2 Domain Message Flows Modeling
+#### 2.5.1.3 Bounded Context Canvases
+### 2.4.2 Impact Mapping
+
+### 2.5.2 Context Mapping
+Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Business Goals planteados anteriormente, así como los User Persona que representan a nuestros segmentos y las User Stories creadas para Teatrope
+
+### 2.5.3 Software Architecture
+
+#### 2.5.3.1 Software Architecture Context Level Diagrams
+<img src="resources/impact_map.png" alt="impact_map">
+
+### 2.4.3 Product Backlog
+
+| # Orden | User Story Id | Título                                      | Story Points |
+|--------:|---------------|---------------------------------------------|-------------:|
+| 1       | US001         | Ver la cartelera del dia                     | 3            |
+| 2       | US002         | Buscar por obra o teatro                    | 5            |
+| 3       | US006         | Ver ficha de obra                           | 3            |
+| 4       | US003         | Filtrar por fecha                           | 2            |
+| 5       | US004         | Filtrar por distrito                        | 3            |
+| 6       | US005         | Ordenar por hora                            | 2            |
+| 7       | US008         | Abrir enlace de compra externo              | 2            |
+| 8       | US007         | Ver mapa del teatro                         | 2            |
+| 9       | US010         | Compartir ficha de obra                     | 2            |
+| 10      | US009         | Ver galería de fotos                        | 3            |
+| 11      | US020         | Guardar obra como favorita                  | 3            |
+| 12      | US021         | Ver lista de favoritos                      | 2            |
+| 13      | US022         | Activar recordatorio                        | 5            |
+| 14      | US023         | Cancelar recordatorio                       | 2            |
+| 15      | US024        | Recibir alerta de estreno                   | 5            |
+| 16      | US016         | Agregar obra                                  | 5            |
+| 17      | US017         | Agregar funciones a una obra                | 5            |
+| 18      | US018         | Publicar u ocultar obra                     | 3            |
+| 19      | US019         | Añadir enlace de compra                     | 2            |
+| 20      | US011         | Ver estado de publicación                   | 2            |
+| 21      | US013         | Editar información de obra publicada        | 3            |
+| 22      | US012         | Ver última actualización de datos           | 2            |
+| 23      | US014         | Reportar enlace roto                        | 2            |
+| 24      | US027         | Editar perfil                               | 3            |
+| 25      | US026         | Ajustar notificaciones generales            | 2            |
+| 26      | US025         | Cambiar idioma de la app                    | 2            |
+| 27      | US028         | Cerrar sesión                               | 1            |
+| 28      | US015         | Iniciar sesión                              | 3            |
+
+## 2.5 Strategic-Level Domain-Driven Design
+### 2.5.1 EventStorming
+
+Realizamos sesiones de Event Storming en Miro. Esta técnica colaborativa permite a equipos técnicos y no técnicos explorar y modelar procesos de negocio a partir de eventos del dominio, creando una visión compartida y aclarando límites y necesidades del sistema. En nuestro caso recorrimos: unstructured exploration, timelines, pain points, pivotal points, commands, policies, read models, external systems y, finalmente, aggregates y bounded contexts. Las figuras siguientes documentan cada paso.
+
+#### 2.5.1.1 Candidate Context Discovery
+
+Siguiendo DDD, realizamos el Event Storming en Miro (sesión de 3 horas). A partir de los eventos y comandos del dominio, agrupamos responsabilidades y reducimos acoplamientos; de este proceso emergieron cinco bounded contexts:
+
+- Gestión de contenido teatral 
+
+- Descubrimiento de eventos
+
+- Autenticación y usuarios
+
+- Entradas
+
+- Notificaciones y recomendaciones
+
+[Tablero de Miro con Event Storming](https://miro.com/welcomeonboard/Sk5KMDcrZzZwL282WG5leEsvb29YZFdTVFJjWlBlYzgzWmFWTHVIQU5BcG9EVTVLcDFhUWhuMldmWERVdmhLY0ozQUdUVWFmODVpeVZ4Q013RUZlQjV0eXVUNjh4T000emdVRWszTGM0cjg5TmdaVzIvQ2V1UjhrdDV5bXl4TjR0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=562103997021)
+
+Paso 1: Unstructured Exploration
+
+<img src="resources/Unstructured_Exploration.jpg" alt="Unstructured Exploration">
+
+Paso 2: Timelines
+
+<img src="resources/Timelines.jpg" alt="Timelines">
+
+Paso 3: Pain Points
+
+<img src="resources/Pain_Points.jpg" alt="Pain Points">
+
+Paso 4: Pivotal Points
+
+<img src="resources/Pivotal_Points.jpg" alt="Pivotal Points">
+
+Paso 5: Commands
+
+<img src="resources/Commands.jpg" alt="Commands">
+
+Paso 6: Policies
+
+<img src="resources/Policies.jpg" alt="Policies">
+
+Paso 7: Read Models
+
+<img src="resources/Read_Models.jpg" alt="Read Models">
+
+Paso 8: External Systems
+
+<img src="resources/External_Systems.jpg" alt="External Systems">
+
+Paso 9: Aggregates
+
+<img src="resources/Aggregates.jpg" alt="Aggregates">
+
+Paso 10: Bounded context
+
+<img src="resources/Bounded_context.jpg" alt="Bounded context">
+
+#### 2.5.1.2 Domain Message Flows Modeling
+
+Los siguientes diagramas muestran el flujo de mensajes entre los bounded contexts del sistema. Fueron elaborados en Miro y evidencian cómo los contextos interactúan mediante Commands , Events y Queries.
+
+[Tablero de Miro con Event Storming](https://miro.com/welcomeonboard/emQyb05TQm9XNDh2R2NUb2JtcEkvNENVWGpRK0hBcSszcUQ5amRldkNiNkdxc2pKbytVZHA4YlNuVytTN3F3UW90L3dqT1FUSFlheWkxL0cyZXMrc0p0eXVUNjh4T000emdVRWszTGM0ci9WZ2djSFNveFY5Rm1TK3lUZ2syUDJyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=53157372795)
+
+<img src="resources/Scenario_5.jpg" alt="Scenario 5">
+
+<img src="resources/Scenario_1.jpg" alt="Scenario 1">
+
+<img src="resources/Scenario_2.jpg" alt="Scenario 2">
+
+<img src="resources/Scenario_3.jpg" alt="Scenario 3">
+
+<img src="resources/Scenario_4.jpg" alt="Scenario 4">
+
+<img src="resources/Scenario_6.jpg" alt="Scenario 6">
+
+<img src="resources/Scenario_7.jpg" alt="Scenario 7">
+
+<img src="resources/Scenario_8.jpg" alt="Scenario 8">
+
+
+
 #### 2.5.1.3 Bounded Context Canvases
 
 ### 2.5.2 Context Mapping
@@ -2126,6 +3604,161 @@ El EventStorming es una técnica colaborativa que permite a los equipos explorar
 #### 2.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 2.2.1.6.2. Bounded Context Database Design Diagram
+#### 2.5.3.3 Software Architecture Deployment Diagrams
+
+![deployment diagram](./resources/c4/deployment_diagram.png)
+
+## 2.6 Tactical-Level Domain-Driven Design
+
+<p>
+En esta sección se aborda la perspectiva táctica del Domain-Driven Design (DDD), que se enfoca en la representación del dominio del negocio a través de elementos específicos de software. Partiendo de los límites definidos en el diseño estratégico, se identifican los componentes esenciales que modelan las reglas del dominio, gestionan los flujos de la aplicación y facilitan la interacción con sistemas externos.
+</p>
+
+<!--
+### 2.6.X Bounded Context: 
+#### 2.6.X.1 Domain Layer
+#### 2.6.X.2 Interface Layer
+#### 2.6.X.3 Application Layer
+#### 2.6.X.4 Infrastructure Layer
+#### 2.6.X.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.2.X.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.2.X.6.2. Bounded Context Database Design Diagram
+-->
+
+### 2.6.1 Bounded Context: Gestión de contenido teatral
+
+En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Gestión de Contenido Teatral", que maneja la publicación, actualización y validación de información teatral por parte de los teatros (proveedores). Siguiendo principios de DDD táctico, se detalla un diccionario de clases por capa, incluyendo nombre, tipo, propósito, atributos clave, métodos principales y relaciones.
+
+#### 2.6.1.1 Domain Layer
+
+Esta capa contiene el modelo de dominio central, enfocado en lógica de negocio pura (entidades, agregados, servicios de dominio) para la gestión de contenido teatral.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| Teatro | Entity | Representa un teatro o compañía productora como entidad raíz del agregado, gestionando identidad y atributos básicos para publicación. |
+| Obra | Entity | Modela una obra teatral específica, parte del agregado de Teatro, encapsulando detalles creativos. |
+| Funcion | Value Object | Representa una función específica de una obra (inmutable, sin identidad propia), encapsula detalles de programación para validación |
+| Persona | Value Object | Objeto de valor inmutable para actores/directores, evitando duplicación.|
+| ContenidoService | Domain Service | Servicio de dominio para lógica compleja como validación de publicaciones antes de persistencia. Coordina invariantes de dominio sin estado. |
+| TeatroRepository | Repository (Interface) | Interfaz para persistencia de agregados Teatro. Abstrae acceso a datos, soportando almacenamiento local en app móvil para offline. |
+| ContenidoPublicadoEvent | Domain Event | Evento emitido al publicar/actualizar contenido para integración con otros BCs. |
+
+#### 2.6.1.2 Interface Layer
+
+Esta capa maneja interacciones externas, como endpoints REST para teatros publicar contenido vía API interna, y adapters para recursos del dispositivo 
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| ContenidoController | Controller |Maneja endpoints REST de la API interna para publicación por teatros. Expone API segura para teatros autenticados. |
+| ObraRequestDTO | DTO | Data Transfer Object para entrada de datos de obra desde API. Valida y transporta datos de request sin exponer dominio interno. |
+| ObraResponseDTO | DTO | DTO para respuesta de obra publicada. Serializa datos seguros para respuesta API, ocultando detalles sensibles. |
+| GPSAdapter | Adapter | Adapter para acceso a recurso interno del dispositivo (GPS) en app móvil. Integra con Android Location Services para enriquecer Direccion. | 
+
+#### 2.6.1.3 Application Layer
+
+Esta capa orquesta flujos de aplicación, coordinando domain services y repositories sin lógica de negocio, soportando CQRS para separación de lecturas/escrituras en la app móvil. 
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| PublicarContenidoService | Application Service | Servicio para orquestar publicación de contenido. Maneja transacciones unitarias en API interna. |
+| ActualizarContenidoService | Application Service | Maneja actualizaciones de contenido existente. Asegura consistencia en updates, integrando con almacenamiento local para offline. |
+| ContenidoQueryService | Application Service (Query) | Para consultas de contenido (CQRS). Optimiza lecturas para app móvil, soportando queries eficientes. |
+
+#### 2.6.1.4 Infrastructure Layer
+
+Esta capa implementa detalles técnicos como persistencia (incluyendo almacenamiento local en dispositivo), adapters para servicios externos (maps, notifications) y eventos.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+|JPATeatroRepository | Repository Implementation | Implementación de TeatroRepository usando JPA para backend y Room para almacenamiento local en Android. Conecta dominio a persistencia, soportando offline en app móvil. | 
+| EventPublisherAdapter | Adapter | Implementa publicación de Domain Events. Integra con otros BCs para notificaciones push. |
+| MapsIntegrationAdapter | Adapter | Adapter para servicio externo de mapas. Valida y obtiene coords para teatros durante publicación. |
+| NotificationSender | Adapter | Envía notificaciones vía servicio externo (Firebase). Notifica cambios a usuarios (e.g., nueva obra), integrando con recurso del dispositivo (push). |
+
+#### 2.6.1.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+![domain layer class diagram](./resources/ddd/gestion_contenido_teatral_class_diagram.png)
+
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
+
+En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
+
+![domain layer database design diagram](./resources/ddd/gestion_contenido_teatral_database_diagram.png)
+
+### 2.6.2 Bounded Context: Descubrimiento de eventos
+
+En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Descubrimiento de Eventos", que permite a los usuarios buscar, filtrar y visualizar información agregada de obras teatrales, incluyendo recomendaciones personalizadas y mapas de ubicaciones. Siguiendo principios de DDD táctico se detalla un diccionario de clases por capa. Incluye nombre, tipo, propósito, etc.
+
+#### 2.6.2.1 Domain Layer
+
+Esta capa contiene el modelo de dominio central, enfocado en lógica de negocio pura para búsquedas y recomendaciones, asegurando invariantes como personalización basada en preferencias de usuario.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| Busqueda | Entity | Representa una búsqueda de eventos teatrales como entidad raíz del agregado, gestionando filtros y resultados. |
+| Recomendacion | Entity | Modela una recomendación personalizada de obra, parte del agregado de Busqueda. | 
+| FiltrosBusqueda | ValueObject | Representa filtros de búsqueda inmutables. Encapsula criterios de búsqueda para validación. |
+| ObraVista | ValueObject | Vista simplificada de Obra para consumo (inmutable). Optimiza datos para display móvil sin cargar dominio completo. |
+| DescubrumientoService | Domain Service | Servicio de dominio para lógica compleja como generación de recomendaciones. Coordina algoritmos de matching sin estado. |
+| BusquedaRepository | Repository (Interface) | Interfaz para persistencia de agregados Busqueda. Abstrae persistencia, soportando almacenamiento local en app móvil para búsquedas offline. |
+| EventoDescubiertoEvent | Domain Event | Evento emitido al descubrir o recomendar eventos. Notifica interacciones a otros BCs. |
+
+#### 2.6.2.2 Interface Layer
+
+Esta capa maneja interacciones externas, como UI en app móvil para búsquedas y adapters para recursos del dispositivo.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| DescubrimientoController | Controller | Maneja endpoints REST o llamadas en app móvil para búsquedas. Expone interfaz para consumidores en app Android. |
+| BusquedaRequestDTO | DTO | Data Transfer Object para entrada de búsqueda. Valida y transporta datos de request UI sin exponer dominio. |
+| ObraVistaDTO | DTO | DTO para respuesta de vista de obra. Serializa datos optimizados para display móvil. |
+| GPSLocationAdapter | Adapter | Adapter para acceso a recurso interno del dispositivo (GPS) en app móvil. Integra con Android Location Services para búsquedas geolocalizadas. | 
+
+#### 2.6.2.3 Application Layer
+
+Esta capa orquesta flujos de aplicación, coordinando domain services y repositories sin lógica de negocio, soportando CQRS para separación de lecturas en la app móvil.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| RealizarBusquedaService | Application Service | Servicio para orquestar búsquedas. |
+| GenerarRecomendacionesService | Application Service | Maneja generación de recomendaciones. Asegura personalización, integrando con cache local. | 
+| DescubrumientoQueryService | Application Service (Query) | Para consultas avanzadas (CQRS). Optimiza lecturas para UX móvil, soportando offline vía storage local. |
+
+#### 2.6.2.4 Infrastructure Layer
+
+Esta capa implementa detalles técnicos como persistencia (incluyendo almacenamiento local en dispositivo para búsquedas offline), adapters para servicios externos (maps para visualización).
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| RoomBusquedaRepository | Repository Implementation | Implementación de BusquedaRepository usando Room para almacenamiento local en Android y JPA para backend. Soporta offline en app móvil. |
+| EventListenerAdapter | Adapter | Escucha Domain Events de otros BCs. Integra con Gestión de Contenido para real-time updates. | 
+| MapsDisplayAdapter | Adapter | Adapter para servicio externo de mapas (Google Maps API). Visualiza ubicaciones en UI móvil. | 
+| CacheManager | Adapter | Maneja cache local para recomendaciones/búsquedas. Optimiza performance en app Android con storage local. | 
+
+#### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+![domain layer class diagram](./resources/ddd/descubrimiento_eventos_class_diagram.png)
+
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
+
+En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
+
+![domain layer database design diagram](./resources/ddd/descubrimiento_eventos_database_diagram.png)
 
 # Bibliografía
 
