@@ -469,41 +469,7 @@ El analisis de la competencia constituye un recurso esencial en la planificació
     </td>
     <td>
       <ul>
-        <li>Público internacional interesado en Broadway.</li>
-        <li>Turistas y locales que buscan espectáculos.</li>
-        <li>Consumidores que priorizan descuentos.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Usuarios que prefieren teatro en streaming.</li>
-        <li>Amantes de obras clásicas y modernas.</li>
-        <li>Público que busca comodidad en casa.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Asistentes frecuentes al GTN.</li>
-        <li>Estudiantes y promotores culturales.</li>
-        <li>Turistas culturales en Lima.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Estrategias de marketing</td>
-    <td>
-      <ul>
-        <li>Alianzas con teatros locales.</li>
-        <li>Campañas en redes sociales.</li>
-        <li>Eventos culturales comunitarios.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Marketing digital global.</li>
-        <li>Promociones flash y descuentos.</li>
-        <li>Campañas dirigidas en turismo cultural.</li>
-      </ul>
+
     </td>
     <td>
       <ul>
