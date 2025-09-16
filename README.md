@@ -398,26 +398,7 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 ## 2.1 Competidores
 ### 2.1.1 Analisis Competitivo
 El analisis de la competencia constituye un recurso esencial en la planificación estratégica, pues facilita la detección de oportunidades, la anticipación de riesgos y la creación de ventajas diferenciales duraderas en el mercado. Su relevancia se centra en apoyar a las organizaciones a responder a un entorno cambiante y a decidir con base en información sólida. En este sentido, se expone a continuación la aplicación de esta herramienta en el proyecto y la evaluación de los competidores.
-<table>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape – Teatrope</th>
-  </tr>
-  <tr>
-    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
-  </tr>
-  <tr>
-    <td colspan="5" align="center">
-      Se analizan plataformas digitales y aplicaciones móviles de teatro y espectáculos que ofrecen funcionalidades similares a Teatrope: información de funciones, compra de entradas, acceso a contenidos exclusivos y difusión cultural. Esto permite entender su posicionamiento y diseñar estrategias diferenciadoras.
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">Nombre y logo</th>
-    <td align="center"><b>Teatrope</b><br><img src="./resources/teatrope_logo_provisional.jpg" alt="TeatroPe Logo" width="50" height="50"></td>
-    <td align="center"><b>TodayTix</b><br><img src="./resources/todaytix_logo.png" alt="TodayTix Logo" width="50" height="50"></td>
-    <td align="center"><b>Teatrix</b><br><img src="./resources/teatrix_logo.png" alt="Teatrix" width="50" height="50"></td>
-    <td align="center"><b>Gran Teatro Nacional (GTN App)</b><br><img src="./resources/gran_teatro_nacional_logo.png" alt="Gran Teatro Logo" width="50" height="50"></td>
-  </tr>
+
   <tr>
     <th rowspan="2" align="center">Perfil</th>
     <td align="center">Overview</td>
