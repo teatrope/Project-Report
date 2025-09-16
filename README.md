@@ -1783,7 +1783,52 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
       <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
       <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
     </tr>
-olspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US014</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
+      <td style="border:1px solid #ccc;padding:8px;">03</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
+        Title: Reportar enlace roto
+      </th>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
+        Como productor quiero reportar enlaces de compra rotos 
+        para que puedan ser corregidos a tiempo.
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
+      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
+        <strong>Scenario:</strong> Enlace roto<br>
+        <strong>Given</strong> que detecto un enlace incorrecto,<br>
+        <strong>When</strong> lo marco como roto,<br>
+        <strong>Then</strong> el sistema registra el reporte.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="max-width:900px;margin:0 auto;">
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
+      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px;">US015</td>
+      <td style="border:1px solid #ccc;padding:8px;">Productor</td>
+      <td style="border:1px solid #ccc;padding:8px;">Alta</td>
+      <td style="border:1px solid #ccc;padding:8px;">04</td>
+    </tr>
+    <tr>
+      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
         Title: Iniciar sesión
       </th>
     </tr>
