@@ -962,29 +962,6 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 
 **Resumen:** 
 
-##### Datos del Entrevistado #2
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista2]()
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
-
-**Resumen:**
-
-##### Datos del Entrevistado #3
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista3]()
-- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
-
-**Resumen:**
 
 ### 2.2.3. Análisis de entrevistas
 
