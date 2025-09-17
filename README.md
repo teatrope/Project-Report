@@ -3461,7 +3461,9 @@ Descubrimiento de Eventos: Relación de Customer/Supplier. La información de ob
 
 Notificaciones & Recomendaciones: Relación de integración. Las búsquedas y recomendaciones activan recordatorios o alertas, como notificaciones de próximos estrenos.
 
+* Autenticación y Usuarios (Todos los Contextos): 
 
+Contexto transversal que gestiona la autenticación y autorización de roles. Puede implementarse como Shared Kernel compartido entre contextos, o como Conformist si los demás aceptan las reglas de seguridad sin modificarlas.
 
 
 ### 2.5.3 Software Architecture
