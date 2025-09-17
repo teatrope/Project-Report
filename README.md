@@ -185,9 +185,10 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <!-- Criterio 1 -->
     <tr>
       <td rowspan="5">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
-      <td>Alumno 1</td>
+      <td>Luis Alva</td>
       <td>
         <strong>ℹ️ TB1:</strong><br>
+        Para esta entrega tuve que investigar más acerca de Domain Driven Design aplicado a desarrollo móvil y clean architecture.  Este conocimiento fue clave para tomar decisiones más informadas sobre el diseño de arquitectura del proyecto.  
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -249,9 +250,10 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <!-- Criterio 2 -->
     <tr>
       <td rowspan="6">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
-      <td>Alumno 1</td>
+      <td>Luis Alva</td>
       <td>
         <strong>ℹ️ TB1:</strong><br>
+        Para esta entrega me di cuenta que es fundamental el aprendizaje de nuevas arquitecturas, así como el profundizar en las que ya conocemos con el objetivo de tener un diseño eficiente y escalable. Esto nos ayudará a mejorar nuestras prácticas y crecer como profesionales. 
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
