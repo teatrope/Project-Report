@@ -3457,6 +3457,13 @@ Como parte del modelado del dominio de Teatrope, se identificaron cinco Bounded 
 
 Descubrimiento de Eventos: Relación de Customer/Supplier. La información de obras, funciones y anuncios publicada por el primer contexto es consumida por el segundo, permitiendo que los usuarios consulten eventos actualizados.
 
+* Descubrimiento de Eventos:
+
+Notificaciones & Recomendaciones: Relación de integración. Las búsquedas y recomendaciones activan recordatorios o alertas, como notificaciones de próximos estrenos.
+
+
+
+
 ### 2.5.3 Software Architecture
 
 #### 2.5.3.1 Software Architecture Context Level Diagrams
