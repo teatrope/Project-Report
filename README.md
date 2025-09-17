@@ -337,6 +337,7 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 | Yalan Zhang, Angie Christina | |
 | Lopez Acuña, Mario Joaquin | |
 
+
 # Capitulo I: Presentación
 
 ## 1.1 Startup profile
