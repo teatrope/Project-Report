@@ -327,6 +327,17 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
 
 ## Objetivos SMART
 
+En el siguiente cuadro se presentan los objetivos SMART de cada integrante del equipo ; donde cada objetivo debe ser específico, medible, alcanzable, relevante y con un tiempo definido.
+
+| Estudiante | Objetivos |
+| ---------- | --------- |
+| Alva Abanto, Luis Andres | **Objetivo 1:** Desarrollar una especialización en DevOps y automatización en un plazo de 8 meses después de la graduación. Para lograrlo, dedicaré al menos 6 horas semanales al aprendizaje de herramientas como Docker, Kubernetes, y CI/CD (usando Jenkins o GitHub Actions) a través de plataformas como Udemy, Coursera o Linux Academy. Completaré al menos 2 proyectos prácticos que integren pipelines de CI/CD y despliegue en la nube (AWS, Azure o GCP), añadiéndolos a mi portafolio para destacar mis habilidades en automatización y gestión de infraestructura, con el fin de posicionarme como candidato competitivo para roles de DevOps o ingeniero de software en empresas tecnológicas. <br><br> **Objetivo 2:** Objetivo 2: Crear una presencia profesional en línea y contribuir a comunidades técnicas en un plazo de 6 meses. Para ello, publicaré artículos técnicos o tutoriales en plataformas como Dev.to, Medium o un blog personal sobre temas relacionados con desarrollo de software, cloud o metodologías ágiles. Además, participaré activamente en al menos 2 comunidades técnicas (como foros de Stack Overflow, GitHub Discussions o eventos locales de tecnología) y contribuiré con al menos 1 mejora o corrección en un proyecto open-source relevante. Esto fortalecerá mi marca personal, aumentará mi visibilidad profesional y me permitirá establecer conexiones con otros profesionales del sector.|
+| Sosa Soto, Oskar Rodrigo | |
+| Varela Bustinza, Marcelo Alessandro | |
+| Yalan Zhang, Angie Christina | |
+| Lopez Acuña, Mario Joaquin | |
+
+
 # Capitulo I: Presentación
 
 ## 1.1 Startup profile
@@ -3249,6 +3260,69 @@ Esta capa implementa persistencia, mensajería, plantillas y proveedores externo
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
+
+### 2.6.4 Bounded Context: Entradas
+
+En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Compra de Entradas". Este BC se enfoca en transacciones de reservas, disponibilidad de entradas y confirmaciones, integrando con otros BCs como Descubrimiento de Eventos (para selección) y Gestión de Contenido Teatral (para actualizaciones de disponibilidad vía eventos).
+
+#### 2.6.4.1 Domain Layer
+
+Esta capa contiene el modelo de dominio central, enfocado en lógica de negocio pura para reservas y disponibilidad, asegurando invariantes como no sobreventa.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| Reserva | Entity | Representa una reserva de entradas como entidad raíz del agregado, gestionando identidad y estado. |
+| DetalleEntrada | Entity | Modela detalles de una entrada específica en la reserva, parte del agregado de Reserva. | 
+| Disponibilidad | Value Object | Representa la disponibilidad de entradas inmutable. Encapsula checks de stock para validación. |
+| Ticket | Value Object | Objeto de valor para ticket generado (inmutable). Genera representación para confirmación sin pago. |
+| CompraService | Domain Service | Servicio de dominio para lógica compleja como verificación de disponibilidad. Coordina reglas de negocio anti-sobreventa sin estado. |
+| ReservaRepository | Repository (Interface) | Interfaz para persistencia de agregados Reserva. Abstrae persistencia, soportando almacenamiento local en app móvil para reservas offline. | 
+| ReservaConfirmadaEvent | Domain Event | Evento emitido al confirmar reserva. Propósito: Notifica cambios a otros BCs. |
+
+#### 2.6.4.2 Interface Layer
+
+Esta capa maneja interacciones externas, como UI en app móvil para reservas y adapters para recursos del dispositivo.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| CompraController | Controller | Maneja endpoints REST o llamadas en app móvil para reservas. Expone interfaz para consumidores en app Android. |
+| ReservaRequestDTO | DTO | Data Transfer Object para entrada de reserva. Valida y transporta datos de request UI sin exponer dominio. |
+| ReservaResponseDTO | DTO | DTO para respuesta de reserva. Serializa datos seguros para display móvil. Relaciones: Derivado de Reserva. |
+| QrGeneratorAdapter | Adapter | Adapter para recurso interno del dispositivo (generación de QR). Integra con Android libraries para QR en confirmaciones. |
+
+#### 2.6.4.3 Application Layer
+
+Esta capa orquesta flujos de aplicación, coordinando domain services y repositories sin lógica de negocio, soportando CQRS para separación de reservas y queries de disponibilidad.
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| ProcesarReservaService | Application Service | Servicio para orquestar reservas. Maneja flujos transaccionales en app. | 
+| CancelarReservaService | Application Service | Maneja cancelaciones.  Asegura reversión de disponibilidad. |
+| DisponibilidadQueryService | Application Service (Query) | Para consultas de disponibilidad (CQRS). Optimiza lecturas para UI móvil. |
+
+#### 2.6.4.4 Infrastructure Layer
+
+Esta capa implementa detalles técnicos como persistencia (incluyendo almacenamiento local para reservas offline), adapters para servicios externos (e.g., email para confirmaciones).
+
+| Clase | Tipo | Propósito |
+|:------|:-----|:----------|
+| RoomReservaRepository | Repository Implementation | Implementación de ReservaRepository usando Room para almacenamiento local en Android y JPA para backend. Soporta offline en app móvil. |
+| EventPublisherAdapter | Adapter | Implementa publicación de Domain Events. Integra con otros BCs para actualizaciones. | 
+| EmailSenderAdapter | Adapter | Adapter para servicio externo de email. Notifica confirmaciones vía email. | 
+| LocalStorageManager | Adapter | Maneja storage local para tickets/reservas. Optimiza offline en Android con SharedPreferences o Files. |
+
+#### 2.6.4.5 Bounded Context Software Architecture Component Level Diagrams
+
+En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+
+#### 2.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+![domain layer class diagram](./resources/ddd/entradas_class_diagram.png)
+
+##### 2.2.4.6.2. Bounded Context Database Design Diagram
+
+![domain layer database design diagram](./resources/ddd/entradas_database_diagram.png)
 
 # Bibliografía
 
