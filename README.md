@@ -3452,6 +3452,7 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 
 ### 2.5.2 Context Mapping
 Como parte del modelado del dominio de Teatrope, se identificaron cinco Bounded Contexts principales: Gestión de Contenido Teatral, Descubrimiento de Eventos, Autenticación y Usuarios, Entradas y Notificaciones & Recomendaciones. Con esta base se analizaron las interacciones y dependencias existentes, con el objetivo de comprender cómo se relacionan, qué información intercambian y qué nivel de acoplamiento mantienen. Este ejercicio permite definir de manera más clara los límites del sistema y establecer estrategias de integración entre contextos.
+
 #### Análisis de Contextos
 * Gestión de Contenido Teatral :
 
@@ -3468,6 +3469,9 @@ Contexto transversal que gestiona la autenticación y autorización de roles. Pu
 * Entradas (Notificaciones): 
 
 Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confirmar disponibilidad de funciones y enviar notificaciones de compra o agotamiento.
+
+#### Escenarios Alternativos
+
 
 ### 2.5.3 Software Architecture
 
