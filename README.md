@@ -170,6 +170,149 @@ Tabla de contenidos
 
 ## Student Outcome
 
+ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas. 
+<div>
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Nombre</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Criterio 1 -->
+    <tr>
+      <td rowspan="5">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
+      <td>Alumno 1</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+      <td rowspan="5"> conclusiones</td>
+    </tr>
+    <tr>
+      <td>Alumno 2</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+       <br>
+      </td>
+    </tr>
+    <tr>
+      <td>Alumno 3</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Alumno 4</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Alumno 5</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <!-- Criterio 2 -->
+    <tr>
+      <td rowspan="6">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
+      <td>Alumno 1</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+      <td rowspan="6">Conclusiones</td>
+    </tr>
+    <tr>
+      <td>Alumno 2</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Alumno 3</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Alumno 4</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Alumno 5</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        <br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ## Objetivos SMART
 
 # Capitulo I: Presentación
