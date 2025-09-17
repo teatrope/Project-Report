@@ -1102,16 +1102,17 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 El entrevistado asiste al teatro 1 ves al mes . Se informa principalmente a través de redes sociales y foros de internet, pero enfrenta como mayor dificultad la falta de información completa y centralizada sobre las obras en Lima, especialmente en relación a precios, fechas y elenco. Al decidir asistir a una función, prioriza en primer lugar las recomendaciones que recibe sobre la obra, en segundo lugar el elenco, en tercer lugar la ubicacion del teatro y en cuarto lugar el precio de las obras. Entre las posibles funcionalidades de la plataforma Teatrope, considera que la cartelera actualizada con toda la informacion clara las obras serían lo más útil e interesante para mejorar su experiencia como consumidor.
 
 ##### Datos del Entrevistado #2
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
+- **Nombre completo:** Gabriel Reyna
+- **Segmento Objetivo:** Consumidor de teatro
+- **Edad:** 22
+- **Distrito:** Barranco
 - **Inicio de la entrevista:** 06:49
 - **Duración:** 34:53
 - **Screenshot del cuadro de video:** ![Entrevista2](resources/interview2.png)
 - **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 
 **Resumen:**
+El entrevistado asiste al teatro 4 ves al mes . Se informa principalmente a través de redes sociales, foros de internet y por amistades, pero enfrenta como mayor dificultad la falta de información completa sobre las obras en Lima, especialmente en relación a precios, fechas y elenco. Al decidir asistir a una función, prioriza en primer lugar las la ubicacion del teatro, en segundo lugar las recomendaciones de la obra y en tercer lugar el elenco que se va a presentar. Entre las posibles funcionalidades de la plataforma Teatrope, considera que la gestion de carteleras para, como filtros y favoritos serian lo mas util e interesante para mejorar su experiencia como consumidor.
 
 ##### Datos del Entrevistado #3
 - **Nombre completo:** Victor Otto Reinoso Diaz
