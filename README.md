@@ -47,7 +47,7 @@ Agosto de 2025 🗓️
   </tr>
   <tr>
     <td>TB1</td>
-    <td></td>
+    <td>17/09/2025</td>
     <td>
       <ul> 
         <li>Alva Abanto, Luis Andres</li> 
