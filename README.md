@@ -355,7 +355,7 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 |**Luis Alva** <br> Mi nombre es Luis Alva, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me gusta el desarrollo ágil aplicando patrones de diseño y arquitectura escalable. Actualmente estoy aprendiendo Python y desarrollo móvil con Kotlin. Me destaco por mi capacidad para trabajar en equipo y compromiso con el equipo.  | <img src="https://files.catbox.moe/dnmt63.png" alt="kevin image" width="200">  |
 | **Oskar Sosa**<br> Mi nombre es Oskar Sosa, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Actualmente me enfoco en tecnologías backend y móviles. Mi principal objetivo es crear aplicaciones robustas y escalables. Me especializo en el desarrollo con Java y Spring Boot para construir APIs y servicios, y estoy expandiendo mis habilidades al mundo del desarrollo móvil con Kotlin.                                                         | <img src="https://files.catbox.moe/u1b8w5.jpg" alt="kevin image" width="200">  |
 | 
-| **Mario** Mi nombre es Mario Lopez, tengo 21 años y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy en séptimo ciclo de la carrera de Ingeniería de Software. Tengo conocimientos en varios lenguajes de programación principalmente en Python y Typescrip, me gusta trabajar en equipo tratando de aportar en lo que pueda y compartiendo mis conocimientos. Me interesa aprender sobre gerencia en proyectos de software.                                                                                                                                                                             | <img src="https://files.catbox.moe/5dxpg4.jpeg" alt="gael image" width="200">   
+| **Mario Lopez**<br> Mi nombre es Mario Lopez, tengo 21 años y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy en séptimo ciclo de la carrera de Ingeniería de Software. Tengo conocimientos en varios lenguajes de programación principalmente en Python y Typescrip, me gusta trabajar en equipo tratando de aportar en lo que pueda y compartiendo mis conocimientos. Me interesa aprender sobre gerencia en proyectos de software.    | <img src="https://files.catbox.moe/5dxpg4.jpeg" alt="gael image" width="200">   
 | **Marcelo Varela**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 21 años y actualmente me encuentro cursando el séptimo ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="https://files.catbox.moe/w88eqj.jpeg" alt="kevin image" width="200"> |
 
 
@@ -1090,16 +1090,17 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 ### 2.2.2. Registro de entrevistas
 ### Segmento objetivo #1: Consumidores de teatro
 ##### Datos del Entrevistado #1
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
+- **Nombre completo:** Fabrizio Amir Leon Vivas
+- **Segmento Objetivo:** Consumidor de teatro
+- **Edad:** 22
+- **Distrito:** Surco
 - **Inicio de la entrevista:** 00:19
 - **Duración:** 34:53
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/interview1.png)
 - **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 
 **Resumen:**
+El entrevistado asiste al teatro 1 ves al mes . Se informa principalmente a través de redes sociales y foros de internet, pero enfrenta como mayor dificultad la falta de información completa y centralizada sobre las obras en Lima, especialmente en relación a precios, fechas y elenco. Al decidir asistir a una función, prioriza en primer lugar las recomendaciones que recibe sobre la obra, en segundo lugar el elenco, en tercer lugar la ubicacion del teatro y en cuarto lugar el precio de las obras. Entre las posibles funcionalidades de la plataforma Teatrope, considera que la cartelera actualizada con toda la informacion clara las obras serían lo más útil e interesante para mejorar su experiencia como consumidor.
 
 ##### Datos del Entrevistado #2
 - **Nombre completo:**
@@ -1431,6 +1432,24 @@ Con estos Empathy Maps, se evidencia que:
 Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatrope sería el puente entre sus necesidades.
 
 ### 2.3.5. Ubiquitous Language
+
+| **Term (English)** | **Término (Español)** | **Definition** |
+|---------------------|------------------------|----------------|
+| **User** | Usuario | Persona que accede a la plataforma, puede ser consumidor de teatro o productor. |
+| **Theater Consumer** | Consumidor de teatro | Usuario que consulta la cartelera, guarda favoritos y recibe notificaciones sobre funciones. |
+| **Producer** | Productor | Usuario encargado de publicar obras y gestionar funciones dentro de la plataforma. |
+| **Production** | Obra teatral | Producción teatral con título, sinopsis, elenco y material multimedia asociado. |
+| **Showtime** | Función | Presentación específica de una obra, definida por fecha, hora y teatro. |
+| **Billboard** | Cartelera | Listado centralizado de todas las obras y funciones disponibles. |
+| **Notification** | Notificación | Mensaje enviado al consumidor con recordatorios o novedades relevantes. |
+| **Profile** | Perfil | Información básica y preferencias del usuario, incluyendo ubicación, rol y ajustes de notificaciones. |
+| **Role** | Rol | Permisos asignados a cada usuario (ejemplo: consumidor, productor). |
+| **Capacity** | Aforo | Número máximo de asistentes que puede recibir una función. |
+| **Reservation** | Reserva | Proceso por el cual un usuario aparta un espacio en una función  |
+| **Promotion** | Promoción | Beneficio aplicado a una obra o función para incentivar la asistencia. |
+| **Visibility** | Visibilidad | Grado de exposición que tiene una obra dentro de la cartelera digital. |
+| **Reminder** | Recordatorio | Alerta activada por el consumidor para no perder una función. |
+| **Favorite** | Favorito | Marca que hace el consumidor sobre una obra para guardarla en su lista personal de interés. |
 
 ## 2.4 Requirements Specification
 
