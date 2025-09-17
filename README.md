@@ -397,25 +397,20 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 
 # Bibliografía
 
-(falta citar en APA7)
+Cominetti, M. I. (2023b, enero 6). Interesting results of the first study of digital audiences of the Gran Teatro Nacional de Perú | Ópera Latinoamérica. Ópera Latinoamérica. https://www.operala.org/interesantes-resultados-del-primer-estudio-de-publicos-digitales-del-gran-teatro-nacional-de-peru/?lang=en
 
-- https://www.operala.org/interesantes-resultados-del-primer-estudio-de-publicos-digitales-del-gran-teatro-nacional-de-peru/?lang=en
+EU National Institutes for Culture - EUNIC. (s. f.). Peru. 2025 (C) EU National Institutes For Culture - EUNIC. https://eunicglobal.eu/projects/peru
 
-- https://eunicglobal.eu/projects/peru
+Euromonitor International. (s. f.). Explore reports. Euromonitor. https://www.euromonitor.com/store/explore-reports/latin-america/peru
 
-- https://www.euromonitor.com/store/explore-reports/latin-america/peru
+EU National Institutes for Culture - EUNIC. (s. f.-b). Peru. 2025 (C) EU National Institutes For Culture - EUNIC. https://eunicglobal.eu/projects/peru
 
-- https://eunicglobal.eu/projects/peru
+Tripadvisor. (s. f.). Gran Teatro Nacional – Lima: Reviews. Recuperado el 17 de septiembre de 2025, de https://www.tripadvisor.com/Attraction_Review-g294316-d3838521-Reviews-Gran_Teatro_Nacional-Lima_Lima_Region.html
 
-- https://www.tripadvisor.com/Attractions-g294316-Activities-c58-t116-Lima_Lima_Region.html
+Tripadvisor. (s. f.). The 15 best Lima theaters. Recuperado el 17 de septiembre de 2025, de https://www.tripadvisor.com/Attractions-g294316-Activities-c58-t116-Lima_Lima_Region.html
 
-- https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1139&context=jgi
+Wikipedia contributors. (2025, 8 febrero). Theatre of Peru. Wikipedia. https://en.wikipedia.org/wiki/Theatre_of_Peru
 
-- https://en.wikipedia.org/wiki/Theatre_of_Peru
+Theaters in Peru - LimaEasy. (s. f.). https://www.limaeasy.com/peru-guide/peru-culture-entertainment/theaters-in-peru
 
-- https://www.limaeasy.com/peru-guide/peru-culture-entertainment/theaters-in-peru
-
-- https://www.tripadvisor.com/Attraction_Review-g294316-d3838521-Reviews-Gran_Teatro_Nacional-Lima_Lima_Region.html
-
-- https://thetheatretimes.com/latest-post/worldwide/south-america/peru/
-
+Barnard, M. (s. f.). Peru Archives - The Theatre Times. The Theatre Times. https://thetheatretimes.com/latest-post/worldwide/south-america/peru/
