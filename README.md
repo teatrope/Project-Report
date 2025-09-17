@@ -3145,6 +3145,85 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | MapsDisplayAdapter | Adapter | Adapter para servicio externo de mapas (Google Maps API). Visualiza ubicaciones en UI móvil. | 
 | CacheManager | Adapter | Maneja cache local para recomendaciones/búsquedas. Optimiza performance en app Android con storage local. | 
 
+### 2.6.3 Bounded Context: Notifications & Recommendations
+
+En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Notifications & Recommendations", que gestiona el envío de notificaciones oportunas (push/email/sms) y la entrega de recomendaciones personalizadas, respetando opt-in/opt-out, quiet hours y deduplicación. Se detalla un diccionario de clases por capa (nombre, tipo y propósito).
+
+#### 2.6.3.1 Domain Layer
+
+Esta capa contiene el modelo de dominio central, enfocado en consentimiento, deduplicación y personalización.
+
+| Clase                    | Tipo                    | Propósito                                                                             |
+| :----------------------- | :---------------------- | :------------------------------------------------------------------------------------ |
+| Notificacion             | Entity (Aggregate Root) | Representa una notificación con canal, contenido, dedupe\_key, programación y estado. |
+| PreferenciasNotificacion | ValueObject             | Define opt-in/opt-out por canal, quiet hours y frecuencia máxima.                     |
+| Canal                    | ValueObject             | Canal de entrega (PUSH/EMAIL/SMS) con reglas específicas por canal.                   |
+| Contenido                | ValueObject             | Plantilla materializada (título/asunto, cuerpo, datos de render), inmutable.          |
+| Recomendacion            | Entity                  | Sugerencia de obra/función con motivo y score; admite lote.                           |
+| CriteriosRecomendacion   | ValueObject             | Preferencias del usuario (género, ubicación, disponibilidad).                         |
+| MotorRecomendacion       | Domain Service          | Algoritmos/reglas de matching basados en señales y afinidades.                        |
+| PoliticaDeduplicacion    | Domain Service          | Evalúa dedupe\_key + ventana para enviar, reprogramar o descartar.                    |
+| NotificacionRepository   | Repository (Interface)  | Persistencia para el agregado Notificacion.                                           |
+| RecomendacionRepository  | Repository (Interface)  | Persistencia de recomendaciones y lotes.                                              |
+| PreferenciasRepository   | Repository (Interface)  | Acceso a preferencias y consentimientos.                                              |
+| NotificacionProgramada   | Domain Event            | Emitido cuando una notificación queda lista para envío.                               |
+| NotificacionEnviada      | Domain Event            | Emitido al confirmarse la entrega.                                                    |
+| RecomendacionGenerada    | Domain Event            | Emitido tras calcularse nuevas recomendaciones.                                       |
+
+#### 2.6.3.2 Interface Layer
+
+Esta capa maneja interacciones externas: endpoints de app/web y entradas de eventos.
+
+| Clase                     | Tipo       | Propósito                                                                           |
+| :------------------------ | :--------- | :---------------------------------------------------------------------------------- |
+| NotificationsController   | Controller | Endpoints para programar/reenviar/cancelar notificaciones y gestionar preferencias. |
+| RecommendationsController | Controller | Endpoints para obtener recomendaciones y registrar feedback (like/ocultar).         |
+| WebhookReceiver           | Controller | Entrada de eventos de otros BCs (nueva obra, cambio de función, cancelaciones).     |
+| NotificacionRequestDTO    | DTO        | Solicitud de notificación (usuario, canal, plantilla, dedupe\_key, programación).   |
+| PreferenciasDTO           | DTO        | Alta/actualización de opt-in/opt-out y quiet hours.                                 |
+| RecomendacionDTO          | DTO        | Respuesta serializada de recomendaciones para la app.                               |
+| DeliveryStatusDTO         | DTO        | Confirmación de entrega/lectura desde proveedores (FCM/Email/SMS).                  |
+
+
+#### 2.6.3.3 Application Layer
+
+Esta capa orquesta casos de uso (sin lógica de negocio), soportando CQRS para lecturas eficientes.
+
+| Clase                         | Tipo                        | Propósito                                                                                     |
+| :---------------------------- | :-------------------------- | :-------------------------------------------------------------------------------------------- |
+| ProgramarNotificacionService  | Application Service         | Valida preferencias/quiet hours, aplica PoliticaDeduplicacion y emite NotificacionProgramada. |
+| EnviarNotificacionService     | Application Service         | Invoca adapter de canal y registra NotificacionEnviada.                                       |
+| RegistrarOptInOutService      | Application Service         | Actualiza consentimientos en PreferenciasRepository.                                          |
+| GenerarRecomendacionesService | Application Service         | Orquesta MotorRecomendacion; persiste y emite RecomendacionGenerada.                          |
+| MarcarLeidaService            | Application Service         | Registra lectura/engagement para métricas y throttling.                                       |
+| NotificationsQueryService     | Application Service (Query) | Consultas de bandeja, historial y estados.                                                    |
+| RecommendationsQueryService   | Application Service (Query) | Consultas de recomendaciones, razones y filtros.                                              |
+
+
+#### 2.6.3.4 Infrastructure Layer
+
+Esta capa implementa persistencia, mensajería, plantillas y proveedores externos.
+
+| Clase                      | Tipo                      | Propósito                                                               |
+| :------------------------- | :------------------------ | :---------------------------------------------------------------------- |
+| JpaNotificacionRepository  | Repository Implementation | Implementación de NotificacionRepository con JPA/SQL.                   |
+| JpaRecomendacionRepository | Repository Implementation | Implementación de RecomendacionRepository.                              |
+| JpaPreferenciasRepository  | Repository Implementation | Persistencia de consentimientos y quiet hours.                          |
+| TemplateRenderer           | Adapter                   | Render de plantillas (Handlebars/Mustache) con variables de contexto.   |
+| PushAdapterFCM             | Adapter                   | Entrega push a dispositivos (Firebase Cloud Messaging).                 |
+| EmailAdapterSMTP           | Adapter                   | Envío de correo (SMTP/SendGrid).                                        |
+| SmsAdapter                 | Adapter                   | Envío de SMS (Twilio o similar).                                        |
+| SchedulerAdapter           | Adapter                   | Programación/reenqueue (Quartz/cron; en móvil: WorkManager).            |
+| MessageBusAdapter          | Adapter                   | Publicación/consumo de eventos (Kafka/RabbitMQ).                        |
+| DedupeStore                | Adapter                   | Almacén de claves de dedupe y ventanas (Redis).                         |
+| RateLimiterAdapter         | Adapter                   | Límite de frecuencia por usuario/canal.                                 |
+| AnalyticsAdapter           | Adapter                   | Métricas de entrega/lectura para afinado del motor.                     |
+| UsuariosACLAdapter         | ACL Adapter               | Anti-corruption con BC Usuarios (perfil, consentimientos globales).     |
+| AgendaACLAdapter           | ACL Adapter               | Anti-corruption con BC Agenda (cambios de función/horario).             |
+| ContenidoACLAdapter        | ACL Adapter               | Anti-corruption con BC Gestión de Contenido (datos de obras/funciones). |
+
+
+
 #### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
