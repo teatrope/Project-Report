@@ -3465,6 +3465,9 @@ Notificaciones & Recomendaciones: Relación de integración. Las búsquedas y re
 
 Contexto transversal que gestiona la autenticación y autorización de roles. Puede implementarse como Shared Kernel compartido entre contextos, o como Conformist si los demás aceptan las reglas de seguridad sin modificarlas.
 
+* Entradas (Notificaciones): 
+
+Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confirmar disponibilidad de funciones y enviar notificaciones de compra o agotamiento.
 
 ### 2.5.3 Software Architecture
 
