@@ -3330,200 +3330,6 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 | 27      | US028         | Cerrar sesión                               | 1            |
 | 28      | US015         | Iniciar sesión                              | 3            |
 
-## 2.5 Strategic-Level Domain-Driven Design
-### 2.5.1 EventStorming
-<div style="max-width:900px;margin:0 auto;">
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ccc;padding:8px;">US026</td>
-      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
-      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
-      <td style="border:1px solid #ccc;padding:8px;">06</td>
-    </tr>
-    <tr>
-      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
-        Title: Ajustar notificaciones generales
-      </th>
-    </tr>
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
-      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
-        Como consumidor de teatro quiero activar o desactivar notificaciones 
-        para controlar lo que recibo.
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
-      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
-        <strong>Scenario:</strong> Ajustar notificaciones<br>
-        <strong>Given</strong> que estoy en Configuración,<br>
-        <strong>When</strong> desactivo “Notificaciones”,<br>
-        <strong>Then</strong> dejo de recibir avisos.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="max-width:900px;margin:0 auto;">
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ccc;padding:8px;">US027</td>
-      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
-      <td style="border:1px solid #ccc;padding:8px;">Media</td>
-      <td style="border:1px solid #ccc;padding:8px;">06</td>
-    </tr>
-    <tr>
-      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
-        Title: Editar perfil
-      </th>
-    </tr>
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
-      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
-        Como consumidor de teatro quiero editar mis datos básicos (nombre y correo) 
-        para mantener mi perfil actualizado.
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
-      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
-        <strong>Scenario:</strong> Editar perfil<br>
-        <strong>Given</strong> que estoy en Perfil,<br>
-        <strong>When</strong> cambio nombre y guardo,<br>
-        <strong>Then</strong> los datos se actualizan correctamente.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="max-width:900px;margin:0 auto;">
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Story ID</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">User</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Priority</th>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Epic</th>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ccc;padding:8px;">US028</td>
-      <td style="border:1px solid #ccc;padding:8px;">Consumidor de teatro</td>
-      <td style="border:1px solid #ccc;padding:8px;">Baja</td>
-      <td style="border:1px solid #ccc;padding:8px;">06</td>
-    </tr>
-    <tr>
-      <th colspan="4" style="border:1px solid #ccc;padding:10px;text-align:center;">
-        Title: Cerrar sesión
-      </th>
-    </tr>
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;width:20%;">Description</th>
-      <td colspan="3" style="border:1px solid #ccc;padding:8px;">
-        Como consumidor de teatro quiero cerrar sesión 
-        para salir de mi cuenta de forma segura.
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align:left;border:1px solid #ccc;padding:8px;">Acceptance Criteria</th>
-      <td colspan="3" style="border:1px solid #ccc;padding:8px;line-height:1.5;">
-        <strong>Scenario:</strong> Logout<br>
-        <strong>Given</strong> que estoy autenticado,<br>
-        <strong>When</strong> selecciono “Cerrar sesión”,<br>
-        <strong>Then</strong> regreso a la pantalla de inicio sin sesión activa.
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### 2.5.1.1 Candidate Context Discovery
-#### 2.5.1.2 Domain Message Flows Modeling
-#### 2.5.1.3 Bounded Context Canvases
-
-### 2.5.2 Context Mapping
-Como parte del modelado del dominio de Teatrope, se identificaron cinco Bounded Contexts principales: Gestión de Contenido Teatral, Descubrimiento de Eventos, Autenticación y Usuarios, Entradas y Notificaciones & Recomendaciones. Con esta base se analizaron las interacciones y dependencias existentes, con el objetivo de comprender cómo se relacionan, qué información intercambian y qué nivel de acoplamiento mantienen. Este ejercicio permite definir de manera más clara los límites del sistema y establecer estrategias de integración entre contextos.
-
-#### Análisis de Contextos
-
-* Gestión de Contenido Teatral → Descubrimiento de Eventos: 
-
-Relación de Customer/Supplier. La información de obras, funciones y anuncios publicada por el primer contexto es consumida por el segundo, permitiendo que los usuarios consulten eventos actualizados.
-
-* Descubrimiento de Eventos → Notificaciones & Recomendaciones:
-
-Relación de integración. Las búsquedas y recomendaciones activan recordatorios o alertas, como notificaciones de próximos estrenos.
-
-* Autenticación y Usuarios → Todos los Contextos: 
-
-Contexto transversal que gestiona la autenticación y autorización de roles. Puede implementarse como Shared Kernel compartido entre contextos, o como Conformist si los demás aceptan las reglas de seguridad sin modificarlas.
-
-* Entradas → Notificaciones: 
-
-Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confirmar disponibilidad de funciones y enviar notificaciones de compra o agotamiento.
-
-#### Escenarios Alternativos
-
-¿Qué pasaría si se separan Notificaciones y Recomendaciones en contextos distintos?
-Esto permitiría escalar y mantener cada funcionalidad de manera independiente, reduciendo la complejidad de desarrollo. Sin embargo, aumentaría la cantidad de integraciones y podría requerir coordinación adicional para el envío de alertas personalizadas.
-
-¿Qué pasaría si la autenticación se mueve a un servicio externo centralizado?
-Facilitaría la integración con servicios de terceros (por ejemplo, pasarelas de pago o redes sociales) y simplificaría la administración de credenciales. No obstante, crearía dependencia técnica y riesgos de indisponibilidad si el servicio externo falla.
-
-¿Qué pasaría si el Descubrimiento de Eventos implementa caché local para búsquedas frecuentes?
-Mejoraría el rendimiento y la experiencia del usuario, ya que las consultas serían más rápidas. Sin embargo, se debería implementar un mecanismo de sincronización para evitar mostrar información desactualizada.
-
-¿Qué pasaría si la validación de disponibilidad de Entradas se ejecuta directamente en Gestión de Contenido Teatral?
-Reduciría el riesgo de sobreventa de entradas, pero generaría mayor acoplamiento entre contextos y podría limitar la autonomía del contexto de Entradas.
-
-<img src="resources/context-mapping-image.jpeg" alt="context_mapping">
-
-### 2.5.3 Software Architecture
-
-#### 2.5.3.1 Software Architecture Context Level Diagrams
-<img src="resources/impact_map.png" alt="impact_map">
-
-### 2.4.3 Product Backlog
-
-| # Orden | User Story Id | Título                                      | Story Points |
-|--------:|---------------|---------------------------------------------|-------------:|
-| 1       | US001         | Ver la cartelera del dia                     | 3            |
-| 2       | US002         | Buscar por obra o teatro                    | 5            |
-| 3       | US006         | Ver ficha de obra                           | 3            |
-| 4       | US003         | Filtrar por fecha                           | 2            |
-| 5       | US004         | Filtrar por distrito                        | 3            |
-| 6       | US005         | Ordenar por hora                            | 2            |
-| 7       | US008         | Abrir enlace de compra externo              | 2            |
-| 8       | US007         | Ver mapa del teatro                         | 2            |
-| 9       | US010         | Compartir ficha de obra                     | 2            |
-| 10      | US009         | Ver galería de fotos                        | 3            |
-| 11      | US020         | Guardar obra como favorita                  | 3            |
-| 12      | US021         | Ver lista de favoritos                      | 2            |
-| 13      | US022         | Activar recordatorio                        | 5            |
-| 14      | US023         | Cancelar recordatorio                       | 2            |
-| 15      | US024        | Recibir alerta de estreno                   | 5            |
-| 16      | US016         | Agregar obra                                  | 5            |
-| 17      | US017         | Agregar funciones a una obra                | 5            |
-| 18      | US018         | Publicar u ocultar obra                     | 3            |
-| 19      | US019         | Añadir enlace de compra                     | 2            |
-| 20      | US011         | Ver estado de publicación                   | 2            |
-| 21      | US013         | Editar información de obra publicada        | 3            |
-| 22      | US012         | Ver última actualización de datos           | 2            |
-| 23      | US014         | Reportar enlace roto                        | 2            |
-| 24      | US027         | Editar perfil                               | 3            |
-| 25      | US026         | Ajustar notificaciones generales            | 2            |
-| 26      | US025         | Cambiar idioma de la app                    | 2            |
-| 27      | US028         | Cerrar sesión                               | 1            |
-| 28      | US015         | Iniciar sesión                              | 3            |
 
 ## 2.5 Strategic-Level Domain-Driven Design
 ### 2.5.1 EventStorming
@@ -3639,6 +3445,42 @@ Bounded Context Canvases - Notificaciones y recomendaciones
 <img src="resources/Bounded_Context_Canvases_5.jpg" alt="Bounded_Context_Canvases_5">
 
 ### 2.5.2 Context Mapping
+
+Como parte del modelado del dominio de Teatrope, se identificaron cinco Bounded Contexts principales: Gestión de Contenido Teatral, Descubrimiento de Eventos, Autenticación y Usuarios, Entradas y Notificaciones & Recomendaciones. Con esta base se analizaron las interacciones y dependencias existentes, con el objetivo de comprender cómo se relacionan, qué información intercambian y qué nivel de acoplamiento mantienen. Este ejercicio permite definir de manera más clara los límites del sistema y establecer estrategias de integración entre contextos.
+
+#### Análisis de Contextos
+
+* Gestión de Contenido Teatral → Descubrimiento de Eventos:
+
+Relación de Customer/Supplier. La información de obras, funciones y anuncios publicada por el primer contexto es consumida por el segundo, permitiendo que los usuarios consulten eventos actualizados.
+
+* Descubrimiento de Eventos → Notificaciones & Recomendaciones:
+
+Relación de integración. Las búsquedas y recomendaciones activan recordatorios o alertas, como notificaciones de próximos estrenos.
+
+* Autenticación y Usuarios → Todos los Contextos:
+
+Contexto transversal que gestiona la autenticación y autorización de roles. Puede implementarse como Shared Kernel compartido entre contextos, o como Conformist si los demás aceptan las reglas de seguridad sin modificarlas.
+
+* Entradas → Notificaciones:
+
+Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confirmar disponibilidad de funciones y enviar notificaciones de compra o agotamiento.
+
+#### Escenarios Alternativos
+
+¿Qué pasaría si se separan Notificaciones y Recomendaciones en contextos distintos?
+Esto permitiría escalar y mantener cada funcionalidad de manera independiente, reduciendo la complejidad de desarrollo. Sin embargo, aumentaría la cantidad de integraciones y podría requerir coordinación adicional para el envío de alertas personalizadas.
+
+¿Qué pasaría si la autenticación se mueve a un servicio externo centralizado?
+Facilitaría la integración con servicios de terceros (por ejemplo, pasarelas de pago o redes sociales) y simplificaría la administración de credenciales. No obstante, crearía dependencia técnica y riesgos de indisponibilidad si el servicio externo falla.
+
+¿Qué pasaría si el Descubrimiento de Eventos implementa caché local para búsquedas frecuentes?
+Mejoraría el rendimiento y la experiencia del usuario, ya que las consultas serían más rápidas. Sin embargo, se debería implementar un mecanismo de sincronización para evitar mostrar información desactualizada.
+
+¿Qué pasaría si la validación de disponibilidad de Entradas se ejecuta directamente en Gestión de Contenido Teatral?
+Reduciría el riesgo de sobreventa de entradas, pero generaría mayor acoplamiento entre contextos y podría limitar la autonomía del contexto de Entradas.
+
+<img src="resources/context-mapping-image.jpeg" alt="context_mapping">
 
 ### 2.5.3 Software Architecture
 
