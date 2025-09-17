@@ -240,9 +240,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       </td>
     </tr>
     <tr>
-      <td>Alumno 5</td>
+      <td>Marcelo Varela</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1: Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -304,9 +304,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       </td>
     </tr>
     <tr>
-      <td>Alumno 5</td>
+      <td>Marcelo Varela</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1: Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
