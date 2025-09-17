@@ -3472,6 +3472,9 @@ Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confir
 
 #### Escenarios Alternativos
 
+¿Qué pasaría si se separan Notificaciones y Recomendaciones en contextos distintos?
+Esto permitiría escalar y mantener cada funcionalidad de manera independiente, reduciendo la complejidad de desarrollo. Sin embargo, aumentaría la cantidad de integraciones y podría requerir coordinación adicional para el envío de alertas personalizadas.
+
 
 ### 2.5.3 Software Architecture
 
