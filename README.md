@@ -182,6 +182,15 @@ Tabla de contenidos
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
+| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Foto**                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Angie Yalán**<br>Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                                                                  | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">  |
+| ****<br>                                                                                                                                                                                                                                                                        | <img src="https://files.catbox.moe/bacwjq.jpg" alt="kevin image" width="200">  |
+| ****<br>                                                          | <img src="https://files.catbox.moe/g2gms8.jpg" alt="kevin image" width="200">  |
+| ****<br>                                                                                                                                                                                       | <img src="https://files.catbox.moe/fvs4da.jpg" alt="gael image" width="200">   
+| **Marcelo Varela**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 21 años y actualmente me encuentro cursando el séptimo ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="https://files.catbox.moe/w88eqj.jpeg" alt="kevin image" width="200"> |
+
+
 ## 1.2 Solution profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -2866,18 +2875,9 @@ Reduciría el riesgo de sobreventa de entradas, pero generaría mayor acoplamien
 <p>
 En esta sección se aborda la perspectiva táctica del Domain-Driven Design (DDD), que se enfoca en la representación del dominio del negocio a través de elementos específicos de software. Partiendo de los límites definidos en el diseño estratégico, se identifican los componentes esenciales que modelan las reglas del dominio, gestionan los flujos de la aplicación y facilitan la interacción con sistemas externos.
 </p>
+</div>
+</div>
 
-<!--
-### 2.6.X Bounded Context: 
-#### 2.6.X.1 Domain Layer
-#### 2.6.X.2 Interface Layer
-#### 2.6.X.3 Application Layer
-#### 2.6.X.4 Infrastructure Layer
-#### 2.6.X.5 Bounded Context Software Architecture Component Level Diagrams
-#### 2.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 2.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 2.2.X.6.2. Bounded Context Database Design Diagram
--->
 
 ### 2.6.1 Bounded Context: Gestión de contenido teatral
 
