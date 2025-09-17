@@ -3485,6 +3485,8 @@ Mejoraría el rendimiento y la experiencia del usuario, ya que las consultas ser
 ¿Qué pasaría si la validación de disponibilidad de Entradas se ejecuta directamente en Gestión de Contenido Teatral?
 Reduciría el riesgo de sobreventa de entradas, pero generaría mayor acoplamiento entre contextos y podría limitar la autonomía del contexto de Entradas.
 
+<img src="resources/context-mapping-image.jpeg" alt="context_mapping">
+
 ### 2.5.3 Software Architecture
 
 #### 2.5.3.1 Software Architecture Context Level Diagrams
