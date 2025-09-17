@@ -917,11 +917,10 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 - **Segmento Objetivo:**
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista1]()
-- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
-
+- **Inicio de la entrevista:** 00:19
+- **Duración:** 34:53
+- **Screenshot del cuadro de video:** ![Entrevista1](resources/interview1.png)
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 **Resumen:**
 
 ##### Datos del Entrevistado #2
@@ -929,24 +928,25 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 - **Segmento Objetivo:**
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista2]()
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+- **Inicio de la entrevista:** 06:49
+- **Duración:** 34:53
+- **Screenshot del cuadro de video:** ![Entrevista2](resources/interview2.png)
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 
 **Resumen:**
 
 ##### Datos del Entrevistado #3
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista3]()
-- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+- **Nombre completo:** Victor Otto Reinoso Diaz
+- **Segmento Objetivo:** Consumidor de teatro
+- **Edad:** 24
+- **Distrito:** Lurigancho - Chosica
+- **Inicio de la entrevista:** 11:41
+- **Duración:** 34:53
+- **Screenshot del cuadro de video:** ![Entrevista3](resources/interview3.png)
+- **URL del video (Microsoft Stream):** *[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 
 **Resumen:**
+El entrevistado asiste al teatro con frecuencia, aproximadamente 1–2 veces al mes (15–20 veces al año). Se informa principalmente a través de redes sociales, pero enfrenta como mayor dificultad la falta de información completa y centralizada sobre las obras en Lima, especialmente en relación a precios, fechas y elenco. Al decidir asistir a una función, prioriza en primer lugar las recomendaciones que recibe sobre la obra, en segundo lugar la cercanía del teatro, y en tercer lugar el elenco. Entre las posibles funcionalidades de la plataforma Teatrope, considera que las notificaciones serían lo más útil e interesante para mejorar su experiencia como consumidor.
 
 
 ### Segmento objetivo #2: Teatros y productores de teatro
@@ -955,36 +955,13 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 - **Segmento Objetivo:** Teatros y productores de teatro
 - **Edad:** 35
 - **Distrito:** Miraflores
-- **Inicio de la entrevista:** 
-- **Duración:** 
-- **Screenshot del cuadro de video:** ![Entrevista1]()
-- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+- **Inicio de la entrevista:** 17:20
+- **Duración:** 34:53
+- **Screenshot del cuadro de video:** ![Entrevista1](resources/interview4.png)
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 
 **Resumen:** 
 
-##### Datos del Entrevistado #2
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista2]()
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
-
-**Resumen:**
-
-##### Datos del Entrevistado #3
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista3]()
-- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
-
-**Resumen:**
 
 
 ### 2.2.3. Análisis de entrevistas
