@@ -57,7 +57,11 @@ Agosto de 2025 🗓️
         <li>Lopez Acuña, Mario Joaquin</li>
       </ul>
     </td>
-    <td> Se han incluído los siguientes capítulos:
+    <td> Se han incluído los siguientes capítulos:<br>
+      <ul>
+        <li>Capítulo I: Presentación</li>
+        <li>Capítulo II: Requierements Development and Software Solution Design</li>
+      </ul>
     </td>
   </tr>
 </table>
