@@ -3475,6 +3475,14 @@ Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confir
 ¿Qué pasaría si se separan Notificaciones y Recomendaciones en contextos distintos?
 Esto permitiría escalar y mantener cada funcionalidad de manera independiente, reduciendo la complejidad de desarrollo. Sin embargo, aumentaría la cantidad de integraciones y podría requerir coordinación adicional para el envío de alertas personalizadas.
 
+¿Qué pasaría si la autenticación se mueve a un servicio externo centralizado?
+Facilitaría la integración con servicios de terceros (por ejemplo, pasarelas de pago o redes sociales) y simplificaría la administración de credenciales. No obstante, crearía dependencia técnica y riesgos de indisponibilidad si el servicio externo falla.
+
+¿Qué pasaría si el Descubrimiento de Eventos implementa caché local para búsquedas frecuentes?
+Mejoraría el rendimiento y la experiencia del usuario, ya que las consultas serían más rápidas. Sin embargo, se debería implementar un mecanismo de sincronización para evitar mostrar información desactualizada.
+
+¿Qué pasaría si la validación de disponibilidad de Entradas se ejecuta directamente en Gestión de Contenido Teatral?
+Reduciría el riesgo de sobreventa de entradas, pero generaría mayor acoplamiento entre contextos y podría limitar la autonomía del contexto de Entradas.
 
 ### 2.5.3 Software Architecture
 
