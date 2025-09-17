@@ -234,9 +234,10 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       </td>
     </tr>
     <tr>
-      <td>Alumno 4</td>
+      <td>Mario Lopez</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1: Participé activamente en la elaboración de los principales aportes para el desarrollo del proyecto, colaborando en la construcción del lenguaje ubicuo, la definición de historias de usuario y la creación del product backlog. Estas actividades facilitaron la identificación de las necesidades tanto de los consumidores de teatro como de los productores, permitiendo analizar los problemas actuales en la gestión de funciones y en la difusión de obras. Asimismo, contribuyeron a proponer soluciones digitales orientadas a mejorar la experiencia de los usuarios y optimizar la continuidad de los procesos, fortaleciendo mi aprendizaje en metodologías ágiles y en el diseño de soluciones de software centradas en el usuario.
+</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -298,9 +299,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       </td>
     </tr>
     <tr>
-      <td>Alumno 4</td>
+      <td>Mario Lopez</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1: Durante el desarrollo del proyecto reconocí la importancia de mantener un aprendizaje constante para fortalecer mis capacidades en el ámbito del software. La investigación y aplicación de conceptos como el lenguaje ubicuo, las historias de usuario y el product backlog me permitieron ampliar mi conocimiento en metodologías ágiles y en el diseño de soluciones digitales. Este proceso evidenció que el aprendizaje permanente es esencial para adaptarse a los cambios tecnológicos, responder a las necesidades reales de consumidores y productores de teatro, y proponer mejoras continuas que aseguren el éxito y la sostenibilidad de los proyectos.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -335,7 +336,7 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 | Sosa Soto, Oskar Rodrigo | |
 | Varela Bustinza, Marcelo Alessandro | |
 | Yalan Zhang, Angie Christina | |
-| Lopez Acuña, Mario Joaquin | |
+| Lopez Acuña, Mario Joaquin | **Objetivo 1:** Desarrollar competencias en gestión de proyectos de software con metodologías ágiles y enfoques híbridos en un plazo de 10 meses. Para ello, completaré certificaciones en Scrum Master y fundamentos de PMP, dedicando al menos 5 horas semanales al estudio y aplicando los conocimientos en proyectos académicos y profesionales. Al finalizar, seré capaz de liderar equipos multidisciplinarios, gestionar cronogramas y recursos, y asegurar la entrega de valor en cada sprint. <br><br> **Objetivo 2:**  Fortalecer habilidades de liderazgo y comunicación gerencial en un plazo de 6 meses. Para lograrlo, participaré en al menos 3 talleres o cursos de liderazgo, inteligencia emocional o negociación, y aplicaré lo aprendido en las reuniones de equipo del proyecto actual. Además, implementaré retroalimentaciones quincenales con los integrantes del grupo para mejorar la coordinación, resolver conflictos y mantener la motivación. Al concluir, habré consolidado un estilo de liderazgo que promueva la colaboración y la eficiencia en el desarrollo de soluciones de software.|
 
 
 # Capitulo I: Presentación
@@ -353,7 +354,8 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 | **Angie Yalán**<br>Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                                                                  | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">  |
 |**Luis Alva** <br> Mi nombre es Luis Alva, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me gusta el desarrollo ágil aplicando patrones de diseño y arquitectura escalable. Actualmente estoy aprendiendo Python y desarrollo móvil con Kotlin. Me destaco por mi capacidad para trabajar en equipo y compromiso con el equipo.  | <img src="https://files.catbox.moe/dnmt63.png" alt="kevin image" width="200">  |
 | **Oskar Sosa**<br> Mi nombre es Oskar Sosa, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Actualmente me enfoco en tecnologías backend y móviles. Mi principal objetivo es crear aplicaciones robustas y escalables. Me especializo en el desarrollo con Java y Spring Boot para construir APIs y servicios, y estoy expandiendo mis habilidades al mundo del desarrollo móvil con Kotlin.                                                         | <img src="https://files.catbox.moe/u1b8w5.jpg" alt="kevin image" width="200">  |
-| ****<br>                                                                                                                                                                                       | <img src="https://files.catbox.moe/fvs4da.jpg" alt="gael image" width="200">   
+| 
+| **Mario** Mi nombre es Mario Lopez, tengo 21 años y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy en séptimo ciclo de la carrera de Ingeniería de Software. Tengo conocimientos en varios lenguajes de programación principalmente en Python y Typescrip, me gusta trabajar en equipo tratando de aportar en lo que pueda y compartiendo mis conocimientos. Me interesa aprender sobre gerencia en proyectos de software.                                                                                                                                                                             | <img src="https://files.catbox.moe/5dxpg4.jpeg" alt="gael image" width="200">   
 | **Marcelo Varela**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 21 años y actualmente me encuentro cursando el séptimo ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="https://files.catbox.moe/w88eqj.jpeg" alt="kevin image" width="200"> |
 
 
