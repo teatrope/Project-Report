@@ -326,6 +326,16 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
 
 ## Objetivos SMART
 
+En el siguiente cuadro se presentan los objetivos SMART de cada integrante del equipo ; donde cada objetivo debe ser específico, medible, alcanzable, relevante y con un tiempo definido.
+
+| Estudiante | Objetivos |
+| ---------- | --------- |
+| Alva Abanto, Luis Andres | **Objetivo 1:** Desarrollar una especialización en DevOps y automatización en un plazo de 8 meses después de la graduación. Para lograrlo, dedicaré al menos 6 horas semanales al aprendizaje de herramientas como Docker, Kubernetes, y CI/CD (usando Jenkins o GitHub Actions) a través de plataformas como Udemy, Coursera o Linux Academy. Completaré al menos 2 proyectos prácticos que integren pipelines de CI/CD y despliegue en la nube (AWS, Azure o GCP), añadiéndolos a mi portafolio para destacar mis habilidades en automatización y gestión de infraestructura, con el fin de posicionarme como candidato competitivo para roles de DevOps o ingeniero de software en empresas tecnológicas. <br><br> **Objetivo 2:** Objetivo 2: Crear una presencia profesional en línea y contribuir a comunidades técnicas en un plazo de 6 meses. Para ello, publicaré artículos técnicos o tutoriales en plataformas como Dev.to, Medium o un blog personal sobre temas relacionados con desarrollo de software, cloud o metodologías ágiles. Además, participaré activamente en al menos 2 comunidades técnicas (como foros de Stack Overflow, GitHub Discussions o eventos locales de tecnología) y contribuiré con al menos 1 mejora o corrección en un proyecto open-source relevante. Esto fortalecerá mi marca personal, aumentará mi visibilidad profesional y me permitirá establecer conexiones con otros profesionales del sector.|
+| Sosa Soto, Oskar Rodrigo | |
+| Varela Bustinza, Marcelo Alessandro | |
+| Yalan Zhang, Angie Christina | |
+| Lopez Acuña, Mario Joaquin | |
+
 # Capitulo I: Presentación
 
 ## 1.1 Startup profile
