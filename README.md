@@ -3453,7 +3453,7 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Business Goals planteados anteriormente, así como los User Persona que representan a nuestros segmentos y las User Stories creadas para Teatrope
 
 ### 2.5.2 Context Mapping
-
+Como parte del modelado del dominio de Teatrope, se identificaron cinco Bounded Contexts principales: Gestión de Contenido Teatral, Descubrimiento de Eventos, Autenticación y Usuarios, Entradas y Notificaciones & Recomendaciones.
 ### 2.5.3 Software Architecture
 
 #### 2.5.3.1 Software Architecture Context Level Diagrams
