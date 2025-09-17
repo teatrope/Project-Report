@@ -986,6 +986,7 @@ Identificar necesidades de difusión, gestión de entradas y relación con el p�
 
 **Resumen:**
 
+
 ### 2.2.3. Análisis de entrevistas
 
 #### Segmento 1: Consumidores de teatro
@@ -3448,10 +3449,43 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 #### 2.5.1.1 Candidate Context Discovery
 #### 2.5.1.2 Domain Message Flows Modeling
 #### 2.5.1.3 Bounded Context Canvases
-### 2.4.2 Impact Mapping
 
 ### 2.5.2 Context Mapping
-Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Business Goals planteados anteriormente, así como los User Persona que representan a nuestros segmentos y las User Stories creadas para Teatrope
+Como parte del modelado del dominio de Teatrope, se identificaron cinco Bounded Contexts principales: Gestión de Contenido Teatral, Descubrimiento de Eventos, Autenticación y Usuarios, Entradas y Notificaciones & Recomendaciones. Con esta base se analizaron las interacciones y dependencias existentes, con el objetivo de comprender cómo se relacionan, qué información intercambian y qué nivel de acoplamiento mantienen. Este ejercicio permite definir de manera más clara los límites del sistema y establecer estrategias de integración entre contextos.
+
+#### Análisis de Contextos
+
+* Gestión de Contenido Teatral → Descubrimiento de Eventos: 
+
+Relación de Customer/Supplier. La información de obras, funciones y anuncios publicada por el primer contexto es consumida por el segundo, permitiendo que los usuarios consulten eventos actualizados.
+
+* Descubrimiento de Eventos → Notificaciones & Recomendaciones:
+
+Relación de integración. Las búsquedas y recomendaciones activan recordatorios o alertas, como notificaciones de próximos estrenos.
+
+* Autenticación y Usuarios → Todos los Contextos: 
+
+Contexto transversal que gestiona la autenticación y autorización de roles. Puede implementarse como Shared Kernel compartido entre contextos, o como Conformist si los demás aceptan las reglas de seguridad sin modificarlas.
+
+* Entradas → Notificaciones: 
+
+Depende de Gestión de Contenido Teatral y Descubrimiento de Eventos para confirmar disponibilidad de funciones y enviar notificaciones de compra o agotamiento.
+
+#### Escenarios Alternativos
+
+¿Qué pasaría si se separan Notificaciones y Recomendaciones en contextos distintos?
+Esto permitiría escalar y mantener cada funcionalidad de manera independiente, reduciendo la complejidad de desarrollo. Sin embargo, aumentaría la cantidad de integraciones y podría requerir coordinación adicional para el envío de alertas personalizadas.
+
+¿Qué pasaría si la autenticación se mueve a un servicio externo centralizado?
+Facilitaría la integración con servicios de terceros (por ejemplo, pasarelas de pago o redes sociales) y simplificaría la administración de credenciales. No obstante, crearía dependencia técnica y riesgos de indisponibilidad si el servicio externo falla.
+
+¿Qué pasaría si el Descubrimiento de Eventos implementa caché local para búsquedas frecuentes?
+Mejoraría el rendimiento y la experiencia del usuario, ya que las consultas serían más rápidas. Sin embargo, se debería implementar un mecanismo de sincronización para evitar mostrar información desactualizada.
+
+¿Qué pasaría si la validación de disponibilidad de Entradas se ejecuta directamente en Gestión de Contenido Teatral?
+Reduciría el riesgo de sobreventa de entradas, pero generaría mayor acoplamiento entre contextos y podría limitar la autonomía del contexto de Entradas.
+
+<img src="resources/context-mapping-image.jpeg" alt="context_mapping">
 
 ### 2.5.3 Software Architecture
 
