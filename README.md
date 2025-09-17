@@ -3145,6 +3145,23 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | MapsDisplayAdapter | Adapter | Adapter para servicio externo de mapas (Google Maps API). Visualiza ubicaciones en UI móvil. | 
 | CacheManager | Adapter | Maneja cache local para recomendaciones/búsquedas. Optimiza performance en app Android con storage local. | 
 
+#### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
+
+![domain layer class diagram](./resources/ddd/descubrimiento_eventos_class_diagram.png)
+
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
+
+En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
+
+![domain layer database design diagram](./resources/ddd/descubrimiento_eventos_database_diagram.png)
+
 ### 2.6.3 Bounded Context: Notifications & Recommendations
 
 En esta sección, presentamos la perspectiva táctica del diseño de software para el Bounded Context "Notifications & Recommendations", que gestiona el envío de notificaciones oportunas (push/email/sms) y la entrega de recomendaciones personalizadas, respetando opt-in/opt-out, quiet hours y deduplicación. Se detalla un diccionario de clases por capa (nombre, tipo y propósito).
@@ -3222,24 +3239,10 @@ Esta capa implementa persistencia, mensajería, plantillas y proveedores externo
 | AgendaACLAdapter           | ACL Adapter               | Anti-corruption con BC Agenda (cambios de función/horario).             |
 | ContenidoACLAdapter        | ACL Adapter               | Anti-corruption con BC Gestión de Contenido (datos de obras/funciones). |
 
-
-
-#### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
-#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
-
-Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
-
-##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
-
-Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
-
-![domain layer class diagram](./resources/ddd/descubrimiento_eventos_class_diagram.png)
-
-##### 2.6.2.6.2. Bounded Context Database Design Diagram
-
-En esta sección se expone el modelo relacional que respalda el contexto, detallando tablas, columnas, llaves primarias y foráneas, índices y otras restricciones. El diagrama muestra las relaciones de integridad entre las tablas y la forma en que las entidades del dominio se persisten en la base de datos.
-
-![domain layer database design diagram](./resources/ddd/descubrimiento_eventos_database_diagram.png)
+#### 2.6.3.5 Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
 # Bibliografía
 
