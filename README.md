@@ -3450,9 +3450,9 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 #### 2.5.1.2 Domain Message Flows Modeling
 #### 2.5.1.3 Bounded Context Canvases
 ### 2.4.2 Impact Mapping
+Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Business Goals planteados anteriormente, así como los User Persona que representan a nuestros segmentos y las User Stories creadas para Teatrope
 
 ### 2.5.2 Context Mapping
-Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Business Goals planteados anteriormente, así como los User Persona que representan a nuestros segmentos y las User Stories creadas para Teatrope
 En esta sección se presenta el Context Mapping de Teatrope, una representación visual que muestra el ecosistema en el que opera el producto. Se identifican los actores principales (usuarios, administradores, compañías teatrales), los sistemas externos con los que se integra y los flujos de información entre ellos. Este mapa permite comprender los límites del dominio, las dependencias clave y las interacciones que sustentan la experiencia de gestión de citas de obras teatrales.
 ### 2.5.3 Software Architecture
 
