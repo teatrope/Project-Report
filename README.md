@@ -104,7 +104,7 @@ Tabla de contenidos
     - 2.4.1 User Stories
     - 2.4.2 Impact Mapping
     - 2.4.3 Product Backlog
-  - 2.5 
+  - 2.5 Strategic-Level Domain-Driven Design
     - 2.5.1 EventStorming
       - 2.5.1.1 Candidate Context Discovery 
       - 2.5.1.2 Domain Message Flows Modeling
@@ -216,9 +216,10 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       </td>
     </tr>
     <tr>
-      <td>Alumno 3</td>
+      <td>Oskar Sosa</td>
       <td>
         <strong>ℹ️ TB1:</strong><br>
+        Para esta TB1 me enfoqué en la fase inicial del proyecto, liderando el Strategic-Level Domain-Driven Design. A través de la aplicación de EventStorming, logré modelar el flujo de mensajes del dominio y realizar el descubrimiento de los contextos candidatos. Este proceso fue fundamental para definir la estructura del proyecto. Utilizando los Bounded Context Canvases, establecí los límites claros y las responsabilidades de cada componente, proporcionando una base sólida que guio las decisiones arquitectónicas del equipo.
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -280,9 +281,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       </td>
     </tr>
     <tr>
-      <td>Alumno 3</td>
+      <td>Oskar Sosa</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1: Esta entrega me confirmó que la arquitectura de software es el cimiento de cualquier proyecto exitoso. A través de la aplicación del Domain-Driven Design, me di cuenta de que un diseño bien pensado y una comprensión profunda del dominio son cruciales para el rendimiento y la mantenibilidad a largo plazo. Este conocimiento es clave para mejorar mis prácticas y evolucionar como ingeniero, garantizando que mi trabajo no solo sea funcional, sino también robusto y escalable. </strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -335,7 +336,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Angie Yalán**<br>Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                                                                  | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">  |
 |**Luis Alva** <br> Mi nombre es Luis Alva, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me gusta el desarrollo ágil aplicando patrones de diseño y arquitectura escalable. Actualmente estoy aprendiendo Python y desarrollo móvil con Kotlin. Me destaco por mi capacidad para trabajar en equipo y compromiso con el equipo.  | <img src="https://files.catbox.moe/dnmt63.png" alt="kevin image" width="200">  |
-| ****<br>                                                          | <img src="https://files.catbox.moe/g2gms8.jpg" alt="kevin image" width="200">  |
+| **Oskar Sosa**<br> Mi nombre es Oskar Sosa, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software. Actualmente me enfoco en tecnologías backend y móviles. Mi principal objetivo es crear aplicaciones robustas y escalables. Me especializo en el desarrollo con Java y Spring Boot para construir APIs y servicios, y estoy expandiendo mis habilidades al mundo del desarrollo móvil con Kotlin.                                                         | <img src="https://files.catbox.moe/u1b8w5.jpg" alt="kevin image" width="200">  |
 | ****<br>                                                                                                                                                                                       | <img src="https://files.catbox.moe/fvs4da.jpg" alt="gael image" width="200">   
 | **Marcelo Varela**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 21 años y actualmente me encuentro cursando el séptimo ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="https://files.catbox.moe/w88eqj.jpeg" alt="kevin image" width="200"> |
 
