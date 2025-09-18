@@ -1139,6 +1139,7 @@ El entrevistado asiste al teatro con frecuencia, aproximadamente 1–2 veces al 
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/interview4.png)
 - **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EQDZxYIUpyxIrQg_ds8mV-YBaAV7fyP5U1h2_oUOKEIkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZciAEx)*
 
+  
 **Resumen:** El entrevistado menciona que los principales retos a los que se entrenta al momento de difundir sus producciones son el atraer al público a funciones intermedias de obras que se presentan durante mucho tiempo. Además, uno de los puntos débiles que encuentra en el sistema actual de venta de entras es que es complicado gestionar los cambios y devoluciones. En general, el entrevistado ve valor en una plataforma como Teatrope y en los beneficios que esto pueda traer tanto a las empresas como a los usuarios mismos. Como productor, estaría dispuesto a pagar para ser parte de Teatrope, y considera que actualmente no hay mucha colaboración de difusión entre las diferentes productoras lo que no ayuda en mucho a promover el arte escénico en Lima. 
 
 
@@ -3563,4 +3564,4 @@ Wikipedia contributors. (2025, 8 febrero). Theatre of Peru. Wikipedia. https://e
 
 Theaters in Peru - LimaEasy. (s. f.). https://www.limaeasy.com/peru-guide/peru-culture-entertainment/theaters-in-peru
 
-Barnard, M. (s. f.). Peru Archives - The Theatre Times. The Theatre Times. https://thetheatretimes.com/latest-post/worldwide/south-america/peru/
+Barnard, M. (s. f.). Peru Archives - The Theatre Times. The Theatre Times. https://thetheatretimes.com/latest-post/worldwide/south-america/peru
