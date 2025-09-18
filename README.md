@@ -14,7 +14,7 @@ Ingeniería de software - 2025-02
 
 **Docente:** Jorge Luis Mayta Guillermo
 
-**StartUp:**  
+**StartUp:**  CulturizaTech
 
 **Producto:** Teatrope
 
