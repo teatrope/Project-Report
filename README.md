@@ -2852,6 +2852,206 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
   </table>
 </div>
 
+### Spike Stories
+
+<table border="1" cellspacing="0" cellpadding="6">
+
+  <!-- SS01 -->
+  <tr>
+    <td>SS01</td>
+    <td>Equipo de desarrollo</td>
+    <td>Must have</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <th scope="row">Title</th>
+    <td colspan="3">Visualización centralizada de cartelera</td>
+  </tr>
+  <tr>
+    <th colspan="4">Description</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Como equipo de desarrollo quiero investigar arquitecturas y librerías que permitan mostrar una cartelera centralizada con filtros (género, fecha, ubicación) para asegurar que los usuarios puedan explorar obras de manera rápida y ordenada.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Acceptance Criteria</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <strong>Escenario: Revisar documentación y librerías de visualización</strong><br>
+      Dado que el equipo necesita opciones para mostrar grandes cantidades de datos<br>
+      Cuando el desarrollador revisa librerías de filtrado y paginación (React, Angular Material, etc.)<br>
+      Entonces documenta las capacidades, limitaciones y rendimiento de cada opción.<br><br>
+      <strong>Escenario: Evaluar rendimiento</strong><br>
+      Dado que la cartelera debe responder en menos de 1s por búsqueda<br>
+      Cuando se implementa un prototipo con filtros básicos<br>
+      Entonces se mide y documenta el tiempo de respuesta promedio.<br><br>
+      <strong>Escenario: Prototipar cartelera</strong><br>
+      Dado la necesidad de validar la viabilidad<br>
+      Cuando se construye un PoC que muestre 50 obras con filtros dinámicos<br>
+      Entonces el PoC funciona en web y móvil, está documentado y referenciado en el informe.
+    </td>
+  </tr>
+  <!-- SS02 -->
+  <tr>
+    <td>SS02</td>
+    <td>Equipo de desarrollo</td>
+    <td>Must have</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <th scope="row">Title</th>
+    <td colspan="3">Sistema de reseñas verificadas</td>
+  </tr>
+  <tr>
+    <th colspan="4">Description</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Como equipo de desarrollo quiero investigar modelos de reseñas autenticadas con moderación automática para garantizar que los usuarios confíen en los comentarios y recomendaciones sobre obras.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Acceptance Criteria</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <strong>Escenario: Revisar bibliotecas de reseñas</strong><br>
+      Dado que se necesita un sistema confiable<br>
+      Cuando se investigan modelos tipo ecommerce con autenticación<br>
+      Entonces se documenta factibilidad y limitaciones.<br><br>
+      <strong>Escenario: Evaluar autenticación</strong><br>
+      Dado que los usuarios deben autenticarse para dejar reseñas<br>
+      Cuando se testea login con Google/Facebook<br>
+      Entonces se documenta la integración viable para la plataforma.<br><br>
+      <strong>Escenario: Prototipo de reseñas</strong><br>
+      Dado la necesidad de validar la funcionalidad<br>
+      Cuando se construye un PoC con creación y visualización de reseñas<br>
+      Entonces el PoC funciona en web y móvil y queda registrado en repositorio.
+    </td>
+  </tr>
+
+  <!-- SS03 -->
+  <tr>
+    <td>SS03</td>
+    <td>Equipo de desarrollo</td>
+    <td>Must have</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <th scope="row">Title</th>
+    <td colspan="3">Notificaciones y alertas personalizadas</td>
+  </tr>
+  <tr>
+    <th colspan="4">Description</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Como equipo de desarrollo quiero investigar servicios de notificaciones (Firebase, Web Push API) para enviar alertas segmentadas según las preferencias de los usuarios (estrenos, obras favoritas).
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Acceptance Criteria</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <strong>Escenario: Revisar servicios de notificaciones</strong><br>
+      Dado que el equipo necesita opciones multiplataforma<br>
+      Cuando se comparan Firebase Cloud Messaging y Web Push API<br>
+      Entonces se documentan ventajas, riesgos y compatibilidad.<br><br>
+      <strong>Escenario: Probar envío de alertas</strong><br>
+      Dado que se necesita validar la entrega<br>
+      Cuando se implementa un prototipo de alerta por estreno<br>
+      Entonces se verifica la recepción en Android, iOS y navegadores web.<br><br>
+      <strong>Escenario: Documentar hallazgos</strong><br>
+      Dado que el Spike debe cerrarse<br>
+      Cuando se compila un informe<br>
+      Entonces el documento incluye configuración, compatibilidad y recomendaciones.
+    </td>
+  </tr>
+
+  <!-- SS04 -->
+  <tr>
+    <td>SS04</td>
+    <td>Equipo de desarrollo</td>
+    <td>Must have</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <th scope="row">Title</th>
+    <td colspan="3">Gestión de contenidos para productores</td>
+  </tr>
+  <tr>
+    <th colspan="4">Description</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Como equipo de desarrollo quiero investigar un CMS ligero (Strapi, Directus, módulo propio) para permitir a los productores subir y actualizar información de sus obras en tiempo real.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Acceptance Criteria</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <strong>Escenario: Revisar opciones de CMS</strong><br>
+      Dado que los productores no son expertos técnicos<br>
+      Cuando se prueban CMS headless compatibles con Angular/React<br>
+      Entonces se documenta facilidad de uso y limitaciones.<br><br>
+      <strong>Escenario: Probar actualización de datos</strong><br>
+      Dado que la cartelera debe reflejar cambios inmediatos<br>
+      Cuando se implementa un prototipo de carga de obra<br>
+      Entonces se mide tiempo de sincronización en UI (&lt;2s).<br><br>
+      <strong>Escenario: Documentar hallazgos</strong><br>
+      Dado que el Spike está completo<br>
+      Cuando se genera informe<br>
+      Entonces se incluyen pros/contras, riesgos y recomendación de enfoque.
+    </td>
+  </tr>
+
+  <!-- SS05 -->
+  <tr>
+    <td>SS05</td>
+    <td>Equipo de desarrollo</td>
+    <td>Must have</td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <th scope="row">Title</th>
+    <td colspan="3">Integración con mapas y calendarios</td>
+  </tr>
+  <tr>
+    <th colspan="4">Description</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Como equipo de desarrollo quiero investigar la integración con APIs de Google Maps y Google Calendar/Outlook para mostrar ubicación de teatros y permitir a los usuarios agendar funciones en sus calendarios.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Acceptance Criteria</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <strong>Escenario: Revisar APIs de mapas</strong><br>
+      Dado que se necesita ubicar teatros en la app<br>
+      Cuando se prueba Google Maps API en web y móvil<br>
+      Entonces se documenta precisión, carga y limitaciones.<br><br>
+      <strong>Escenario: Probar integración con calendarios</strong><br>
+      Dado que los usuarios quieren agendar funciones<br>
+      Cuando se construye un prototipo con exportación a Google Calendar/iCal<br>
+      Entonces se valida compatibilidad y experiencia de usuario.<br><br>
+      <strong>Escenario: Documentar hallazgos</strong><br>
+      Dado que el Spike debe cerrarse<br>
+      Cuando se genera informe<br>
+      Entonces se incluyen configuraciones probadas, pros/contras y recomendaciones.
+    </td>
+  </tr>
+
+</table>
+
 ### 2.4.2 Impact Mapping
 
 Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Business Goals planteados anteriormente, así como los User Persona que representan a nuestros segmentos y las User Stories creadas para Teatrope
