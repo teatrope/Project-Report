@@ -3546,6 +3546,342 @@ En esta sección se exploran los detalles de la implementación interna del cont
 
 ![domain layer database design diagram](./resources/ddd/entradas_database_diagram.png)
 
+### 4.2. Landing Page & Mobile Application Implementation
+
+#### 4.2.1.1. Sprint 1
+
+#### 4.2.1.1. Sprint Planning
+
+#### 4.2.1.1. Sprint Backlog
+Para el desarrollo del primer sprint backlog, el equipo se encargó de dar comiezo y complementación del landing page y mobile application. La herramienta empleada para la organización y planificación de los miembros del equipo fue Trello. Esta herramienta brindó la división de las user stories en tareas mas simples para asi asiganr a cada uno de los miembros las tareas correspondientes según sus diferentes habilidades. El objetivo principal del sprint 1 es construir en su totalidad la landing page y mobile application, permitiendo que sea intuitiva y funcional para los usuarios del sistema.
+
+Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Sprint #</b></td>
+    <td colspan="6" align="center"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Tittle</b></td>
+    <td><b>Id</b></td>
+    <td><b>Tittle</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+  </tr>
+
+  <!-- US001: Ver la cartelera del día (Landing + Mobile) -->
+  <tr>
+    <td rowspan="3">US001</td>
+    <td rowspan="3">Ver la cartelera del día</td>
+    <td>T1</td>
+    <td>Diseño UI cartelera</td>
+    <td>Wireframe + layout responsive para listado “Hoy”.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Componente Lista “Hoy”</td>
+    <td>Implementar componente (web + mobile) con paginación.</td>
+    <td>3</td>
+    <td>Luis</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T3</td>
+    <td>Servicio/Hook de data</td>
+    <td>Endpoint/servicio para traer funciones del día con cache.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- US002: Buscar por obra o teatro -->
+  <tr>
+    <td rowspan="3">US002</td>
+    <td rowspan="3">Buscar por obra o teatro</td>
+    <td>T4</td>
+    <td>Barra de búsqueda</td>
+    <td>Input con debounce y accesibilidad (ARIA).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T5</td>
+    <td>API de búsqueda</td>
+    <td>Endpoint/servicio filtro por título de obra o teatro.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T6</td>
+    <td>Resultados y vacíos</td>
+    <td>Listado de resultados y estado “sin coincidencias”.</td>
+    <td>1.5</td>
+    <td>Angie</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- US003: Filtrar por fecha -->
+  <tr>
+    <td rowspan="2">US003</td>
+    <td rowspan="2">Filtrar por fecha</td>
+    <td>T7</td>
+    <td>Datepicker</td>
+    <td>Selector de fecha (mobile-friendly) con validaciones.</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T8</td>
+    <td>Lógica de filtro</td>
+    <td>Aplicar filtro y refrescar lista sin recargar la página.</td>
+    <td>2</td>
+    <td>Luis</td>
+    <td>In-Process</td>
+  </tr>
+
+  <!-- US004: Filtrar por distrito -->
+  <tr>
+    <td rowspan="2">US004</td>
+    <td rowspan="2">Filtrar por distrito</td>
+    <td>T9</td>
+    <td>Selector de distrito</td>
+    <td>Dropdown con distritos y búsqueda interna.</td>
+    <td>1.5</td>
+    <td>Angie</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>Query por ubicación</td>
+    <td>Extender servicio para filtrar por distrito.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- US006: Ver ficha de obra -->
+  <tr>
+    <td rowspan="3">US006</td>
+    <td rowspan="3">Ver ficha de obra</td>
+    <td>T11</td>
+    <td>Pantalla de detalle</td>
+    <td>Maquetar ficha con sinopsis, elenco, horarios.</td>
+    <td>2.5</td>
+    <td>Angie</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T12</td>
+    <td>Servicio detalle</td>
+    <td>Obtener datos por ID de obra, manejo de loading/error.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+  <tr>
+    <td>T13</td>
+    <td>Accesibilidad</td>
+    <td>Etiquetas semánticas, foco, contraste AA.</td>
+    <td>1</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US007: Ver mapa del teatro -->
+  <tr>
+    <td rowspan="2">US007</td>
+    <td rowspan="2">Ver mapa del teatro</td>
+    <td>T14</td>
+    <td>Componente mapa</td>
+    <td>Integrar mapa (marker + abrir en Google Maps).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T15</td>
+    <td>Permisos mobile</td>
+    <td>Chequeo de ubicación (opcional) y fallback.</td>
+    <td>1</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- US008: Abrir enlace de compra externo -->
+  <tr>
+    <td rowspan="2">US008</td>
+    <td rowspan="2">Abrir enlace de compra externo</td>
+    <td>T16</td>
+    <td>Botón “Comprar”</td>
+    <td>CTA en ficha que abre URL externa segura (noopener).</td>
+    <td>0.75</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T17</td>
+    <td>Validación de URL</td>
+    <td>Verificar formato/https y manejo de enlaces rotos.</td>
+    <td>1</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- US020/US021: Favoritos -->
+  <tr>
+    <td rowspan="3">US020/US021</td>
+    <td rowspan="3">Favoritos (guardar y ver)</td>
+    <td>T18</td>
+    <td>Toggle favorito</td>
+    <td>Marcar/Desmarcar obra como favorita (localStore/API).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T19</td>
+    <td>Lista de favoritos</td>
+    <td>Pantalla/listado con las obras guardadas.</td>
+    <td>2</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T20</td>
+    <td>Sincronización</td>
+    <td>Sincronizar favoritos entre web y mobile (si aplica).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- US022: Recordatorios (MVP simple) -->
+  <tr>
+    <td rowspan="2">US022</td>
+    <td rowspan="2">Activar recordatorio</td>
+    <td>T21</td>
+    <td>UI recordatorio</td>
+    <td>Acción “Recordar” desde horario de función.</td>
+    <td>1</td>
+    <td>Angie</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T22</td>
+    <td>Agregar a calendario</td>
+    <td>Exportar a Google Calendar/iCal (deep link).</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Technical Story: Responsive, performance y build -->
+  <tr>
+    <td rowspan="3">TS01</td>
+    <td rowspan="3">Responsive, performance & build</td>
+    <td>T23</td>
+    <td>Responsive audit</td>
+    <td>Ajustes CSS grid/flex; breakpoints móviles/tablets.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T24</td>
+    <td>Core Web Vitals</td>
+    <td>Lazy images, code-splitting, memoization.</td>
+    <td>2</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T25</td>
+    <td>CI/CD básico</td>
+    <td>Pipeline build + lint + tests para web/mobile.</td>
+    <td>2.5</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Spike SS01: Cartelera centralizada -->
+  <tr>
+    <td rowspan="2">SS01</td>
+    <td rowspan="2">Visualización centralizada de cartelera</td>
+    <td>T26</td>
+    <td>Revisión de librerías</td>
+    <td>Comparar filtrado/paginación (Material/Headless/Native).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T27</td>
+    <td>PoC filtros</td>
+    <td>Prototipo con 50 obras y métricas (&lt;1s búsqueda).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- Spike SS05: Mapas y calendarios -->
+  <tr>
+    <td rowspan="2">SS05</td>
+    <td rowspan="2">Integración mapas y calendarios</td>
+    <td>T28</td>
+    <td>Maps API</td>
+    <td>Probar markers, rendimiento y compatibilidad mobile.</td>
+    <td>1.5</td>
+    <td>Rodrigo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T29</td>
+    <td>Calendarios</td>
+    <td>Deep link a Google Calendar/ICS y documentación.</td>
+    <td>1.5</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- Technical Story: Analytics & Logging -->
+  <tr>
+    <td rowspan="2">TS02</td>
+    <td rowspan="2">Analytics & logging</td>
+    <td>T30</td>
+    <td>Eventos clave</td>
+    <td>Instrumentar “Buscar”, “Filtrar”, “Favorito”, “Comprar”.</td>
+    <td>1.5</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T31</td>
+    <td>Dash básico</td>
+    <td>Panel simple de métricas para demo (local/dev).</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+</table>
+
+Evidencia del Trello Sprint backlog 1:
+<img src="resources/Policies.jpg" alt="Sprint Backlog 1">
+
+
 # Bibliografía
 
 Cominetti, M. I. (2023b, enero 6). Interesting results of the first study of digital audiences of the Gran Teatro Nacional de Perú | Ópera Latinoamérica. Ópera Latinoamérica. https://www.operala.org/interesantes-resultados-del-primer-estudio-de-publicos-digitales-del-gran-teatro-nacional-de-peru/?lang=en
