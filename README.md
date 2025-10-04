@@ -3837,7 +3837,46 @@ Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
     <td>To-Review</td>
   </tr>
 
+  <!-- Spike SS05: Mapas y calendarios -->
+  <tr>
+    <td rowspan="2">SS05</td>
+    <td rowspan="2">Integración mapas y calendarios</td>
+    <td>T28</td>
+    <td>Maps API</td>
+    <td>Probar markers, rendimiento y compatibilidad mobile.</td>
+    <td>1.5</td>
+    <td>Rodrigo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T29</td>
+    <td>Calendarios</td>
+    <td>Deep link a Google Calendar/ICS y documentación.</td>
+    <td>1.5</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
 
+  <!-- Technical Story: Analytics & Logging -->
+  <tr>
+    <td rowspan="2">TS02</td>
+    <td rowspan="2">Analytics & logging</td>
+    <td>T30</td>
+    <td>Eventos clave</td>
+    <td>Instrumentar “Buscar”, “Filtrar”, “Favorito”, “Comprar”.</td>
+    <td>1.5</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T31</td>
+    <td>Dash básico</td>
+    <td>Panel simple de métricas para demo (local/dev).</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+</table>
 
 Evidencia del Trello Sprint backlog 1:
 <img src="resources/Sprint_Backlog_1.jpeg" alt="Sprint Backlog 1">
