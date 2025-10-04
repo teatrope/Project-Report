@@ -3879,7 +3879,7 @@ Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
 </table>
 
 Evidencia del Trello Sprint backlog 1:
-<img src="resources/Policies.jpg" alt="Sprint Backlog 1">
+<img src="resources/Sprint_Backlog_1.jpeg" alt="Sprint Backlog 1">
 
 
 # Bibliografía
