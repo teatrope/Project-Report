@@ -1455,8 +1455,8 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
 | **Profile** | Perfil | Información básica y preferencias del usuario, incluyendo ubicación, rol y ajustes de notificaciones. |
 | **Role** | Rol | Permisos asignados a cada usuario (ejemplo: consumidor, productor). |
 | **Capacity** | Aforo | Número máximo de asistentes que puede recibir una función. |
-| **Reservation** | Reserva | Proceso por el cual un usuario aparta un espacio en una función  |
-| **Promotion** | Promoción | Beneficio aplicado a una obra o función para incentivar la asistencia. |
+| **Booking** | Reserva | Proceso por el cual un usuario aparta un espacio en una función  |
+| **Discount** | Promoción | Beneficio aplicado a una obra o función para incentivar la asistencia. |
 | **Visibility** | Visibilidad | Grado de exposición que tiene una obra dentro de la cartelera digital. |
 | **Reminder** | Recordatorio | Alerta activada por el consumidor para no perder una función. |
 | **Favorite** | Favorito | Marca que hace el consumidor sobre una obra para guardarla en su lista personal de interés. |
