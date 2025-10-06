@@ -210,7 +210,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Angie Yalán</td>
       <td>
-        <strong>ℹ️ TB1: En el proyecto apliqué y actualicé conceptos de diseño centrado en el usuario mediante la elaboración de User Persona, User Task Matrix, Empathy Mapping y User Journey Mapping, lo que fortaleció mi capacidad para comprender necesidades reales y traducirlas en requisitos. Además, con el Tactical Level Domain Driven Design del bounded context de descubrimiento de eventos integré nuevas metodologías de modelado en ingeniería de software. Finalmente, en la edición de video de entrevistas reforcé habilidades técnicas y comunicativas aplicadas al proyecto.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>En el proyecto apliqué y actualicé conceptos de diseño centrado en el usuario mediante la elaboración de User Persona, User Task Matrix, Empathy Mapping y User Journey Mapping, lo que fortaleció mi capacidad para comprender necesidades reales y traducirlas en requisitos. Además, con el Tactical Level Domain Driven Design del bounded context de descubrimiento de eventos integré nuevas metodologías de modelado en ingeniería de software. Finalmente, en la edición de video de entrevistas reforcé habilidades técnicas y comunicativas aplicadas al proyecto.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -223,7 +223,8 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Oskar Sosa</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1:</strong>
+      <br>
         Para esta TB1 me enfoqué en la fase inicial del proyecto, liderando el Strategic-Level Domain-Driven Design. A través de la aplicación de EventStorming, logré modelar el flujo de mensajes del dominio y realizar el descubrimiento de los contextos candidatos. Este proceso fue fundamental para definir la estructura del proyecto. Utilizando los Bounded Context Canvases, establecí los límites claros y las responsabilidades de cada componente, proporcionando una base sólida que guio las decisiones arquitectónicas del equipo.
         <br>
         <strong>ℹ️ TP:</strong><br>
@@ -236,7 +237,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Mario Lopez</td>
       <td>
-        <strong>ℹ️ TB1: Participé activamente en la elaboración de los principales aportes para el desarrollo del proyecto, colaborando en la construcción del lenguaje ubicuo, la definición de historias de usuario y la creación del product backlog. Estas actividades facilitaron la identificación de las necesidades tanto de los consumidores de teatro como de los productores, permitiendo analizar los problemas actuales en la gestión de funciones y en la difusión de obras. Asimismo, contribuyeron a proponer soluciones digitales orientadas a mejorar la experiencia de los usuarios y optimizar la continuidad de los procesos, fortaleciendo mi aprendizaje en metodologías ágiles y en el diseño de soluciones de software centradas en el usuario.
+        <strong>ℹ️ TB1:</strong><br> Participé activamente en la elaboración de los principales aportes para el desarrollo del proyecto, colaborando en la construcción del lenguaje ubicuo, la definición de historias de usuario y la creación del product backlog. Estas actividades facilitaron la identificación de las necesidades tanto de los consumidores de teatro como de los productores, permitiendo analizar los problemas actuales en la gestión de funciones y en la difusión de obras. Asimismo, contribuyeron a proponer soluciones digitales orientadas a mejorar la experiencia de los usuarios y optimizar la continuidad de los procesos, fortaleciendo mi aprendizaje en metodologías ágiles y en el diseño de soluciones de software centradas en el usuario.
 </strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
@@ -249,7 +250,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Marcelo Varela</td>
       <td>
-        <strong>ℹ️ TB1: Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -277,7 +278,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Angie Yalán</td>
       <td>
-        <strong>ℹ️ TB1:Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en ingeniería de software. La diseñada de entrevistas y herramientas como el Empathy Map y el User Journey Map evidenciaron la necesidad de actualizar métodos para captar la voz del usuario. Asimismo, el trabajo en Domain Driven Design reafirmó la importancia de explorar nuevas prácticas de arquitectura, consolidando la necesidad de mantener una actitud de aprendizaje permanente.</strong><br>
+        <strong>ℹ️ TB1:</strong><br>Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en ingeniería de software. La diseñada de entrevistas y herramientas como el Empathy Map y el User Journey Map evidenciaron la necesidad de actualizar métodos para captar la voz del usuario. Asimismo, el trabajo en Domain Driven Design reafirmó la importancia de explorar nuevas prácticas de arquitectura, consolidando la necesidad de mantener una actitud de aprendizaje permanente.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -289,7 +290,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Oskar Sosa</td>
       <td>
-        <strong>ℹ️ TB1: Esta entrega me confirmó que la arquitectura de software es el cimiento de cualquier proyecto exitoso. A través de la aplicación del Domain-Driven Design, me di cuenta de que un diseño bien pensado y una comprensión profunda del dominio son cruciales para el rendimiento y la mantenibilidad a largo plazo. Este conocimiento es clave para mejorar mis prácticas y evolucionar como ingeniero, garantizando que mi trabajo no solo sea funcional, sino también robusto y escalable. </strong><br>
+        <strong>ℹ️ TB1:</strong><br> Esta entrega me confirmó que la arquitectura de software es el cimiento de cualquier proyecto exitoso. A través de la aplicación del Domain-Driven Design, me di cuenta de que un diseño bien pensado y una comprensión profunda del dominio son cruciales para el rendimiento y la mantenibilidad a largo plazo. Este conocimiento es clave para mejorar mis prácticas y evolucionar como ingeniero, garantizando que mi trabajo no solo sea funcional, sino también robusto y escalable. </strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -301,7 +302,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Mario Lopez</td>
       <td>
-        <strong>ℹ️ TB1: Durante el desarrollo del proyecto reconocí la importancia de mantener un aprendizaje constante para fortalecer mis capacidades en el ámbito del software. La investigación y aplicación de conceptos como el lenguaje ubicuo, las historias de usuario y el product backlog me permitieron ampliar mi conocimiento en metodologías ágiles y en el diseño de soluciones digitales. Este proceso evidenció que el aprendizaje permanente es esencial para adaptarse a los cambios tecnológicos, responder a las necesidades reales de consumidores y productores de teatro, y proponer mejoras continuas que aseguren el éxito y la sostenibilidad de los proyectos.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>Durante el desarrollo del proyecto reconocí la importancia de mantener un aprendizaje constante para fortalecer mis capacidades en el ámbito del software. La investigación y aplicación de conceptos como el lenguaje ubicuo, las historias de usuario y el product backlog me permitieron ampliar mi conocimiento en metodologías ágiles y en el diseño de soluciones digitales. Este proceso evidenció que el aprendizaje permanente es esencial para adaptarse a los cambios tecnológicos, responder a las necesidades reales de consumidores y productores de teatro, y proponer mejoras continuas que aseguren el éxito y la sostenibilidad de los proyectos.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
@@ -313,7 +314,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Marcelo Varela</td>
       <td>
-        <strong>ℹ️ TB1: Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         <br>
