@@ -3100,7 +3100,11 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 | 26      | US025         | Cambiar idioma de la app                    | 2            |
 | 27      | US028         | Cerrar sesión                               | 1            |
 | 28      | US015         | Iniciar sesión                              | 3            |
-
+| 29      | SS01         | Visualización centrada de cartelera          | 3            |
+| 30      | SS02         | Sistema de reseñas verificadas               | 3            |
+| 31      | SS03         | Notificaciones y alertas personalizadas      | 3            |
+| 32      | SS04         | Gestión de contenidos para productores       | 3            |
+| 33      | SS05         | Integración con mapas y calendarios          | 3            |
 
 ## 2.5 Strategic-Level Domain-Driven Design
 ### 2.5.1 EventStorming
