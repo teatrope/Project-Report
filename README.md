@@ -36,6 +36,8 @@ string[] Integrantes() {
 Agosto de 2025 🗓️
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## Registro de versiones del Informe
 
 <table>
@@ -176,6 +178,8 @@ Tabla de contenidos
 - Glosario
 - Bibliografía
 - Anexos
+
+<div style="page-break-after: always;"></div>
 
 ## Student Outcome
 
@@ -339,6 +343,8 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 | Yalan Zhang, Angie Christina | **Objetivo 1:** Alcanzar una certificación internacional en arquitectura de software (ej. AWS Solutions Architect o equivalente) en un plazo máximo de 18 meses después de mi graduación, dedicando al menos 6 horas semanales de estudio y práctica, con el fin de fortalecer mis competencias en diseño de soluciones escalables y competitivas en el mercado laboral. <br><br> **Objetivo 2:** Participar en al menos 2 proyectos profesionales de desarrollo de software con enfoque en Domain Driven Design y UX Research durante los primeros 2 años posteriores a mi graduación, con el objetivo de consolidar experiencia práctica, ampliar mi portafolio y posicionarme como especialista en diseño de soluciones centradas en el usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Lopez Acuña, Mario Joaquin | **Objetivo 1:** Desarrollar competencias en gestión de proyectos de software con metodologías ágiles y enfoques híbridos en un plazo de 10 meses. Para ello, completaré certificaciones en Scrum Master y fundamentos de PMP, dedicando al menos 5 horas semanales al estudio y aplicando los conocimientos en proyectos académicos y profesionales. Al finalizar, seré capaz de liderar equipos multidisciplinarios, gestionar cronogramas y recursos, y asegurar la entrega de valor en cada sprint. <br><br> **Objetivo 2:**  Fortalecer habilidades de liderazgo y comunicación gerencial en un plazo de 6 meses. Para lograrlo, participaré en al menos 3 talleres o cursos de liderazgo, inteligencia emocional o negociación, y aplicaré lo aprendido en las reuniones de equipo del proyecto actual. Además, implementaré retroalimentaciones quincenales con los integrantes del grupo para mejorar la coordinación, resolver conflictos y mantener la motivación. Al concluir, habré consolidado un estilo de liderazgo que promueva la colaboración y la eficiencia en el desarrollo de soluciones de software.                                                                                                                                                                                                                                                                                                                         |
 
+
+<div style="page-break-after: always;"></div>
 
 # Capitulo I: Presentación
 
@@ -570,6 +576,8 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 | Ubicación | Concentrado en Lima Metropolitana, con venues en distritos como el Centro Histórico, Barranco y Miraflores. | La mayoría de teatros están en Lima (e.g., Segura Theater: el más antiguo de Latinoamérica; Marsano, Canout). Listados muestran ~10-15 venues clave en áreas urbanas centrales. |
 | Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
 | Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Requierements Elicitation & Analysis
 ## 2.1 Competidores
