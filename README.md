@@ -8,6 +8,8 @@
 
 ## Universidad Peruana de Ciencias Aplicadas 🎓
 
+<br><br>
+
 Ingeniería de software - 2025-02
 
 **Sección:** 1798
@@ -17,6 +19,8 @@ Ingeniería de software - 2025-02
 **StartUp:**  CulturizaTech
 
 **Producto:** Teatrope
+
+<br><br>
 
 <div align="left">
 
@@ -31,7 +35,7 @@ string[] Integrantes() {
     };
 }
 ~~~
-
+<br><br>
 <div align="center">
 Agosto de 2025 🗓️
 </div>
@@ -68,12 +72,16 @@ Agosto de 2025 🗓️
   </tr>
 </table>
 
+<div style="page-break-after: always;"></div>
+
 ## Project Report Collaboration Insights
 
 En esta sección se documenta la colaboración del equipo en la elaboración del informe, mostrando evidencias gráficas de la actividad en GitHub y su coherencia con el registro de versiones.
 
 URL del repositorio del Project Report en la organización de GitHub del equipo: 
 - [https://github.com/teatrope/Project-Report](https://github.com/teatrope/Project-Report)
+
+<div style="page-break-after: always;"></div>
 
 ## Contenido
 
@@ -330,6 +338,8 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
   </tbody>
 </table>
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ## Objetivos SMART
 
