@@ -346,7 +346,7 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 
 <div style="page-break-after: always;"></div>
 
-# Capitulo I: Presentación
+# Capítulo I: Presentación
 
 ## 1.1 Startup profile
 
@@ -3573,13 +3573,68 @@ En esta sección se exploran los detalles de la implementación interna del cont
 
 ![domain layer database design diagram](./resources/ddd/entradas_database_diagram.png)
 
-### 4.2. Landing Page & Mobile Application Implementation
+<div style="page-break-after: always;"></div>
 
-#### 4.2.1.1. Sprint 1
+# Capítulo III: Solution UI/UX Design
 
-#### 4.2.1.1. Sprint Planning
+## 3.1 Product Design
 
-#### 4.2.1.1. Sprint Backlog
+### 3.1.1 Style Guidelines
+
+#### 3.1.1.1 General Style Guidelines
+
+### 3.1.2 Information Architecture
+
+#### 3.1.2.1 Orgainzation Systems
+
+#### 3.1.2.2 Labelling Systems
+
+#### 3.1.2.3 SEO Tags and Meta Tags
+
+#### 3.1.2.4 Searching Systems
+
+#### 3.1.2.5 Navigation Systems
+
+### 3.1.3 Landing Page UI Design
+
+#### 3.1.3.1 Landing Page Wireframe
+
+#### 3.1.3.2 Landing Page Mock-up
+
+### 3.1.4 Mobile Applications UX/UI Design
+
+#### 3.1.4.1 Mobile Applications Wireframes
+
+#### 3.1.4.2 Mobile Applications Wireflow Diagrams
+
+#### 3.1.4.3 Mobile Applications Mock-ups
+
+#### 3.1.4.4 Mobile Applications User Flow Diagrams
+
+#### 3.1.4.5 Mobile Applications Prototyping
+
+<div style="page-break-after: always;"></div>
+
+# Capítulo IV: Product Implementation & Validation
+
+## 4.1 Software Configuration Management
+
+### 4.1.1 Software Development Environment Configuration
+
+### 4.1.2 Source Code Management
+
+### 4.1.3 Source Code Style Guide & Conventions
+
+### 4.1.4 Software Deployment Configuration
+
+## 4.2 Landing Page & Mobile Application Implementation
+
+### 4.2.1 Sprint 1
+
+#### 4.2.1.1 Sprint Planning 1
+
+#### 4.2.1.2 Sprint Backlog 1
+
 Para el desarrollo del primer sprint backlog, el equipo se encargó de dar comiezo y complementación del landing page y mobile application. La herramienta empleada para la organización y planificación de los miembros del equipo fue Trello. Esta herramienta brindó la división de las user stories en tareas mas simples para asi asiganr a cada uno de los miembros las tareas correspondientes según sus diferentes habilidades. El objetivo principal del sprint 1 es construir en su totalidad la landing page y mobile application, permitiendo que sea intuitiva y funcional para los usuarios del sistema.
 
 Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
@@ -3905,9 +3960,42 @@ Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
   </tr>
 </table>
 
+#### 4.2.1.3 Development Evidence for Sprint Review
+
 Evidencia del Trello Sprint backlog 1:
 <img src="resources/Sprint_Backlog_1.jpeg" alt="Sprint Backlog 1">
 
+#### 4.2.1.4 Testing Suite Evidence for Sprint Review
+
+#### 4.2.1.5 Excecution Evidence for Sprint Review
+
+#### 4.2.1.6 Services Documentation Evidence for Sprint Review
+
+#### 4.2.1.7 Software Deployment Evidence for Sprint Review
+
+#### 4.2.1.8 Team Collaboration Insights during Sprint
+
+## 4.3 Validation Interviews
+
+### 4.3.1 Diseño de Entrevistas
+
+### 4.3.2 Registro de Entrevistas
+
+### 4.3.3 Evaluaciones según heurísticas
+
+<div style="page-break-after: always;"></div>
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+## Video App Validation
+
+## Video About the product
+
+## Video About the team
+
+# Glosario
 
 # Bibliografía
 
@@ -3945,3 +4033,5 @@ Statista. (2025, July 10). Latin America: Cinema admissions per capita 2023. htt
 TVyVideo. (2025, May 21). In 2024, the number of moviegoers in Colombia decreased. https://www.tvyvideo.com/en/news/latest-news/290-enterprises/22501-in-2024-the-number-of-moviegoers-in-colombia-decreased.html
 
 Union Andina. (2021, October 5). Orange economy: How much do creative industries produce in Peru? https://unionandina.com/en/orange-economy-how-much-do-creative-industries-produce-in-peru/
+
+# Anexos
