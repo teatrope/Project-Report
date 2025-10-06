@@ -2882,7 +2882,7 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
   </tr>
   <tr>
     <td colspan="4">
-      Como equipo de desarrollo quiero investigar arquitecturas y librerías que permitan mostrar una cartelera centralizada con filtros (género, fecha, ubicación) para asegurar que los usuarios puedan explorar obras de manera rápida y ordenada.
+      Como equipo de desarrollo quiero investigar arquitecturas y bibliotecas que permitan mostrar una cartelera centralizada con filtros (género, fecha, ubicación) para asegurar que los usuarios puedan explorar obras de manera rápida y ordenada. Investigar acerca de funcionalidades de Kotlin y Compose para manipulación de data y componentes como las cards de obras en la cartelera. 
     </td>
   </tr>
   <tr>
@@ -2890,9 +2890,9 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
   </tr>
   <tr>
     <td colspan="4">
-      <strong>Escenario: Revisar documentación y librerías de visualización</strong><br>
+      <strong>Escenario: Revisar documentación y bibliotecas de visualización y manipulación.</strong><br>
       Dado que el equipo necesita opciones para mostrar grandes cantidades de datos<br>
-      Cuando el desarrollador revisa librerías de filtrado y paginación (React, Angular Material, etc.)<br>
+      Cuando el desarrollador revisa bibliotecas de filtrado y paginación (React, Angular Material, Kotlin, Flutter, etc.)<br>
       Entonces documenta las capacidades, limitaciones y rendimiento de cada opción.<br><br>
       <strong>Escenario: Evaluar rendimiento</strong><br>
       Dado que la cartelera debe responder en menos de 1s por búsqueda<br>
