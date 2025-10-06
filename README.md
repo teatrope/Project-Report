@@ -4000,6 +4000,321 @@ Evidencia del Trello Sprint backlog 1:
 
 #### 4.2.1.6 Services Documentation Evidence for Sprint Review
 
+En esta sección se presentan los avances relacionados con la documentación de los Web Services realizados durante el Sprint. Se incluye una tabla con los endpoints implementados, detallando las acciones soportadas (verbo HTTP, sintaxis, parámetros, ejemplos de respuesta), así como el enlace al repositorio donde se encuentra el proyecto y la documentación más detallada. 
+
+URL del repositorio del API en la organización de GitHub del equipo: 
+- [https://github.com/teatrope/teatrope-api](https://github.com/teatrope/teatrope-api)
+
+## Aplicaciones y Modelos
+
+### accounts
+Custom user model `accounts.Usuario` (auth by email) with fields:
+- `id` (UUID, PK)
+- `email` (unique, used as username)
+- `tipo_rol` (CONSUMIDOR | TEATRO)
+- Preference fields: `permisos_json`, `generos_preferidos_json`, `calle_preferida`, `distrito_preferida`, `latitud_preferida`, `longitud_preferida`
+- `ultimo_login`
+
+### content
+- `Teatro`: basic theater info (name, address, coordinates)
+- `Obra`: play linked to `Teatro`, with `genero` and director info
+- `Funcion`: performance linked to `Obra` with schedule and seat availability
+- `Persona`: cast/crew linked to `Obra` with role
+
+### discovery
+- `Busqueda`: user search log/parameters
+- `ObraVistaCache`: flattened play info for recommendations
+- `Recomendacion`: links a `Busqueda` to an `ObraVistaCache` with a score and reason
+
+### notifications
+- `Notificacion`: sent to a `usuario_id` with type, content and state
+- `RecomendacionPersonalizada`: ties a recommendation to a notification
+- `PreferenciasUsuario`: per-user saved preferences
+
+### tickets
+- `Reserva`: reservation for a user and a function, with state and metadata
+- `DetalleEntrada`: ticket detail linked to a `Reserva`
+- `DisponibilidadCache`: cached seat availability per function
+
+
+## URL Base y Autenticación
+
+- Base URL: `http://localhost:8001/api/`
+- Authentication: Token (DRF TokenAuth)
+  - Header: `Authorization: Token <YOUR_TOKEN>`
+
+
+## Endpoints y ejemplos del CRUD
+
+Below is a concise list of endpoints by app. All standard DRF `ModelViewSet` routes exist unless noted: `list (GET)`, `retrieve (GET)`, `create (POST)`, `update (PUT)`, `partial_update (PATCH)`, `destroy (DELETE)`.
+
+### accounts
+
+Auth routes:
+- `POST /api/auth/register/`
+- `POST /api/auth/token/login/`
+- `POST /api/auth/token/logout/` (requires auth)
+
+User routes (require auth):
+- `GET /api/auth/users/`
+- `POST /api/auth/users/`
+- `GET /api/auth/users/{id}/`
+- `PUT /api/auth/users/{id}/`
+- `PATCH /api/auth/users/{id}/`
+- `DELETE /api/auth/users/{id}/`
+
+Register request:
+```json
+{
+  "email": "user@example.com",
+  "password": "StrongPass123",
+  "tipo_rol": "CONSUMIDOR"
+}
+```
+
+Register response (201):
+```json
+{
+  "user": {
+    "id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+    "email": "user@example.com",
+    "tipo_rol": "CONSUMIDOR",
+    "permisos_json": [],
+    "generos_preferidos_json": [],
+    "calle_preferida": "",
+    "distrito_preferida": "",
+    "latitud_preferida": null,
+    "longitud_preferida": null
+  },
+  "token": "abcd1234..."
+}
+```
+
+Login request:
+```json
+{
+  "email": "user@example.com",
+  "password": "StrongPass123"
+}
+```
+
+Login response (200):
+```json
+{
+  "token": "abcd1234...",
+  "user": {
+    "id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+    "email": "user@example.com",
+    "tipo_rol": "CONSUMIDOR",
+    "permisos_json": [],
+    "generos_preferidos_json": [],
+    "calle_preferida": "",
+    "distrito_preferida": "",
+    "latitud_preferida": null,
+    "longitud_preferida": null
+  }
+}
+```
+
+Logout (204):
+```
+POST /api/auth/token/logout/
+Authorization: Token <YOUR_TOKEN>
+```
+
+
+### content
+
+Routes:
+- `Teatro`: `/api/content/teatros/`
+- `Obra`: `/api/content/obras/`
+- `Funcion`: `/api/content/funciones/`
+- `Persona`: `/api/content/personas/`
+
+Create Teatro request:
+```json
+{
+  "nombre": "Teatro Central",
+  "descripcion": "Sala principal",
+  "calle": "Av. Principal 123",
+  "distrito": "Centro",
+  "latitud": -12.0464,
+  "longitud": -77.0428
+}
+```
+
+Create Teatro response (201):
+```json
+{
+  "id": "b1a9f4b7-9c9d-4e0f-bf3e-9d7b0b54d2ad",
+  "nombre": "Teatro Central",
+  "descripcion": "Sala principal",
+  "calle": "Av. Principal 123",
+  "distrito": "Centro",
+  "latitud": -12.0464,
+  "longitud": -77.0428
+}
+```
+
+Create Obra request:
+```json
+{
+  "teatro": "b1a9f4b7-9c9d-4e0f-bf3e-9d7b0b54d2ad",
+  "titulo": "Hamlet",
+  "genero": "DRAMA",
+  "director_nombre": "A. Director",
+  "director_rol": "DIRECTOR"
+}
+```
+
+Create Funcion request:
+```json
+{
+  "obra": "1d5c9c1a-2ea7-41ad-9c5b-5807d7f9e0a1",
+  "fecha": "2025-10-10T20:00:00Z",
+  "duracion_minutos": 120,
+  "disponibilidad_asientos": 100
+}
+```
+
+Create Persona request:
+```json
+{
+  "obra": "1d5c9c1a-2ea7-41ad-9c5b-5807d7f9e0a1",
+  "nombre_completo": "J. Actor",
+  "rol": "ACTOR"
+}
+```
+
+
+### discovery
+
+Routes:
+- `Busqueda`: `/api/discovery/busquedas/`
+- `Recomendacion`: `/api/discovery/recomendaciones/`
+- `ObraVistaCache`: `/api/discovery/obras-cache/`
+
+Create Busqueda request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "genero_filtro": "COMEDIA",
+  "calle_filtro": "Av. 1",
+  "distrito_filtro": "Centro",
+  "latitud_filtro": -12.05,
+  "longitud_filtro": -77.04,
+  "fecha_inicio": "2025-10-01T00:00:00Z",
+  "fecha_fin": "2025-10-31T23:59:59Z"
+}
+```
+
+Create Recomendacion request:
+```json
+{
+  "busqueda": "f2f9f7b2-5dd8-4b7b-9ac8-4f5af7b12c7e",
+  "obra": "e7b1c5e2-5291-4d40-8b76-889e50927020",
+  "puntuacion": 0.92,
+  "razon": "Popular cerca de ti"
+}
+```
+
+Create ObraVistaCache request:
+```json
+{
+  "titulo": "Hamlet",
+  "genero": "DRAMA",
+  "calle": "Av. Principal 123",
+  "distrito": "Centro",
+  "latitud": -12.0464,
+  "longitud": -77.0428,
+  "funciones_json": [
+    { "fecha": "2025-10-10T20:00:00Z", "duracion_minutos": 120 }
+  ]
+}
+```
+
+
+### notifications
+
+Routes:
+- `Notificacion`: `/api/notifications/notificaciones/`
+- `RecomendacionPersonalizada`: `/api/notifications/recomendaciones-personalizadas/`
+- `PreferenciasUsuario`: `/api/notifications/preferencias/`
+
+Create Notificacion request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "tipo": "RECOMENDACION",
+  "contenido": "Nueva obra para ti",
+  "titulo_mensaje": "Sugerencia",
+  "cuerpo_mensaje": "Te puede gustar Hamlet",
+  "enlace_mensaje": "https://ejemplo.com/obra/hamlet",
+  "estado": "ENVIADA"
+}
+```
+
+Create PreferenciasUsuario request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "generos_json": ["DRAMA", "COMEDIA"],
+  "calle_preferida": "Av. 1",
+  "distrito_preferida": "Centro",
+  "latitud_preferida": -12.05,
+  "longitud_preferida": -77.04,
+  "frecuencia_notif": "SEMANAL"
+}
+```
+
+Create RecomendacionPersonalizada request:
+```json
+{
+  "notificacion": "b9c32d1a-1d0b-4c8a-b0a8-0f21c0b5c0b0",
+  "obra_id": "1d5c9c1a-2ea7-41ad-9c5b-5807d7f9e0a1",
+  "score_relevancia": 0.85,
+  "razon": "Basada en tus preferencias"
+}
+```
+
+
+### tickets
+
+Routes:
+- `Reserva`: `/api/tickets/reservas/`
+- `DetalleEntrada`: `/api/tickets/detalles/`
+- `DisponibilidadCache`: `/api/tickets/disponibilidad/`
+
+Create Reserva request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "funcion_id": "2cfc3e0a-9eb5-4a64-bb04-05c0e5b2a7f0",
+  "cantidad": 2,
+  "estado": "PENDIENTE",
+  "codigo_qr": "",
+  "detalles_ticket": ""
+}
+```
+
+Create DetalleEntrada request:
+```json
+{
+  "reserva": "c4b7fb81-09b1-4ed7-a3f5-0e3e4f9a6b6e",
+  "asiento": "A-10",
+  "precio": 50.0
+}
+```
+
+Create DisponibilidadCache request:
+```json
+{
+  "funcion_id": "2cfc3e0a-9eb5-4a64-bb04-05c0e5b2a7f0",
+  "total_asientos": 120,
+  "disponibles": 95
+}
+```
+
 #### 4.2.1.7 Software Deployment Evidence for Sprint Review
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
