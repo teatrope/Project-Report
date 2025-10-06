@@ -369,7 +369,9 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 
 ### 1.2.1 Antecedentes y problemática
 
-Actualmente los consumidores de teatro se enteran de los nuevos estrenos  principalmente a través de las redes sociales o canales de difusión, incluso muchas veces es necesario revisar las páginas web una por una para obtener información más actualizada. Esto ocasiona que mucha gente prefiera consumir otro tipo de arte a la cual tienen más fácil acceso, como cine o conciertos, y por ende se pierden muchos posibles clientes para la industria del arte escénico. 
+En el contexto de la industria cultural en Perú, el consumo de artes escénicas como el teatro ha mostrado un crecimiento limitado en comparación con otras formas de entretenimiento. Según datos de la Encuesta Nacional de Programas Presupuestales (ENAPRES) 2023, solo el 7.9% de la población mayor de 14 años asistió al menos una vez a una función de teatro en el último año, con una frecuencia mayoritariamente ocasional (43.6% asiste una vez al año) y un predominio de eventos gratuitos (53.9%). En contraste, formas de entretenimiento como el cine o los conciertos registran tasas de participación más altas, con el consumo cultural audiovisual alcanzando cifras superiores en reportes regionales, donde el cine representa un 20-30% de la asistencia cultural en Latinoamérica, impulsado por plataformas digitales accesibles.
+
+Actualmente, los consumidores de teatro en Lima Metropolitana se enteran de los nuevos estrenos principalmente a través de redes sociales o canales de difusión fragmentados, lo que obliga a revisar páginas web individuales de teatros para obtener información actualizada, como fechas de funciones, disponibilidad y detalles de producciones. Esta dispersión genera ineficiencias, como tiempos prolongados de búsqueda y desmotivación, llevando a que muchas personas prefieran alternativas con acceso más sencillo, como cine o conciertos, donde plataformas centralizadas facilitan la experiencia. Como resultado, se pierden oportunidades significativas para la industria del arte escénico, con un impacto económico estimado en millones de dólares anuales en pérdida de audiencia potencial, agravado por la baja descentralización de la infraestructura teatral y la dependencia de eventos gratuitos para atraer público. Esta problemática resalta la necesidad de soluciones digitales integradas que optimicen la difusión y fomenten un mayor engagement cultural.
 
 #### ⁉️5“W”s + 2"H"'s
 
@@ -3926,3 +3928,20 @@ Wikipedia contributors. (2025, 8 febrero). Theatre of Peru. Wikipedia. https://e
 Theaters in Peru - LimaEasy. (s. f.). https://www.limaeasy.com/peru-guide/peru-culture-entertainment/theaters-in-peru
 
 Barnard, M. (s. f.). Peru Archives - The Theatre Times. The Theatre Times. https://thetheatretimes.com/latest-post/worldwide/south-america/peru
+
+Chanan, M. (n.d.). The economic condition of cinema in Latin America. http://www.mchanan.com/wp-content/uploads/2013/12/economic-condition.pdf
+
+International Union of Cinemas. (2023). UNIC annual report 2023. https://www.unic-cinemas.org/fileadmin/user_upload/Publications/2023 UNIC_Annual_Report_2023.pdf
+
+Inter-American Development Bank. (n.d.). The economic impact of the creative industries in the Americas. https://publications.iadb.org/publications/english/document/
+
+The-Economic-Impact-of-the-creative-industries-in-the-Americas.pdf
+Rajani, D. (n.d.). Navigating the digital stage: Challenges and opportunities in online theatre. https://deepikarajani.com/navigating-the-digital-stage-challenges-and-opportunities-in-online-theatre/
+
+Statista. (2025, June 20). Latin America: Movie tickets sold by country 2023. https://www.statista.com/statistics/316847/cinema-admissions-countries-latin-america/
+
+Statista. (2025, July 10). Latin America: Cinema admissions per capita 2023. https://www.statista.com/statistics/1174476/number-cinema-admissions-per-capita-latin-america/
+
+TVyVideo. (2025, May 21). In 2024, the number of moviegoers in Colombia decreased. https://www.tvyvideo.com/en/news/latest-news/290-enterprises/22501-in-2024-the-number-of-moviegoers-in-colombia-decreased.html
+
+Union Andina. (2021, October 5). Orange economy: How much do creative industries produce in Peru? https://unionandina.com/en/orange-economy-how-much-do-creative-industries-produce-in-peru/
