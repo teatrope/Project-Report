@@ -3331,6 +3331,9 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | NotificationSender | Adapter | Envía notificaciones vía servicio externo (Firebase). Notifica cambios a usuarios (e.g., nueva obra), integrando con recurso del dispositivo (push). |
 
 #### 2.6.1.5 Bounded Context Software Architecture Component Level Diagrams
+
+![component level diagram](./resources/ddd/gestion_contenido_teatral_component_diagram.png)
+
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
@@ -3398,6 +3401,9 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | CacheManager | Adapter | Maneja cache local para recomendaciones/búsquedas. Optimiza performance en app Android con storage local. | 
 
 #### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
+
+![component level diagram](./resources/ddd/descubrimiento_eventos_component_diagram.png)
+
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
 Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
@@ -3492,6 +3498,9 @@ Esta capa implementa persistencia, mensajería, plantillas y proveedores externo
 | ContenidoACLAdapter        | ACL Adapter               | Anti-corruption con BC Gestión de Contenido (datos de obras/funciones). |
 
 #### 2.6.3.5 Bounded Context Software Architecture Component Level Diagrams
+
+![component level diagram](./resources/ddd/notificaciones_recomendaciones_component_diagram.png)
+
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
@@ -3548,9 +3557,12 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 
 #### 2.6.4.5 Bounded Context Software Architecture Component Level Diagrams
 
-En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+![component level diagram](./resources/ddd/entradas_component_diagram.png)
 
 #### 2.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+
 ##### 2.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![domain layer class diagram](./resources/ddd/entradas_class_diagram.png)
