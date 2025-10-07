@@ -3826,17 +3826,17 @@ Cada vista —inicio, cartelera, ficha de obra, notificaciones y autenticación�
 
 El resultado es una interfaz intuitiva que facilita el acceso al contenido teatral y mejora la experiencia del usuario desde cualquier dispositivo móvil.
 
-<div align="center"> <img src="resources/figma/wt0.png" alt="mobile applications wireframe 0" width="300"> </div>
-<div align="center"> <img src="resources/figma/wt1.png" alt="mobile applications wireframe 1" width="300">
-<img src="resources/figma/wt2.png" alt="mobile applications wireframe 2" width="300"> </div>
-<div align="center"> <img src="resources/figma/wt3.png" alt="mobile applications wireframe 3" width="300">
-<img src="resources/figma/wt4.png" alt="mobile applications wireframe 4" width="300"> </div> 
-<div align="center"> <img src="resources/figma/wt5.png" alt="mobile applications wireframe 5" width="300">
-<img src="resources/figma/wt6.png" alt="mobile applications wireframe 6" width="300"> </div>
-<div align="center"> <img src="resources/figma/wt7.png" alt="mobile applications wireframe 7" width="300">
-<img src="resources/figma/wt8.png" alt="mobile applications wireframe 8" width="300"> </div>
-<div align="center"> <img src="resources/figma/wt9.png" alt="mobile applications wireframe 9" width="300">
-<img src="resources/figma/wt10.png" alt="mobile applications wireframe 10" width="300"> </div>
+<div align="center"> <img src="resources/figma/wt0.png" alt="mobile applications wireframe 0" width="400"> </div>
+<div align="center"> <img src="resources/figma/wt1.png" alt="mobile applications wireframe 1" width="200">
+<img src="resources/figma/wt2.png" alt="mobile applications wireframe 2" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt3.png" alt="mobile applications wireframe 3" width="200">
+<img src="resources/figma/wt4.png" alt="mobile applications wireframe 4" width="200"> </div> 
+<div align="center"> <img src="resources/figma/wt5.png" alt="mobile applications wireframe 5" width="200">
+<img src="resources/figma/wt6.png" alt="mobile applications wireframe 6" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt7.png" alt="mobile applications wireframe 7" width="200">
+<img src="resources/figma/wt8.png" alt="mobile applications wireframe 8" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt9.png" alt="mobile applications wireframe 9" width="200">
+<img src="resources/figma/wt10.png" alt="mobile applications wireframe 10" width="200"> </div>
 
 #### 3.1.4.2 Mobile Applications Wireflow Diagrams
 
