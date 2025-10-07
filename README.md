@@ -3612,6 +3612,111 @@ En esta sección se exploran los detalles de la implementación interna del cont
 
 #### 3.1.1.1 General Style Guidelines
 
+La identidad visual de Teatrope se fundamenta en la pasión por el arte escénico y la conexión cultural. Su objetivo es acercar el teatro a nuevas audiencias mediante una estética moderna, clara y accesible. Se optó por un estilo sofisticado pero cálido, combinando el contraste del negro con un acento vibrante en rojo coral, que refleja energía, emoción y dinamismo.
+<br><br>
+El sistema visual se inspira en Design Systems contemporáneos, priorizando la legibilidad, el orden y la consistencia entre tipografía, color e iconografía, dentro de una interfaz adaptable a dispositivos móviles.
+
+##### 3.1.1.1.1 Tipografía
+###### 3.1.1.1.1.1 Tipografía del logotipo
+
+<img src="resources/figma/logo.png" alt="logo" width="500px">
+
+El logotipo de Teatrope utiliza la fuente Inter en estilo Bold y en minúsculas.
+
+Esta elección transmite modernidad, cercanía y equilibrio visual, manteniendo una apariencia profesional sin perder calidez.
+
+El uso en minúsculas refuerza un tono accesible y humano, mientras que el grosor Bold garantiza presencia y fuerza visual, especialmente en fondos oscuros.
+
+###### 3.1.1.1.1.2 Tipografía del texto regular
+
+<img src="resources/figma/tipografia.png" alt="tipografia" width="500px">
+
+Para todos los textos de la interfaz se emplea la familia Inter, elegida por su alta legibilidad en pantallas móviles y su versatilidad para jerarquizar contenidos.
+
+|Jerarquía |	Estilo |	Tamaño  recomendado |
+|-----------|------------|----------------------|
+|Títulos principales |	Inter Bold |	24–32 px |
+|Subtítulos / Secciones |	Inter SemiBold / Medium | 18–20 px |
+|Texto regular	| Inter Regular	| 14–16 px |
+|Notas o textos secundarios	| Inter Light |	12 px |
+
+La familia Inter ofrece un aspecto limpio y tecnológico, que refuerza la usabilidad del sistema sin distraer del contenido principal: las obras de teatro.
+
+##### 3.1.1.1.2. Colores
+
+<img src="resources/figma/paletacolor.png" alt="paleta de color" width="500px">
+
+**Paleta principal**
+
+La paleta cromática de Teatrope combina tonos oscuros con un rojo vibrante, evocando el ambiente teatral (oscuridad, luces, emociones).
+
+|Color|	HEX|	Uso|
+|----|----|-----|
+|Negro profundo	|#161621	|Fondo principal, headers|
+|Gris carbón|	#2B2B38	|Fondos secundarios, menús|
+|Rojo coral	|#F74346	|Color de marca, botones, íconos activos|
+
+**Paleta secundaria**
+
+Complementa la principal con tonos neutros y grises claros para lograr balance y contraste.
+
+|Color|	HEX|	Uso|
+|-----|-----|--------|
+|Blanco|	#FFFFFF|	Texto y fondos claros|
+|Gris claro|	#EFEFEF|	Fondos neutros|
+|Gris medio	|#4A4B56	|Texto secundario|
+|Gris suave	|#D9D9D9	|Estados desactivados|
+
+El rojo coral (#F74346) representa la energía y vitalidad del teatro; el negro profundo (#161621) aporta elegancia y modernidad; y los grises equilibran el sistema visual con neutralidad.
+
+##### 3.1.1.1.3. Iconografía
+
+Los íconos de Teatrope siguen un estilo minimalista y coherente, diseñado para mantener claridad y armonía visual.
+
+<img src="resources/figma/iconografia.png" alt="iconografia" width="500px">
+
+Todos están basados en un grid de 24 px, con trazos de 2–4 px según el tamaño, garantizando consistencia entre los distintos elementos de la interfaz.
+
+* Ícono principal: la lupa con la máscara teatral, símbolo del descubrimiento y la experiencia escénica.
+
+* Íconos adicionales: favoritos, notificaciones, búsqueda, ubicación, configuración y perfil, adaptados al mismo estilo redondeado.
+
+**Paleta de iconografía:**
+
+* Activos o destacados → #F74346
+
+* Inactivos → #4A4B56
+
+* Fondos oscuros → versiones en blanco o gris claro según contraste.
+
+##### 3.1.1.1.4. Tono de comunicación y lenguaje aplicado
+
+El tono de comunicación de Teatrope es moderno, cultural y empático. Se dirige tanto a espectadores casuales como a amantes del teatro, equilibrando profesionalismo con un lenguaje amigable.
+
+* Formal en la presentación de datos (fechas, ubicaciones, horarios).
+
+* Casual y cercano en la interacción con el usuario (“Find your next favorite play”, “Don’t miss out!”).
+
+* Inspirador, reflejando la emoción de descubrir nuevas obras.
+
+* Los mensajes breves y directos, junto con íconos expresivos, construyen una experiencia que combina información, emoción y comunidad.
+
+##### 3.1.1.1.5. Aplicación visual
+
+Se observa un diseño coherente con la guía de estilo:
+
+* Fondo oscuro (#161621) que resalta las imágenes de las obras.
+
+* Botones y acentos en rojo coral (#F74346) que atraen la atención hacia las acciones principales (reserva, favoritos, notificaciones).
+
+* Tipografía Inter aplicada con jerarquía clara para mejorar la lectura.
+
+* Iconos consistentes con el logotipo, reforzando la identidad visual.
+
+* Composición limpia con alto contraste y equilibrio entre texto e imagen.
+
+El resultado es una interfaz moderna, intuitiva y emocionalmente atractiva, que transmite el espíritu del teatro desde el primer contacto.
+
 ### 3.1.2 Information Architecture
 
 #### 3.1.2.1 Orgainzation Systems
