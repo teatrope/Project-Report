@@ -3840,6 +3840,12 @@ El resultado es una interfaz intuitiva que facilita el acceso al contenido teatr
 
 #### 3.1.4.2 Mobile Applications Wireflow Diagrams
 
+Los wireflow diagrams muestran el flujo de navegación entre pantallas de la app, destacando rutas principales y puntos de decisión del usuario. Permiten validar la arquitectura de información y la navegación antes del desarrollo, asegurando claridad en los procesos clave (registro, inicio de sesión, exploración y notificaciones).
+
+Su enfoque esquemático facilita detectar pasos redundantes o confusos, optimizar la usabilidad y mantener consistencia visual con el sistema de diseño, garantizando una experiencia fluida y predecible.
+
+<div align="center"> <img src="resources/wireflow-diagram.jpeg" alt="mobile wireflow mockup 0" width="400"> </div>
+
 #### 3.1.4.3 Mobile Applications Mock-ups
 
 Los mockups evidencian la aplicación del Design System, integrando los principios de consistencia visual, jerarquía tipográfica, contraste y accesibilidad.
