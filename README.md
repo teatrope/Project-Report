@@ -3646,15 +3646,158 @@ En esta sección se exploran los detalles de la implementación interna del cont
 
 # Capítulo IV: Product Implementation & Validation
 
+En este capítulo se explica y evidencia el proceso de implementar, comprobar, desplegar y validar la solución compuesta en el caso por los productos digitales que forman parte del alcance. Abarca secciones para la organización del proceso de trabajo en Sprints, la descripción y prácticas asociadas a Software Configuration Management, el Video About-The-Product y las evidencias de Implementation, Testing, Despliegue y Validaciones para cada uno de los productos que forman parte de la solución, en términos del producto en sí y la colaboración por Sprint.
+
 ## 4.1 Software Configuration Management
+
+En esta sección se establecen las decisiones y convenciones que permitirán mantener la consistencia del ciclo de vida. 
 
 ### 4.1.1 Software Development Environment Configuration
 
+En esta sección se proporcionarán los enlaces a las aplicaciones y productos de software que utilizaremos durante el desarrollo de este producto de software. Con dicho fin organizamos la información en las siguientes secciones:
+
+- Project Managment
+- Requirements Management
+- Product UX/UI Design
+- Software Development
+- Software Testing
+- Software Deployment
+- Software Documentation
+
+### Project Management
+
+La gestión de proyectos de software (SPM) es el proceso de planificar, organizar y dirigir proyectos de desarrollo de software de principio a fin. A diferencia de la gestión de proyectos en general, la SPM implica un ciclo de vida único con múltiples rondas de pruebas y comentarios, que a menudo hace hincapié en metodologías ágiles para adaptarse a los cambios constantes. Una SPM eficaz es fundamental para garantizar que el software se entregue a tiempo, dentro del presupuesto y con los estándares de calidad requeridos.
+
+- Para este proyecto utilizaremos la metodología Ágil. La metodología Agile, o ágil, es un enfoque de gestión de proyectos que se basa en ciclos de desarrollo iterativos e incrementales para entregar valor de forma continua. A diferencia de los métodos tradicionales, como el modelo en cascada, Agile prioriza la flexibilidad, la adaptación al cambio, la colaboración y la satisfacción del cliente por encima del seguimiento de un plan rígido. 
+
+### Requirements Management
+
+Este proceso asegura que la organización documente, valide y cumpla con las necesidades y expectativas de los clientes y los stakeholders. 
+
+- Para este proyecto utilizaremos Jira. Jira es una herramienta de gestión de proyectos y seguimiento de incidencias, desarrollada por la empresa australiana Atlassian. Aunque se hizo popular en el ámbito del desarrollo de software, su flexibilidad la ha convertido en una solución versátil para cualquier equipo que necesite planificar, rastrear y entregar trabajo de manera eficiente, adoptando metodologías ágiles como Scrum y Kanban. https://www.atlassian.com/es/software/jira 
+
+### Product UX/UI Design
+
+El diseño de UX/UI de productos es una disciplina holística que combina la experiencia del usuario (UX) y la interfaz de usuario (UI) para crear productos eficaces, atractivos y centrados en el usuario. Un diseñador de productos supervisa todo el ciclo de vida del producto, utilizando los principios de UX/UI para garantizar que el producto no solo resuelva un problema del usuario, sino que también cumpla los objetivos empresariales. 
+
+- Para este proyecto utilizaremos Figma. Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la web que permite a los equipos colaborar en tiempo real para crear, prototipar y entregar diseños. Lanzada en 2016, revolucionó el diseño al centralizar el proceso en una plataforma online, eliminando la necesidad de instalar software complejo. Su naturaleza colaborativa lo ha convertido en un estándar de la industria, especialmente en proyectos de desarrollo de software ágil. https://www.figma.com/login 
+
+### Software Development
+
+A lo largo del ciclo de vida del desarrollo de software, se utilizan varias herramientas para mejorar la eficiencia, la colaboración y la calidad. Estas herramientas cubren diferentes aspectos del proceso, como la gestión del proyecto, el control de versiones, la integración continua/implementación continua (CI/CD), las pruebas y las operaciones de desarrollo (DevOps). 
+
+- Para este proyecto utilizaremos Github. GitHub es una plataforma de desarrollo de software basada en la web que facilita la colaboración y el control de versiones utilizando Git. Se ha convertido en una herramienta fundamental para equipos de desarrollo y proyectos de código abierto, ya que permite a los desarrolladores almacenar, gestionar y compartir su código en la nube. https://github.com/ 
+
+- Para este proyecto utilizaremos Android Studio. Android Studio es el Entorno de Desarrollo Integrado (IDE) oficial para el desarrollo de aplicaciones en el sistema operativo Android. Basado en IntelliJ IDEA de JetBrains, ofrece un conjunto completo de herramientas diseñadas para facilitar la creación, prueba y depuración de aplicaciones para todo el ecosistema de dispositivos Android. https://developer.android.com/studio
+
+- Para este proyecto utilizaremos Visual Studio Code. Visual Studio Code (VS Code) es un editor de código fuente gratuito y ligero, pero potente, desarrollado por Microsoft. Se diferencia de Visual Studio, el IDE más grande de Microsoft, en que está optimizado para la velocidad y la flexibilidad, en lugar de ser una solución todo en uno para proyectos empresariales complejos. https://code.visualstudio.com/
+
+### Software Testing
+
+El proceso de pruebas de software es la verificación y validación de que una aplicación de software cumple con sus requisitos específicos. Su objetivo principal es encontrar y corregir errores, fallos o defectos para entregar un producto de alta calidad que cumpla o supere las expectativas del usuario. El aseguramiento de la calidad (QA) es un proceso más amplio que busca evitar los defectos, mientras que las pruebas se centran en descubrirlos. 
+
+- Para este proyecto utilizaremos Unit Tests. Las pruebas unitarias son un proceso en el desarrollo de software donde se examinan las partes más pequeñas y aisladas del código, como funciones o métodos individuales, para verificar que se comportan como se espera. El objetivo es encontrar y corregir errores en las etapas más tempranas del desarrollo, cuando son más fáciles y económicos de solucionar. https://en.wikipedia.org/wiki/Unit_testing
+
+- Para este proyecto utilizaremos Gherkin. Gherkin es un lenguaje específico de dominio (DSL) que utiliza una sintaxis de texto simple para describir el comportamiento de un software. Es una parte fundamental de la metodología de Desarrollo Guiado por el Comportamiento (BDD), ya que permite a los equipos de desarrollo, pruebas y negocio colaborar y entender los requisitos de manera clara. https://cucumber.io/docs/gherkin/ 
+
+### Software Deployment
+
+El despliegue de software, o software deployment, es el proceso de hacer que una aplicación de software esté disponible para ser utilizada. Abarca todas las actividades que convierten el código en un producto funcional en un entorno de destino, como un servidor de prueba, un servidor de producción o el dispositivo de un usuario. 
+
+- Para este proyecto utilizaremos Github Pages. GitHub Actions y GitHub Pages funcionan conjuntamente para proporcionar un potente flujo de trabajo automatizado de integración continua/implementación continua (CI/CD) para sitios web estáticos. Con esta configuración, cualquier actualización que envíes a tu código activará automáticamente un flujo de trabajo que compila e implementa tu sitio, lo que elimina la necesidad de actualizaciones manuales. https://docs.github.com/en/pages
+
+### Software Documentation
+
+La documentación de software se refiere a todo el material escrito o ilustrado que acompaña a un producto de software. Su objetivo es explicar cómo funciona el software, cómo se usa y cómo se mantiene, sirviendo a diferentes audiencias como desarrolladores, usuarios finales y personal de soporte. Es una parte fundamental del ciclo de vida del desarrollo de software (SDLC).
+
+- Para este proyecto utilizaremos Swagger. Swagger es un conjunto de herramientas de código abierto que ayuda a los desarrolladores a diseñar, construir, documentar y consumir API REST. Originalmente, Swagger era el nombre de la especificación para describir estas interfaces, pero en 2016 la especificación pasó a llamarse OpenAPI (OAS), y el nombre "Swagger" se reservó para el conjunto de herramientas que implementan dicha especificación. https://swagger.io/
+
+- Para este proyecto utilizaremos Markdown. Markdown es un lenguaje de marcado ligero que permite dar formato a texto plano utilizando una sintaxis sencilla y fácil de leer. A diferencia de lenguajes más complejos como HTML, la sintaxis de Markdown utiliza símbolos y caracteres reconocibles para indicar formatos como negritas, cursivas, listas y encabezados. https://markdown.es/ 
+
 ### 4.1.2 Source Code Management
+
+En esta sección se establecen los medios y esquemas de organización que aplicará para el seguimiento de modificaciones. Se proporcionan los links de los repositorios en Github para todos los productos. 
+
+- URL de la organización: https://github.com/teatrope 
+- URL del Proyect Report: https://github.com/teatrope/Project-Report
+- URL del Landing Page: https://github.com/teatrope/teatrope-landing
+- URL de la API: https://github.com/teatrope/teatrope-api 
+
+Para este proyecto se utilizará Gitflow. Gitflow es un modelo de ramificación para Git que fue popularizado por Vincent Driessen en 2010. A diferencia de los modelos más modernos, como el desarrollo basado en troncales (Trunk-Based Development), Gitflow utiliza múltiples ramas de larga duración y asigna funciones muy específicas a cada una. Este modelo es especialmente adecuado para proyectos con ciclos de lanzamiento programados, donde se necesita un control estricto de las versiones, como por ejemplo, en software de escritorio o sistemas regulados. 
+
+- Ramas principales:
+  - **main**: Contiene el historial oficial de lanzamientos, con código que siempre está listo para ser desplegado en producción. Cada commit en esta rama representa una nueva versión, que a menudo se etiqueta con un número de versión.
+  - **develop**:  Sirve como una rama de integración donde se consolidan todas las nuevas funcionalidades. A partir de esta rama se crean las ramas secundarias y se realizan las pruebas antes de un lanzamiento.
+
+- Ramas de apoyo:
+  - **feature**: Se crea a partir de develop para desarrollar una nueva característica. Cuando la funcionalidad está completa, se fusiona de nuevo en develop. Este enfoque permite que los desarrolladores trabajen en paralelo sin afectar la rama principal.
+  - **release**: Se crea a partir de develop cuando se está preparando una nueva versión para producción. Se utiliza para correcciones de última hora, generación de documentación y pruebas finales. Una vez que la rama está estable, se fusiona tanto con main (se etiqueta como la nueva versión) como con develop (para mantener la coherencia).
+  - **hotfix**: Se crea directamente desde main para corregir errores críticos y urgentes en producción. Una vez resuelto el problema, la rama hotfix se fusiona de nuevo en main y en develop para asegurar que el arreglo se incluya en futuras versiones. 
+
+Para este proyecto se utilizarán Conventional Commits. Conventional Commits es una convención de especificación ligera para estructurar los mensajes de commit en Git, que los hace comprensibles tanto para humanos como para máquinas. Su principal objetivo es crear un historial de commits claro y legible, lo que facilita la automatización de procesos como la generación de registros de cambios (changelogs) y el versionado semántico. (SemVer). 
+
+Estructura del conventional commit:
+
+```
+<type> [optional scope]: <description>
+[optional body]
+[optional footer]
+```
+
+- **type**: Dependiendo del cambio que se realicen en el proyecto, los commits pueden ser:
+  - **feat**: Cuando se agrega una nueva funcionalidad
+  - **docs**: Cuando se realizan cambios en la documentación del proyecto
+  - **fix**: Cuando se corrige un error en el código
+  - **chore**: Cuando se realizan cambios que no afectan al código
+  - **refactor**: Cuando se realizan cambios en la estructura, sin afectar el comportamiento del proyecto
+  - **build**: Cuando se realizan cambios en los componentes del proyecto, como dependencias externas. 
+  - **perf**: Cuando se realizan cambios que mejoran el rendimiento del proyecto.
+- **scope**: Campo opcional que nos permite especificar el alcance que tiene el commit
+- **description**: Campo obligatorio que proporciona el contenido del commit, en minúsculas y de modo imperativo
+- **body**: Campo opcional en el cual se detalla más información sobre el commit.
+- **footer**: Campo opcional que se utiliza para informar al respecto de cambios importantes. 
 
 ### 4.1.3 Source Code Style Guide & Conventions
 
+Se establecen las referencias para nombrar elementos y programar en los lenguajes que se utilizan en la solución (HTML, CSS, JavasCript, TypeScript, Python, Kotlin, Swift). 
+
+### Kotlin
+
+La creación de aplicaciones escalables en Kotlin utilizando el diseño basado en el dominio (DDD) se centra en aislar la lógica empresarial central de los detalles técnicos de la implementación. Esto da lugar a una arquitectura limpia, fácil de mantener y de probar, a menudo combinando el DDD con principios arquitectónicos limpios o hexagonales. 
+
+- **Principios arquitectónicos**
+  - Aislar la capa de dominio: separar la lógica empresarial central en su propio módulo. Esta capa no debe depender de capas externas, como las capas de datos o de presentación.
+  - Encapsular la lógica empresarial: colocar todas las reglas empresariales directamente dentro de las entidades. El estado de la entidad solo debe modificarse mediante sus propios métodos para garantizar la aplicación coherente de las reglas.
+  - Utilizar abstracciones para los repositorios: definir interfaces de repositorio dentro de la capa de dominio para acceder a los agregados. La implementación concreta debe colocarse en la capa de datos. 
+
+- **Convenciones de Kotlin**
+  - Acepta la inmutabilidad: da preferencia a las variables val y a las estructuras de datos inmutables (listOf, mapOf). Para los objetos de valor, utiliza clases de datos con propiedades inmutables (val) para proporcionar igualdad estructural y simplificar la concurrencia.
+  - Aprovecha la seguridad de tipos: utiliza clases de valor @JvmInline para evitar la obsesión por lo primitivo y garantizar una seguridad de tipos sólida con una sobrecarga baja. Emplea clases selladas para crear jerarquías de clases restringidas, lo que hace que las expresiones when sean exhaustivas y seguras en cuanto a tipos.
+  - Simplifica los casos de uso: utiliza la función del operador invoke() para casos de uso o interactores. Esto permite llamadas más limpias, similares a funciones, que mejoran la legibilidad del código.
+  - Gestiona la concurrencia con corrutinas: utiliza corrutinas Kotlin para gestionar de forma eficiente tareas asíncronas y concurrentes, lo cual es esencial para aplicaciones escalables. 
+
+- **Patrones tácticos DDD en Kotlin**
+  - Entities: utilice clases estándar para objetos que tienen una identidad mutable a lo largo del tiempo.
+  - Aggregate roots: representan el punto de entrada principal para un agregado y son responsables de hacer cumplir las reglas de negocio.
+  - Value Objects: modélelos como objetos de clase de datos inmutables, aprovechando las implementaciones automáticas de equals() y hashCode() para la igualdad estructural.
+  - Domain services: defínalos como interfaz dentro de la capa de dominio, con la implementación residente en una capa externa. Deben ser sin estado y representar una capacidad empresarial. 
+
 ### 4.1.4 Software Deployment Configuration
+
+En esta sección se especifica la configuración del despliegue de la solución, incluyendo los pasos necesarios para que, a partir de los repositorios de código fuente se pueda lograr el despliegue o publicación satisfactorio de cada uno de los productos digitales. 
+
+### Landing page
+
+1. Ve a tu repositorio en GitHub y haz clic en la pestaña "Settings".
+2. En la barra lateral izquierda, navega hasta la sección "Code and automation" y haz clic en "Pages".
+3. En la sección "Build and deployment", selecciona "GitHub Actions" en el menú desplegable "Source". 
+4. En tu repositorio, crea la carpeta .github/workflows/ si no existe. 
+5. Dentro de esa carpeta, crea un nuevo archivo con una extensión .yml o .yaml. Por ejemplo, deploy.yml.
+6. Guarda el archivo deploy.yml
+7. Haz commit de los cambios y súbelos a tu repositorio.
+8. GitHub detectará automáticamente el nuevo flujo de trabajo y comenzará el primer despliegue.
+
+Puedes ver el progreso del despliegue haciendo clic en la pestaña "Actions" en tu repositorio. El flujo de trabajo se ejecutará y, si todo va bien, tu sitio estará disponible en la URL de GitHub Pages (con el formato https://<usuario>.github.io/<nombre-repositorio>/) en unos minutos. 
 
 ## 4.2 Landing Page & Mobile Application Implementation
 
