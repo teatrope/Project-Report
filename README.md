@@ -3796,6 +3796,19 @@ Los wireframes establecen la estructura inicial de la experiencia, definiendo je
 
 #### 3.1.3.2 Landing Page Mock-up
 
+<div align="center"> <img src="resources/figma/mlp1.png" alt="landing page mockup 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp2.png" alt="landing page mockup 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp3.png" alt="landing page mockup 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp4.png" alt="landing page mockup 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp5.png" alt="landing page mockup 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp6.png" alt="landing page mockup 6" width="600"> </div>
+
+En los mockups de Teatrope se aplica coherentemente el Design System definido, manteniendo una identidad moderna, elegante y cercana al mundo teatral.
+
+Se emplea la paleta oscura con acentos en rojo coral (#F74346), la tipografía Inter en jerarquías claras (títulos en Bold, texto en Regular), y una iconografía minimalista inspirada en la máscara del logo.
+
+El lenguaje visual es formal y entusiasta, transmitiendo accesibilidad y emoción por el teatro, con una interfaz limpia, contrastada y coherente entre la versión web y móvil.
+
 ### 3.1.4 Mobile Applications UX/UI Design
 
 #### 3.1.4.1 Mobile Applications Wireframes
