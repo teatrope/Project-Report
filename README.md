@@ -3810,8 +3810,33 @@ Se emplea la paleta oscura con acentos en rojo coral (#F74346), la tipografía I
 El lenguaje visual es formal y entusiasta, transmitiendo accesibilidad y emoción por el teatro, con una interfaz limpia, contrastada y coherente entre la versión web y móvil.
 
 ### 3.1.4 Mobile Applications UX/UI Design
+La propuesta de UX/UI móvil de Teatrope traduce la identidad visual del Design System en una experiencia práctica, clara y coherente.
+
+Cada pantalla mantiene una estructura jerárquica simple, con navegación inferior fija, iconografía coherente y el uso de la paleta principal (fondo oscuro y acentos en rojo coral #F74346).
+
+La tipografía Inter refuerza la legibilidad y consistencia visual, mientras que los botones de alto contraste guían las acciones principales del usuario (reserva, favoritos, búsqueda).
+
+El diseño combina claridad, accesibilidad y estética escénica, evocando la atmósfera teatral de forma moderna y funcional.
 
 #### 3.1.4.1 Mobile Applications Wireframes
+
+Los wireframes móviles representan la arquitectura de información y los flujos clave de interacción dentro de Teatrope.
+
+Cada vista —inicio, cartelera, ficha de obra, notificaciones y autenticación— se estructura siguiendo principios de diseño inclusivo, con espaciado amplio, etiquetas claras y jerarquía visual consistente. Los componentes (cards, botones, iconos y menús) evidencian la aplicación de los principios de usabilidad, priorizando la simplicidad, el reconocimiento y la navegación fluida entre secciones.
+
+El resultado es una interfaz intuitiva que facilita el acceso al contenido teatral y mejora la experiencia del usuario desde cualquier dispositivo móvil.
+
+<div align="center"> <img src="resources/figma/wt0.png" alt="mobile applications wireframe 0" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt1.png" alt="mobile applications wireframe 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt2.png" alt="mobile applications wireframe 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt3.png" alt="mobile applications wireframe 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt4.png" alt="mobile applications wireframe 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt5.png" alt="mobile applications wireframe 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt6.png" alt="mobile applications wireframe 6" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt7.png" alt="mobile applications wireframe 7" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt8.png" alt="mobile applications wireframe 8" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt9.png" alt="mobile applications wireframe 9" width="600"> </div>
+<div align="center"> <img src="resources/figma/wt10.png" alt="mobile applications wireframe 10" width="600"> </div>
 
 #### 3.1.4.2 Mobile Applications Wireflow Diagrams
 
