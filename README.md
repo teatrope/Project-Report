@@ -3810,12 +3810,56 @@ Se emplea la paleta oscura con acentos en rojo coral (#F74346), la tipografía I
 El lenguaje visual es formal y entusiasta, transmitiendo accesibilidad y emoción por el teatro, con una interfaz limpia, contrastada y coherente entre la versión web y móvil.
 
 ### 3.1.4 Mobile Applications UX/UI Design
+La propuesta de UX/UI móvil de Teatrope traduce la identidad visual del Design System en una experiencia práctica, clara y coherente.
+
+Cada pantalla mantiene una estructura jerárquica simple, con navegación inferior fija, iconografía coherente y el uso de la paleta principal (fondo oscuro y acentos en rojo coral #F74346).
+
+La tipografía Inter refuerza la legibilidad y consistencia visual, mientras que los botones de alto contraste guían las acciones principales del usuario (reserva, favoritos, búsqueda).
+
+El diseño combina claridad, accesibilidad y estética escénica, evocando la atmósfera teatral de forma moderna y funcional.
 
 #### 3.1.4.1 Mobile Applications Wireframes
+
+Los wireframes móviles representan la arquitectura de información y los flujos clave de interacción dentro de Teatrope.
+
+Cada vista —inicio, cartelera, ficha de obra, notificaciones y autenticación— se estructura siguiendo principios de diseño inclusivo, con espaciado amplio, etiquetas claras y jerarquía visual consistente. Los componentes (cards, botones, iconos y menús) evidencian la aplicación de los principios de usabilidad, priorizando la simplicidad, el reconocimiento y la navegación fluida entre secciones.
+
+El resultado es una interfaz intuitiva que facilita el acceso al contenido teatral y mejora la experiencia del usuario desde cualquier dispositivo móvil.
+
+<div align="center"> <img src="resources/figma/wt0.png" alt="mobile applications wireframe 0" width="400"> </div>
+<div align="center"> <img src="resources/figma/wt1.png" alt="mobile applications wireframe 1" width="200">
+<img src="resources/figma/wt2.png" alt="mobile applications wireframe 2" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt3.png" alt="mobile applications wireframe 3" width="200">
+<img src="resources/figma/wt4.png" alt="mobile applications wireframe 4" width="200"> </div> 
+<div align="center"> <img src="resources/figma/wt5.png" alt="mobile applications wireframe 5" width="200">
+<img src="resources/figma/wt6.png" alt="mobile applications wireframe 6" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt7.png" alt="mobile applications wireframe 7" width="200">
+<img src="resources/figma/wt8.png" alt="mobile applications wireframe 8" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt9.png" alt="mobile applications wireframe 9" width="200">
+<img src="resources/figma/wt10.png" alt="mobile applications wireframe 10" width="200"> </div>
 
 #### 3.1.4.2 Mobile Applications Wireflow Diagrams
 
 #### 3.1.4.3 Mobile Applications Mock-ups
+
+Los mockups evidencian la aplicación del Design System, integrando los principios de consistencia visual, jerarquía tipográfica, contraste y accesibilidad.
+Asimismo, reflejan el uso de elementos de diseño inclusivo, garantizando legibilidad, navegación intuitiva y una experiencia coherente para todo tipo de usuario.
+
+La arquitectura de información se organiza en bloques funcionales (cartelera, ficha de obra, notificaciones, perfil y ajustes), priorizando la claridad y la usabilidad.
+Se mantienen los fondos oscuros con acentos en rojo coral (#F74346) para resaltar las acciones clave, tipografía Inter en jerarquías claras y una iconografía minimalista coherente con la identidad teatral.
+La navegación inferior, los botones de alto contraste y las tarjetas modulares aseguran una experiencia fluida e intuitiva, mientras que el estilo visual transmite sofisticación, cercanía y pasión por el arte escénico.
+
+<div align="center"> <img src="resources/figma/mt0.png" alt="mobile applications mockup 0" width="400"> </div>
+<div align="center"> <img src="resources/figma/mt1.png" alt="mobile applications mockup 1" width="200">
+<img src="resources/figma/mt2.png" alt="mobile applications mockup 2" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt3.png" alt="mobile applications mockup 3" width="200">
+<img src="resources/figma/mt4.png" alt="mobile applications mockup 4" width="200"> </div> 
+<div align="center"> <img src="resources/figma/mt5.png" alt="mobile applications mockup 5" width="200">
+<img src="resources/figma/mt6.png" alt="mobile applications mockup 6" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt7.png" alt="mobile applications mockup 7" width="200">
+<img src="resources/figma/mt8.png" alt="mobile applications mockup 8" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt9.png" alt="mobile applications mockup 9" width="200">
+<img src="resources/figma/mt10.png" alt="mobile applications mockup 10" width="200"> </div>
 
 #### 3.1.4.4 Mobile Applications User Flow Diagrams
 
