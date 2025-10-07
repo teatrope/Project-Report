@@ -3619,7 +3619,7 @@ El sistema visual se inspira en Design Systems contemporáneos, priorizando la l
 ##### 3.1.1.1.1 Tipografía
 ###### 3.1.1.1.1.1 Tipografía del logotipo
 
-<img src="resources/figma/logo.png" alt="logo" width="500px">
+<div align="center"><img src="resources/figma/logo.png" alt="logo" width="300px"></div>
 
 El logotipo de Teatrope utiliza la fuente Inter en estilo Bold y en minúsculas.
 
@@ -3629,7 +3629,7 @@ El uso en minúsculas refuerza un tono accesible y humano, mientras que el groso
 
 ###### 3.1.1.1.1.2 Tipografía del texto regular
 
-<img src="resources/figma/tipografia.png" alt="tipografia" width="500px">
+<div align="center"><img src="resources/figma/tipografia.png" alt="tipografia" width="400px"></div>
 
 Para todos los textos de la interfaz se emplea la familia Inter, elegida por su alta legibilidad en pantallas móviles y su versatilidad para jerarquizar contenidos.
 
@@ -3644,7 +3644,7 @@ La familia Inter ofrece un aspecto limpio y tecnológico, que refuerza la usabil
 
 ##### 3.1.1.1.2. Colores
 
-<img src="resources/figma/paletacolor.png" alt="paleta de color" width="500px">
+<div align="center"><img src="resources/figma/paletacolor.png" alt="paleta de color" width="400px"></div>
 
 **Paleta principal**
 
@@ -3673,7 +3673,7 @@ El rojo coral (#F74346) representa la energía y vitalidad del teatro; el negro 
 
 Los íconos de Teatrope siguen un estilo minimalista y coherente, diseñado para mantener claridad y armonía visual.
 
-<img src="resources/figma/iconografia.png" alt="iconografia" width="500px">
+<div align="center"><img src="resources/figma/iconografia.png" alt="iconografia" width="400px"></div>
 
 Todos están basados en un grid de 24 px, con trazos de 2–4 px según el tamaño, garantizando consistencia entre los distintos elementos de la interfaz.
 
@@ -3730,8 +3730,69 @@ El resultado es una interfaz moderna, intuitiva y emocionalmente atractiva, que 
 #### 3.1.2.5 Navigation Systems
 
 ### 3.1.3 Landing Page UI Design
+La propuesta de UI del Landing Page de Teatrope traduce las decisiones del Design System en una interfaz moderna, inmersiva y coherente con su identidad visual: un espacio digital que acerca el teatro al público a través de una experiencia clara, atractiva y emocional.
+
+El diseño equilibra contraste, jerarquía visual y accesibilidad, manteniendo la estética oscura y elegante característica de la marca, acompañada por acentos en rojo coral (#F74346) que evocan la energía del escenario.
+
+La estructura del landing page se organiza en bloques claramente diferenciados:
+
+**Hero Section**
+* Presenta el logotipo y un slogan principal, reforzando la propuesta de valor (“Descubre lo mejor del teatro en un solo lugar”).
+* Incluye botón de acción directa (Download Now) y una ilustración alusiva a las artes escénicas.
+* Transmite el enfoque emocional del producto mediante imágenes de actores y escenarios.
+
+**Features Section**
+* Resume los principales beneficios de Teatrope.
+* Utiliza íconos lineales con el color principal de la marca (#F74346) y descripciones breves para garantizar comprensión inmediata.
+
+**Plans Section**
+
+Expone tres categorías de uso:
+
+* Audience Plan: acceso gratuito a la cartelera y favoritos.
+* Theatre Plan: opción para productores o teatros que desean publicar obras.
+* Cultural Hub Plan: integración para instituciones o festivales.
+
+Cada plan está dispuesto en cards con bordes suaves, tipografía Inter y CTA contrastante.
+
+**Articles Section**
+* Espacio para notas editoriales, entrevistas o reseñas teatrales bajo el título “Latest Theater Articles”.
+* Presenta cards con imagen destacada, título y breve descripción, fomentando la exploración de contenido cultural.
+
+**Testimonials Section**
+* Reúne comentarios de usuarios y productores satisfechos, reforzando la confianza en la comunidad Teatrope.
+* Emplea un fondo oscuro con textos claros y fotografía circular de cada testimonio.
+
+**FAQ & Contact Section**
+* Integra preguntas frecuentes en formato acordeón y un bloque de contacto con redes sociales.
+* Usa botones secundarios con esquinas redondeadas, manteniendo coherencia con el resto de la interfaz.
 
 #### 3.1.3.1 Landing Page Wireframe
+
+<div align="center"> <img src="resources/figma/wlp1.png" alt="landing page wireframe 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp2.png" alt="landing page wireframe 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp3.png" alt="landing page wireframe 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp4.png" alt="landing page wireframe 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp5.png" alt="landing page wireframe 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp6.png" alt="landing page wireframe 6" width="600"> </div>
+
+Los wireframes establecen la estructura inicial de la experiencia, definiendo jerarquías y zonas de interacción.
+
+**Desktop Web Browser**
+
+* Barra superior fija con logo, navegación clara (Features, Plans, Blog Reviews, FAQ, Login).
+* Hero section central con imagen representativa y un mensaje inspirador sobre el teatro.
+* Features y Plans distribuidos en tres columnas con proporciones visualmente equilibradas.
+* Articles y Testimonials en bloques horizontales para mantener ritmo visual.
+* Footer con información institucional, redes sociales y enlaces secundarios.
+
+**Mobile Web Browser**
+
+* Menú hamburguesa para simplificar la navegación.
+* Hero section centrada, con el logo de Teatrope y un único CTA principal.
+* Secciones en scroll vertical, manteniendo márgenes amplios y tipografía legible.
+* Plans y Articles en formato de tarjetas apiladas con scroll suave.
+* FAQ y contacto al final, con acceso rápido a redes sociales y soporte.
 
 #### 3.1.3.2 Landing Page Mock-up
 
