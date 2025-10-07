@@ -3840,6 +3840,8 @@ El resultado es una interfaz intuitiva que facilita el acceso al contenido teatr
 
 #### 3.1.4.2 Mobile Applications Wireflow Diagrams
 
+Los wireflow diagrams permiten evidenciar el manejo y control de flujo de la aplicación.
+
 #### 3.1.4.3 Mobile Applications Mock-ups
 
 Los mockups evidencian la aplicación del Design System, integrando los principios de consistencia visual, jerarquía tipográfica, contraste y accesibilidad.
