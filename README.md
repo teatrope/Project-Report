@@ -3996,6 +3996,68 @@ Evidencia del Trello Sprint backlog 1:
 
 #### 4.2.1.4 Testing Suite Evidence for Sprint Review
 
+En esta sección se presenta código de pruebas de integración para los servcios principales implementados en la API con Python y Django REST Framework. Se utiliza la biblioteca APITestCase de este framework para testear los métodos HTTP de los endpoints principales usando datos de prueba y verificando los estados de respuesta. Cada prueba verifica el código de respuesta y la correcta asignación de valores de respuesta. 
+
+### accounts
+
+Prueba unitaria para el registro y login de un usuario.
+
+```python
+from django.urls import reverse
+from rest_framework.test import APITestCase
+from rest_framework import status
+from .models import Usuario
+
+
+class AuthTests(APITestCase):
+    def test_register_and_login(self):
+        url_register = reverse('usuario-register')
+        data = {"email": "user@example.com", "password": "Secret123!", "tipo_rol": "CONSUMIDOR"}
+        resp = self.client.post(url_register, data, format='json')
+        self.assertEqual(resp.status_code, status.HTTP_201_CREATED)
+        token = resp.data['token']
+        self.assertTrue(token)
+
+        url_login = reverse('usuario-login')
+        resp2 = self.client.post(url_login, {"email": "user@example.com", "password": "Secret123!"}, format='json')
+        self.assertEqual(resp2.status_code, status.HTTP_200_OK)
+```
+
+### content
+
+Prueba unitaria para las operaciones CRUD del endpoint "content". 
+
+```python
+from django.urls import reverse
+from rest_framework.test import APITestCase
+from rest_framework import status
+from accounts.models import Usuario
+from rest_framework.authtoken.models import Token
+
+
+class ContentCrudTests(APITestCase):
+    def setUp(self):
+        self.user = Usuario.objects.create_user(email='u@e.com', password='Secret123!')
+        self.token, _ = Token.objects.get_or_create(user=self.user)
+        self.client.credentials(HTTP_AUTHORIZATION=f'Token {self.token.key}')
+
+    def test_teatro_crud(self):
+        list_url = '/api/content/teatros/'
+        payload = {
+            "nombre": "Teatro Central",
+            "descripcion": "Desc",
+            "calle": "Av.",
+            "distrito": "Centro",
+            "latitud": -12.05,
+            "longitud": -77.05
+        }
+        r = self.client.post(list_url, payload, format='json')
+        self.assertEqual(r.status_code, status.HTTP_201_CREATED)
+        teatro_id = r.data['id']
+        r2 = self.client.get(f'{list_url}{teatro_id}/')
+        self.assertEqual(r2.status_code, status.HTTP_200_OK)
+```
+
 #### 4.2.1.5 Excecution Evidence for Sprint Review
 
 #### 4.2.1.6 Services Documentation Evidence for Sprint Review
