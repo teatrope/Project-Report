@@ -3842,6 +3842,25 @@ El resultado es una interfaz intuitiva que facilita el acceso al contenido teatr
 
 #### 3.1.4.3 Mobile Applications Mock-ups
 
+Los mockups evidencian la aplicación del Design System, integrando los principios de consistencia visual, jerarquía tipográfica, contraste y accesibilidad.
+Asimismo, reflejan el uso de elementos de diseño inclusivo, garantizando legibilidad, navegación intuitiva y una experiencia coherente para todo tipo de usuario.
+
+La arquitectura de información se organiza en bloques funcionales (cartelera, ficha de obra, notificaciones, perfil y ajustes), priorizando la claridad y la usabilidad.
+Se mantienen los fondos oscuros con acentos en rojo coral (#F74346) para resaltar las acciones clave, tipografía Inter en jerarquías claras y una iconografía minimalista coherente con la identidad teatral.
+La navegación inferior, los botones de alto contraste y las tarjetas modulares aseguran una experiencia fluida e intuitiva, mientras que el estilo visual transmite sofisticación, cercanía y pasión por el arte escénico.
+
+<div align="center"> <img src="resources/figma/mt0.png" alt="mobile applications mockup 0" width="400"> </div>
+<div align="center"> <img src="resources/figma/mt1.png" alt="mobile applications mockup 1" width="200">
+<img src="resources/figma/mt2.png" alt="mobile applications mockup 2" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt3.png" alt="mobile applications mockup 3" width="200">
+<img src="resources/figma/mt4.png" alt="mobile applications mockup 4" width="200"> </div> 
+<div align="center"> <img src="resources/figma/mt5.png" alt="mobile applications mockup 5" width="200">
+<img src="resources/figma/mt6.png" alt="mobile applications mockup 6" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt7.png" alt="mobile applications mockup 7" width="200">
+<img src="resources/figma/mt8.png" alt="mobile applications mockup 8" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt9.png" alt="mobile applications mockup 9" width="200">
+<img src="resources/figma/mt10.png" alt="mobile applications mockup 10" width="200"> </div>
+
 #### 3.1.4.4 Mobile Applications User Flow Diagrams
 
 #### 3.1.4.5 Mobile Applications Prototyping
