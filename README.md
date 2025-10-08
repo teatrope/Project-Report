@@ -3829,6 +3829,17 @@ En esta sección definimos cómo nuestra app móvil de Teatrope organiza y prese
 
 #### 3.1.2.3 SEO Tags and Meta Tags
 
+Las etiquetas de SEO y las metaetiquetas son fundamentales porque cumplen un papel esencial en la optimización para motores de búsqueda (SEO), ayudando a incrementar la visibilidad y la posición de una página web en los resultados de búsqueda.
+
+| **Campo**       | **Landing Page**                                                                                                                                                                               | **Web Application**                                                                                                          |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Title**       | Teatrope | Cartelera de teatro en Lima y compra de entradas                                                                                                                                    | Teatrope App | Explora cartelera, favoritos y próximas funciones                                                             |
+| **Description** | Descubre obras y funciones en Lima. Compara teatros, horarios y precios, aprovecha promociones y reserva tus entradas en minutos.                                                              | Busca por ciudad, distrito y género; guarda favoritos, recibe notificaciones y compra entradas de forma segura desde la app. |
+| **Keywords**    | teatro, obras en Lima, cartelera, entradas de teatro, funciones hoy, teatros en Lima, promociones 2x1, preventa, estrenos, comedia, drama, musical, familiar, Miraflores, Barranco, San Isidro | cartelera teatro, buscar obras, géneros, distrito, favoritos, notificaciones, próximos estrenos, rating, booking, tickets    |
+| **Authors**     | Teatrope Team                                                                                                                                                                                  | Teatrope                                                                                                                     |
+
+
+
 #### 3.1.2.4 Searching Systems
 
 #### 3.1.2.5 Navigation Systems
