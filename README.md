@@ -3719,6 +3719,8 @@ El resultado es una interfaz moderna, intuitiva y emocionalmente atractiva, que 
 
 ### 3.1.2 Information Architecture
 
+En esta sección definimos cómo Teatrope organiza y presenta su información para que cualquier persona pueda entenderla y usarla sin fricción. Diseñamos la estructura del sitio y sus rutas de navegación pensando en los principales escenarios de uso: explorar la cartelera, revisar funciones y sedes, aprovechar promociones y gestionar la cuenta. La arquitectura prioriza niveles claros de contenido, flujos guiados para tareas críticas (p. ej., compra de entradas), filtros facetados para explorar con precisión y enlaces contextuales entre obras, funciones y teatros. El objetivo es reducir pasos, mantener coherencia terminológica y acelerar la toma de decisiones.
+
 #### 3.1.2.1 Orgainzation Systems
 
 #### 3.1.2.2 Labelling Systems
