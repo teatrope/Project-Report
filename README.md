@@ -4332,7 +4332,35 @@ Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
     <td>In-Process</td>
   </tr>
   <tr>
- 
+    <td>T29</td>
+    <td>Calendarios</td>
+    <td>Deep link a Google Calendar/ICS y documentación.</td>
+    <td>1.5</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- Technical Story: Analytics & Logging -->
+  <tr>
+    <td rowspan="2">TS02</td>
+    <td rowspan="2">Analytics & logging</td>
+    <td>T30</td>
+    <td>Eventos clave</td>
+    <td>Instrumentar “Buscar”, “Filtrar”, “Favorito”, “Comprar”.</td>
+    <td>1.5</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T31</td>
+    <td>Dash básico</td>
+    <td>Panel simple de métricas para demo (local/dev).</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+</table>
+
 #### 4.2.1.3 Development Evidence for Sprint Review
 
 Evidencia del Trello Sprint backlog 1:
