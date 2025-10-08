@@ -3838,11 +3838,13 @@ Las etiquetas de SEO y las metaetiquetas son fundamentales porque cumplen un pap
 | **Keywords**    | teatro, obras en Lima, cartelera, entradas de teatro, funciones hoy, teatros en Lima, promociones 2x1, preventa, estrenos, comedia, drama, musical, familiar, Miraflores, Barranco, San Isidro | cartelera teatro, buscar obras, géneros, distrito, favoritos, notificaciones, próximos estrenos, rating, booking, tickets    |
 | **Authors**     | Teatrope Team                                                                                                                                                                                  | Teatrope                                                                                                                     |
 
-
-
 #### 3.1.2.4 Searching Systems
 
+El sistema de búsqueda de Teatrope combina un buscador central y filtros facetados visibles para reducir rápidamente el conjunto de resultados. Desde la Home y las vistas de listado, el usuario puede (1) escribir términos libres en el campo “Search” (título de la obra, teatro o palabra clave) y (2) acotar con selectores persistentes de Choose city, District y Genre. El buscador admite sugerencias instantáneas y respeta el contexto activo (p. ej., mantener ciudad/distrito seleccionados al cambiar entre “Services” y “Theaters”). En las tarjetas se muestran señales como “Release date”, rating y estado de favorito para ayudar a decidir sin abrir el detalle. El sistema recuerda los filtros aplicados durante la sesión, permite limpiar con un solo gesto y prioriza la relevancia temporal (funciones próximas) en los resultados. En detalle de teatro u obra, los enlaces “Currently playing” y “Booking” actúan como atajos de búsqueda contextual hacia funciones específicas.
+
 #### 3.1.2.5 Navigation Systems
+
+
 
 ### 3.1.3 Landing Page UI Design
 La propuesta de UI del Landing Page de Teatrope traduce las decisiones del Design System en una interfaz moderna, inmersiva y coherente con su identidad visual: un espacio digital que acerca el teatro al público a través de una experiencia clara, atractiva y emocional.
