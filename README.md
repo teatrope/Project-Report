@@ -3733,6 +3733,100 @@ En esta sección definimos cómo nuestra app móvil de Teatrope organiza y prese
 
 #### 3.1.2.2 Labelling Systems
 
+### Navegación principal
+
+| **Etiqueta** | **Descripción**                                |
+| ------------ | ---------------------------------------------- |
+| Billboard    | Cartelera actual de obras (listado principal). |
+| Coming soon  | Próximos estrenos y funciones futuras.         |
+| Favorites    | Obras/teatros marcados con “♥”.                |
+| Profile      | Acceso al perfil del usuario y ajustes.        |
+
+### Home, búsqueda y filtros
+
+| **Etiqueta**                  | **Descripción**                                             |
+| ----------------------------- | ----------------------------------------------------------- |
+| Search                        | Campo para buscar obra, actor, teatro o palabra clave.      |
+| Choose city                   | Selector de ciudad activa (p. ej., Lima).                   |
+| District                      | Filtro por distrito dentro de la ciudad.                    |
+| Genre                         | Filtro por género (Comedy, Drama, Musical, etc.).           |
+| Services                      | Vista de cartelera/obras.                                   |
+| Theaters                      | Vista de sedes/teatros.                                     |
+| Notifications (icono campana) | Indicador de novedades; acceso al centro de notificaciones. |
+| Promotions card               | Tarjeta destacada con promociones/avisos.                   |
+
+
+### Listados y tarjetas
+
+| **Etiqueta**     | **Descripción**                                  |
+| ---------------- | ------------------------------------------------ |
+| Release date     | Insignia con fecha de estreno/función.           |
+| Rating (★ 4.7)   | Puntuación promedio visible en tarjeta o header. |
+| Favorite (☆/★/♥) | Marcador para añadir/quitar de Favoritos.        |
+
+
+### Detalle de obra
+
+| **Etiqueta**      | **Descripción**                                       |
+| ----------------- | ----------------------------------------------------- |
+| Booking           | CTA principal para iniciar proceso de compra.         |
+| Genres (chips)    | Categorías de la obra (Comedy, Fantasy, etc.).        |
+| Cast (avatars)    | Reparto principal con fotos/avatars.                  |
+| Synopsis          | Resumen breve de la obra.                             |
+| Venue / Address   | Teatro y dirección donde se presenta.                 |
+| Showtimes         | Días/horarios de funciones (ej.: *Thu–Sun 08:00 pm*). |
+| “Already saw it?” | Control para marcar vista y valorar.                  |
+
+
+### Ficha de teatro
+
+| **Etiqueta**      | **Descripción**                               |
+| ----------------- | --------------------------------------------- |
+| Currently playing | Carrusel con obras en ese teatro.             |
+| Know more         | CTA para ampliar información del teatro/obra. |
+
+### Autenticación
+
+| **Etiqueta**      | **Descripción**                      |
+| ----------------- | ------------------------------------ |
+| Sign in           | Ingreso a la cuenta existente.       |
+| Sign up           | Registro de nueva cuenta.            |
+| E-mail / Password | Campos de credenciales.              |
+| Remember me?      | Mantener sesión iniciada.            |
+| Forgot password?  | Flujo de recuperación de contraseña. |
+
+### Perfil y ajustes
+
+| **Etiqueta**           | **Descripción**                         |
+| ---------------------- | --------------------------------------- |
+| My tickets             | Listado de entradas del usuario.        |
+| My credit cards        | Gestión de tarjetas de pago.            |
+| History                | Historial de compras/actividad.         |
+| Settings               | Configuración de cuenta.                |
+| Update                 | Guardar cambios de email/contraseña.    |
+| Permissions            | Sección de permisos del sistema.        |
+| Notifications (toggle) | Activar/desactivar notificaciones push. |
+| Location (toggle)      | Activar/desactivar geolocalización.     |
+| About us               | Información de la app/equipo.           |
+| Terms & Conditions     | Políticas y términos de uso.            |
+| Logout                 | Cerrar sesión.                          |
+
+
+### Centro de notificaciones
+
+| **Etiqueta**  | **Descripción**                                 |
+| ------------- | ----------------------------------------------- |
+| Notifications | Pantalla con novedades y avisos personalizados. |
+| Clear all     | Acción para limpiar todas las notificaciones.   |
+
+### Estados y mensajes breves
+
+| **Etiqueta**                   | **Descripción**                           |
+| ------------------------------ | ----------------------------------------- |
+| New play just added!           | Aviso de obra recién añadida.             |
+| A change in your favorite show | Cambio de horario/fecha en una favorita.  |
+| Recommended for you            | Recomendación basada en preferencias/uso. |
+
 #### 3.1.2.3 SEO Tags and Meta Tags
 
 #### 3.1.2.4 Searching Systems
