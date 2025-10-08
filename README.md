@@ -3844,6 +3844,13 @@ El sistema de búsqueda de Teatrope combina un buscador central y filtros faceta
 
 #### 3.1.2.5 Navigation Systems
 
+La navegación de Teatrope se apoya en tres capas complementarias.
+
+* Navegación global (barra inferior): pestañas persistentes para moverse entre las áreas principales: Billboard (cartelera), Coming soon (próximos estrenos), Favorites (guardados) y Profile (cuenta y ajustes). Esta barra permite volver a la raíz de cada sección con un solo toque.
+
+* Navegación contextual (en pantalla): en Home, los toggles Services/Theaters, los filtros (city/district/genre) y el carrusel de tarjetas permiten profundizar o cambiar de perspectiva sin abandonar la vista. En detalle de obra y de teatro, los CTAs (Booking, Know more) y los carruseles (“Currently playing”, obras similares) conectan con pasos siguientes o contenidos relacionados. Los botones de “back” en headers mantienen el historial de la sesión para retornos previsibles.
+
+* Navegación asistida (sistema): el centro de Notifications ofrece accesos directos a novedades (nuevas obras, cambios en favoritas, recomendaciones) y devuelve al usuario exactamente al contenido afectado. Estados como “favorito” y “rating” habilitan recorridos personales desde Favorites hacia los detalles. En conjunto, estos métodos reducen la profundidad de clics, evitan callejones sin salida y mantienen visible la acción principal (comprar entradas) en los momentos clave.
 
 
 ### 3.1.3 Landing Page UI Design
