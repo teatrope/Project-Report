@@ -4300,7 +4300,33 @@ Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
     <td>To-do</td>
   </tr>
 
-bile.</td>
+  <!-- Spike SS01: Cartelera centralizada -->
+  <tr>
+    <td rowspan="2">SS01</td>
+    <td rowspan="2">Visualización centralizada de cartelera</td>
+    <td>T26</td>
+    <td>Revisión de librerías</td>
+    <td>Comparar filtrado/paginación (Material/Headless/Native).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T27</td>
+    <td>PoC filtros</td>
+    <td>Prototipo con 50 obras y métricas (&lt;1s búsqueda).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- Spike SS05: Mapas y calendarios -->
+  <tr>
+    <td rowspan="2">SS05</td>
+    <td rowspan="2">Integración mapas y calendarios</td>
+    <td>T28</td>
+    <td>Maps API</td>
+    <td>Probar markers, rendimiento y compatibilidad mobile.</td>
     <td>1.5</td>
     <td>Rodrigo</td>
     <td>In-Process</td>
