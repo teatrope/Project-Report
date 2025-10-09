@@ -4803,14 +4803,34 @@ Notar que en varios archivos se utilizan variables de entorno que más tarde deb
 
 <img src="resources/Imagen11.png" alt="Software Deployment Evidence 11">
 
+7. Crear un servicio MySQL desde Railway, donde los detalles de conexión se generan automáticamente. Es importante linkear la dirección de la base de datos en la variable DATABASE_URL del servicio API.
+
 <img src="resources/Imagen12.png" alt="Software Deployment Evidence 12">
+
+8. Una vez sea exitoso el build y deployment tocará conectarse mediante mediante la CLI de Railway para iniciar la API.
+9. Instalar la CLI mediante “npm install -g @railway/cli” e iniciar sesión con “railway login”
+10. Desde la ruta local hacer “railway link” para conectarnos con el proyecto en Railway.
+11. Ingresar a la shell de Railway mediante “railway shell”
+12. Ingresar al entorno virtual de Python mediante “../venv/Scripts/activate”
+13. Realizar las migraciones Django para terminar de configurar y crear la base de datos con la API
+a.railway run python manage.py makemigrations
+b.railway run python manage.py migrate
+c.railway run python manage.py createsuperuser (opcional)
+14. Testear la api mediante postman
+
+Registrar usuario
 
 <img src="resources/Imagen13.png" alt="Software Deployment Evidence 13">
 
+Login
+
 <img src="resources/Imagen14.png" alt="Software Deployment Evidence 14">
+
+Get de usuarios
 
 <img src="resources/Imagen15.png" alt="Software Deployment Evidence 15">
 
+URL de la api: https://teatrope-api-production-278a.up.railway.app
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
 
