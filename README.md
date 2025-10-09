@@ -347,7 +347,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1: </strong><br>Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br> Reconocí la importancia del aprendizaje continuo al investigar soluciones para el deployment, la corrección de tablas y la preparación de la demo y video de exposición, mejorando mi capacidad de adaptación a los retos del proyecto.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
