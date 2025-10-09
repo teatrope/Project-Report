@@ -4795,8 +4795,9 @@ settings.py
 
 Notar que en varios archivos se utilizan variables de entorno que más tarde deberán ser configuradas en Railway, o asignadas dinámicamente.
 
-En el proyecto de Railway configurar el Root Directory a /backend
+5. En el proyecto de Railway configurar el Root Directory a /backend
 
+<img src="resources/Imagen10.png" alt="Software Deployment Evidence 10">
 
 
 
