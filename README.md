@@ -275,6 +275,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
 </strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Fortalecí mis conocimientos en planificación ágil y diseño de experiencia de usuario, participando activamente en la elaboración de los user flows, el prototipado web y móvil de la aplicación y la planificación del sprint. Estas actividades me permitieron comprender mejor la relación entre el diseño funcional y la ejecución técnica, aplicando buenas prácticas para estructurar procesos de desarrollo más organizados y centrados en las necesidades del usuario.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -342,6 +343,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <strong>ℹ️ TB1: </strong><br>Durante el desarrollo del proyecto reconocí la importancia de mantener un aprendizaje constante para fortalecer mis capacidades en el ámbito del software. La investigación y aplicación de conceptos como el lenguaje ubicuo, las historias de usuario y el product backlog me permitieron ampliar mi conocimiento en metodologías ágiles y en el diseño de soluciones digitales. Este proceso evidenció que el aprendizaje permanente es esencial para adaptarse a los cambios tecnológicos, responder a las necesidades reales de consumidores y productores de teatro, y proponer mejoras continuas que aseguren el éxito y la sostenibilidad de los proyectos.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Esta entrega me permitió comprender la importancia del aprendizaje continuo en el desarrollo de soluciones digitales. A través de la creación de user flows, el prototipado móvil y la planificación del sprint, fortalecí mis habilidades en diseño centrado en el usuario y metodologías ágiles. Reconocí que mantenerme actualizado en estas áreas es esencial para mejorar la experiencia del usuario y la eficiencia del equipo en futuros proyectos.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -4235,6 +4237,60 @@ Puedes ver el progreso del despliegue haciendo clic en la pestaña "Actions" en 
 ### 4.2.1 Sprint 1
 
 #### 4.2.1.1 Sprint Planning 1
+
+<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th colspan="2"><strong>Sprint #</strong></th>
+    <td colspan="2">Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th style="width: 20%;">Date</th>
+    <td colspan="3">2025-09-30</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td colspan="3">07:40 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td colspan="3">Mediante una videollamada en Discord.</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td colspan="3">Alva Abanto, Luis Andres</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td colspan="3">Yalan Zhang, Angie Christina / Sosa Soto, Oskar Rodrigo / López Acuña, Mario Joaquín / Varela Bustinza, Marcelo Alessandro</td>
+  </tr>
+  <tr>
+    <th>Sprint 0 Review Summary</th>
+    <td colspan="3">No hubo Sprint anterior (este es el primer sprint)</td>
+  </tr>
+  <tr>
+    <th>Sprint 0 Retrospective Summary</th>
+    <td colspan="3">No hubo Sprint anterior (este es el primer sprint)</td>
+  </tr>
+  <tr>
+    <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td colspan="3">Nuestro objetivo en este sprint es construir la base funcional de la aplicación Teatrope, implementando el flujo de autenticación y la pantalla principal de cartelera. Buscamos validar la experiencia de navegación inicial y garantizar que los usuarios puedan registrarse, iniciar sesión y visualizar obras teatrales disponibles según ciudad o distrito.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td colspan="3">20 Story Points</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td colspan="3">18 Story Points</td>
+  </tr>
+</table>
+
 
 #### 4.2.1.2 Sprint Backlog 1
 
