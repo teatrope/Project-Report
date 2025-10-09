@@ -4760,15 +4760,32 @@ El despligue realizado para el desarrollo del backend e nuestra aplicación se c
 
 <img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
 
-<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+3. Crear una rama para el deployment, donde la configuración del proyecto puede ser diferente a la configuración utilizada para levantar la API localmente
+4. Verificar archivos como:
+a. docker-compose.yml
+b. Dockerfile
+c. requirements.txt
+d. manage.py
+e. settings.py
+Se comparte la configuración de dichos archivos.
 
-<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+docker-compose-yml
 
-<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+<img src="resources/Imagen3.png" alt="Software Deployment Evidence 3">
 
-<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+Dockerfile
 
-<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+<img src="resources/Imagen4.png" alt="Software Deployment Evidence 4">
+
+<img src="resources/Imagen5.png" alt="Software Deployment Evidence 5">
+
+<img src="resources/Imagen6.png" alt="Software Deployment Evidence 6">
+
+<img src="resources/Imagen7.png" alt="Software Deployment Evidence 7">
+
+<img src="resources/Imagen8.png" alt="Software Deployment Evidence 8">
+
+<img src="resources/Imagen9.png" alt="Software Deployment Evidence 9">
 
 
 
