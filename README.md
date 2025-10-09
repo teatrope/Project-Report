@@ -8,6 +8,8 @@
 
 ## Universidad Peruana de Ciencias Aplicadas 🎓
 
+<br><br>
+
 Ingeniería de software - 2025-02
 
 **Sección:** 1798
@@ -17,6 +19,8 @@ Ingeniería de software - 2025-02
 **StartUp:**  CulturizaTech
 
 **Producto:** Teatrope
+
+<br><br>
 
 <div align="left">
 
@@ -31,10 +35,12 @@ string[] Integrantes() {
     };
 }
 ~~~
-
+<br><br>
 <div align="center">
 Agosto de 2025 🗓️
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ## Registro de versiones del Informe
 
@@ -64,7 +70,28 @@ Agosto de 2025 🗓️
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>TP1</td>
+    <td>08/10/2025</td>
+    <td>
+      <ul> 
+        <li>Alva Abanto, Luis Andres</li> 
+        <li>Sosa Soto, Oskar Rodrigo</li> 
+        <li>Varela Bustinza, Marcelo Alessandro </li>
+        <li>Yalan Zhang, Angie Christina</li>
+        <li>Lopez Acuña, Mario Joaquin</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos:<br>
+      <ul>
+        <li>Capítulo III: Solution UI/UX Design</li>
+        <li>Capítulo IV: Product Implementation & Validation (Sprint 1)</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
+<div style="page-break-after: always;"></div>
 
 ## Project Report Collaboration Insights
 
@@ -72,6 +99,8 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 
 URL del repositorio del Project Report en la organización de GitHub del equipo: 
 - [https://github.com/teatrope/Project-Report](https://github.com/teatrope/Project-Report)
+
+<div style="page-break-after: always;"></div>
 
 ## Contenido
 
@@ -177,6 +206,8 @@ Tabla de contenidos
 - Bibliografía
 - Anexos
 
+<div style="page-break-after: always;"></div>
+
 ## Student Outcome
 
 ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas. 
@@ -200,6 +231,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega tuve que investigar más acerca de Domain Driven Design aplicado a desarrollo móvil y clean architecture.  Este conocimiento fue clave para tomar decisiones más informadas sobre el diseño de arquitectura del proyecto.  
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Para esta entrega me centré en ampliar mis conocimientos sobre desarrollo backend, desarrollé la API aplicando arquitectura escalable y aprendí nuevos conceptos sobre el protocolo HTTP y la arquitectura REST. También me informé mejor acerca de Python y sus bibliotecas de desarrollo web, y apliqué conocimientos pasados de desarrollo frontend en la Landing Page. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -210,9 +242,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Angie Yalán</td>
       <td>
-        <strong>ℹ️ TB1: En el proyecto apliqué y actualicé conceptos de diseño centrado en el usuario mediante la elaboración de User Persona, User Task Matrix, Empathy Mapping y User Journey Mapping, lo que fortaleció mi capacidad para comprender necesidades reales y traducirlas en requisitos. Además, con el Tactical Level Domain Driven Design del bounded context de descubrimiento de eventos integré nuevas metodologías de modelado en ingeniería de software. Finalmente, en la edición de video de entrevistas reforcé habilidades técnicas y comunicativas aplicadas al proyecto.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>En el proyecto apliqué y actualicé conceptos de diseño centrado en el usuario mediante la elaboración de User Persona, User Task Matrix, Empathy Mapping y User Journey Mapping, lo que fortaleció mi capacidad para comprender necesidades reales y traducirlas en requisitos. Además, con el Tactical Level Domain Driven Design del bounded context de descubrimiento de eventos integré nuevas metodologías de modelado en ingeniería de software. Finalmente, en la edición de video de entrevistas reforcé habilidades técnicas y comunicativas aplicadas al proyecto.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br>En esta entrega actualicé mis conocimientos en diseño UX/UI aplicando principios de usabilidad, accesibilidad y coherencia visual en el desarrollo de wireframes y mockups realizados en Figma. Este proceso me permitió fortalecer mis competencias en arquitectura de información y comprender la importancia de un Design System bien definido para garantizar una experiencia de usuario consistente.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -223,10 +255,13 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Oskar Sosa</td>
       <td>
-        <strong>ℹ️ TB1:</strong><br>
+        <strong>ℹ️ TB1:</strong>
+      <br>
         Para esta TB1 me enfoqué en la fase inicial del proyecto, liderando el Strategic-Level Domain-Driven Design. A través de la aplicación de EventStorming, logré modelar el flujo de mensajes del dominio y realizar el descubrimiento de los contextos candidatos. Este proceso fue fundamental para definir la estructura del proyecto. Utilizando los Bounded Context Canvases, establecí los límites claros y las responsabilidades de cada componente, proporcionando una base sólida que guio las decisiones arquitectónicas del equipo.
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong>
+          <br>
+          Para esta entrega me enfoqué en diseñar la Arquitectura de Información de Teatrope y en aterrizarla con base de los mockups de la app. Definí modelos de organización jerárquico, secuencial, facetado y por relaciones para que el usuario llegue más rápido a Booking. Construí un Labelling System consistente navegación, filtros, CTAs y microcopy así priorizando claridad y accesibilidad. Además, redacté los SEO & Meta tags para Landing y Web App, entendiendo mejor su impacto en indexación y social previews. Diseñé los Searching Systems y formalicé los Navigation Systems. En el proceso reforcé criterios de usabilidad, consistencia semántica y arquitectura de contenido, y conecté decisiones de UI con métricas de descubrimiento y conversión.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -236,10 +271,11 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Mario Lopez</td>
       <td>
-        <strong>ℹ️ TB1: Participé activamente en la elaboración de los principales aportes para el desarrollo del proyecto, colaborando en la construcción del lenguaje ubicuo, la definición de historias de usuario y la creación del product backlog. Estas actividades facilitaron la identificación de las necesidades tanto de los consumidores de teatro como de los productores, permitiendo analizar los problemas actuales en la gestión de funciones y en la difusión de obras. Asimismo, contribuyeron a proponer soluciones digitales orientadas a mejorar la experiencia de los usuarios y optimizar la continuidad de los procesos, fortaleciendo mi aprendizaje en metodologías ágiles y en el diseño de soluciones de software centradas en el usuario.
+        <strong>ℹ️ TB1:</strong><br> Participé activamente en la elaboración de los principales aportes para el desarrollo del proyecto, colaborando en la construcción del lenguaje ubicuo, la definición de historias de usuario y la creación del product backlog. Estas actividades facilitaron la identificación de las necesidades tanto de los consumidores de teatro como de los productores, permitiendo analizar los problemas actuales en la gestión de funciones y en la difusión de obras. Asimismo, contribuyeron a proponer soluciones digitales orientadas a mejorar la experiencia de los usuarios y optimizar la continuidad de los procesos, fortaleciendo mi aprendizaje en metodologías ágiles y en el diseño de soluciones de software centradas en el usuario.
 </strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Fortalecí mis conocimientos en planificación ágil y diseño de experiencia de usuario, participando activamente en la elaboración de los user flows, el prototipado web y móvil de la aplicación y la planificación del sprint. Estas actividades me permitieron comprender mejor la relación entre el diseño funcional y la ejecución técnica, aplicando buenas prácticas para estructurar procesos de desarrollo más organizados y centrados en las necesidades del usuario.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -249,9 +285,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Marcelo Varela</td>
       <td>
-        <strong>ℹ️ TB1: Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br> Fortalecí mis conocimientos en planificación del Sprint 1 y backlog, aprendí a organizar las tareas técnicas y a usar buenas prácticas de deployment y testing, lo que mejoró la calidad y escalabilidad del proyecto.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -267,6 +303,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega me di cuenta que es fundamental el aprendizaje de nuevas arquitecturas, así como el profundizar en las que ya conocemos con el objetivo de tener un diseño eficiente y escalable. Esto nos ayudará a mejorar nuestras prácticas y crecer como profesionales. 
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Para esta entrega noté que me faltaba aprender sobre tecnologías DevOps y sobre métodos para desplegar y mantener aplicaciones. Comprendí que es importante el aprendizaje constante sobre esas cosas ya que es parte fundamental del desarrollo de software, y para el proyecto me centré en aprender a desplegar la Landing Page de manera estática y la API como un servicio web en conjunto con la base de datos. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -277,9 +314,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Angie Yalán</td>
       <td>
-        <strong>ℹ️ TB1:Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en ingeniería de software. La diseñada de entrevistas y herramientas como el Empathy Map y el User Journey Map evidenciaron la necesidad de actualizar métodos para captar la voz del usuario. Asimismo, el trabajo en Domain Driven Design reafirmó la importancia de explorar nuevas prácticas de arquitectura, consolidando la necesidad de mantener una actitud de aprendizaje permanente.</strong><br>
+        <strong>ℹ️ TB1:</strong><br>Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en ingeniería de software. La diseñada de entrevistas y herramientas como el Empathy Map y el User Journey Map evidenciaron la necesidad de actualizar métodos para captar la voz del usuario. Asimismo, el trabajo en Domain Driven Design reafirmó la importancia de explorar nuevas prácticas de arquitectura, consolidando la necesidad de mantener una actitud de aprendizaje permanente.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br>En esta entrega reconocí la importancia del aprendizaje continuo en el desarrollo de soluciones de software, explorando nuevas herramientas y metodologías de diseño digital. A través de esta entrega, reforcé mi capacidad de adaptación a las tendencias actuales y consolidé una visión de mejora permanente para ofrecer productos tecnológicos más eficientes y centrados en el usuario.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -289,9 +326,11 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Oskar Sosa</td>
       <td>
-        <strong>ℹ️ TB1: Esta entrega me confirmó que la arquitectura de software es el cimiento de cualquier proyecto exitoso. A través de la aplicación del Domain-Driven Design, me di cuenta de que un diseño bien pensado y una comprensión profunda del dominio son cruciales para el rendimiento y la mantenibilidad a largo plazo. Este conocimiento es clave para mejorar mis prácticas y evolucionar como ingeniero, garantizando que mi trabajo no solo sea funcional, sino también robusto y escalable. </strong><br>
+        <strong>ℹ️ TB1:</strong><br> Esta entrega me confirmó que la arquitectura de software es el cimiento de cualquier proyecto exitoso. A través de la aplicación del Domain-Driven Design, me di cuenta de que un diseño bien pensado y una comprensión profunda del dominio son cruciales para el rendimiento y la mantenibilidad a largo plazo. Este conocimiento es clave para mejorar mis prácticas y evolucionar como ingeniero, garantizando que mi trabajo no solo sea funcional, sino también robusto y escalable. </strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong>
+    <br>
+    Esta entrega me confirmó que la Arquitectura de Información es clave para un producto usable y escalable. Al definir organización, labelling, SEO/meta, búsqueda y navegación en Teatrope, entendí cómo cada decisión reduce fricción y mejora conversión. Esto refuerza mis prácticas para diseñar soluciones claras, medibles y sostenibles.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -301,9 +340,10 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Mario Lopez</td>
       <td>
-        <strong>ℹ️ TB1: Durante el desarrollo del proyecto reconocí la importancia de mantener un aprendizaje constante para fortalecer mis capacidades en el ámbito del software. La investigación y aplicación de conceptos como el lenguaje ubicuo, las historias de usuario y el product backlog me permitieron ampliar mi conocimiento en metodologías ágiles y en el diseño de soluciones digitales. Este proceso evidenció que el aprendizaje permanente es esencial para adaptarse a los cambios tecnológicos, responder a las necesidades reales de consumidores y productores de teatro, y proponer mejoras continuas que aseguren el éxito y la sostenibilidad de los proyectos.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>Durante el desarrollo del proyecto reconocí la importancia de mantener un aprendizaje constante para fortalecer mis capacidades en el ámbito del software. La investigación y aplicación de conceptos como el lenguaje ubicuo, las historias de usuario y el product backlog me permitieron ampliar mi conocimiento en metodologías ágiles y en el diseño de soluciones digitales. Este proceso evidenció que el aprendizaje permanente es esencial para adaptarse a los cambios tecnológicos, responder a las necesidades reales de consumidores y productores de teatro, y proponer mejoras continuas que aseguren el éxito y la sostenibilidad de los proyectos.</strong><br>
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Esta entrega me permitió comprender la importancia del aprendizaje continuo en el desarrollo de soluciones digitales. A través de la creación de user flows, el prototipado móvil y la planificación del sprint, fortalecí mis habilidades en diseño centrado en el usuario y metodologías ágiles. Reconocí que mantenerme actualizado en estas áreas es esencial para mejorar la experiencia del usuario y la eficiencia del equipo en futuros proyectos.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -313,9 +353,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <tr>
       <td>Marcelo Varela</td>
       <td>
-        <strong>ℹ️ TB1: Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
+        <strong>ℹ️ TB1: </strong><br>Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br> Reconocí la importancia del aprendizaje continuo al investigar soluciones para el deployment, la corrección de tablas y la preparación de la demo y video de exposición, mejorando mi capacidad de adaptación a los retos del proyecto.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -325,6 +365,8 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
   </tbody>
 </table>
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ## Objetivos SMART
 
@@ -339,7 +381,9 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 | Lopez Acuña, Mario Joaquin | **Objetivo 1:** Desarrollar competencias en gestión de proyectos de software con metodologías ágiles y enfoques híbridos en un plazo de 10 meses. Para ello, completaré certificaciones en Scrum Master y fundamentos de PMP, dedicando al menos 5 horas semanales al estudio y aplicando los conocimientos en proyectos académicos y profesionales. Al finalizar, seré capaz de liderar equipos multidisciplinarios, gestionar cronogramas y recursos, y asegurar la entrega de valor en cada sprint. <br><br> **Objetivo 2:**  Fortalecer habilidades de liderazgo y comunicación gerencial en un plazo de 6 meses. Para lograrlo, participaré en al menos 3 talleres o cursos de liderazgo, inteligencia emocional o negociación, y aplicaré lo aprendido en las reuniones de equipo del proyecto actual. Además, implementaré retroalimentaciones quincenales con los integrantes del grupo para mejorar la coordinación, resolver conflictos y mantener la motivación. Al concluir, habré consolidado un estilo de liderazgo que promueva la colaboración y la eficiencia en el desarrollo de soluciones de software.                                                                                                                                                                                                                                                                                                                         |
 
 
-# Capitulo I: Presentación
+<div style="page-break-after: always;"></div>
+
+# Capítulo I: Presentación
 
 ## 1.1 Startup profile
 
@@ -362,7 +406,9 @@ En el siguiente cuadro se presentan los objetivos SMART de cada integrante del e
 
 ### 1.2.1 Antecedentes y problemática
 
-Actualmente los consumidores de teatro se enteran de los nuevos estrenos  principalmente a través de las redes sociales o canales de difusión, incluso muchas veces es necesario revisar las páginas web una por una para obtener información más actualizada. Esto ocasiona que mucha gente prefiera consumir otro tipo de arte a la cual tienen más fácil acceso, como cine o conciertos, y por ende se pierden muchos posibles clientes para la industria del arte escénico. 
+En el contexto de la industria cultural en Perú, el consumo de artes escénicas como el teatro ha mostrado un crecimiento limitado en comparación con otras formas de entretenimiento. Según datos de la Encuesta Nacional de Programas Presupuestales (ENAPRES) 2023, solo el 7.9% de la población mayor de 14 años asistió al menos una vez a una función de teatro en el último año, con una frecuencia mayoritariamente ocasional (43.6% asiste una vez al año) y un predominio de eventos gratuitos (53.9%). En contraste, formas de entretenimiento como el cine o los conciertos registran tasas de participación más altas, con el consumo cultural audiovisual alcanzando cifras superiores en reportes regionales, donde el cine representa un 20-30% de la asistencia cultural en Latinoamérica, impulsado por plataformas digitales accesibles.
+
+Actualmente, los consumidores de teatro en Lima Metropolitana se enteran de los nuevos estrenos principalmente a través de redes sociales o canales de difusión fragmentados, lo que obliga a revisar páginas web individuales de teatros para obtener información actualizada, como fechas de funciones, disponibilidad y detalles de producciones. Esta dispersión genera ineficiencias, como tiempos prolongados de búsqueda y desmotivación, llevando a que muchas personas prefieran alternativas con acceso más sencillo, como cine o conciertos, donde plataformas centralizadas facilitan la experiencia. Como resultado, se pierden oportunidades significativas para la industria del arte escénico, con un impacto económico estimado en millones de dólares anuales en pérdida de audiencia potencial, agravado por la baja descentralización de la infraestructura teatral y la dependencia de eventos gratuitos para atraer público. Esta problemática resalta la necesidad de soluciones digitales integradas que optimicen la difusión y fomenten un mayor engagement cultural.
 
 #### ⁉️5“W”s + 2"H"'s
 
@@ -569,6 +615,8 @@ Segmento 2: Teatros (Empresas o Compañías Teatrales)
 | Ubicación | Concentrado en Lima Metropolitana, con venues en distritos como el Centro Histórico, Barranco y Miraflores. | La mayoría de teatros están en Lima (e.g., Segura Theater: el más antiguo de Latinoamérica; Marsano, Canout). Listados muestran ~10-15 venues clave en áreas urbanas centrales. |
 | Antigüedad/Experiencia | Mezcla de instituciones históricas (siglo XIX) y modernas (post-2000), con foco en innovación cultural. | Ejemplos: Teatro Segura (antiguo); Gran Teatro Nacional (2012). Más de 40 compañías han operado en Lima desde el siglo XX, con ~250 grupos nacionales activos en 2024. |
 | Enfoque Operacional | Orientadas a producciones locales e internacionales, con desafíos en marketing digital y audiencia. | Asistencia cultural baja (7-10% población), pero potencial en Lima con festivales como el de Artes Escénicas (19 obras de grupos peruanos y latinoamericanos). |
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Requierements Elicitation & Analysis
 ## 2.1 Competidores
@@ -1446,8 +1494,8 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
 | **Profile** | Perfil | Información básica y preferencias del usuario, incluyendo ubicación, rol y ajustes de notificaciones. |
 | **Role** | Rol | Permisos asignados a cada usuario (ejemplo: consumidor, productor). |
 | **Capacity** | Aforo | Número máximo de asistentes que puede recibir una función. |
-| **Reservation** | Reserva | Proceso por el cual un usuario aparta un espacio en una función  |
-| **Promotion** | Promoción | Beneficio aplicado a una obra o función para incentivar la asistencia. |
+| **Booking** | Reserva | Proceso por el cual un usuario aparta un espacio en una función  |
+| **Discount** | Promoción | Beneficio aplicado a una obra o función para incentivar la asistencia. |
 | **Visibility** | Visibilidad | Grado de exposición que tiene una obra dentro de la cartelera digital. |
 | **Reminder** | Recordatorio | Alerta activada por el consumidor para no perder una función. |
 | **Favorite** | Favorito | Marca que hace el consumidor sobre una obra para guardarla en su lista personal de interés. |
@@ -2873,7 +2921,7 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
   </tr>
   <tr>
     <td colspan="4">
-      Como equipo de desarrollo quiero investigar arquitecturas y librerías que permitan mostrar una cartelera centralizada con filtros (género, fecha, ubicación) para asegurar que los usuarios puedan explorar obras de manera rápida y ordenada.
+      Como equipo de desarrollo quiero investigar arquitecturas y bibliotecas que permitan mostrar una cartelera centralizada con filtros (género, fecha, ubicación) para asegurar que los usuarios puedan explorar obras de manera rápida y ordenada. Investigar acerca de funcionalidades de Kotlin y Compose para manipulación de data y componentes como las cards de obras en la cartelera. 
     </td>
   </tr>
   <tr>
@@ -2881,9 +2929,9 @@ Ambos tienen dolores distintos, pero coinciden en que una plataforma como Teatro
   </tr>
   <tr>
     <td colspan="4">
-      <strong>Escenario: Revisar documentación y librerías de visualización</strong><br>
+      <strong>Escenario: Revisar documentación y bibliotecas de visualización y manipulación.</strong><br>
       Dado que el equipo necesita opciones para mostrar grandes cantidades de datos<br>
-      Cuando el desarrollador revisa librerías de filtrado y paginación (React, Angular Material, etc.)<br>
+      Cuando el desarrollador revisa bibliotecas de filtrado y paginación (React, Angular Material, Kotlin, Flutter, etc.)<br>
       Entonces documenta las capacidades, limitaciones y rendimiento de cada opción.<br><br>
       <strong>Escenario: Evaluar rendimiento</strong><br>
       Dado que la cartelera debe responder en menos de 1s por búsqueda<br>
@@ -3091,7 +3139,11 @@ Para la elaboración del Impact Mapping del producto se tomaron en cuenta los Bu
 | 26      | US025         | Cambiar idioma de la app                    | 2            |
 | 27      | US028         | Cerrar sesión                               | 1            |
 | 28      | US015         | Iniciar sesión                              | 3            |
-
+| 29      | SS01         | Visualización centrada de cartelera          | 3            |
+| 30      | SS02         | Sistema de reseñas verificadas               | 3            |
+| 31      | SS03         | Notificaciones y alertas personalizadas      | 3            |
+| 32      | SS04         | Gestión de contenidos para productores       | 3            |
+| 33      | SS05         | Integración con mapas y calendarios          | 3            |
 
 ## 2.5 Strategic-Level Domain-Driven Design
 ### 2.5.1 EventStorming
@@ -3318,6 +3370,9 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | NotificationSender | Adapter | Envía notificaciones vía servicio externo (Firebase). Notifica cambios a usuarios (e.g., nueva obra), integrando con recurso del dispositivo (push). |
 
 #### 2.6.1.5 Bounded Context Software Architecture Component Level Diagrams
+
+![component level diagram](./resources/ddd/gestion_contenido_teatral_component_diagram.png)
+
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
@@ -3385,6 +3440,9 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 | CacheManager | Adapter | Maneja cache local para recomendaciones/búsquedas. Optimiza performance en app Android con storage local. | 
 
 #### 2.6.2.5 Bounded Context Software Architecture Component Level Diagrams
+
+![component level diagram](./resources/ddd/descubrimiento_eventos_component_diagram.png)
+
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
 Aquí se presenta el diagrama UML de clases correspondiente a la Capa de Dominio, que incluye entidades, objetos de valor, interfaces y enumeraciones. Cada elemento se detalla con sus atributos, métodos y niveles de visibilidad (público, privado, protegido), además de las relaciones (nombres, direcciones y multiplicidades) que estructuran el modelo de dominio.
@@ -3479,6 +3537,9 @@ Esta capa implementa persistencia, mensajería, plantillas y proveedores externo
 | ContenidoACLAdapter        | ACL Adapter               | Anti-corruption con BC Gestión de Contenido (datos de obras/funciones). |
 
 #### 2.6.3.5 Bounded Context Software Architecture Component Level Diagrams
+
+![component level diagram](./resources/ddd/notificaciones_recomendaciones_component_diagram.png)
+
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
@@ -3535,9 +3596,12 @@ Esta capa implementa detalles técnicos como persistencia (incluyendo almacenami
 
 #### 2.6.4.5 Bounded Context Software Architecture Component Level Diagrams
 
-En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+![component level diagram](./resources/ddd/entradas_component_diagram.png)
 
 #### 2.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección se exploran los detalles de la implementación interna del contexto, presentando diagramas que muestran cómo se implementan los componentes en el código. Se destacan dos elementos principales: los diagramas de clases de la Capa de Dominio y el diagrama de la base de datos relacional.
+
 ##### 2.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![domain layer class diagram](./resources/ddd/entradas_class_diagram.png)
@@ -3545,6 +3609,1510 @@ En esta sección se exploran los detalles de la implementación interna del cont
 ##### 2.2.4.6.2. Bounded Context Database Design Diagram
 
 ![domain layer database design diagram](./resources/ddd/entradas_database_diagram.png)
+
+<div style="page-break-after: always;"></div>
+
+# Capítulo III: Solution UI/UX Design
+
+## 3.1 Product Design
+
+### 3.1.1 Style Guidelines
+
+#### 3.1.1.1 General Style Guidelines
+
+La identidad visual de Teatrope se fundamenta en la pasión por el arte escénico y la conexión cultural. Su objetivo es acercar el teatro a nuevas audiencias mediante una estética moderna, clara y accesible. Se optó por un estilo sofisticado pero cálido, combinando el contraste del negro con un acento vibrante en rojo coral, que refleja energía, emoción y dinamismo.
+<br><br>
+El sistema visual se inspira en Design Systems contemporáneos, priorizando la legibilidad, el orden y la consistencia entre tipografía, color e iconografía, dentro de una interfaz adaptable a dispositivos móviles.
+
+##### 3.1.1.1.1 Tipografía
+###### 3.1.1.1.1.1 Tipografía del logotipo
+
+<div align="center"><img src="resources/figma/logo.png" alt="logo" width="300px"></div>
+
+El logotipo de Teatrope utiliza la fuente Inter en estilo Bold y en minúsculas.
+
+Esta elección transmite modernidad, cercanía y equilibrio visual, manteniendo una apariencia profesional sin perder calidez.
+
+El uso en minúsculas refuerza un tono accesible y humano, mientras que el grosor Bold garantiza presencia y fuerza visual, especialmente en fondos oscuros.
+
+###### 3.1.1.1.1.2 Tipografía del texto regular
+
+<div align="center"><img src="resources/figma/tipografia.png" alt="tipografia" width="400px"></div>
+
+Para todos los textos de la interfaz se emplea la familia Inter, elegida por su alta legibilidad en pantallas móviles y su versatilidad para jerarquizar contenidos.
+
+|Jerarquía |	Estilo |	Tamaño  recomendado |
+|-----------|------------|----------------------|
+|Títulos principales |	Inter Bold |	24–32 px |
+|Subtítulos / Secciones |	Inter SemiBold / Medium | 18–20 px |
+|Texto regular	| Inter Regular	| 14–16 px |
+|Notas o textos secundarios	| Inter Light |	12 px |
+
+La familia Inter ofrece un aspecto limpio y tecnológico, que refuerza la usabilidad del sistema sin distraer del contenido principal: las obras de teatro.
+
+##### 3.1.1.1.2. Colores
+
+<div align="center"><img src="resources/figma/paletacolor.png" alt="paleta de color" width="400px"></div>
+
+**Paleta principal**
+
+La paleta cromática de Teatrope combina tonos oscuros con un rojo vibrante, evocando el ambiente teatral (oscuridad, luces, emociones).
+
+|Color|	HEX|	Uso|
+|----|----|-----|
+|Negro profundo	|#161621	|Fondo principal, headers|
+|Gris carbón|	#2B2B38	|Fondos secundarios, menús|
+|Rojo coral	|#F74346	|Color de marca, botones, íconos activos|
+
+**Paleta secundaria**
+
+Complementa la principal con tonos neutros y grises claros para lograr balance y contraste.
+
+|Color|	HEX|	Uso|
+|-----|-----|--------|
+|Blanco|	#FFFFFF|	Texto y fondos claros|
+|Gris claro|	#EFEFEF|	Fondos neutros|
+|Gris medio	|#4A4B56	|Texto secundario|
+|Gris suave	|#D9D9D9	|Estados desactivados|
+
+El rojo coral (#F74346) representa la energía y vitalidad del teatro; el negro profundo (#161621) aporta elegancia y modernidad; y los grises equilibran el sistema visual con neutralidad.
+
+##### 3.1.1.1.3. Iconografía
+
+Los íconos de Teatrope siguen un estilo minimalista y coherente, diseñado para mantener claridad y armonía visual.
+
+<div align="center"><img src="resources/figma/iconografia.png" alt="iconografia" width="400px"></div>
+
+Todos están basados en un grid de 24 px, con trazos de 2–4 px según el tamaño, garantizando consistencia entre los distintos elementos de la interfaz.
+
+* Ícono principal: la lupa con la máscara teatral, símbolo del descubrimiento y la experiencia escénica.
+
+* Íconos adicionales: favoritos, notificaciones, búsqueda, ubicación, configuración y perfil, adaptados al mismo estilo redondeado.
+
+**Paleta de iconografía:**
+
+* Activos o destacados → #F74346
+
+* Inactivos → #4A4B56
+
+* Fondos oscuros → versiones en blanco o gris claro según contraste.
+
+##### 3.1.1.1.4. Tono de comunicación y lenguaje aplicado
+
+El tono de comunicación de Teatrope es moderno, cultural y empático. Se dirige tanto a espectadores casuales como a amantes del teatro, equilibrando profesionalismo con un lenguaje amigable.
+
+* Formal en la presentación de datos (fechas, ubicaciones, horarios).
+
+* Casual y cercano en la interacción con el usuario (“Find your next favorite play”, “Don’t miss out!”).
+
+* Inspirador, reflejando la emoción de descubrir nuevas obras.
+
+* Los mensajes breves y directos, junto con íconos expresivos, construyen una experiencia que combina información, emoción y comunidad.
+
+##### 3.1.1.1.5. Aplicación visual
+
+Se observa un diseño coherente con la guía de estilo:
+
+* Fondo oscuro (#161621) que resalta las imágenes de las obras.
+
+* Botones y acentos en rojo coral (#F74346) que atraen la atención hacia las acciones principales (reserva, favoritos, notificaciones).
+
+* Tipografía Inter aplicada con jerarquía clara para mejorar la lectura.
+
+* Iconos consistentes con el logotipo, reforzando la identidad visual.
+
+* Composición limpia con alto contraste y equilibrio entre texto e imagen.
+
+El resultado es una interfaz moderna, intuitiva y emocionalmente atractiva, que transmite el espíritu del teatro desde el primer contacto.
+
+### 3.1.2 Information Architecture
+
+En esta sección definimos cómo nuestra app móvil de Teatrope organiza y presenta su contenido para que la exploración sea clara y las tareas clave se completen sin fricción. La estructura parte de una experiencia de acceso (splash, Sign in y Sign up) y desemboca en una Home enfocada en descubrir obras mediante búsqueda, filtros visibles (ciudad, distrito y género), avisos promocionales y atajos a dos perspectivas de exploración: Services (cartelera de obras y funciones) y Theaters (sedes). La app mantiene coherencia visual y terminológica entre pantallas de listado, detalle y compra; ofrece navegación persistente por pestañas inferiores (Billboard, Coming soon, Favorites, Profile); y usa enlaces contextuales para conectar contenidos relacionados. La arquitectura prioriza rutas predecibles, microcopys breves, estados bien definidos (vacío, favorito, notificación nueva) y una distribución de información que reduce pasos para llegar a la acción principal: Booking.
+
+#### 3.1.2.1 Orgainzation Systems
+
+* Estructura jerárquica: La jerarquía inicia en la pantalla de bienvenida y autenticación, continúa en la Home con marca y buscador al centro de la experiencia, y se ramifica en secciones principales: carteleras por Services (obras en exhibición y próximas), directorio de Theaters con fichas enriquecidas, y apartados personales como Favorites y Profile. En niveles inferiores aparecen las fichas de Obra (título, géneros, reparto, sinopsis, calificación y botón Booking) y las fichas de Teatro (ubicación, descripción breve, rating y carrusel). Esta jerarquía minimiza la profundidad de navegación, mantiene siempre visible el camino de regreso mediante la barra inferior y expone la acción principal en el primer pliegue de las pantallas de detalle.
+
+* Estructura secuencial (step-by-step): Las tareas que requieren orden guiado utilizan pasos encadenados y consistentes con los mockups. La autenticación conduce de Sign in/Sign up a la Home con el contexto del usuario cargado. En Profile → Settings la actualización de datos y permisos (notificaciones y ubicación) sigue una secuencia simple y reversible, con confirmaciones visibles para evitar errores. Esta organización secuencial reduce la ambigüedad y mejora la tasa de finalización de acciones críticas.
+
+* Estructura matricial: La exploración de contenidos se apoya en combinaciones de filtros que aparecen en la Home y en las pantallas de listado: Choose city, District y Genre permiten acotar resultados sin abandonar el contexto. La búsqueda central admite texto y control de modo (iconos de lupa y cuadrícula), mientras que el carrusel y las tarjetas muestran señales como “Release date” o “Premieres”. El usuario puede alternar rápidamente entre Services y Theaters, manteniendo las selecciones activas para refinar la vista y acelerando el acceso a lo relevante.
+
+* Estructura por relaciones (cross-linking): Desde la ficha de una obra se ofrece continuidad natural hacia acciones y contenidos relacionados: Booking para comprar, heart/favorite para guardar y enlaces implícitos a otras obras del mismo elenco o género en carruseles vecinos. En la ficha de teatro se listan funciones actuales, lo que conecta el interés por el lugar con obras concretas. El centro de Notifications organiza eventos del sistema (nuevos estrenos, cambios en favoritas, recomendaciones), ofreciendo retorno directo a las pantallas correspondientes. Este tejido de vínculos evita callejones sin salida, mantiene al usuario en descubrimiento y sostiene la conversión.
+
+#### 3.1.2.2 Labelling Systems
+
+### Navegación principal
+
+| **Etiqueta** | **Descripción**                                |
+| ------------ | ---------------------------------------------- |
+| Billboard    | Cartelera actual de obras (listado principal). |
+| Coming soon  | Próximos estrenos y funciones futuras.         |
+| Favorites    | Obras/teatros marcados con “♥”.                |
+| Profile      | Acceso al perfil del usuario y ajustes.        |
+
+### Home, búsqueda y filtros
+
+| **Etiqueta**                  | **Descripción**                                             |
+| ----------------------------- | ----------------------------------------------------------- |
+| Search                        | Campo para buscar obra, actor, teatro o palabra clave.      |
+| Choose city                   | Selector de ciudad activa (p. ej., Lima).                   |
+| District                      | Filtro por distrito dentro de la ciudad.                    |
+| Genre                         | Filtro por género (Comedy, Drama, Musical, etc.).           |
+| Services                      | Vista de cartelera/obras.                                   |
+| Theaters                      | Vista de sedes/teatros.                                     |
+| Notifications (icono campana) | Indicador de novedades; acceso al centro de notificaciones. |
+| Promotions card               | Tarjeta destacada con promociones/avisos.                   |
+
+
+### Listados y tarjetas
+
+| **Etiqueta**     | **Descripción**                                  |
+| ---------------- | ------------------------------------------------ |
+| Release date     | Insignia con fecha de estreno/función.           |
+| Rating (★ 4.7)   | Puntuación promedio visible en tarjeta o header. |
+| Favorite (☆/★/♥) | Marcador para añadir/quitar de Favoritos.        |
+
+
+### Detalle de obra
+
+| **Etiqueta**      | **Descripción**                                       |
+| ----------------- | ----------------------------------------------------- |
+| Booking           | CTA principal para iniciar proceso de compra.         |
+| Genres (chips)    | Categorías de la obra (Comedy, Fantasy, etc.).        |
+| Cast (avatars)    | Reparto principal con fotos/avatars.                  |
+| Synopsis          | Resumen breve de la obra.                             |
+| Venue / Address   | Teatro y dirección donde se presenta.                 |
+| Showtimes         | Días/horarios de funciones (ej.: *Thu–Sun 08:00 pm*). |
+| “Already saw it?” | Control para marcar vista y valorar.                  |
+
+
+### Ficha de teatro
+
+| **Etiqueta**      | **Descripción**                               |
+| ----------------- | --------------------------------------------- |
+| Currently playing | Carrusel con obras en ese teatro.             |
+| Know more         | CTA para ampliar información del teatro/obra. |
+
+### Autenticación
+
+| **Etiqueta**      | **Descripción**                      |
+| ----------------- | ------------------------------------ |
+| Sign in           | Ingreso a la cuenta existente.       |
+| Sign up           | Registro de nueva cuenta.            |
+| E-mail / Password | Campos de credenciales.              |
+| Remember me?      | Mantener sesión iniciada.            |
+| Forgot password?  | Flujo de recuperación de contraseña. |
+
+### Perfil y ajustes
+
+| **Etiqueta**           | **Descripción**                         |
+| ---------------------- | --------------------------------------- |
+| My tickets             | Listado de entradas del usuario.        |
+| My credit cards        | Gestión de tarjetas de pago.            |
+| History                | Historial de compras/actividad.         |
+| Settings               | Configuración de cuenta.                |
+| Update                 | Guardar cambios de email/contraseña.    |
+| Permissions            | Sección de permisos del sistema.        |
+| Notifications (toggle) | Activar/desactivar notificaciones push. |
+| Location (toggle)      | Activar/desactivar geolocalización.     |
+| About us               | Información de la app/equipo.           |
+| Terms & Conditions     | Políticas y términos de uso.            |
+| Logout                 | Cerrar sesión.                          |
+
+
+### Centro de notificaciones
+
+| **Etiqueta**  | **Descripción**                                 |
+| ------------- | ----------------------------------------------- |
+| Notifications | Pantalla con novedades y avisos personalizados. |
+| Clear all     | Acción para limpiar todas las notificaciones.   |
+
+### Estados y mensajes breves
+
+| **Etiqueta**                   | **Descripción**                           |
+| ------------------------------ | ----------------------------------------- |
+| New play just added!           | Aviso de obra recién añadida.             |
+| A change in your favorite show | Cambio de horario/fecha en una favorita.  |
+| Recommended for you            | Recomendación basada en preferencias/uso. |
+
+#### 3.1.2.3 SEO Tags and Meta Tags
+
+Las etiquetas de SEO y las metaetiquetas son fundamentales porque cumplen un papel esencial en la optimización para motores de búsqueda (SEO), ayudando a incrementar la visibilidad y la posición de una página web en los resultados de búsqueda.
+
+| **Campo**       | **Landing Page**                                                                                                                                                                               | **Web Application**                                                                                                          |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Title**       | Teatrope | Teatrope                                                                                                                                    | Teatrope App | Explora cartelera, favoritos y próximas funciones                                                             |
+| **Description** | Descubre obras y funciones en Lima. Compara teatros, horarios y precios, aprovecha promociones y reserva tus entradas en minutos.                                                              | Busca por ciudad, distrito y género; guarda favoritos, recibe notificaciones y compra entradas de forma segura desde la app. |
+| **Keywords**    | teatro, obras en Lima, cartelera, entradas de teatro, funciones hoy, teatros en Lima, promociones 2x1, preventa, estrenos, comedia, drama, musical, familiar, Miraflores, Barranco, San Isidro | cartelera teatro, buscar obras, géneros, distrito, favoritos, notificaciones, próximos estrenos, rating, booking, tickets    |
+| **Authors**     | Teatrope Team                                                                                                                                                                                  | Teatrope                                                                                                                     |
+
+#### 3.1.2.4 Searching Systems
+
+El sistema de búsqueda de Teatrope combina un buscador central y filtros facetados visibles para reducir rápidamente el conjunto de resultados. Desde la Home y las vistas de listado, el usuario puede escribir términos libres en el campo “Search” (título de la obra, teatro o palabra clave) y acotar con selectores persistentes de Choose city, District y Genre. El buscador admite sugerencias instantáneas y respeta el contexto activo (p. ej., mantener ciudad/distrito seleccionados al cambiar entre “Services” y “Theaters”). En las tarjetas se muestran señales como “Release date”, rating y estado de favorito para ayudar a decidir sin abrir el detalle. El sistema recuerda los filtros aplicados durante la sesión, permite limpiar con un solo gesto y prioriza la relevancia temporal (funciones próximas) en los resultados. En detalle de teatro u obra, los enlaces “Currently playing” y “Booking” actúan como atajos de búsqueda contextual hacia funciones específicas.
+
+#### 3.1.2.5 Navigation Systems
+
+La navegación de Teatrope se apoya en tres capas complementarias.
+
+* Navegación global (barra inferior): pestañas persistentes para moverse entre las áreas principales: Billboard (cartelera), Coming soon (próximos estrenos), Favorites (guardados) y Profile (cuenta y ajustes). Esta barra permite volver a la raíz de cada sección con un solo toque.
+
+* Navegación contextual (en pantalla): en Home, los toggles Services/Theaters, los filtros (city/district/genre) y el carrusel de tarjetas permiten profundizar o cambiar de perspectiva sin abandonar la vista. En detalle de obra y de teatro, los CTAs (Booking, Know more) y los carruseles (“Currently playing”, obras similares) conectan con pasos siguientes o contenidos relacionados. Los botones de “back” en headers mantienen el historial de la sesión para retornos previsibles.
+
+* Navegación asistida (sistema): el centro de Notifications ofrece accesos directos a novedades (nuevas obras, cambios en favoritas, recomendaciones) y devuelve al usuario exactamente al contenido afectado. Estados como “favorito” y “rating” habilitan recorridos personales desde Favorites hacia los detalles. En conjunto, estos métodos reducen la profundidad de clics, evitan callejones sin salida y mantienen visible la acción principal (comprar entradas) en los momentos clave.
+
+
+### 3.1.3 Landing Page UI Design
+La propuesta de UI del Landing Page de Teatrope traduce las decisiones del Design System en una interfaz moderna, inmersiva y coherente con su identidad visual: un espacio digital que acerca el teatro al público a través de una experiencia clara, atractiva y emocional.
+
+El diseño equilibra contraste, jerarquía visual y accesibilidad, manteniendo la estética oscura y elegante característica de la marca, acompañada por acentos en rojo coral (#F74346) que evocan la energía del escenario.
+
+La estructura del landing page se organiza en bloques claramente diferenciados:
+
+**Hero Section**
+* Presenta el logotipo y un slogan principal, reforzando la propuesta de valor (“Descubre lo mejor del teatro en un solo lugar”).
+* Incluye botón de acción directa (Download Now) y una ilustración alusiva a las artes escénicas.
+* Transmite el enfoque emocional del producto mediante imágenes de actores y escenarios.
+
+**Features Section**
+* Resume los principales beneficios de Teatrope.
+* Utiliza íconos lineales con el color principal de la marca (#F74346) y descripciones breves para garantizar comprensión inmediata.
+
+**Plans Section**
+
+Expone tres categorías de uso:
+
+* Audience Plan: acceso gratuito a la cartelera y favoritos.
+* Theatre Plan: opción para productores o teatros que desean publicar obras.
+* Cultural Hub Plan: integración para instituciones o festivales.
+
+Cada plan está dispuesto en cards con bordes suaves, tipografía Inter y CTA contrastante.
+
+**Articles Section**
+* Espacio para notas editoriales, entrevistas o reseñas teatrales bajo el título “Latest Theater Articles”.
+* Presenta cards con imagen destacada, título y breve descripción, fomentando la exploración de contenido cultural.
+
+**Testimonials Section**
+* Reúne comentarios de usuarios y productores satisfechos, reforzando la confianza en la comunidad Teatrope.
+* Emplea un fondo oscuro con textos claros y fotografía circular de cada testimonio.
+
+**FAQ & Contact Section**
+* Integra preguntas frecuentes en formato acordeón y un bloque de contacto con redes sociales.
+* Usa botones secundarios con esquinas redondeadas, manteniendo coherencia con el resto de la interfaz.
+
+#### 3.1.3.1 Landing Page Wireframe
+
+<div align="center"> <img src="resources/figma/wlp1.png" alt="landing page wireframe 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp2.png" alt="landing page wireframe 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp3.png" alt="landing page wireframe 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp4.png" alt="landing page wireframe 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp5.png" alt="landing page wireframe 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/wlp6.png" alt="landing page wireframe 6" width="600"> </div>
+
+Los wireframes establecen la estructura inicial de la experiencia, definiendo jerarquías y zonas de interacción.
+
+**Desktop Web Browser**
+
+* Barra superior fija con logo, navegación clara (Features, Plans, Blog Reviews, FAQ, Login).
+* Hero section central con imagen representativa y un mensaje inspirador sobre el teatro.
+* Features y Plans distribuidos en tres columnas con proporciones visualmente equilibradas.
+* Articles y Testimonials en bloques horizontales para mantener ritmo visual.
+* Footer con información institucional, redes sociales y enlaces secundarios.
+
+**Mobile Web Browser**
+
+* Menú hamburguesa para simplificar la navegación.
+* Hero section centrada, con el logo de Teatrope y un único CTA principal.
+* Secciones en scroll vertical, manteniendo márgenes amplios y tipografía legible.
+* Plans y Articles en formato de tarjetas apiladas con scroll suave.
+* FAQ y contacto al final, con acceso rápido a redes sociales y soporte.
+
+#### 3.1.3.2 Landing Page Mock-up
+
+<div align="center"> <img src="resources/figma/mlp1.png" alt="landing page mockup 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp2.png" alt="landing page mockup 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp3.png" alt="landing page mockup 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp4.png" alt="landing page mockup 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp5.png" alt="landing page mockup 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/mlp6.png" alt="landing page mockup 6" width="600"> </div>
+
+En los mockups de Teatrope se aplica coherentemente el Design System definido, manteniendo una identidad moderna, elegante y cercana al mundo teatral.
+
+Se emplea la paleta oscura con acentos en rojo coral (#F74346), la tipografía Inter en jerarquías claras (títulos en Bold, texto en Regular), y una iconografía minimalista inspirada en la máscara del logo.
+
+El lenguaje visual es formal y entusiasta, transmitiendo accesibilidad y emoción por el teatro, con una interfaz limpia, contrastada y coherente entre la versión web y móvil.
+
+### 3.1.4 Mobile Applications UX/UI Design
+La propuesta de UX/UI móvil de Teatrope traduce la identidad visual del Design System en una experiencia práctica, clara y coherente.
+
+Cada pantalla mantiene una estructura jerárquica simple, con navegación inferior fija, iconografía coherente y el uso de la paleta principal (fondo oscuro y acentos en rojo coral #F74346).
+
+La tipografía Inter refuerza la legibilidad y consistencia visual, mientras que los botones de alto contraste guían las acciones principales del usuario (reserva, favoritos, búsqueda).
+
+El diseño combina claridad, accesibilidad y estética escénica, evocando la atmósfera teatral de forma moderna y funcional.
+
+#### 3.1.4.1 Mobile Applications Wireframes
+
+Los wireframes móviles representan la arquitectura de información y los flujos clave de interacción dentro de Teatrope.
+
+Cada vista —inicio, cartelera, ficha de obra, notificaciones y autenticación— se estructura siguiendo principios de diseño inclusivo, con espaciado amplio, etiquetas claras y jerarquía visual consistente. Los componentes (cards, botones, iconos y menús) evidencian la aplicación de los principios de usabilidad, priorizando la simplicidad, el reconocimiento y la navegación fluida entre secciones.
+
+El resultado es una interfaz intuitiva que facilita el acceso al contenido teatral y mejora la experiencia del usuario desde cualquier dispositivo móvil.
+
+<div align="center"> <img src="resources/figma/wt0.png" alt="mobile applications wireframe 0" width="400"> </div>
+<div align="center"> <img src="resources/figma/wt1.png" alt="mobile applications wireframe 1" width="200">
+<img src="resources/figma/wt2.png" alt="mobile applications wireframe 2" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt3.png" alt="mobile applications wireframe 3" width="200">
+<img src="resources/figma/wt4.png" alt="mobile applications wireframe 4" width="200"> </div> 
+<div align="center"> <img src="resources/figma/wt5.png" alt="mobile applications wireframe 5" width="200">
+<img src="resources/figma/wt6.png" alt="mobile applications wireframe 6" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt7.png" alt="mobile applications wireframe 7" width="200">
+<img src="resources/figma/wt8.png" alt="mobile applications wireframe 8" width="200"> </div>
+<div align="center"> <img src="resources/figma/wt9.png" alt="mobile applications wireframe 9" width="200">
+<img src="resources/figma/wt10.png" alt="mobile applications wireframe 10" width="200"> </div>
+
+#### 3.1.4.2 Mobile Applications Wireflow Diagrams
+
+Los wireflow diagrams muestran el flujo de navegación entre pantallas de la app, destacando rutas principales y puntos de decisión del usuario. Permiten validar la arquitectura de información y la navegación antes del desarrollo, asegurando claridad en los procesos clave (registro, inicio de sesión, exploración y notificaciones).
+
+Su enfoque esquemático facilita detectar pasos redundantes o confusos, optimizar la usabilidad y mantener consistencia visual con el sistema de diseño, garantizando una experiencia fluida y predecible.
+
+<div align="center"> <img src="resources/wireflow-diagram.jpeg" alt="mobile wireflow mockup 0" width="400"> </div>
+
+#### 3.1.4.3 Mobile Applications Mock-ups
+
+Los mockups evidencian la aplicación del Design System, integrando los principios de consistencia visual, jerarquía tipográfica, contraste y accesibilidad.
+Asimismo, reflejan el uso de elementos de diseño inclusivo, garantizando legibilidad, navegación intuitiva y una experiencia coherente para todo tipo de usuario.
+
+La arquitectura de información se organiza en bloques funcionales (cartelera, ficha de obra, notificaciones, perfil y ajustes), priorizando la claridad y la usabilidad.
+Se mantienen los fondos oscuros con acentos en rojo coral (#F74346) para resaltar las acciones clave, tipografía Inter en jerarquías claras y una iconografía minimalista coherente con la identidad teatral.
+La navegación inferior, los botones de alto contraste y las tarjetas modulares aseguran una experiencia fluida e intuitiva, mientras que el estilo visual transmite sofisticación, cercanía y pasión por el arte escénico.
+
+<div align="center"> <img src="resources/figma/mt0.png" alt="mobile applications mockup 0" width="400"> </div>
+<div align="center"> <img src="resources/figma/mt1.png" alt="mobile applications mockup 1" width="200">
+<img src="resources/figma/mt2.png" alt="mobile applications mockup 2" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt3.png" alt="mobile applications mockup 3" width="200">
+<img src="resources/figma/mt4.png" alt="mobile applications mockup 4" width="200"> </div> 
+<div align="center"> <img src="resources/figma/mt5.png" alt="mobile applications mockup 5" width="200">
+<img src="resources/figma/mt6.png" alt="mobile applications mockup 6" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt7.png" alt="mobile applications mockup 7" width="200">
+<img src="resources/figma/mt8.png" alt="mobile applications mockup 8" width="200"> </div>
+<div align="center"> <img src="resources/figma/mt9.png" alt="mobile applications mockup 9" width="200">
+<img src="resources/figma/mt10.png" alt="mobile applications mockup 10" width="200"> </div>
+
+#### 3.1.4.4 Mobile Applications User Flow Diagrams
+
+Enlace para acceder al <a href="https://lucid.app/lucidchart/61958854-f009-480f-b122-df53bd8ab153/edit?viewport_loc=-9091%2C-7108%2C21047%2C10719%2C0_0&invitationId=inv_a67952f0-a49f-4210-bb72-2e9b6b4d129d">Lucid Chart</a>
+
+**1.Flujo de registro de usuario al sistema**
+
+<img src="resources/figma/us1.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo muestra el proceso de acceso del usuario dentro de Teatrope, la aplicación que conecta a los consumidores de teatro con la oferta escénica disponible en Lima Metropolitana.
+
+El recorrido inicia con la pantalla de bienvenida, donde se presenta la identidad visual de la marca. Luego, el usuario puede iniciar sesión si ya tiene una cuenta, ingresando su correo y contraseña, o bien registrarse como nuevo usuario mediante el formulario de creación de cuenta.
+
+El objetivo de este flujo es garantizar un acceso rápido, seguro y claro, simplificando los pasos para que el usuario pueda ingresar fácilmente a la plataforma y comenzar a explorar la cartelera, funciones y promociones teatrales disponibles.
+
+**2.Flujo de visualización del menu del sistema**
+
+<img src="resources/figma/us2.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo muestra la interacción del usuario dentro del menú principal de Teatrope, donde se concentra la exploración de la cartelera teatral. Desde esta vista, el usuario puede seleccionar su ciudad, distrito y género teatral para filtrar las obras disponibles.
+
+Una vez aplicados los filtros, la aplicación despliega una lista de producciones con sus respectivas portadas, permitiendo al usuario visualizar los títulos en cartelera. Al seleccionar una obra, se accede a la pantalla de detalle, que muestra información completa como sinopsis, elenco, ubicación del teatro, horarios y la opción de reservar o valorar la obra.
+
+Este flujo busca ofrecer una navegación fluida e intuitiva, priorizando la facilidad de búsqueda y la presentación visual de las obras, con el objetivo de mejorar la experiencia del usuario y fomentar la asistencia a eventos teatrales.
+
+**3.Flujo de filtro por función teatral y sede**
+
+<img src="resources/figma/us3.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo muestra el proceso mediante el cual el usuario puede filtrar las obras teatrales y visualizar las sedes disponibles dentro de la aplicación Teatrope. Desde la pantalla principal, el usuario puede aplicar filtros por distrito, género teatral o alternar entre las vistas de Services (obras) y Theaters (sedes).
+
+Al seleccionar la opción Theaters, la interfaz despliega una lista de teatros disponibles en la ciudad y distrito elegidos, mostrando su imagen, nombre y ubicación. De esta forma, el usuario puede identificar fácilmente los espacios donde se presentan las funciones teatrales.
+
+Este flujo busca ofrecer una experiencia de exploración más personalizada y eficiente, facilitando que los usuarios encuentren tanto las obras como los teatros de su preferencia en pocos pasos.
+
+**4.Flujo de notificaciones del sistema**
+
+<img src="resources/figma/us4.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo describe el proceso mediante el cual el usuario recibe y visualiza notificaciones dentro de la aplicación Teatrope. Las notificaciones tienen como objetivo mantener al usuario informado sobre nuevas obras disponibles, cambios en funciones guardadas y recomendaciones personalizadas según sus intereses teatrales.
+
+Desde la pantalla de notificaciones, el usuario puede ver mensajes como estrenos recientes, espectáculos cercanos o recordatorios de sus funciones favoritas. Al hacer clic en una notificación, se redirige automáticamente a la cartelera principal, donde puede explorar más detalles sobre la obra o acceder directamente a la página del evento.
+
+Este flujo contribuye a una experiencia dinámica y personalizada, fomentando la participación constante del usuario y mejorando la visibilidad de las producciones teatrales en la plataforma.
+
+**5.Flujo de visualización de obras teatrales por Teatro**
+
+<img src="resources/figma/us5.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo representa el recorrido que realiza el usuario al explorar las obras disponibles dentro de un teatro específico en la aplicación Teatrope. Desde la pantalla principal, el usuario puede filtrar por ciudad y distrito, y luego acceder a la sección Theaters, donde se muestran las sedes teatrales con imágenes representativas.
+
+Al seleccionar un teatro, se despliega una vista detallada con información del nombre, dirección y descripción del lugar, junto con las obras actualmente en cartelera. Esta interfaz permite al usuario conocer qué producciones se presentan en cada sede y acceder directamente a su ficha para obtener más información o realizar una reserva.
+
+El propósito de este flujo es facilitar la conexión entre los usuarios y los espacios culturales, promoviendo la asistencia a los teatros locales y ofreciendo una experiencia de exploración visual, clara y atractiva.
+
+**6.Flujo de visualización y configuración del perfil del usuario**
+
+<img src="resources/figma/us6.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo representa el proceso mediante el cual el usuario puede visualizar y personalizar su perfil dentro de la aplicación Teatrope. Desde la sección Profile, el usuario puede acceder a información relevante como sus entradas adquiridas, métodos de pago y el historial de actividades.
+
+Al ingresar a Settings, el usuario tiene la opción de actualizar sus datos personales, como correo y contraseña, además de configurar permisos relacionados con notificaciones y ubicación. También cuenta con accesos rápidos a las secciones de Términos y condiciones y Sobre nosotros.
+
+El objetivo de este flujo es ofrecer una gestión sencilla y segura de la información del usuario, garantizando control total sobre sus preferencias y fomentando una experiencia personalizada dentro de la plataforma.
+
+
+#### 3.1.4.5 Mobile Applications Prototyping
+
+En esta etapa se desarrolló el prototipo móvil interactivo de la aplicación Teatrope, cuyo objetivo es visualizar el flujo y la experiencia del usuario antes del desarrollo final. El prototipo busca representar la identidad visual del producto, mostrando una interfaz moderna, accesible y centrada en el usuario.
+
+La aplicación inicia con la pantalla de bienvenida, donde se presenta el logotipo y los colores representativos de la marca, reforzando el reconocimiento visual del proyecto. Este prototipo fue diseñado como una herramienta clave para validar la usabilidad, los recorridos de navegación y la coherencia estética de la plataforma teatral.
+
+<img src="resources/figma/Webappro.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Enlace para acceder al video de explicación del <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116250_upc_edu_pe/EStHV9z2PSpNoRGkEAw7VgsBWFuSGVCxohan1ZL6NFFG0w?e=QTRadV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Mobile Applications Prototyping</a>
+
+
+<div style="page-break-after: always;"></div>
+
+# Capítulo IV: Product Implementation & Validation
+
+En este capítulo se explica y evidencia el proceso de implementar, comprobar, desplegar y validar la solución compuesta en el caso por los productos digitales que forman parte del alcance. Abarca secciones para la organización del proceso de trabajo en Sprints, la descripción y prácticas asociadas a Software Configuration Management, el Video About-The-Product y las evidencias de Implementation, Testing, Despliegue y Validaciones para cada uno de los productos que forman parte de la solución, en términos del producto en sí y la colaboración por Sprint.
+
+## 4.1 Software Configuration Management
+
+En esta sección se establecen las decisiones y convenciones que permitirán mantener la consistencia del ciclo de vida. 
+
+### 4.1.1 Software Development Environment Configuration
+
+En esta sección se proporcionarán los enlaces a las aplicaciones y productos de software que utilizaremos durante el desarrollo de este producto de software. Con dicho fin organizamos la información en las siguientes secciones:
+
+- Project Managment
+- Requirements Management
+- Product UX/UI Design
+- Software Development
+- Software Testing
+- Software Deployment
+- Software Documentation
+
+### Project Management
+
+La gestión de proyectos de software (SPM) es el proceso de planificar, organizar y dirigir proyectos de desarrollo de software de principio a fin. A diferencia de la gestión de proyectos en general, la SPM implica un ciclo de vida único con múltiples rondas de pruebas y comentarios, que a menudo hace hincapié en metodologías ágiles para adaptarse a los cambios constantes. Una SPM eficaz es fundamental para garantizar que el software se entregue a tiempo, dentro del presupuesto y con los estándares de calidad requeridos.
+
+- Para este proyecto utilizaremos la metodología Ágil. La metodología Agile, o ágil, es un enfoque de gestión de proyectos que se basa en ciclos de desarrollo iterativos e incrementales para entregar valor de forma continua. A diferencia de los métodos tradicionales, como el modelo en cascada, Agile prioriza la flexibilidad, la adaptación al cambio, la colaboración y la satisfacción del cliente por encima del seguimiento de un plan rígido. 
+
+### Requirements Management
+
+Este proceso asegura que la organización documente, valide y cumpla con las necesidades y expectativas de los clientes y los stakeholders. 
+
+- Para este proyecto utilizaremos Jira. Jira es una herramienta de gestión de proyectos y seguimiento de incidencias, desarrollada por la empresa australiana Atlassian. Aunque se hizo popular en el ámbito del desarrollo de software, su flexibilidad la ha convertido en una solución versátil para cualquier equipo que necesite planificar, rastrear y entregar trabajo de manera eficiente, adoptando metodologías ágiles como Scrum y Kanban. https://www.atlassian.com/es/software/jira 
+
+### Product UX/UI Design
+
+El diseño de UX/UI de productos es una disciplina holística que combina la experiencia del usuario (UX) y la interfaz de usuario (UI) para crear productos eficaces, atractivos y centrados en el usuario. Un diseñador de productos supervisa todo el ciclo de vida del producto, utilizando los principios de UX/UI para garantizar que el producto no solo resuelva un problema del usuario, sino que también cumpla los objetivos empresariales. 
+
+- Para este proyecto utilizaremos Figma. Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la web que permite a los equipos colaborar en tiempo real para crear, prototipar y entregar diseños. Lanzada en 2016, revolucionó el diseño al centralizar el proceso en una plataforma online, eliminando la necesidad de instalar software complejo. Su naturaleza colaborativa lo ha convertido en un estándar de la industria, especialmente en proyectos de desarrollo de software ágil. https://www.figma.com/login 
+
+### Software Development
+
+A lo largo del ciclo de vida del desarrollo de software, se utilizan varias herramientas para mejorar la eficiencia, la colaboración y la calidad. Estas herramientas cubren diferentes aspectos del proceso, como la gestión del proyecto, el control de versiones, la integración continua/implementación continua (CI/CD), las pruebas y las operaciones de desarrollo (DevOps). 
+
+- Para este proyecto utilizaremos Github. GitHub es una plataforma de desarrollo de software basada en la web que facilita la colaboración y el control de versiones utilizando Git. Se ha convertido en una herramienta fundamental para equipos de desarrollo y proyectos de código abierto, ya que permite a los desarrolladores almacenar, gestionar y compartir su código en la nube. https://github.com/ 
+
+- Para este proyecto utilizaremos Android Studio. Android Studio es el Entorno de Desarrollo Integrado (IDE) oficial para el desarrollo de aplicaciones en el sistema operativo Android. Basado en IntelliJ IDEA de JetBrains, ofrece un conjunto completo de herramientas diseñadas para facilitar la creación, prueba y depuración de aplicaciones para todo el ecosistema de dispositivos Android. https://developer.android.com/studio
+
+- Para este proyecto utilizaremos Visual Studio Code. Visual Studio Code (VS Code) es un editor de código fuente gratuito y ligero, pero potente, desarrollado por Microsoft. Se diferencia de Visual Studio, el IDE más grande de Microsoft, en que está optimizado para la velocidad y la flexibilidad, en lugar de ser una solución todo en uno para proyectos empresariales complejos. https://code.visualstudio.com/
+
+### Software Testing
+
+El proceso de pruebas de software es la verificación y validación de que una aplicación de software cumple con sus requisitos específicos. Su objetivo principal es encontrar y corregir errores, fallos o defectos para entregar un producto de alta calidad que cumpla o supere las expectativas del usuario. El aseguramiento de la calidad (QA) es un proceso más amplio que busca evitar los defectos, mientras que las pruebas se centran en descubrirlos. 
+
+- Para este proyecto utilizaremos Unit Tests. Las pruebas unitarias son un proceso en el desarrollo de software donde se examinan las partes más pequeñas y aisladas del código, como funciones o métodos individuales, para verificar que se comportan como se espera. El objetivo es encontrar y corregir errores en las etapas más tempranas del desarrollo, cuando son más fáciles y económicos de solucionar. https://en.wikipedia.org/wiki/Unit_testing
+
+- Para este proyecto utilizaremos Gherkin. Gherkin es un lenguaje específico de dominio (DSL) que utiliza una sintaxis de texto simple para describir el comportamiento de un software. Es una parte fundamental de la metodología de Desarrollo Guiado por el Comportamiento (BDD), ya que permite a los equipos de desarrollo, pruebas y negocio colaborar y entender los requisitos de manera clara. https://cucumber.io/docs/gherkin/ 
+
+### Software Deployment
+
+El despliegue de software, o software deployment, es el proceso de hacer que una aplicación de software esté disponible para ser utilizada. Abarca todas las actividades que convierten el código en un producto funcional en un entorno de destino, como un servidor de prueba, un servidor de producción o el dispositivo de un usuario. 
+
+- Para este proyecto utilizaremos Github Pages. GitHub Actions y GitHub Pages funcionan conjuntamente para proporcionar un potente flujo de trabajo automatizado de integración continua/implementación continua (CI/CD) para sitios web estáticos. Con esta configuración, cualquier actualización que envíes a tu código activará automáticamente un flujo de trabajo que compila e implementa tu sitio, lo que elimina la necesidad de actualizaciones manuales. https://docs.github.com/en/pages
+
+### Software Documentation
+
+La documentación de software se refiere a todo el material escrito o ilustrado que acompaña a un producto de software. Su objetivo es explicar cómo funciona el software, cómo se usa y cómo se mantiene, sirviendo a diferentes audiencias como desarrolladores, usuarios finales y personal de soporte. Es una parte fundamental del ciclo de vida del desarrollo de software (SDLC).
+
+- Para este proyecto utilizaremos Swagger. Swagger es un conjunto de herramientas de código abierto que ayuda a los desarrolladores a diseñar, construir, documentar y consumir API REST. Originalmente, Swagger era el nombre de la especificación para describir estas interfaces, pero en 2016 la especificación pasó a llamarse OpenAPI (OAS), y el nombre "Swagger" se reservó para el conjunto de herramientas que implementan dicha especificación. https://swagger.io/
+
+- Para este proyecto utilizaremos Markdown. Markdown es un lenguaje de marcado ligero que permite dar formato a texto plano utilizando una sintaxis sencilla y fácil de leer. A diferencia de lenguajes más complejos como HTML, la sintaxis de Markdown utiliza símbolos y caracteres reconocibles para indicar formatos como negritas, cursivas, listas y encabezados. https://markdown.es/ 
+
+### 4.1.2 Source Code Management
+
+En esta sección se establecen los medios y esquemas de organización que aplicará para el seguimiento de modificaciones. Se proporcionan los links de los repositorios en Github para todos los productos. 
+
+- URL de la organización: https://github.com/teatrope 
+- URL del Proyect Report: https://github.com/teatrope/Project-Report
+- URL del Landing Page: https://github.com/teatrope/teatrope-landing
+- URL de la API: https://github.com/teatrope/teatrope-api 
+
+Para este proyecto se utilizará Gitflow. Gitflow es un modelo de ramificación para Git que fue popularizado por Vincent Driessen en 2010. A diferencia de los modelos más modernos, como el desarrollo basado en troncales (Trunk-Based Development), Gitflow utiliza múltiples ramas de larga duración y asigna funciones muy específicas a cada una. Este modelo es especialmente adecuado para proyectos con ciclos de lanzamiento programados, donde se necesita un control estricto de las versiones, como por ejemplo, en software de escritorio o sistemas regulados. 
+
+- Ramas principales:
+  - **main**: Contiene el historial oficial de lanzamientos, con código que siempre está listo para ser desplegado en producción. Cada commit en esta rama representa una nueva versión, que a menudo se etiqueta con un número de versión.
+  - **develop**:  Sirve como una rama de integración donde se consolidan todas las nuevas funcionalidades. A partir de esta rama se crean las ramas secundarias y se realizan las pruebas antes de un lanzamiento.
+
+- Ramas de apoyo:
+  - **feature**: Se crea a partir de develop para desarrollar una nueva característica. Cuando la funcionalidad está completa, se fusiona de nuevo en develop. Este enfoque permite que los desarrolladores trabajen en paralelo sin afectar la rama principal.
+  - **release**: Se crea a partir de develop cuando se está preparando una nueva versión para producción. Se utiliza para correcciones de última hora, generación de documentación y pruebas finales. Una vez que la rama está estable, se fusiona tanto con main (se etiqueta como la nueva versión) como con develop (para mantener la coherencia).
+  - **hotfix**: Se crea directamente desde main para corregir errores críticos y urgentes en producción. Una vez resuelto el problema, la rama hotfix se fusiona de nuevo en main y en develop para asegurar que el arreglo se incluya en futuras versiones. 
+
+Para este proyecto se utilizarán Conventional Commits. Conventional Commits es una convención de especificación ligera para estructurar los mensajes de commit en Git, que los hace comprensibles tanto para humanos como para máquinas. Su principal objetivo es crear un historial de commits claro y legible, lo que facilita la automatización de procesos como la generación de registros de cambios (changelogs) y el versionado semántico. (SemVer). 
+
+Estructura del conventional commit:
+
+```
+<type> [optional scope]: <description>
+[optional body]
+[optional footer]
+```
+
+- **type**: Dependiendo del cambio que se realicen en el proyecto, los commits pueden ser:
+  - **feat**: Cuando se agrega una nueva funcionalidad
+  - **docs**: Cuando se realizan cambios en la documentación del proyecto
+  - **fix**: Cuando se corrige un error en el código
+  - **chore**: Cuando se realizan cambios que no afectan al código
+  - **refactor**: Cuando se realizan cambios en la estructura, sin afectar el comportamiento del proyecto
+  - **build**: Cuando se realizan cambios en los componentes del proyecto, como dependencias externas. 
+  - **perf**: Cuando se realizan cambios que mejoran el rendimiento del proyecto.
+- **scope**: Campo opcional que nos permite especificar el alcance que tiene el commit
+- **description**: Campo obligatorio que proporciona el contenido del commit, en minúsculas y de modo imperativo
+- **body**: Campo opcional en el cual se detalla más información sobre el commit.
+- **footer**: Campo opcional que se utiliza para informar al respecto de cambios importantes. 
+
+### 4.1.3 Source Code Style Guide & Conventions
+
+Se establecen las referencias para nombrar elementos y programar en los lenguajes que se utilizan en la solución (HTML, CSS, JavasCript, TypeScript, Python, Kotlin, Swift). 
+
+### Kotlin
+
+La creación de aplicaciones escalables en Kotlin utilizando el diseño basado en el dominio (DDD) se centra en aislar la lógica empresarial central de los detalles técnicos de la implementación. Esto da lugar a una arquitectura limpia, fácil de mantener y de probar, a menudo combinando el DDD con principios arquitectónicos limpios o hexagonales. 
+
+- **Principios arquitectónicos**
+  - Aislar la capa de dominio: separar la lógica empresarial central en su propio módulo. Esta capa no debe depender de capas externas, como las capas de datos o de presentación.
+  - Encapsular la lógica empresarial: colocar todas las reglas empresariales directamente dentro de las entidades. El estado de la entidad solo debe modificarse mediante sus propios métodos para garantizar la aplicación coherente de las reglas.
+  - Utilizar abstracciones para los repositorios: definir interfaces de repositorio dentro de la capa de dominio para acceder a los agregados. La implementación concreta debe colocarse en la capa de datos. 
+
+- **Convenciones de Kotlin**
+  - Acepta la inmutabilidad: da preferencia a las variables val y a las estructuras de datos inmutables (listOf, mapOf). Para los objetos de valor, utiliza clases de datos con propiedades inmutables (val) para proporcionar igualdad estructural y simplificar la concurrencia.
+  - Aprovecha la seguridad de tipos: utiliza clases de valor @JvmInline para evitar la obsesión por lo primitivo y garantizar una seguridad de tipos sólida con una sobrecarga baja. Emplea clases selladas para crear jerarquías de clases restringidas, lo que hace que las expresiones when sean exhaustivas y seguras en cuanto a tipos.
+  - Simplifica los casos de uso: utiliza la función del operador invoke() para casos de uso o interactores. Esto permite llamadas más limpias, similares a funciones, que mejoran la legibilidad del código.
+  - Gestiona la concurrencia con corrutinas: utiliza corrutinas Kotlin para gestionar de forma eficiente tareas asíncronas y concurrentes, lo cual es esencial para aplicaciones escalables. 
+
+- **Patrones tácticos DDD en Kotlin**
+  - Entities: utilice clases estándar para objetos que tienen una identidad mutable a lo largo del tiempo.
+  - Aggregate roots: representan el punto de entrada principal para un agregado y son responsables de hacer cumplir las reglas de negocio.
+  - Value Objects: modélelos como objetos de clase de datos inmutables, aprovechando las implementaciones automáticas de equals() y hashCode() para la igualdad estructural.
+  - Domain services: defínalos como interfaz dentro de la capa de dominio, con la implementación residente en una capa externa. Deben ser sin estado y representar una capacidad empresarial. 
+
+### 4.1.4 Software Deployment Configuration
+
+En esta sección se especifica la configuración del despliegue de la solución, incluyendo los pasos necesarios para que, a partir de los repositorios de código fuente se pueda lograr el despliegue o publicación satisfactorio de cada uno de los productos digitales. 
+
+### Landing page
+
+1. Ve a tu repositorio en GitHub y haz clic en la pestaña "Settings".
+2. En la barra lateral izquierda, navega hasta la sección "Code and automation" y haz clic en "Pages".
+3. En la sección "Build and deployment", selecciona "GitHub Actions" en el menú desplegable "Source". 
+4. En tu repositorio, crea la carpeta .github/workflows/ si no existe. 
+5. Dentro de esa carpeta, crea un nuevo archivo con una extensión .yml o .yaml. Por ejemplo, deploy.yml.
+6. Guarda el archivo deploy.yml
+7. Haz commit de los cambios y súbelos a tu repositorio.
+8. GitHub detectará automáticamente el nuevo flujo de trabajo y comenzará el primer despliegue.
+
+Puedes ver el progreso del despliegue haciendo clic en la pestaña "Actions" en tu repositorio. El flujo de trabajo se ejecutará y, si todo va bien, tu sitio estará disponible en la URL de GitHub Pages (con el formato https://<usuario>.github.io/<nombre-repositorio>/) en unos minutos. 
+
+## 4.2 Landing Page & Mobile Application Implementation
+
+### 4.2.1 Sprint 1
+
+#### 4.2.1.1 Sprint Planning 1
+
+<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th colspan="2"><strong>Sprint #</strong></th>
+    <td colspan="2">Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th style="width: 20%;">Date</th>
+    <td colspan="3">2025-09-30</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td colspan="3">07:40 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td colspan="3">Mediante una videollamada en Discord.</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td colspan="3">Alva Abanto, Luis Andres</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td colspan="3">Yalan Zhang, Angie Christina / Sosa Soto, Oskar Rodrigo / López Acuña, Mario Joaquín / Varela Bustinza, Marcelo Alessandro</td>
+  </tr>
+  <tr>
+    <th>Sprint 0 Review Summary</th>
+    <td colspan="3">No hubo Sprint anterior (este es el primer sprint)</td>
+  </tr>
+  <tr>
+    <th>Sprint 0 Retrospective Summary</th>
+    <td colspan="3">No hubo Sprint anterior (este es el primer sprint)</td>
+  </tr>
+  <tr>
+    <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td colspan="3">Nuestro objetivo en este sprint es construir la base funcional de la aplicación Teatrope, implementando el flujo de autenticación y la pantalla principal de cartelera. Buscamos validar la experiencia de navegación inicial y garantizar que los usuarios puedan registrarse, iniciar sesión y visualizar obras teatrales disponibles según ciudad o distrito.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td colspan="3">20 Story Points</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td colspan="3">18 Story Points</td>
+  </tr>
+</table>
+
+
+#### 4.2.1.2 Sprint Backlog 1
+
+Para el desarrollo del primer sprint backlog, el equipo se encargó de dar comiezo y complementación del landing page y mobile application. La herramienta empleada para la organización y planificación de los miembros del equipo fue Trello. Esta herramienta brindó la división de las user stories en tareas mas simples para asi asiganr a cada uno de los miembros las tareas correspondientes según sus diferentes habilidades. El objetivo principal del sprint 1 es construir en su totalidad la landing page y mobile application, permitiendo que sea intuitiva y funcional para los usuarios del sistema.
+
+Enlace para acceder al Trello del Sprint 1: [Trello Sprint Backlog 1]()
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Sprint #</b></td>
+    <td colspan="6" align="center"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Tittle</b></td>
+    <td><b>Id</b></td>
+    <td><b>Tittle</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+  </tr>
+
+  <!-- US001: Ver la cartelera del día (Landing + Mobile) -->
+  <tr>
+    <td rowspan="3">US001</td>
+    <td rowspan="3">Ver la cartelera del día</td>
+    <td>T1</td>
+    <td>Diseño UI cartelera</td>
+    <td>Wireframe + layout responsive para listado “Hoy”.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Componente Lista “Hoy”</td>
+    <td>Implementar componente (web + mobile) con paginación.</td>
+    <td>3</td>
+    <td>Luis</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T3</td>
+    <td>Servicio/Hook de data</td>
+    <td>Endpoint/servicio para traer funciones del día con cache.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- US002: Buscar por obra o teatro -->
+  <tr>
+    <td rowspan="3">US002</td>
+    <td rowspan="3">Buscar por obra o teatro</td>
+    <td>T4</td>
+    <td>Barra de búsqueda</td>
+    <td>Input con debounce y accesibilidad (ARIA).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T5</td>
+    <td>API de búsqueda</td>
+    <td>Endpoint/servicio filtro por título de obra o teatro.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T6</td>
+    <td>Resultados y vacíos</td>
+    <td>Listado de resultados y estado “sin coincidencias”.</td>
+    <td>1.5</td>
+    <td>Angie</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- US003: Filtrar por fecha -->
+  <tr>
+    <td rowspan="2">US003</td>
+    <td rowspan="2">Filtrar por fecha</td>
+    <td>T7</td>
+    <td>Datepicker</td>
+    <td>Selector de fecha (mobile-friendly) con validaciones.</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T8</td>
+    <td>Lógica de filtro</td>
+    <td>Aplicar filtro y refrescar lista sin recargar la página.</td>
+    <td>2</td>
+    <td>Luis</td>
+    <td>In-Process</td>
+  </tr>
+
+  <!-- US004: Filtrar por distrito -->
+  <tr>
+    <td rowspan="2">US004</td>
+    <td rowspan="2">Filtrar por distrito</td>
+    <td>T9</td>
+    <td>Selector de distrito</td>
+    <td>Dropdown con distritos y búsqueda interna.</td>
+    <td>1.5</td>
+    <td>Angie</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>Query por ubicación</td>
+    <td>Extender servicio para filtrar por distrito.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- US006: Ver ficha de obra -->
+  <tr>
+    <td rowspan="3">US006</td>
+    <td rowspan="3">Ver ficha de obra</td>
+    <td>T11</td>
+    <td>Pantalla de detalle</td>
+    <td>Maquetar ficha con sinopsis, elenco, horarios.</td>
+    <td>2.5</td>
+    <td>Angie</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T12</td>
+    <td>Servicio detalle</td>
+    <td>Obtener datos por ID de obra, manejo de loading/error.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+  <tr>
+    <td>T13</td>
+    <td>Accesibilidad</td>
+    <td>Etiquetas semánticas, foco, contraste AA.</td>
+    <td>1</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US007: Ver mapa del teatro -->
+  <tr>
+    <td rowspan="2">US007</td>
+    <td rowspan="2">Ver mapa del teatro</td>
+    <td>T14</td>
+    <td>Componente mapa</td>
+    <td>Integrar mapa (marker + abrir en Google Maps).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T15</td>
+    <td>Permisos mobile</td>
+    <td>Chequeo de ubicación (opcional) y fallback.</td>
+    <td>1</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- US008: Abrir enlace de compra externo -->
+  <tr>
+    <td rowspan="2">US008</td>
+    <td rowspan="2">Abrir enlace de compra externo</td>
+    <td>T16</td>
+    <td>Botón “Comprar”</td>
+    <td>CTA en ficha que abre URL externa segura (noopener).</td>
+    <td>0.75</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T17</td>
+    <td>Validación de URL</td>
+    <td>Verificar formato/https y manejo de enlaces rotos.</td>
+    <td>1</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- US020/US021: Favoritos -->
+  <tr>
+    <td rowspan="3">US020/US021</td>
+    <td rowspan="3">Favoritos (guardar y ver)</td>
+    <td>T18</td>
+    <td>Toggle favorito</td>
+    <td>Marcar/Desmarcar obra como favorita (localStore/API).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T19</td>
+    <td>Lista de favoritos</td>
+    <td>Pantalla/listado con las obras guardadas.</td>
+    <td>2</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T20</td>
+    <td>Sincronización</td>
+    <td>Sincronizar favoritos entre web y mobile (si aplica).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- US022: Recordatorios (MVP simple) -->
+  <tr>
+    <td rowspan="2">US022</td>
+    <td rowspan="2">Activar recordatorio</td>
+    <td>T21</td>
+    <td>UI recordatorio</td>
+    <td>Acción “Recordar” desde horario de función.</td>
+    <td>1</td>
+    <td>Angie</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T22</td>
+    <td>Agregar a calendario</td>
+    <td>Exportar a Google Calendar/iCal (deep link).</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Technical Story: Responsive, performance y build -->
+  <tr>
+    <td rowspan="3">TS01</td>
+    <td rowspan="3">Responsive, performance & build</td>
+    <td>T23</td>
+    <td>Responsive audit</td>
+    <td>Ajustes CSS grid/flex; breakpoints móviles/tablets.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T24</td>
+    <td>Core Web Vitals</td>
+    <td>Lazy images, code-splitting, memoization.</td>
+    <td>2</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T25</td>
+    <td>CI/CD básico</td>
+    <td>Pipeline build + lint + tests para web/mobile.</td>
+    <td>2.5</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Spike SS01: Cartelera centralizada -->
+  <tr>
+    <td rowspan="2">SS01</td>
+    <td rowspan="2">Visualización centralizada de cartelera</td>
+    <td>T26</td>
+    <td>Revisión de librerías</td>
+    <td>Comparar filtrado/paginación (Material/Headless/Native).</td>
+    <td>1.5</td>
+    <td>Mario</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T27</td>
+    <td>PoC filtros</td>
+    <td>Prototipo con 50 obras y métricas (&lt;1s búsqueda).</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- Spike SS05: Mapas y calendarios -->
+  <tr>
+    <td rowspan="2">SS05</td>
+    <td rowspan="2">Integración mapas y calendarios</td>
+    <td>T28</td>
+    <td>Maps API</td>
+    <td>Probar markers, rendimiento y compatibilidad mobile.</td>
+    <td>1.5</td>
+    <td>Rodrigo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>T29</td>
+    <td>Calendarios</td>
+    <td>Deep link a Google Calendar/ICS y documentación.</td>
+    <td>1.5</td>
+    <td>Marcelo</td>
+    <td>To-Review</td>
+  </tr>
+
+  <!-- Technical Story: Analytics & Logging -->
+  <tr>
+    <td rowspan="2">TS02</td>
+    <td rowspan="2">Analytics & logging</td>
+    <td>T30</td>
+    <td>Eventos clave</td>
+    <td>Instrumentar “Buscar”, “Filtrar”, “Favorito”, “Comprar”.</td>
+    <td>1.5</td>
+    <td>Luis</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>T31</td>
+    <td>Dash básico</td>
+    <td>Panel simple de métricas para demo (local/dev).</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-do</td>
+  </tr>
+</table>
+
+#### 4.2.1.3 Development Evidence for Sprint Review
+
+Evidencia del Trello Sprint backlog 1:
+<img src="resources/Sprint_Backlog_1.jpeg" alt="Sprint Backlog 1">
+
+#### 4.2.1.4 Testing Suite Evidence for Sprint Review
+
+En esta sección se presenta código de pruebas de integración para los servcios principales implementados en la API con Python y Django REST Framework. Se utiliza la biblioteca APITestCase de este framework para testear los métodos HTTP de los endpoints principales usando datos de prueba y verificando los estados de respuesta. Cada prueba verifica el código de respuesta y la correcta asignación de valores de respuesta. 
+
+### accounts
+
+Prueba unitaria para el registro y login de un usuario.
+
+```python
+from django.urls import reverse
+from rest_framework.test import APITestCase
+from rest_framework import status
+from .models import Usuario
+
+
+class AuthTests(APITestCase):
+    def test_register_and_login(self):
+        url_register = reverse('usuario-register')
+        data = {"email": "user@example.com", "password": "Secret123!", "tipo_rol": "CONSUMIDOR"}
+        resp = self.client.post(url_register, data, format='json')
+        self.assertEqual(resp.status_code, status.HTTP_201_CREATED)
+        token = resp.data['token']
+        self.assertTrue(token)
+
+        url_login = reverse('usuario-login')
+        resp2 = self.client.post(url_login, {"email": "user@example.com", "password": "Secret123!"}, format='json')
+        self.assertEqual(resp2.status_code, status.HTTP_200_OK)
+```
+
+### content
+
+Prueba unitaria para las operaciones CRUD del endpoint "content". 
+
+```python
+from django.urls import reverse
+from rest_framework.test import APITestCase
+from rest_framework import status
+from accounts.models import Usuario
+from rest_framework.authtoken.models import Token
+
+
+class ContentCrudTests(APITestCase):
+    def setUp(self):
+        self.user = Usuario.objects.create_user(email='u@e.com', password='Secret123!')
+        self.token, _ = Token.objects.get_or_create(user=self.user)
+        self.client.credentials(HTTP_AUTHORIZATION=f'Token {self.token.key}')
+
+    def test_teatro_crud(self):
+        list_url = '/api/content/teatros/'
+        payload = {
+            "nombre": "Teatro Central",
+            "descripcion": "Desc",
+            "calle": "Av.",
+            "distrito": "Centro",
+            "latitud": -12.05,
+            "longitud": -77.05
+        }
+        r = self.client.post(list_url, payload, format='json')
+        self.assertEqual(r.status_code, status.HTTP_201_CREATED)
+        teatro_id = r.data['id']
+        r2 = self.client.get(f'{list_url}{teatro_id}/')
+        self.assertEqual(r2.status_code, status.HTTP_200_OK)
+```
+
+#### 4.2.1.5 Excecution Evidence for Sprint Review
+
+#### 4.2.1.6 Services Documentation Evidence for Sprint Review
+
+En esta sección se presentan los avances relacionados con la documentación de los Web Services realizados durante el Sprint. Se incluye una tabla con los endpoints implementados, detallando las acciones soportadas (verbo HTTP, sintaxis, parámetros, ejemplos de respuesta), así como el enlace al repositorio donde se encuentra el proyecto y la documentación más detallada. 
+
+URL del repositorio del API en la organización de GitHub del equipo: 
+- [https://github.com/teatrope/teatrope-api](https://github.com/teatrope/teatrope-api)
+
+## Aplicaciones y Modelos
+
+### accounts
+Custom user model `accounts.Usuario` (auth by email) with fields:
+- `id` (UUID, PK)
+- `email` (unique, used as username)
+- `tipo_rol` (CONSUMIDOR | TEATRO)
+- Preference fields: `permisos_json`, `generos_preferidos_json`, `calle_preferida`, `distrito_preferida`, `latitud_preferida`, `longitud_preferida`
+- `ultimo_login`
+
+### content
+- `Teatro`: basic theater info (name, address, coordinates)
+- `Obra`: play linked to `Teatro`, with `genero` and director info
+- `Funcion`: performance linked to `Obra` with schedule and seat availability
+- `Persona`: cast/crew linked to `Obra` with role
+
+### discovery
+- `Busqueda`: user search log/parameters
+- `ObraVistaCache`: flattened play info for recommendations
+- `Recomendacion`: links a `Busqueda` to an `ObraVistaCache` with a score and reason
+
+### notifications
+- `Notificacion`: sent to a `usuario_id` with type, content and state
+- `RecomendacionPersonalizada`: ties a recommendation to a notification
+- `PreferenciasUsuario`: per-user saved preferences
+
+### tickets
+- `Reserva`: reservation for a user and a function, with state and metadata
+- `DetalleEntrada`: ticket detail linked to a `Reserva`
+- `DisponibilidadCache`: cached seat availability per function
+
+
+## URL Base y Autenticación
+
+- Base URL: `http://localhost:8001/api/`
+- Authentication: Token (DRF TokenAuth)
+  - Header: `Authorization: Token <YOUR_TOKEN>`
+
+
+## Endpoints y ejemplos del CRUD
+
+Below is a concise list of endpoints by app. All standard DRF `ModelViewSet` routes exist unless noted: `list (GET)`, `retrieve (GET)`, `create (POST)`, `update (PUT)`, `partial_update (PATCH)`, `destroy (DELETE)`.
+
+### accounts
+
+Auth routes:
+- `POST /api/auth/register/`
+- `POST /api/auth/token/login/`
+- `POST /api/auth/token/logout/` (requires auth)
+
+User routes (require auth):
+- `GET /api/auth/users/`
+- `POST /api/auth/users/`
+- `GET /api/auth/users/{id}/`
+- `PUT /api/auth/users/{id}/`
+- `PATCH /api/auth/users/{id}/`
+- `DELETE /api/auth/users/{id}/`
+
+Register request:
+```json
+{
+  "email": "user@example.com",
+  "password": "StrongPass123",
+  "tipo_rol": "CONSUMIDOR"
+}
+```
+
+Register response (201):
+```json
+{
+  "user": {
+    "id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+    "email": "user@example.com",
+    "tipo_rol": "CONSUMIDOR",
+    "permisos_json": [],
+    "generos_preferidos_json": [],
+    "calle_preferida": "",
+    "distrito_preferida": "",
+    "latitud_preferida": null,
+    "longitud_preferida": null
+  },
+  "token": "abcd1234..."
+}
+```
+
+Login request:
+```json
+{
+  "email": "user@example.com",
+  "password": "StrongPass123"
+}
+```
+
+Login response (200):
+```json
+{
+  "token": "abcd1234...",
+  "user": {
+    "id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+    "email": "user@example.com",
+    "tipo_rol": "CONSUMIDOR",
+    "permisos_json": [],
+    "generos_preferidos_json": [],
+    "calle_preferida": "",
+    "distrito_preferida": "",
+    "latitud_preferida": null,
+    "longitud_preferida": null
+  }
+}
+```
+
+Logout (204):
+```
+POST /api/auth/token/logout/
+Authorization: Token <YOUR_TOKEN>
+```
+
+
+### content
+
+Routes:
+- `Teatro`: `/api/content/teatros/`
+- `Obra`: `/api/content/obras/`
+- `Funcion`: `/api/content/funciones/`
+- `Persona`: `/api/content/personas/`
+
+Create Teatro request:
+```json
+{
+  "nombre": "Teatro Central",
+  "descripcion": "Sala principal",
+  "calle": "Av. Principal 123",
+  "distrito": "Centro",
+  "latitud": -12.0464,
+  "longitud": -77.0428
+}
+```
+
+Create Teatro response (201):
+```json
+{
+  "id": "b1a9f4b7-9c9d-4e0f-bf3e-9d7b0b54d2ad",
+  "nombre": "Teatro Central",
+  "descripcion": "Sala principal",
+  "calle": "Av. Principal 123",
+  "distrito": "Centro",
+  "latitud": -12.0464,
+  "longitud": -77.0428
+}
+```
+
+Create Obra request:
+```json
+{
+  "teatro": "b1a9f4b7-9c9d-4e0f-bf3e-9d7b0b54d2ad",
+  "titulo": "Hamlet",
+  "genero": "DRAMA",
+  "director_nombre": "A. Director",
+  "director_rol": "DIRECTOR"
+}
+```
+
+Create Funcion request:
+```json
+{
+  "obra": "1d5c9c1a-2ea7-41ad-9c5b-5807d7f9e0a1",
+  "fecha": "2025-10-10T20:00:00Z",
+  "duracion_minutos": 120,
+  "disponibilidad_asientos": 100
+}
+```
+
+Create Persona request:
+```json
+{
+  "obra": "1d5c9c1a-2ea7-41ad-9c5b-5807d7f9e0a1",
+  "nombre_completo": "J. Actor",
+  "rol": "ACTOR"
+}
+```
+
+
+### discovery
+
+Routes:
+- `Busqueda`: `/api/discovery/busquedas/`
+- `Recomendacion`: `/api/discovery/recomendaciones/`
+- `ObraVistaCache`: `/api/discovery/obras-cache/`
+
+Create Busqueda request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "genero_filtro": "COMEDIA",
+  "calle_filtro": "Av. 1",
+  "distrito_filtro": "Centro",
+  "latitud_filtro": -12.05,
+  "longitud_filtro": -77.04,
+  "fecha_inicio": "2025-10-01T00:00:00Z",
+  "fecha_fin": "2025-10-31T23:59:59Z"
+}
+```
+
+Create Recomendacion request:
+```json
+{
+  "busqueda": "f2f9f7b2-5dd8-4b7b-9ac8-4f5af7b12c7e",
+  "obra": "e7b1c5e2-5291-4d40-8b76-889e50927020",
+  "puntuacion": 0.92,
+  "razon": "Popular cerca de ti"
+}
+```
+
+Create ObraVistaCache request:
+```json
+{
+  "titulo": "Hamlet",
+  "genero": "DRAMA",
+  "calle": "Av. Principal 123",
+  "distrito": "Centro",
+  "latitud": -12.0464,
+  "longitud": -77.0428,
+  "funciones_json": [
+    { "fecha": "2025-10-10T20:00:00Z", "duracion_minutos": 120 }
+  ]
+}
+```
+
+
+### notifications
+
+Routes:
+- `Notificacion`: `/api/notifications/notificaciones/`
+- `RecomendacionPersonalizada`: `/api/notifications/recomendaciones-personalizadas/`
+- `PreferenciasUsuario`: `/api/notifications/preferencias/`
+
+Create Notificacion request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "tipo": "RECOMENDACION",
+  "contenido": "Nueva obra para ti",
+  "titulo_mensaje": "Sugerencia",
+  "cuerpo_mensaje": "Te puede gustar Hamlet",
+  "enlace_mensaje": "https://ejemplo.com/obra/hamlet",
+  "estado": "ENVIADA"
+}
+```
+
+Create PreferenciasUsuario request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "generos_json": ["DRAMA", "COMEDIA"],
+  "calle_preferida": "Av. 1",
+  "distrito_preferida": "Centro",
+  "latitud_preferida": -12.05,
+  "longitud_preferida": -77.04,
+  "frecuencia_notif": "SEMANAL"
+}
+```
+
+Create RecomendacionPersonalizada request:
+```json
+{
+  "notificacion": "b9c32d1a-1d0b-4c8a-b0a8-0f21c0b5c0b0",
+  "obra_id": "1d5c9c1a-2ea7-41ad-9c5b-5807d7f9e0a1",
+  "score_relevancia": 0.85,
+  "razon": "Basada en tus preferencias"
+}
+```
+
+
+### tickets
+
+Routes:
+- `Reserva`: `/api/tickets/reservas/`
+- `DetalleEntrada`: `/api/tickets/detalles/`
+- `DisponibilidadCache`: `/api/tickets/disponibilidad/`
+
+Create Reserva request:
+```json
+{
+  "usuario_id": "3d6f2fdc-8c5d-4f87-baa9-8a3b05d5f2a4",
+  "funcion_id": "2cfc3e0a-9eb5-4a64-bb04-05c0e5b2a7f0",
+  "cantidad": 2,
+  "estado": "PENDIENTE",
+  "codigo_qr": "",
+  "detalles_ticket": ""
+}
+```
+
+Create DetalleEntrada request:
+```json
+{
+  "reserva": "c4b7fb81-09b1-4ed7-a3f5-0e3e4f9a6b6e",
+  "asiento": "A-10",
+  "precio": 50.0
+}
+```
+
+Create DisponibilidadCache request:
+```json
+{
+  "funcion_id": "2cfc3e0a-9eb5-4a64-bb04-05c0e5b2a7f0",
+  "total_asientos": 120,
+  "disponibles": 95
+}
+```
+
+#### 4.2.1.7 Software Deployment Evidence for Sprint Review
+
+El despligue realizado para el desarrollo del backend e nuestra aplicación se clasifico en diferentes procesos los cuales permitieron la organización y utilización de buenas practicas para el diseño de la arquitectura permitiendo un flujo de sistema adecuado, y asimismo las pruebas correspondientes de su ejecución.
+
+1. Crear una cuenta en Railway https://railway.com/ y utilizar el plan gratuito
+2. Crear un nuevo proyecto en Railway que utilizará el repositorio de Github donde está alojada la API
+
+<img src="resources/Imagen1.png" alt="Software Deployment Evidence 1">
+
+<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+
+3. Crear una rama para el deployment, donde la configuración del proyecto puede ser diferente a la configuración utilizada para levantar la API localmente
+4. Verificar archivos como:
+a. docker-compose.yml
+b. Dockerfile
+c. requirements.txt
+d. manage.py
+e. settings.py
+Se comparte la configuración de dichos archivos.
+
+docker-compose-yml
+
+<img src="resources/Imagen3.png" alt="Software Deployment Evidence 3">
+
+Dockerfile
+
+<img src="resources/Imagen4.png" alt="Software Deployment Evidence 4">
+
+requirements.txt
+
+<img src="resources/Imagen5.png" alt="Software Deployment Evidence 5">
+
+manage.py
+
+<img src="resources/Imagen6.png" alt="Software Deployment Evidence 6">
+
+settings.py
+
+<img src="resources/Imagen7.png" alt="Software Deployment Evidence 7">
+
+<img src="resources/Imagen8.png" alt="Software Deployment Evidence 8">
+
+<img src="resources/Imagen9.png" alt="Software Deployment Evidence 9">
+
+Notar que en varios archivos se utilizan variables de entorno que más tarde deberán ser configuradas en Railway, o asignadas dinámicamente.
+
+5. En el proyecto de Railway configurar el Root Directory a /backend
+
+<img src="resources/Imagen10.png" alt="Software Deployment Evidence 10">
+
+6. Se deberá setear la variable de entorno RAILWAY_DOCKERFILE_PATH correctamente para que el build sea exitoso. También se deberá crear y setear las variables para Django.
+
+<img src="resources/Imagen11.png" alt="Software Deployment Evidence 11">
+
+7. Crear un servicio MySQL desde Railway, donde los detalles de conexión se generan automáticamente. Es importante linkear la dirección de la base de datos en la variable DATABASE_URL del servicio API.
+
+<img src="resources/Imagen12.png" alt="Software Deployment Evidence 12">
+
+8. Una vez sea exitoso el build y deployment tocará conectarse mediante mediante la CLI de Railway para iniciar la API.
+9. Instalar la CLI mediante “npm install -g @railway/cli” e iniciar sesión con “railway login”
+10. Desde la ruta local hacer “railway link” para conectarnos con el proyecto en Railway.
+11. Ingresar a la shell de Railway mediante “railway shell”
+12. Ingresar al entorno virtual de Python mediante “../venv/Scripts/activate”
+13. Realizar las migraciones Django para terminar de configurar y crear la base de datos con la API
+a.railway run python manage.py makemigrations
+b.railway run python manage.py migrate
+c.railway run python manage.py createsuperuser (opcional)
+14. Testear la api mediante postman
+
+Registrar usuario
+
+<img src="resources/Imagen13.png" alt="Software Deployment Evidence 13">
+
+Login
+
+<img src="resources/Imagen14.png" alt="Software Deployment Evidence 14">
+
+Get de usuarios
+
+<img src="resources/Imagen15.png" alt="Software Deployment Evidence 15">
+
+URL de la api: https://teatrope-api-production-278a.up.railway.app
+
+#### 4.2.1.8 Team Collaboration Insights during Sprint
+
+## 4.3 Validation Interviews
+
+### 4.3.1 Diseño de Entrevistas
+
+### 4.3.2 Registro de Entrevistas
+
+### 4.3.3 Evaluaciones según heurísticas
+
+<div style="page-break-after: always;"></div>
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+## Video App Validation
+
+## Video About the product
+
+## Video About the team
+
+# Glosario
 
 # Bibliografía
 
@@ -3565,3 +5133,22 @@ Wikipedia contributors. (2025, 8 febrero). Theatre of Peru. Wikipedia. https://e
 Theaters in Peru - LimaEasy. (s. f.). https://www.limaeasy.com/peru-guide/peru-culture-entertainment/theaters-in-peru
 
 Barnard, M. (s. f.). Peru Archives - The Theatre Times. The Theatre Times. https://thetheatretimes.com/latest-post/worldwide/south-america/peru
+
+Chanan, M. (n.d.). The economic condition of cinema in Latin America. http://www.mchanan.com/wp-content/uploads/2013/12/economic-condition.pdf
+
+International Union of Cinemas. (2023). UNIC annual report 2023. https://www.unic-cinemas.org/fileadmin/user_upload/Publications/2023 UNIC_Annual_Report_2023.pdf
+
+Inter-American Development Bank. (n.d.). The economic impact of the creative industries in the Americas. https://publications.iadb.org/publications/english/document/
+
+The-Economic-Impact-of-the-creative-industries-in-the-Americas.pdf
+Rajani, D. (n.d.). Navigating the digital stage: Challenges and opportunities in online theatre. https://deepikarajani.com/navigating-the-digital-stage-challenges-and-opportunities-in-online-theatre/
+
+Statista. (2025, June 20). Latin America: Movie tickets sold by country 2023. https://www.statista.com/statistics/316847/cinema-admissions-countries-latin-america/
+
+Statista. (2025, July 10). Latin America: Cinema admissions per capita 2023. https://www.statista.com/statistics/1174476/number-cinema-admissions-per-capita-latin-america/
+
+TVyVideo. (2025, May 21). In 2024, the number of moviegoers in Colombia decreased. https://www.tvyvideo.com/en/news/latest-news/290-enterprises/22501-in-2024-the-number-of-moviegoers-in-colombia-decreased.html
+
+Union Andina. (2021, October 5). Orange economy: How much do creative industries produce in Peru? https://unionandina.com/en/orange-economy-how-much-do-creative-industries-produce-in-peru/
+
+# Anexos
