@@ -4751,6 +4751,9 @@ Create DisponibilidadCache request:
 
 #### 4.2.1.7 Software Deployment Evidence for Sprint Review
 
+El despligue realizado para el desarrollo del backend e nuestra aplicación se clasifico en diferentes procesos los cuales permitieron la organización y utilización de buenas practicas para el diseño de la arquitectura permitiendo un flujo de sistema adecuado, y asimismo las pruebas correspondientes de su ejecución.
+
+
 #### 4.2.1.8 Team Collaboration Insights during Sprint
 
 ## 4.3 Validation Interviews
