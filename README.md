@@ -4753,8 +4753,10 @@ Create DisponibilidadCache request:
 
 El despligue realizado para el desarrollo del backend e nuestra aplicación se clasifico en diferentes procesos los cuales permitieron la organización y utilización de buenas practicas para el diseño de la arquitectura permitiendo un flujo de sistema adecuado, y asimismo las pruebas correspondientes de su ejecución.
 
-Crear una cuenta en Railway https://railway.com/ y utilizar el plan gratuito
-Crear un nuevo proyecto en Railway que utilizará el repositorio de Github donde está alojada la API
+1. Crear una cuenta en Railway https://railway.com/ y utilizar el plan gratuito
+2. Crear un nuevo proyecto en Railway que utilizará el repositorio de Github donde está alojada la API
+
+
 
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
