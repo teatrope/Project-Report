@@ -4777,9 +4777,15 @@ Dockerfile
 
 <img src="resources/Imagen4.png" alt="Software Deployment Evidence 4">
 
+requirements.txt
+
 <img src="resources/Imagen5.png" alt="Software Deployment Evidence 5">
 
+manage.py
+
 <img src="resources/Imagen6.png" alt="Software Deployment Evidence 6">
+
+settings.py
 
 <img src="resources/Imagen7.png" alt="Software Deployment Evidence 7">
 
@@ -4787,6 +4793,9 @@ Dockerfile
 
 <img src="resources/Imagen9.png" alt="Software Deployment Evidence 9">
 
+Notar que en varios archivos se utilizan variables de entorno que más tarde deberán ser configuradas en Railway, o asignadas dinámicamente.
+
+En el proyecto de Railway configurar el Root Directory a /backend
 
 
 
