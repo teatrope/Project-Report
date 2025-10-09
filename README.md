@@ -100,6 +100,9 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 URL del repositorio del Project Report en la organización de GitHub del equipo: 
 - [https://github.com/teatrope/Project-Report](https://github.com/teatrope/Project-Report)
 
+<br> 
+<img src="resources/insights_tp.png" alt="insights-tp">
+
 <div style="page-break-after: always;"></div>
 
 ## Contenido
