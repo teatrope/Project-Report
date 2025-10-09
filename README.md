@@ -283,7 +283,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1: </strong><br>Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br> Fortalecí mis conocimientos en planificación del Sprint 1 y backlog, aprendí a organizar las tareas técnicas y a usar buenas prácticas de deployment y testing, lo que mejoró la calidad y escalabilidad del proyecto.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -347,7 +347,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1: </strong><br>Para esta entrega, reconozco la necesidad de aprendizaje permanente y me enfoqué en consolidar DDD y C4: definí el bounded context de Notifications & Recommendations (comandos, opt-in/opt-out, dedupe, ACL e integraciones), realicé el context mapping y el análisis de competidores.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br> Reconocí la importancia del aprendizaje continuo al investigar soluciones para el deployment, la corrección de tablas y la preparación de la demo y video de exposición, mejorando mi capacidad de adaptación a los retos del proyecto.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -4874,6 +4874,87 @@ Create DisponibilidadCache request:
 ```
 
 #### 4.2.1.7 Software Deployment Evidence for Sprint Review
+
+El despligue realizado para el desarrollo del backend e nuestra aplicación se clasifico en diferentes procesos los cuales permitieron la organización y utilización de buenas practicas para el diseño de la arquitectura permitiendo un flujo de sistema adecuado, y asimismo las pruebas correspondientes de su ejecución.
+
+1. Crear una cuenta en Railway https://railway.com/ y utilizar el plan gratuito
+2. Crear un nuevo proyecto en Railway que utilizará el repositorio de Github donde está alojada la API
+
+<img src="resources/Imagen1.png" alt="Software Deployment Evidence 1">
+
+<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
+
+3. Crear una rama para el deployment, donde la configuración del proyecto puede ser diferente a la configuración utilizada para levantar la API localmente
+4. Verificar archivos como:
+a. docker-compose.yml
+b. Dockerfile
+c. requirements.txt
+d. manage.py
+e. settings.py
+Se comparte la configuración de dichos archivos.
+
+docker-compose-yml
+
+<img src="resources/Imagen3.png" alt="Software Deployment Evidence 3">
+
+Dockerfile
+
+<img src="resources/Imagen4.png" alt="Software Deployment Evidence 4">
+
+requirements.txt
+
+<img src="resources/Imagen5.png" alt="Software Deployment Evidence 5">
+
+manage.py
+
+<img src="resources/Imagen6.png" alt="Software Deployment Evidence 6">
+
+settings.py
+
+<img src="resources/Imagen7.png" alt="Software Deployment Evidence 7">
+
+<img src="resources/Imagen8.png" alt="Software Deployment Evidence 8">
+
+<img src="resources/Imagen9.png" alt="Software Deployment Evidence 9">
+
+Notar que en varios archivos se utilizan variables de entorno que más tarde deberán ser configuradas en Railway, o asignadas dinámicamente.
+
+5. En el proyecto de Railway configurar el Root Directory a /backend
+
+<img src="resources/Imagen10.png" alt="Software Deployment Evidence 10">
+
+6. Se deberá setear la variable de entorno RAILWAY_DOCKERFILE_PATH correctamente para que el build sea exitoso. También se deberá crear y setear las variables para Django.
+
+<img src="resources/Imagen11.png" alt="Software Deployment Evidence 11">
+
+7. Crear un servicio MySQL desde Railway, donde los detalles de conexión se generan automáticamente. Es importante linkear la dirección de la base de datos en la variable DATABASE_URL del servicio API.
+
+<img src="resources/Imagen12.png" alt="Software Deployment Evidence 12">
+
+8. Una vez sea exitoso el build y deployment tocará conectarse mediante mediante la CLI de Railway para iniciar la API.
+9. Instalar la CLI mediante “npm install -g @railway/cli” e iniciar sesión con “railway login”
+10. Desde la ruta local hacer “railway link” para conectarnos con el proyecto en Railway.
+11. Ingresar a la shell de Railway mediante “railway shell”
+12. Ingresar al entorno virtual de Python mediante “../venv/Scripts/activate”
+13. Realizar las migraciones Django para terminar de configurar y crear la base de datos con la API
+a.railway run python manage.py makemigrations
+b.railway run python manage.py migrate
+c.railway run python manage.py createsuperuser (opcional)
+14. Testear la api mediante postman
+
+Registrar usuario
+
+<img src="resources/Imagen13.png" alt="Software Deployment Evidence 13">
+
+Login
+
+<img src="resources/Imagen14.png" alt="Software Deployment Evidence 14">
+
+Get de usuarios
+
+<img src="resources/Imagen15.png" alt="Software Deployment Evidence 15">
+
+URL de la api: https://teatrope-api-production-278a.up.railway.app
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
 
