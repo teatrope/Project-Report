@@ -4801,6 +4801,16 @@ Notar que en varios archivos se utilizan variables de entorno que más tarde deb
 
 6. Se deberá setear la variable de entorno RAILWAY_DOCKERFILE_PATH correctamente para que el build sea exitoso. También se deberá crear y setear las variables para Django.
 
+<img src="resources/Imagen11.png" alt="Software Deployment Evidence 11">
+
+<img src="resources/Imagen12.png" alt="Software Deployment Evidence 12">
+
+<img src="resources/Imagen13.png" alt="Software Deployment Evidence 13">
+
+<img src="resources/Imagen14.png" alt="Software Deployment Evidence 14">
+
+<img src="resources/Imagen15.png" alt="Software Deployment Evidence 15">
+
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
 
