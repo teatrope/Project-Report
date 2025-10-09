@@ -4758,6 +4758,7 @@ El despligue realizado para el desarrollo del backend e nuestra aplicación se c
 
 <img src="resources/Imagen1.png" alt="Software Deployment Evidence 1">
 
+<img src="resources/Imagen2.png" alt="Software Deployment Evidence 2">
 
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
