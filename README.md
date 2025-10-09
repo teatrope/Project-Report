@@ -244,7 +244,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1: </strong><br>En el proyecto apliqué y actualicé conceptos de diseño centrado en el usuario mediante la elaboración de User Persona, User Task Matrix, Empathy Mapping y User Journey Mapping, lo que fortaleció mi capacidad para comprender necesidades reales y traducirlas en requisitos. Además, con el Tactical Level Domain Driven Design del bounded context de descubrimiento de eventos integré nuevas metodologías de modelado en ingeniería de software. Finalmente, en la edición de video de entrevistas reforcé habilidades técnicas y comunicativas aplicadas al proyecto.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong>En esta entrega actualicé mis conocimientos en diseño UX/UI aplicando principios de usabilidad, accesibilidad y coherencia visual en el desarrollo de wireframes y mockups realizados en Figma. Este proceso me permitió fortalecer mis competencias en arquitectura de información y comprender la importancia de un Design System bien definido para garantizar una experiencia de usuario consistente.<br>
+        <strong>ℹ️ TP:</strong><br>En esta entrega actualicé mis conocimientos en diseño UX/UI aplicando principios de usabilidad, accesibilidad y coherencia visual en el desarrollo de wireframes y mockups realizados en Figma. Este proceso me permitió fortalecer mis competencias en arquitectura de información y comprender la importancia de un Design System bien definido para garantizar una experiencia de usuario consistente.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -315,7 +315,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1:</strong><br>Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en ingeniería de software. La diseñada de entrevistas y herramientas como el Empathy Map y el User Journey Map evidenciaron la necesidad de actualizar métodos para captar la voz del usuario. Asimismo, el trabajo en Domain Driven Design reafirmó la importancia de explorar nuevas prácticas de arquitectura, consolidando la necesidad de mantener una actitud de aprendizaje permanente.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong>En esta entrega reconocí la importancia del aprendizaje continuo en el desarrollo de soluciones de software, explorando nuevas herramientas y metodologías de diseño digital. A través de esta entrega, reforcé mi capacidad de adaptación a las tendencias actuales y consolidé una visión de mejora permanente para ofrecer productos tecnológicos más eficientes y centrados en el usuario.<br>
+        <strong>ℹ️ TP:</strong><br>En esta entrega reconocí la importancia del aprendizaje continuo en el desarrollo de soluciones de software, explorando nuevas herramientas y metodologías de diseño digital. A través de esta entrega, reforcé mi capacidad de adaptación a las tendencias actuales y consolidé una visión de mejora permanente para ofrecer productos tecnológicos más eficientes y centrados en el usuario.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
