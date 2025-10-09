@@ -259,7 +259,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <br>
         Para esta TB1 me enfoqué en la fase inicial del proyecto, liderando el Strategic-Level Domain-Driven Design. A través de la aplicación de EventStorming, logré modelar el flujo de mensajes del dominio y realizar el descubrimiento de los contextos candidatos. Este proceso fue fundamental para definir la estructura del proyecto. Utilizando los Bounded Context Canvases, establecí los límites claros y las responsabilidades de cada componente, proporcionando una base sólida que guio las decisiones arquitectónicas del equipo.
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong>
+          <br>
+          Para esta entrega me enfoqué en diseñar la Arquitectura de Información de Teatrope y en aterrizarla con base de los mockups de la app. Definí modelos de organización jerárquico, secuencial, facetado y por relaciones para que el usuario llegue más rápido a Booking. Construí un Labelling System consistente navegación, filtros, CTAs y microcopy así priorizando claridad y accesibilidad. Además, redacté los SEO & Meta tags para Landing y Web App, entendiendo mejor su impacto en indexación y social previews. Diseñé los Searching Systems y formalicé los Navigation Systems. En el proceso reforcé criterios de usabilidad, consistencia semántica y arquitectura de contenido, y conecté decisiones de UI con métricas de descubrimiento y conversión.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -325,7 +327,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1:</strong><br> Esta entrega me confirmó que la arquitectura de software es el cimiento de cualquier proyecto exitoso. A través de la aplicación del Domain-Driven Design, me di cuenta de que un diseño bien pensado y una comprensión profunda del dominio son cruciales para el rendimiento y la mantenibilidad a largo plazo. Este conocimiento es clave para mejorar mis prácticas y evolucionar como ingeniero, garantizando que mi trabajo no solo sea funcional, sino también robusto y escalable. </strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong>
+    <br>
+    Esta entrega me confirmó que la Arquitectura de Información es clave para un producto usable y escalable. Al definir organización, labelling, SEO/meta, búsqueda y navegación en Teatrope, entendí cómo cada decisión reduce fricción y mejora conversión. Esto refuerza mis prácticas para diseñar soluciones claras, medibles y sostenibles.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
