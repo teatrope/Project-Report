@@ -231,6 +231,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega tuve que investigar más acerca de Domain Driven Design aplicado a desarrollo móvil y clean architecture.  Este conocimiento fue clave para tomar decisiones más informadas sobre el diseño de arquitectura del proyecto.  
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Para esta entrega me centré en ampliar mis conocimientos sobre desarrollo backend, desarrollé la API aplicando arquitectura escalable y aprendí nuevos conceptos sobre el protocolo HTTP y la arquitectura REST. También me informé mejor acerca de Python y sus bibliotecas de desarrollo web, y apliqué conocimientos pasados de desarrollo frontend en la Landing Page. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
@@ -299,6 +300,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega me di cuenta que es fundamental el aprendizaje de nuevas arquitecturas, así como el profundizar en las que ya conocemos con el objetivo de tener un diseño eficiente y escalable. Esto nos ayudará a mejorar nuestras prácticas y crecer como profesionales. 
         <br>
         <strong>ℹ️ TP:</strong><br>
+        Para esta entrega noté que me faltaba aprender sobre tecnologías DevOps y sobre métodos para desplegar y mantener aplicaciones. Comprendí que es importante el aprendizaje constante sobre esas cosas ya que es parte fundamental del desarrollo de software, y para el proyecto me centré en aprender a desplegar la Landing Page de manera estática y la API como un servicio web en conjunto con la base de datos. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
