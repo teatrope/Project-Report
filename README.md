@@ -283,7 +283,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>
         <strong>ℹ️ TB1: </strong><br>Actualicé conceptos de DDD y C4. En el proyecto definí el bounded context de Notifications & Recommendations (comandos/consultas, opt-in/opt-out, dedupe e integraciones). Además, realicé el análisis de competidores y el context mapping, reforzando la alineación negocio-arquitectura y la escalabilidad.</strong><br>
         <br>
-        <strong>ℹ️ TP:</strong><br>
+        <strong>ℹ️ TP:</strong><br> Fortalecí mis conocimientos en planificación del Sprint 1 y backlog, aprendí a organizar las tareas técnicas y a usar buenas prácticas de deployment y testing, lo que mejoró la calidad y escalabilidad del proyecto.
         <br>
         <strong>ℹ️ TB2:</strong><br>
         <br>
