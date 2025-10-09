@@ -4756,6 +4756,7 @@ El despligue realizado para el desarrollo del backend e nuestra aplicación se c
 1. Crear una cuenta en Railway https://railway.com/ y utilizar el plan gratuito
 2. Crear un nuevo proyecto en Railway que utilizará el repositorio de Github donde está alojada la API
 
+<img src="resources/Imagen1.png" alt="Software Deployment Evidence 1">
 
 
 
