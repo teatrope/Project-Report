@@ -3993,7 +3993,79 @@ La navegación inferior, los botones de alto contraste y las tarjetas modulares 
 
 #### 3.1.4.4 Mobile Applications User Flow Diagrams
 
+Enlace para acceder al <a href="https://lucid.app/lucidchart/61958854-f009-480f-b122-df53bd8ab153/edit?viewport_loc=-9091%2C-7108%2C21047%2C10719%2C0_0&invitationId=inv_a67952f0-a49f-4210-bb72-2e9b6b4d129d">Lucid Chart</a>
+
+**1.Flujo de registro de usuario al sistema**
+
+<img src="resources/figma/us1.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo muestra el proceso de acceso del usuario dentro de Teatrope, la aplicación que conecta a los consumidores de teatro con la oferta escénica disponible en Lima Metropolitana.
+
+El recorrido inicia con la pantalla de bienvenida, donde se presenta la identidad visual de la marca. Luego, el usuario puede iniciar sesión si ya tiene una cuenta, ingresando su correo y contraseña, o bien registrarse como nuevo usuario mediante el formulario de creación de cuenta.
+
+El objetivo de este flujo es garantizar un acceso rápido, seguro y claro, simplificando los pasos para que el usuario pueda ingresar fácilmente a la plataforma y comenzar a explorar la cartelera, funciones y promociones teatrales disponibles.
+
+**2.Flujo de visualización del menu del sistema**
+
+<img src="resources/figma/us2.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo muestra la interacción del usuario dentro del menú principal de Teatrope, donde se concentra la exploración de la cartelera teatral. Desde esta vista, el usuario puede seleccionar su ciudad, distrito y género teatral para filtrar las obras disponibles.
+
+Una vez aplicados los filtros, la aplicación despliega una lista de producciones con sus respectivas portadas, permitiendo al usuario visualizar los títulos en cartelera. Al seleccionar una obra, se accede a la pantalla de detalle, que muestra información completa como sinopsis, elenco, ubicación del teatro, horarios y la opción de reservar o valorar la obra.
+
+Este flujo busca ofrecer una navegación fluida e intuitiva, priorizando la facilidad de búsqueda y la presentación visual de las obras, con el objetivo de mejorar la experiencia del usuario y fomentar la asistencia a eventos teatrales.
+
+**3.Flujo de filtro por función teatral y sede**
+
+<img src="resources/figma/us3.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo muestra el proceso mediante el cual el usuario puede filtrar las obras teatrales y visualizar las sedes disponibles dentro de la aplicación Teatrope. Desde la pantalla principal, el usuario puede aplicar filtros por distrito, género teatral o alternar entre las vistas de Services (obras) y Theaters (sedes).
+
+Al seleccionar la opción Theaters, la interfaz despliega una lista de teatros disponibles en la ciudad y distrito elegidos, mostrando su imagen, nombre y ubicación. De esta forma, el usuario puede identificar fácilmente los espacios donde se presentan las funciones teatrales.
+
+Este flujo busca ofrecer una experiencia de exploración más personalizada y eficiente, facilitando que los usuarios encuentren tanto las obras como los teatros de su preferencia en pocos pasos.
+
+**4.Flujo de notificaciones del sistema**
+
+<img src="resources/figma/us4.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo describe el proceso mediante el cual el usuario recibe y visualiza notificaciones dentro de la aplicación Teatrope. Las notificaciones tienen como objetivo mantener al usuario informado sobre nuevas obras disponibles, cambios en funciones guardadas y recomendaciones personalizadas según sus intereses teatrales.
+
+Desde la pantalla de notificaciones, el usuario puede ver mensajes como estrenos recientes, espectáculos cercanos o recordatorios de sus funciones favoritas. Al hacer clic en una notificación, se redirige automáticamente a la cartelera principal, donde puede explorar más detalles sobre la obra o acceder directamente a la página del evento.
+
+Este flujo contribuye a una experiencia dinámica y personalizada, fomentando la participación constante del usuario y mejorando la visibilidad de las producciones teatrales en la plataforma.
+
+**5.Flujo de visualización de obras teatrales por Teatro**
+
+<img src="resources/figma/us5.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo representa el recorrido que realiza el usuario al explorar las obras disponibles dentro de un teatro específico en la aplicación Teatrope. Desde la pantalla principal, el usuario puede filtrar por ciudad y distrito, y luego acceder a la sección Theaters, donde se muestran las sedes teatrales con imágenes representativas.
+
+Al seleccionar un teatro, se despliega una vista detallada con información del nombre, dirección y descripción del lugar, junto con las obras actualmente en cartelera. Esta interfaz permite al usuario conocer qué producciones se presentan en cada sede y acceder directamente a su ficha para obtener más información o realizar una reserva.
+
+El propósito de este flujo es facilitar la conexión entre los usuarios y los espacios culturales, promoviendo la asistencia a los teatros locales y ofreciendo una experiencia de exploración visual, clara y atractiva.
+
+**6.Flujo de visualización y configuración del perfil del usuario**
+
+<img src="resources/figma/us6.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Este flujo representa el proceso mediante el cual el usuario puede visualizar y personalizar su perfil dentro de la aplicación Teatrope. Desde la sección Profile, el usuario puede acceder a información relevante como sus entradas adquiridas, métodos de pago y el historial de actividades.
+
+Al ingresar a Settings, el usuario tiene la opción de actualizar sus datos personales, como correo y contraseña, además de configurar permisos relacionados con notificaciones y ubicación. También cuenta con accesos rápidos a las secciones de Términos y condiciones y Sobre nosotros.
+
+El objetivo de este flujo es ofrecer una gestión sencilla y segura de la información del usuario, garantizando control total sobre sus preferencias y fomentando una experiencia personalizada dentro de la plataforma.
+
+
 #### 3.1.4.5 Mobile Applications Prototyping
+
+En esta etapa se desarrolló el prototipo móvil interactivo de la aplicación Teatrope, cuyo objetivo es visualizar el flujo y la experiencia del usuario antes del desarrollo final. El prototipo busca representar la identidad visual del producto, mostrando una interfaz moderna, accesible y centrada en el usuario.
+
+La aplicación inicia con la pantalla de bienvenida, donde se presenta el logotipo y los colores representativos de la marca, reforzando el reconocimiento visual del proyecto. Este prototipo fue diseñado como una herramienta clave para validar la usabilidad, los recorridos de navegación y la coherencia estética de la plataforma teatral.
+
+<img src="resources/figma/webappro.png" alt="mobile applications mockup 10" width="2000"> </div>
+
+Enlace para acceder al video de explicación del <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116250_upc_edu_pe/EStHV9z2PSpNoRGkEAw7VgsBWFuSGVCxohan1ZL6NFFG0w?e=QTRadV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Mobile Applications Prototyping</a>
+
 
 <div style="page-break-after: always;"></div>
 
