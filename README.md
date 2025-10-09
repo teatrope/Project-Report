@@ -5106,6 +5106,10 @@ URL de la api: https://teatrope-api-production-278a.up.railway.app
 
 ## Conclusiones y recomendaciones
 
+Durante el desarrollo del proyecto, el equipo logró consolidar una propuesta de software integral, orientada a mejorar la experiencia del usuario y optimizar los procesos definidos en el alcance del sistema. Desde las primeras etapas se trabajó en la definición de lineamientos de estilo, arquitectura de información y diseño de interfaces, asegurando coherencia visual y navegabilidad. Posteriormente, se implementaron wireframes, wireflows y prototipos interactivos que sirvieron como base para el desarrollo del producto final.
+En la fase técnica, el equipo configuró el entorno de desarrollo, testing y despliegue, aplicando buenas prácticas para garantizar la estabilidad, escalabilidad y correcto funcionamiento de los servicios implementados. Además, se realizó una planificación y seguimiento constante de los sprints, cumpliendo con las tareas asignadas y asegurando la integración efectiva de cada componente del sistema.
+El trabajo colaborativo permitió aprovechar las fortalezas individuales de cada integrante, manteniendo una comunicación continua y una gestión ágil orientada a resultados. Gracias a este esfuerzo conjunto, se logró alcanzar el objetivo planteado: entregar una solución de software funcional, coherente con las necesidades del proyecto y con potencial de evolución en futuras iteraciones.
+
 ## Video App Validation
 
 ## Video About the product
