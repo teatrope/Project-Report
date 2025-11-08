@@ -5010,6 +5010,17 @@ Create DisponibilidadCache request:
 }
 ```
 
+### Documentacion con Swagger
+- https://teatrope-api-production-278a.up.railway.app/api/swagger/ 
+
+<img src="resources/swagger.png" alt="swagger">
+
+### Documentacion con Redoc
+- https://teatrope-api-production-278a.up.railway.app/api/redoc/
+
+<img src="resources/redoc.png" alt="redoc">
+
+
 #### 4.2.1.7 Software Deployment Evidence for Sprint Review
 
 El despligue realizado para el desarrollo del backend e nuestra aplicación se clasifico en diferentes procesos los cuales permitieron la organización y utilización de buenas practicas para el diseño de la arquitectura permitiendo un flujo de sistema adecuado, y asimismo las pruebas correspondientes de su ejecución.
