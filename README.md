@@ -257,6 +257,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega me centré en ampliar mis conocimientos sobre desarrollo backend, desarrollé la API aplicando arquitectura escalable y aprendí nuevos conceptos sobre el protocolo HTTP y la arquitectura REST. También me informé mejor acerca de Python y sus bibliotecas de desarrollo web, y apliqué conocimientos pasados de desarrollo frontend en la Landing Page. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Para esta entrega amplié mis conocimeintos sobre el protocolo HTTP y sus mecanismos de seguridad basados en cabeceras como Cross-Origin Resource Sharing y tokens de autorización. Además, investigué acerca de las bibliotecas especializadas que se utilizan en el desarrollo móvil para consumir APIs y gestionar las peticiones. 
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -329,6 +330,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega noté que me faltaba aprender sobre tecnologías DevOps y sobre métodos para desplegar y mantener aplicaciones. Comprendí que es importante el aprendizaje constante sobre esas cosas ya que es parte fundamental del desarrollo de software, y para el proyecto me centré en aprender a desplegar la Landing Page de manera estática y la API como un servicio web en conjunto con la base de datos. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Esta entrega me ayudó a reconocer que actualmente existen muchas herramientas para el desarrollo de software y es importante estar al tanto de cada una de ellas, teniendo al menos un poco de conocimiento sobre sus casos de uso, requerimientos y diferencias sobre sus competidores. 
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
