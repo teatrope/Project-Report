@@ -89,6 +89,26 @@ Agosto de 2025 🗓️
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>TB2</td>
+    <td>12/11/2025</td>
+    <td>
+      <ul> 
+        <li>Alva Abanto, Luis Andres</li> 
+        <li>Sosa Soto, Oskar Rodrigo</li> 
+        <li>Varela Bustinza, Marcelo Alessandro </li>
+        <li>Yalan Zhang, Angie Christina</li>
+        <li>Lopez Acuña, Mario Joaquin</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos:<br>
+      <ul>
+        <li>Capítulo IV: Product Implementation & Validation (Sprint 2)</li>
+        <li>Conclusiones</li>
+        <li>Bibliografia</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <div style="page-break-after: always;"></div>
