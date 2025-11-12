@@ -5228,6 +5228,52 @@ Validar si el landing page comunica correctamente el beneficio de la plataforma 
 
 ### 4.3.3 Evaluaciones según heurísticas
 
+
+#### SITE o APP A EVALUAR: Teatrope
+
+#### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario
+2. Inicio de sesión
+3. Navegación por el bilboard para ver las obras
+4. Agregar una obra a favoritos
+5. Ver la información de un teatro
+6. Comprar la entrada para una función
+7. Ver la disponibilidad de asientos para una función
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de serveridad. 
+
+| **Nivel**      | **Descripción**                               |
+| ----------------- | --------------------------------------------- |
+| 1 | Problema superficial: Puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.  |
+| 2 | Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3 | Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLE DE RESUMEN: 
+| **#** | **Problema** | **Escala de severidad** | **Heurística/Principio violado** |
+| ----- | ------------ | ----------------------- | ----------------------- |
+| 1 | El texto en la pantalla de inicio de sesión aparece cortado.  | 2 | Reconocimiento en lugar de recuerdo | 
+| 2 | La fecha de funcinon tiene un formato complejo.  | 2 | Correspondencia entre el sistema y el mundo real |
+
+#### DESCRIPCION DE PROBLEMAS:
+
+Problema #1: 
+- El texto "placeholder" de los campos de inicio de sesion se corta horizontalmente debido a un problema de padding.
+- Severidad: 2
+- Heuristica violada: Reconocimiento en lugar de recuerdo 
+- Problema: El texto se ve cortado lo que dificulta su comprensión, además puede resultar molesto para el usuario y afecta el diseño y estilo de la aplicación. 
+- Recomendación: Mejorar el diseño para que los textos se puedan leer claramete y el usuario no tenga problema en identificar qué campo es qué. 
+
+Problema #2: 
+- La fecha de funcion tiene un formato complejo.
+- Severidad: 2
+- Heurística violada: Correspondencia entre el sistema y el mundo real.
+- Problema: El formato de la fecha y hora de la función se muestra en formato genérico, no refleja el lenguaje natural de las personas como Día y Hora.
+- Recomendación: Convertir el formato de la fecha a la zona horaria de Peru, en languaje natural para que tenga correspondencia con el mundo real. 
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones
