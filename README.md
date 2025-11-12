@@ -313,7 +313,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br> Fortalecí mis conocimientos en planificación del Sprint 1 y backlog, aprendí a organizar las tareas técnicas y a usar buenas prácticas de deployment y testing, lo que mejoró la calidad y escalabilidad del proyecto.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2: </strong><br> Realicé y ejecuté el Sprint Planning 2, construí el Sprint Backlog 2 y avancé la app móvil en Flutter (pantallas clave, navegación, BLoC/estados y pruebas en emulador) junto con el progreso completo de la app en Kotlin/Jetpack Compose (flows de autenticación, navegación, theming y DI con Hilt). Dejé evidencia de desarrollo para el Sprint Review (historias cerradas con commits/PRs, APK debug y capturas) y evidencia de ejecución (burndown, avance vs. plan y registro de incidencias), mostrando aprendizaje aplicado y valor entregado.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -382,7 +382,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br> Reconocí la importancia del aprendizaje continuo al investigar soluciones para el deployment, la corrección de tablas y la preparación de la demo y video de exposición, mejorando mi capacidad de adaptación a los retos del proyecto.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong><br> Reconozco y practico el aprendizaje continuo para sostener mi desempeño y la calidad de mis proyectos: cada sprint reviso novedades de Flutter y Kotlin/Compose, documento lecciones, ajusto el backlog y aplico lo aprendido en refactors, pruebas y mejoras de UX/rendimiento. Esta rutina me permite responder a cambios, cerrar historias con mayor calidad y entregar valor de forma consistente.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
