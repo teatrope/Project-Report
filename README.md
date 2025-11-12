@@ -10,7 +10,7 @@
 
 <br><br>
 
-Ingeniería de software - 2025-02
+Ingeniería de software - Periodo académico: 2025-02
 
 **Sección:** 1798
 
