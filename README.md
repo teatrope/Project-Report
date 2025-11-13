@@ -287,7 +287,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
           <br>
           Para esta entrega me enfoqué en diseñar la Arquitectura de Información de Teatrope y en aterrizarla con base de los mockups de la app. Definí modelos de organización jerárquico, secuencial, facetado y por relaciones para que el usuario llegue más rápido a Booking. Construí un Labelling System consistente navegación, filtros, CTAs y microcopy así priorizando claridad y accesibilidad. Además, redacté los SEO & Meta tags para Landing y Web App, entendiendo mejor su impacto en indexación y social previews. Diseñé los Searching Systems y formalicé los Navigation Systems. En el proceso reforcé criterios de usabilidad, consistencia semántica y arquitectura de contenido, y conecté decisiones de UI con métricas de descubrimiento y conversión.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong>
+          <br>
+          Me encargué en el desarrollo de la aplicación móvil para Android utilicé Kotlin y una arquitectura moderna basada en Clean Architecture y MVVM, con Jetpack Compose para construir una interfaz declarativa y reactiva. Implementé Jetpack Navigation para la gestión de pantallas, Retrofit para la comunicación con la API REST y Coil para la carga de imágenes. Además, usé DataStore para la persistencia de datos y Hilt para la inyección de dependencias, logrando una aplicación escalable, eficiente y fácilmente mantenible.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -358,7 +360,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <br>
     Esta entrega me confirmó que la Arquitectura de Información es clave para un producto usable y escalable. Al definir organización, labelling, SEO/meta, búsqueda y navegación en Teatrope, entendí cómo cada decisión reduce fricción y mejora conversión. Esto refuerza mis prácticas para diseñar soluciones claras, medibles y sostenibles.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong>
+    <br>
+    Reconozco la importancia del aprendizaje permanente en el ámbito del desarrollo de software, ya que la tecnología evoluciona constantemente y exige estar en actualización continua. Durante este proyecto reforcé mis conocimientos y adquirí nuevas habilidades en Kotlin, arquitectura moderna y herramientas de Android, lo que me permitió mejorar mi desempeño profesional y comprender la necesidad de seguir aprendiendo para desarrollar soluciones más eficientes, escalables y alineadas con las buenas prácticas del sector.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
