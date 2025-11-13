@@ -5291,6 +5291,11 @@ El trabajo colaborativo permitió aprovechar las fortalezas individuales de cada
 
 ## Video About the product
 
+<div align="center"><img src="resources/about-the-product.png" width="200px"> </div>
+
+Link del video: https://youtu.be/ifrea7u0XYA 
+
+
 ## Video About the team
 
 # Glosario
