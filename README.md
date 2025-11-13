@@ -302,6 +302,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Fortalecí mis conocimientos en planificación ágil y diseño de experiencia de usuario, participando activamente en la elaboración de los user flows, el prototipado web y móvil de la aplicación y la planificación del sprint. Estas actividades me permitieron comprender mejor la relación entre el diseño funcional y la ejecución técnica, aplicando buenas prácticas para estructurar procesos de desarrollo más organizados y centrados en las necesidades del usuario.
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Realicé las preguntas de validación correspondientes a las entrevistas y avancé con la integración de la aplicación móvil desarrollada en Kotlin. Además, documenté mi trabajo en la sección Software Deployment Evidence for Sprint Review, evidenciando el aprendizaje aplicado durante el proceso y el valor entregado al proyecto.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -371,6 +372,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Esta entrega me permitió comprender la importancia del aprendizaje continuo en el desarrollo de soluciones digitales. A través de la creación de user flows, el prototipado móvil y la planificación del sprint, fortalecí mis habilidades en diseño centrado en el usuario y metodologías ágiles. Reconocí que mantenerme actualizado en estas áreas es esencial para mejorar la experiencia del usuario y la eficiencia del equipo en futuros proyectos.
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Integro el aprendizaje continuo en mi proceso de trabajo para mejorar mi desempeño y la calidad del proyecto: durante el sprint, profundicé en la integración de la app móvil en Kotlin y en la elaboración de preguntas de validación para las entrevistas. Documenté lo aprendido en Software Deployment Evidence for Sprint Review, aplicando nuevos conocimientos para optimizar la integración, mejorar la organización del código y fortalecer la conexión entre investigación y desarrollo. Esta práctica constante me permite adaptarme a nuevos desafíos y aportar mayor valor al equipo.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -5152,6 +5154,7 @@ Evidencia de funcionalidades (capturas APK/Debug y Compose):
 ### Preguntas para Segmento 1: Consumidores de teatro
 
 #### Objetivo: 
+
 Evaluar si los usuarios comprenden fácilmente la propuesta de valor del landing page, encuentran útil la información de las obras y pueden navegar intuitivamente en la plataforma.
 
 #### Validación de la Landing Page: 
