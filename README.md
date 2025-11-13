@@ -121,7 +121,7 @@ URL del repositorio del Project Report en la organización de GitHub del equipo:
 - [https://github.com/teatrope/Project-Report](https://github.com/teatrope/Project-Report)
 
 <br> 
-<img src="resources/insights_tp.png" alt="insights-tp">
+<img src="resources/insights-tb2.png" alt="insights-tp">
 
 <div style="page-break-after: always;"></div>
 
@@ -5132,6 +5132,13 @@ Get de usuarios
 
 URL de la api: https://teatrope-api-production-278a.up.railway.app
 
+Para el sprint 2 se considero una primera version de la App en kotlin desplegada mediante Firebase. 
+
+<img src="resources/firebase-1.png" alt="firebase">
+
+<img src="resources/firebase-2.png" alt="firebase">
+
+
 ### 4.2.2.1 Sprint Planning 2
 <table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;"> <tr> <th colspan="2"><strong>Sprint #</strong></th> <td colspan="2">Sprint 2</td> </tr> <tr> <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Planning Background</strong></th> </tr> <tr> <th style="width: 20%;">Date</th> <td colspan="3">2025-11-1</td> </tr> <tr> <th>Time</th> <td colspan="3">07:40 PM</td> </tr> <tr> <th>Location</th> <td colspan="3">Videollamada en Discord.</td> </tr> <tr> <th>Prepared By</th> <td colspan="3">Zhang, Yalan</td> </tr> <tr> <th>Attendees (to planning meeting)</th> <td colspan="3">Zhang, Yalan / Angie Christina / Sosa Soto, Oskar Rodrigo / López Acuña, Mario Joaquín / Varela Bustinza, Marcelo Alessandro</td> </tr> <tr> <th>Sprint 1 Review Summary</th> <td colspan="3">Se validó la base de autenticación y la cartelera inicial; se recogieron observaciones de UX y rendimiento para afinar navegación y estados de carga.</td> </tr> <tr> <th>Sprint 1 Retrospective Summary</th> <td colspan="3">Ajustamos criterios de aceptación, formalizamos convenciones de ramas y reforzamos pruebas en emulador para reducir retrabajo.</td> </tr> <tr> <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Goal & User Stories</strong></th> </tr> <tr> <th>Sprint 2 Goal</th> <td colspan="3">Profundizar funciones móviles y de productor: búsqueda y filtros (fecha/distrito), ficha de obra con compra externa y mapa, favoritos/recordatorios, y flujo de gestión para productores (crear/editar/publicar obras y funciones). Además, mantener el landing desplegado y mostrar las funcionalidades core en demo.</td> </tr> <tr> <th>Sprint 2 Velocity</th> <td colspan="3">20 Story Points</td> </tr> <tr> <th>Sum of Story Points</th> <td colspan="3">20 Story Points</td> </tr> </table>
 
@@ -5150,6 +5157,11 @@ Evidencia de funcionalidades (capturas APK/Debug y Compose):
 
 
 #### 4.2.1.8 Team Collaboration Insights during Sprint
+
+Insights de Kotlin durante Sprint 2:
+
+<img src="resources/insights-kotlin.png" alt="insights-tp">
+
 
 ## 4.3 Validation Interviews
 
