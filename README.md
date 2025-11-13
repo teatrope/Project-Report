@@ -4721,6 +4721,18 @@ class ContentCrudTests(APITestCase):
 
 #### 4.2.1.5 Excecution Evidence for Sprint Review
 
+En esta seccion se presentaran las principales pantallas implementadas para la TB2 en la app de Kotlin.
+
+<img src="resources/execution1.png" alt="insights-tp">
+<img src="resources/execution2.png" alt="insights-tp">
+<img src="resources/execution3.png" alt="insights-tp">
+<img src="resources/execution4.png" alt="insights-tp">
+<img src="resources/execution5.png" alt="insights-tp">
+<img src="resources/execution6.png" alt="insights-tp">
+<img src="resources/execution7.png" alt="insights-tp">
+<img src="resources/execution8.png" alt="insights-tp">
+
+
 #### 4.2.1.6 Services Documentation Evidence for Sprint Review
 
 En esta sección se presentan los avances relacionados con la documentación de los Web Services realizados durante el Sprint. Se incluye una tabla con los endpoints implementados, detallando las acciones soportadas (verbo HTTP, sintaxis, parámetros, ejemplos de respuesta), así como el enlace al repositorio donde se encuentra el proyecto y la documentación más detallada. 
