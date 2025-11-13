@@ -10,7 +10,7 @@
 
 <br><br>
 
-Ingeniería de software - 2025-02
+Ingeniería de software - Periodo académico: 2025-02
 
 **Sección:** 1798
 
@@ -86,6 +86,26 @@ Agosto de 2025 🗓️
       <ul>
         <li>Capítulo III: Solution UI/UX Design</li>
         <li>Capítulo IV: Product Implementation & Validation (Sprint 1)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>TB2</td>
+    <td>12/11/2025</td>
+    <td>
+      <ul> 
+        <li>Alva Abanto, Luis Andres</li> 
+        <li>Sosa Soto, Oskar Rodrigo</li> 
+        <li>Varela Bustinza, Marcelo Alessandro </li>
+        <li>Yalan Zhang, Angie Christina</li>
+        <li>Lopez Acuña, Mario Joaquin</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos:<br>
+      <ul>
+        <li>Capítulo IV: Product Implementation & Validation (Sprint 2)</li>
+        <li>Conclusiones</li>
+        <li>Bibliografia</li>
       </ul>
     </td>
   </tr>
@@ -237,6 +257,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega me centré en ampliar mis conocimientos sobre desarrollo backend, desarrollé la API aplicando arquitectura escalable y aprendí nuevos conceptos sobre el protocolo HTTP y la arquitectura REST. También me informé mejor acerca de Python y sus bibliotecas de desarrollo web, y apliqué conocimientos pasados de desarrollo frontend en la Landing Page. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Para esta entrega amplié mis conocimeintos sobre el protocolo HTTP y sus mecanismos de seguridad basados en cabeceras como Cross-Origin Resource Sharing y tokens de autorización. Además, investigué acerca de las bibliotecas especializadas que se utilizan en el desarrollo móvil para consumir APIs y gestionar las peticiones. 
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -249,7 +270,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br>En esta entrega actualicé mis conocimientos en diseño UX/UI aplicando principios de usabilidad, accesibilidad y coherencia visual en el desarrollo de wireframes y mockups realizados en Figma. Este proceso me permitió fortalecer mis competencias en arquitectura de información y comprender la importancia de un Design System bien definido para garantizar una experiencia de usuario consistente.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong><br>En esta entrega reforcé mis conocimientos sobre validación de productos digitales mediante la elaboración de las preguntas de entrevistas de validación, aplicando principios de usabilidad y evaluación heurística. Además, al desarrollar la vista del producto para el segmento 2, integré conceptos actualizados de diseño de interfaces y arquitectura orientada al usuario, fortaleciendo mi capacidad para transformar requerimientos funcionales en soluciones prácticas dentro del proyecto Teatrope.
         <br>
         <strong>ℹ️ TF:</strong><br>
        <br>
@@ -266,7 +287,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
           <br>
           Para esta entrega me enfoqué en diseñar la Arquitectura de Información de Teatrope y en aterrizarla con base de los mockups de la app. Definí modelos de organización jerárquico, secuencial, facetado y por relaciones para que el usuario llegue más rápido a Booking. Construí un Labelling System consistente navegación, filtros, CTAs y microcopy así priorizando claridad y accesibilidad. Además, redacté los SEO & Meta tags para Landing y Web App, entendiendo mejor su impacto en indexación y social previews. Diseñé los Searching Systems y formalicé los Navigation Systems. En el proceso reforcé criterios de usabilidad, consistencia semántica y arquitectura de contenido, y conecté decisiones de UI con métricas de descubrimiento y conversión.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong>
+          <br>
+          Me encargué en el desarrollo de la aplicación móvil para Android utilicé Kotlin y una arquitectura moderna basada en Clean Architecture y MVVM, con Jetpack Compose para construir una interfaz declarativa y reactiva. Implementé Jetpack Navigation para la gestión de pantallas, Retrofit para la comunicación con la API REST y Coil para la carga de imágenes. Además, usé DataStore para la persistencia de datos y Hilt para la inyección de dependencias, logrando una aplicación escalable, eficiente y fácilmente mantenible.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -281,6 +304,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Fortalecí mis conocimientos en planificación ágil y diseño de experiencia de usuario, participando activamente en la elaboración de los user flows, el prototipado web y móvil de la aplicación y la planificación del sprint. Estas actividades me permitieron comprender mejor la relación entre el diseño funcional y la ejecución técnica, aplicando buenas prácticas para estructurar procesos de desarrollo más organizados y centrados en las necesidades del usuario.
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Realicé las preguntas de validación correspondientes a las entrevistas y avancé con la integración de la aplicación móvil desarrollada en Kotlin. Además, documenté mi trabajo en la sección Software Deployment Evidence for Sprint Review, evidenciando el aprendizaje aplicado durante el proceso y el valor entregado al proyecto.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -292,7 +316,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br> Fortalecí mis conocimientos en planificación del Sprint 1 y backlog, aprendí a organizar las tareas técnicas y a usar buenas prácticas de deployment y testing, lo que mejoró la calidad y escalabilidad del proyecto.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2: </strong><br> Realicé y ejecuté el Sprint Planning 2, construí el Sprint Backlog 2 y avancé la app móvil en Flutter (pantallas clave, navegación, BLoC/estados y pruebas en emulador) junto con el progreso completo de la app en Kotlin/Jetpack Compose (flows de autenticación, navegación, theming y DI con Hilt). Dejé evidencia de desarrollo para el Sprint Review (historias cerradas con commits/PRs, APK debug y capturas) y evidencia de ejecución (burndown, avance vs. plan y registro de incidencias), mostrando aprendizaje aplicado y valor entregado.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -309,6 +333,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega noté que me faltaba aprender sobre tecnologías DevOps y sobre métodos para desplegar y mantener aplicaciones. Comprendí que es importante el aprendizaje constante sobre esas cosas ya que es parte fundamental del desarrollo de software, y para el proyecto me centré en aprender a desplegar la Landing Page de manera estática y la API como un servicio web en conjunto con la base de datos. 
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Esta entrega me ayudó a reconocer que actualmente existen muchas herramientas para el desarrollo de software y es importante estar al tanto de cada una de ellas, teniendo al menos un poco de conocimiento sobre sus casos de uso, requerimientos y diferencias sobre sus competidores. 
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -321,7 +346,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br>En esta entrega reconocí la importancia del aprendizaje continuo en el desarrollo de soluciones de software, explorando nuevas herramientas y metodologías de diseño digital. A través de esta entrega, reforcé mi capacidad de adaptación a las tendencias actuales y consolidé una visión de mejora permanente para ofrecer productos tecnológicos más eficientes y centrados en el usuario.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong><br>Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en el proceso de diseño y validación de soluciones tecnológicas. La preparación del video About the Product y el trabajo con la interfaz del segmento 2 demostraron que la mejora constante y la búsqueda de nuevas herramientas son esenciales para perfeccionar tanto la comunicación del proyecto como su calidad técnica.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -335,7 +360,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <br>
     Esta entrega me confirmó que la Arquitectura de Información es clave para un producto usable y escalable. Al definir organización, labelling, SEO/meta, búsqueda y navegación en Teatrope, entendí cómo cada decisión reduce fricción y mejora conversión. Esto refuerza mis prácticas para diseñar soluciones claras, medibles y sostenibles.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong>
+    <br>
+    Reconozco la importancia del aprendizaje permanente en el ámbito del desarrollo de software, ya que la tecnología evoluciona constantemente y exige estar en actualización continua. Durante este proyecto reforcé mis conocimientos y adquirí nuevas habilidades en Kotlin, arquitectura moderna y herramientas de Android, lo que me permitió mejorar mi desempeño profesional y comprender la necesidad de seguir aprendiendo para desarrollar soluciones más eficientes, escalables y alineadas con las buenas prácticas del sector.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -349,6 +376,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Esta entrega me permitió comprender la importancia del aprendizaje continuo en el desarrollo de soluciones digitales. A través de la creación de user flows, el prototipado móvil y la planificación del sprint, fortalecí mis habilidades en diseño centrado en el usuario y metodologías ágiles. Reconocí que mantenerme actualizado en estas áreas es esencial para mejorar la experiencia del usuario y la eficiencia del equipo en futuros proyectos.
         <br>
         <strong>ℹ️ TB2:</strong><br>
+        Integro el aprendizaje continuo en mi proceso de trabajo para mejorar mi desempeño y la calidad del proyecto: durante el sprint, profundicé en la integración de la app móvil en Kotlin y en la elaboración de preguntas de validación para las entrevistas. Documenté lo aprendido en Software Deployment Evidence for Sprint Review, aplicando nuevos conocimientos para optimizar la integración, mejorar la organización del código y fortalecer la conexión entre investigación y desarrollo. Esta práctica constante me permite adaptarme a nuevos desafíos y aportar mayor valor al equipo.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -360,7 +388,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br> Reconocí la importancia del aprendizaje continuo al investigar soluciones para el deployment, la corrección de tablas y la preparación de la demo y video de exposición, mejorando mi capacidad de adaptación a los retos del proyecto.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong><br> Reconozco y practico el aprendizaje continuo para sostener mi desempeño y la calidad de mis proyectos: cada sprint reviso novedades de Flutter y Kotlin/Compose, documento lecciones, ajusto el backlog y aplico lo aprendido en refactors, pruebas y mejoras de UX/rendimiento. Esta rutina me permite responder a cambios, cerrar historias con mayor calidad y entregar valor de forma consistente.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
@@ -5010,6 +5038,17 @@ Create DisponibilidadCache request:
 }
 ```
 
+### Documentacion con Swagger
+- https://teatrope-api-production-278a.up.railway.app/api/swagger/ 
+
+<img src="resources/swagger.png" alt="swagger">
+
+### Documentacion con Redoc
+- https://teatrope-api-production-278a.up.railway.app/api/redoc/
+
+<img src="resources/redoc.png" alt="redoc">
+
+
 #### 4.2.1.7 Software Deployment Evidence for Sprint Review
 
 El despligue realizado para el desarrollo del backend e nuestra aplicación se clasifico en diferentes procesos los cuales permitieron la organización y utilización de buenas practicas para el diseño de la arquitectura permitiendo un flujo de sistema adecuado, y asimismo las pruebas correspondientes de su ejecución.
@@ -5093,15 +5132,154 @@ Get de usuarios
 
 URL de la api: https://teatrope-api-production-278a.up.railway.app
 
+### 4.2.2.1 Sprint Planning 2
+<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;"> <tr> <th colspan="2"><strong>Sprint #</strong></th> <td colspan="2">Sprint 2</td> </tr> <tr> <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Planning Background</strong></th> </tr> <tr> <th style="width: 20%;">Date</th> <td colspan="3">2025-11-1</td> </tr> <tr> <th>Time</th> <td colspan="3">07:40 PM</td> </tr> <tr> <th>Location</th> <td colspan="3">Videollamada en Discord.</td> </tr> <tr> <th>Prepared By</th> <td colspan="3">Zhang, Yalan</td> </tr> <tr> <th>Attendees (to planning meeting)</th> <td colspan="3">Zhang, Yalan / Angie Christina / Sosa Soto, Oskar Rodrigo / López Acuña, Mario Joaquín / Varela Bustinza, Marcelo Alessandro</td> </tr> <tr> <th>Sprint 1 Review Summary</th> <td colspan="3">Se validó la base de autenticación y la cartelera inicial; se recogieron observaciones de UX y rendimiento para afinar navegación y estados de carga.</td> </tr> <tr> <th>Sprint 1 Retrospective Summary</th> <td colspan="3">Ajustamos criterios de aceptación, formalizamos convenciones de ramas y reforzamos pruebas en emulador para reducir retrabajo.</td> </tr> <tr> <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Goal & User Stories</strong></th> </tr> <tr> <th>Sprint 2 Goal</th> <td colspan="3">Profundizar funciones móviles y de productor: búsqueda y filtros (fecha/distrito), ficha de obra con compra externa y mapa, favoritos/recordatorios, y flujo de gestión para productores (crear/editar/publicar obras y funciones). Además, mantener el landing desplegado y mostrar las funcionalidades core en demo.</td> </tr> <tr> <th>Sprint 2 Velocity</th> <td colspan="3">20 Story Points</td> </tr> <tr> <th>Sum of Story Points</th> <td colspan="3">20 Story Points</td> </tr> </table>
+
+### 4.2.2.2 Sprint Backlog 2
+
+En este sprint consolidamos las capacidades clave en Flutter y Kotlin/Compose y avanzamos el flujo del productor sin alterar las user stories definidas. Mantenemos la organización en Trello con tareas pequeñas, responsables claros y estados visibles.
+
+Enlace para acceder al Trello del Sprint 2: Trello Sprint Backlog 2
+
+<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;"> <tr> <td colspan="2" align="center"><b>Sprint #</b></td> <td colspan="6" align="center"><b>Sprint 2</b></td> </tr> <tr> <td colspan="2"><b>User Story</b></td> <td colspan="6" align="center"><b>Work-Item/Task</b></td> </tr> <tr> <td><b>Id</b></td> <td><b>Tittle</b></td> <td><b>Id</b></td> <td><b>Tittle</b></td> <td><b>Description</b></td> <td><b>Estimation (Hours)</b></td> <td><b>Assigned To</b></td> <td><b>Status (To-do/In-Process/To-Review/Done)</b></td> </tr> <!-- US001: Ver la cartelera del día --> <tr> <td rowspan="3">US001</td> <td rowspan="3">Ver la cartelera del día</td> <td>T201</td> <td>Card “ObraHoy” (Flutter)</td> <td>Componente con título, hora y teatro; lista paginada.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T202</td> <td>HomeView + Tabs</td> <td>Navegación hacia “Cartelera” con estado y loading.</td> <td>2</td> <td>Mario</td> <td>To-Review</td> </tr> <tr> <td>T203</td> <td>Datasource “Hoy”</td> <td>Servicio de datos y cache local en app.</td> <td>2</td> <td>Rodrigo</td> <td>In-Process</td> </tr> <!-- US002: Buscar por obra o teatro --> <tr> <td rowspan="3">US002</td> <td rowspan="3">Buscar por obra o teatro</td> <td>T204</td> <td>SearchBar con debounce</td> <td>Input accesible con semántica mobile.</td> <td>2</td> <td>Marcelo</td> <td>Done</td> </tr> <tr> <td>T205</td> <td>Endpoint búsqueda</td> <td>Filtro por título/teatro y manejo de vacíos.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <tr> <td>T206</td> <td>Resultados y estado</td> <td>Lista de resultados, error y reintento.</td> <td>2</td> <td>Angie</td> <td>In-Process</td> </tr> <!-- US003: Filtrar por fecha --> <tr> <td rowspan="2">US003</td> <td rowspan="2">Filtrar por fecha</td> <td>T207</td> <td>Datepicker (mobile-friendly)</td> <td>Selector con validaciones y actualización en vivo.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <tr> <td>T208</td> <td>Lógica de filtro</td> <td>Aplicación del filtro sin recarga y memoización.</td> <td>2</td> <td>Rodrigo</td> <td>To-Review</td> </tr> <!-- US004: Filtrar por distrito --> <tr> <td rowspan="2">US004</td> <td rowspan="2">Filtrar por distrito</td> <td>T209</td> <td>Dropdown de distritos</td> <td>Listado con búsqueda interna y accesibilidad.</td> <td>2</td> <td>Yalan</td> <td>In-Process</td> </tr> <tr> <td>T210</td> <td>Query por ubicación</td> <td>Extender servicio para filtrar por distrito.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> <!-- US006: Ver ficha de obra --> <tr> <td rowspan="3">US006</td> <td rowspan="3">Ver ficha de obra</td> <td>T211</td> <td>Pantalla de detalle (Compose)</td> <td>Vista con sinopsis, elenco y horarios.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T212</td> <td>Servicio detalle</td> <td>Fetch por ID + estados de carga/error.</td> <td>2</td> <td>Rodrigo</td> <td>To-Review</td> </tr> <tr> <td>T213</td> <td>Accesibilidad AA</td> <td>Contraste, foco y etiquetas semánticas.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <!-- US007: Ver mapa del teatro --> <tr> <td rowspan="2">US007</td> <td rowspan="2">Ver mapa del teatro</td> <td>T214</td> <td>Componente mapa</td> <td>Marker y deep link a Google Maps.</td> <td>2</td> <td>Yalan</td> <td>In-Process</td> </tr> <tr> <td>T215</td> <td>Permisos mobile</td> <td>Chequeo de ubicación y fallback.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> <!-- US008: Abrir enlace de compra externo --> <tr> <td rowspan="2">US008</td> <td rowspan="2">Abrir enlace de compra externo</td> <td>T216</td> <td>CTA “Comprar”</td> <td>Botón seguro (noopener) en la ficha.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T217</td> <td>Validación de URL</td> <td>Formato/https y manejo de enlaces rotos.</td> <td>2</td> <td>Rodrigo</td> <td>Done</td> </tr> <!-- US015: Iniciar sesión --> <tr> <td rowspan="2">US015</td> <td rowspan="2">Iniciar sesión</td> <td>T218</td> <td>Login UI (Compose)</td> <td>Campos, errores y navegación a panel.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <tr> <td>T219</td> <td>Session manager</td> <td>Gestión de sesión y persistencia local.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <!-- US016: Crear obra --> <tr> <td rowspan="3">US016</td> <td rowspan="3">Crear obra</td> <td>T220</td> <td>Form crear obra</td> <td>Título, sinopsis e imagen obligatorios.</td> <td>2</td> <td>Marcelo</td> <td>In-Process</td> </tr> <tr> <td>T221</td> <td>Validaciones</td> <td>Reglas de campos y feedback.</td> <td>2</td> <td>Angie</td> <td>To-Review</td> </tr> <tr> <td>T222</td> <td>Persistencia obra</td> <td>Registro en sistema y confirmación.</td> <td>2</td> <td>Rodrigo</td> <td>In-Process</td> </tr> <!-- US017: Agregar funciones a una obra --> <tr> <td rowspan="2">US017</td> <td rowspan="2">Agregar funciones a una obra</td> <td>T223</td> <td>UI gestionar funciones</td> <td>Fecha, hora y sala por obra.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <tr> <td>T224</td> <td>Sincronización en ficha</td> <td>Refresco de cartelera tras guardar.</td> <td>2</td> <td>Mario</td> <td>In-Process</td> </tr> <!-- US018: Publicar u ocultar obra --> <tr> <td rowspan="2">US018</td> <td rowspan="2">Publicar u ocultar obra</td> <td>T225</td> <td>Toggle visibilidad</td> <td>Control publicado/borrador.</td> <td>2</td> <td>Marcelo</td> <td>Done</td> </tr> <tr> <td>T226</td> <td>Refresco en cartelera</td> <td>Actualización inmediata del listado.</td> <td>2</td> <td>Rodrigo</td> <td>To-Review</td> </tr> <!-- US019: Añadir enlace de compra --> <tr> <td rowspan="2">US019</td> <td rowspan="2">Añadir enlace de compra</td> <td>T227</td> <td>Campo URL compra</td> <td>Validación y guardado por obra.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T228</td> <td>Botón en ficha</td> <td>Mostrar CTA cuando la URL es válida.</td> <td>2</td> <td>Yalan</td> <td>Done</td> </tr> <!-- US020: Guardar obra como favorita --> <tr> <td rowspan="2">US020</td> <td rowspan="2">Guardar obra como favorita</td> <td>T229</td> <td>Toggle favorito</td> <td>Guardar/retirar en lista local.</td> <td>2</td> <td>Mario</td> <td>In-Process</td> </tr> <tr> <td>T230</td> <td>Lista de favoritos (UI)</td> <td>Vista de obras marcadas.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> <!-- US021: Ver lista de favoritos --> <tr> <td>US021</td> <td>Ver lista de favoritos</td> <td>T231</td> <td>Estado y vacíos</td> <td>Manejo de “sin favoritos” y navegación a ficha.</td> <td>2</td> <td>Rodrigo</td> <td>Done</td> </tr> <!-- US022: Activar recordatorio --> <tr> <td rowspan="2">US022</td> <td rowspan="2">Activar recordatorio</td> <td>T232</td> <td>UI “Recordar”</td> <td>Acción desde horario de función.</td> <td>2</td> <td>Angie</td> <td>In-Process</td> </tr> <tr> <td>T233</td> <td>Deep link Calendar/ICS</td> <td>Exportar evento con hora y ubicación.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <!-- TS02: Estabilidad y build --> <tr> <td rowspan="3">TS02</td> <td rowspan="3">Stability, performance & build</td> <td>T234</td> <td>Revisión responsive</td> <td>Ajustes de grid/flex para móviles.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <tr> <td>T235</td> <td>Core Web Vitals</td> <td>Lazy, code-splitting y memo en listas.</td> <td>2</td> <td>Rodrigo</td> <td>In-Process</td> </tr> <tr> <td>T236</td> <td>CI/CD básico</td> <td>Build + lint + tests para web/mobile.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> </table>
+
+### 4.2.2.3 Development Evidence for Sprint Review
+
+Evidencia de funcionalidades (capturas APK/Debug y Compose):
+
+
+
 #### 4.2.1.8 Team Collaboration Insights during Sprint
 
 ## 4.3 Validation Interviews
 
 ### 4.3.1 Diseño de Entrevistas
 
+### Preguntas para Segmento 1: Consumidores de teatro
+
+#### Objetivo: 
+
+Evaluar si los usuarios comprenden fácilmente la propuesta de valor del landing page, encuentran útil la información de las obras y pueden navegar intuitivamente en la plataforma.
+
+#### Validación de la Landing Page: 
+
+•	¿El mensaje principal de la landing page te resultó claro o confuso?
+
+•	¿Qué tan atractivo te pareció el diseño visual y los colores?
+
+•	¿Hay algo que te haya confundido o que cambiarías en la presentación inicial?
+
+•	¿Qué sensación te genera la marca al navegar por el landing page?
+
+#### Validación del producto Teatrope:
+
+•	¿Te resultó fácil encontrar una obra o teatro específico?
+
+•	¿Los filtros y resultados son claros e intuitivos?
+
+•	¿Qué tan completa te parece la información de cada obra?
+
+•	¿Te gustaría ver más detalles o funciones (reseñas, ubicación, trailers)?
+
+•	¿El diseño de la plataforma te resultó simple o confuso?
+
+•	¿Hubo algún momento en el que no supieras qué hacer?
+
+•	¿Cómo calificarías tu experiencia general (1 al 5)? ¿Por qué?
+
+### Preguntas para Segmento 2: Teatros y productores
+
+#### Objetivo: 
+Validar si el landing page comunica correctamente el beneficio de la plataforma y si el panel administrativo (dashboard) resulta fácil de usar, eficiente y confiable para gestionar obras.
+
+#### Validación de la Landing Page: 
+•	¿Te quedó claro qué ofrece Teatrope a los teatros y productores?
+
+•	¿La propuesta te parece relevante para tus necesidades actuales de difusión?
+
+•	¿La navegación del landing page es clara e intuitiva?
+
+•	¿Encontraste fácilmente cómo registrarte?
+
+•	¿Qué información te gustaría que se incluya para convencerte de unirte a la plataforma?
+
+•	¿El diseño visual transmite confianza y profesionalismo?
+
+#### Validación del producto Teatrope:
+
+•	¿El proceso de creación de una obra fue claro y fácil de seguir?
+
+•	¿Encontraste fácilmente las funciones de editar o eliminar?
+
+•	¿Hubo algún campo o sección que no entendiste?
+
+•	¿Qué tan intuitivo te pareció el diseño general del panel?
+
+•	¿Recibiste retroalimentación visual al guardar o actualizar la información?
+
+•	¿Qué funcionalidades adicionales te gustaría tener (estadísticas, reseñas, reportes)?
+
+•	¿Recomendarías usar Teatrope como canal de difusión para tus producciones?
+
+### Preguntas de cierre:
+
+•	¿Qué fue lo que más te gustó de la plataforma?
+
+•	¿Qué aspecto mejorarías primero?
+
+•	¿Consideras que Teatrope resolvería una necesidad real para ti?
+
+•	¿Volverías a usar la plataforma cuando esté disponible públicamente?
+
 ### 4.3.2 Registro de Entrevistas
 
 ### 4.3.3 Evaluaciones según heurísticas
+
+
+#### SITE o APP A EVALUAR: Teatrope
+
+#### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario
+2. Inicio de sesión
+3. Navegación por el bilboard para ver las obras
+4. Agregar una obra a favoritos
+5. Ver la información de un teatro
+6. Comprar la entrada para una función
+7. Ver la disponibilidad de asientos para una función
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de serveridad. 
+
+| **Nivel**      | **Descripción**                               |
+| ----------------- | --------------------------------------------- |
+| 1 | Problema superficial: Puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.  |
+| 2 | Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3 | Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLE DE RESUMEN: 
+| **#** | **Problema** | **Escala de severidad** | **Heurística/Principio violado** |
+| ----- | ------------ | ----------------------- | ----------------------- |
+| 1 | El texto en la pantalla de inicio de sesión aparece cortado.  | 2 | Reconocimiento en lugar de recuerdo | 
+| 2 | La fecha de funcinon tiene un formato complejo.  | 2 | Correspondencia entre el sistema y el mundo real |
+
+#### DESCRIPCION DE PROBLEMAS:
+
+Problema #1: 
+- El texto "placeholder" de los campos de inicio de sesion se corta horizontalmente debido a un problema de padding.
+- Severidad: 2
+- Heuristica violada: Reconocimiento en lugar de recuerdo 
+- Problema: El texto se ve cortado lo que dificulta su comprensión, además puede resultar molesto para el usuario y afecta el diseño y estilo de la aplicación. 
+- Recomendación: Mejorar el diseño para que los textos se puedan leer claramete y el usuario no tenga problema en identificar qué campo es qué. 
+
+Problema #2: 
+- La fecha de funcion tiene un formato complejo.
+- Severidad: 2
+- Heurística violada: Correspondencia entre el sistema y el mundo real.
+- Problema: El formato de la fecha y hora de la función se muestra en formato genérico, no refleja el lenguaje natural de las personas como Día y Hora.
+- Recomendación: Convertir el formato de la fecha a la zona horaria de Peru, en languaje natural para que tenga correspondencia con el mundo real. 
 
 <div style="page-break-after: always;"></div>
 
@@ -5116,6 +5294,11 @@ El trabajo colaborativo permitió aprovechar las fortalezas individuales de cada
 ## Video App Validation
 
 ## Video About the product
+
+<div align="center"><img src="resources/about-the-product.png" width="500px"> </div>
+
+Link del video: https://youtu.be/ifrea7u0XYA 
+
 
 ## Video About the team
 
