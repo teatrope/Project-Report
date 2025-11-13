@@ -270,7 +270,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br>En esta entrega actualicé mis conocimientos en diseño UX/UI aplicando principios de usabilidad, accesibilidad y coherencia visual en el desarrollo de wireframes y mockups realizados en Figma. Este proceso me permitió fortalecer mis competencias en arquitectura de información y comprender la importancia de un Design System bien definido para garantizar una experiencia de usuario consistente.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong><br>En esta entrega reforcé mis conocimientos sobre validación de productos digitales mediante la elaboración de las preguntas de entrevistas de validación, aplicando principios de usabilidad y evaluación heurística. Además, al desarrollar la vista del producto para el segmento 2, integré conceptos actualizados de diseño de interfaces y arquitectura orientada al usuario, fortaleciendo mi capacidad para transformar requerimientos funcionales en soluciones prácticas dentro del proyecto Teatrope.
         <br>
         <strong>ℹ️ TF:</strong><br>
        <br>
@@ -344,7 +344,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TP:</strong><br>En esta entrega reconocí la importancia del aprendizaje continuo en el desarrollo de soluciones de software, explorando nuevas herramientas y metodologías de diseño digital. A través de esta entrega, reforcé mi capacidad de adaptación a las tendencias actuales y consolidé una visión de mejora permanente para ofrecer productos tecnológicos más eficientes y centrados en el usuario.
         <br>
-        <strong>ℹ️ TB2:</strong><br>
+        <strong>ℹ️ TB2:</strong><br>Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en el proceso de diseño y validación de soluciones tecnológicas. La preparación del video About the Product y el trabajo con la interfaz del segmento 2 demostraron que la mejora constante y la búsqueda de nuevas herramientas son esenciales para perfeccionar tanto la comunicación del proyecto como su calidad técnica.
         <br>
         <strong>ℹ️ TF:</strong><br>
       </td>
