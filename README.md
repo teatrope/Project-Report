@@ -2,21 +2,29 @@
 
 <div align="center">
 
-# ✨ Informe Trabajo Final ✨
-
 <img src="./resources/Banner-UPC.png" alt="Banner UPC">
 
 ## Universidad Peruana de Ciencias Aplicadas 🎓
 
-<br><br>
+<br>
 
-Ingeniería de software - Periodo académico: 2025-02
+### **Ingeniería de software**
 
-**Sección:** 1798
+**Periodo:** 202520
+
+1ACC0238 | Aplicaciones para Dispositivos Móviles
+
+**NRC:** 1798
 
 **Docente:** Jorge Luis Mayta Guillermo
 
-**StartUp:**  CulturizaTech
+<br>
+
+---
+
+## Informe del Trabajo Final
+
+**Startup:** CulturizaTech
 
 **Producto:** Teatrope
 
@@ -28,10 +36,10 @@ Ingeniería de software - Periodo académico: 2025-02
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Alva Abanto, Luis Andres - u202310877",
+        "👩‍💻 Lopez Acuña, Mario Joaquin - u202116250",
         "👩‍💻 Sosa Soto, Oskar Rodrigo - u202212214",
         "👩‍💻 Varela Bustinza, Marcelo Alessandro - u202319668",
         "👩‍💻 Yalan Zhang, Angie Christina - u202312504",
-        "👩‍💻 Lopez Acuña, Mario Joaquin - u202116250"
     };
 }
 ~~~
