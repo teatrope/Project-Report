@@ -5306,7 +5306,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Listado de obras del productor con columnas básicas (título, teatro, estado).</td>
     <td>2</td>
     <td>Angie</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T302</td>
@@ -5314,7 +5314,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Agregar filtro por publicado/borrador y orden por fecha de actualización.</td>
     <td>2</td>
     <td>Mario</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
 
   <!-- US012: Ver última actualización de datos -->
@@ -5326,7 +5326,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Agregar etiqueta de fecha/hora de última actualización en la ficha y en “Mis obras”.</td>
     <td>2</td>
     <td>Marcelo</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T304</td>
@@ -5334,7 +5334,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Persistir campo <i>lastUpdatedAt</i> en la API cuando se cree o edite una obra.</td>
     <td>2</td>
     <td>Rodrigo</td>
-    <td>To-Do</td>
+    <td>To-Review</td>
   </tr>
 
   <!-- US013: Editar información de obra publicada -->
@@ -5346,7 +5346,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Reusar formulario de creación para un flujo de edición en el panel del productor.</td>
     <td>2</td>
     <td>Mario</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T306</td>
@@ -5354,7 +5354,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Implementar endpoint PUT/PATCH para actualizar datos de una obra con validaciones.</td>
     <td>2</td>
     <td>Rodrigo</td>
-    <td>To-Do</td>
+    <td>To-Review</td>
   </tr>
   <tr>
     <td>T307</td>
@@ -5362,7 +5362,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Estados de carga, error y confirmación al guardar cambios; manejo de rollback en UI.</td>
     <td>2</td>
     <td>Yalan</td>
-    <td>To-Do</td>
+    <td>In-Process</td>
   </tr>
 
   <!-- US016: Crear obra -->
@@ -5374,7 +5374,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Integrar subida de póster a Firebase Storage y guardar URL en la obra.</td>
     <td>2</td>
     <td>Marcelo</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T309</td>
@@ -5382,7 +5382,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Reglas de campos obligatorios, longitudes y mensajes de error accesibles.</td>
     <td>2</td>
     <td>Angie</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
 
   <!-- US017: Agregar funciones a una obra -->
@@ -5394,7 +5394,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Permitir crear, editar y eliminar funciones (fecha, hora, sala) por obra.</td>
     <td>2</td>
     <td>Marcelo</td>
-    <td>To-Do</td>
+    <td>To-Review</td>
   </tr>
   <tr>
     <td>T311</td>
@@ -5402,7 +5402,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Refrescar horarios en la ficha de obra y cartelera cuando se actualicen funciones.</td>
     <td>2</td>
     <td>Mario</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
 
   <!-- US018: Publicar u ocultar obra -->
@@ -5414,7 +5414,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Agregar control (switch) para cambiar visibilidad de la obra desde “Mis obras”.</td>
     <td>2</td>
     <td>Yalan</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T313</td>
@@ -5422,7 +5422,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Actualizar inmediatamente la cartelera pública y listas locales al cambiar estado.</td>
     <td>2</td>
     <td>Rodrigo</td>
-    <td>To-Do</td>
+    <td>To-Review</td>
   </tr>
 
   <!-- US019: Añadir enlace de compra -->
@@ -5434,7 +5434,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Habilitar campo de URL en el panel con validación de formato y https obligatorio.</td>
     <td>2</td>
     <td>Marcelo</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T315</td>
@@ -5442,7 +5442,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Validar flujo completo desde ficha hasta sitio externo de boletería.</td>
     <td>2</td>
     <td>Rodrigo</td>
-    <td>To-Do</td>
+    <td>To-Review</td>
   </tr>
 
   <!-- US020: Guardar obra como favorita -->
@@ -5454,7 +5454,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Sincronizar favoritos entre almacenamiento local y backend para usuario autenticado.</td>
     <td>2</td>
     <td>Yalan</td>
-    <td>To-Do</td>
+    <td>In-Process</td>
   </tr>
   <tr>
     <td>T317</td>
@@ -5462,7 +5462,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Ajustar mensajes y diseño de la lista de favoritos en Flutter/Kotlin para mejor claridad.</td>
     <td>2</td>
     <td>Angie</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
 
   <!-- US022: Activar recordatorio -->
@@ -5474,7 +5474,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Integrar Firebase Cloud Messaging para enviar recordatorios de funciones favoritas.</td>
     <td>2</td>
     <td>Marcelo</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T319</td>
@@ -5482,19 +5482,19 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Generar evento ICS/Calendar desde la app al activar un recordatorio.</td>
     <td>2</td>
     <td>Yalan</td>
-    <td>To-Do</td>
+    <td>In-Process</td>
   </tr>
 
   <!-- TS03: Deploy Firebase & observabilidad básica -->
   <tr>
     <td rowspan="3">TS03</td>
-    <td rowspan="3">Deploy Firebase &amp; observabilidad básica</td>
+    <td rowspan="3">Stability, deploy &amp; Firebase</td>
     <td>T320</td>
     <td>Configurar proyecto Firebase</td>
     <td>Crear proyecto, configurar Hosting, Firestore y FCM para los entornos de prueba/producción.</td>
     <td>2</td>
     <td>Mario</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T321</td>
@@ -5502,7 +5502,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Automatizar build y deploy a Firebase (landing/app web) mediante Firebase CLI/CI.</td>
     <td>2</td>
     <td>Angie</td>
-    <td>To-Do</td>
+    <td>To-Review</td>
   </tr>
   <tr>
     <td>T322</td>
@@ -5510,13 +5510,23 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
     <td>Definir checklist de verificación post-deploy y procedimiento de rollback en el informe.</td>
     <td>2</td>
     <td>Rodrigo</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
 </table>
 
 ### 4.2.3.3 Development Evidence for Sprint Review
 
+Evidencia Sprint Backlog 3:
 
+
+
+### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+### 4.2.1.5. Execution Evidence for Sprint Review
+
+### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 4.2.3.8 Team Collaboration Insights during Sprint
 
