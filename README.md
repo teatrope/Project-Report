@@ -5265,6 +5265,34 @@ Validar si el landing page comunica correctamente el beneficio de la plataforma 
 
 ### 4.3.2 Registro de Entrevistas
 
+### Segmento objetivo #1: Consumidores de teatro
+##### Datos del Entrevistado #1
+- **Nombre completo:** Juan José Huamaní
+- **Segmento Objetivo:** Consumidor de teatro
+- **Edad:** 23
+- **Distrito:** Huachipa
+- **Inicio de la entrevista:** 00:19
+- **Duración:** 8:38
+- **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1.png)
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/IQA1QyWc4uerQJwCLTV7AAlXAUX08xPRnaYaiePRQoVJHN8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GlDm4y)*
+
+**Resumen:**
+Juan José considera que la aplicación Teatrope es atractiva y fácil de usar. Destaca que la plataforma le facilita mantenerse informado sobre las funciones de teatro disponibles, lo cual mejora su experiencia como usuario. Además, sugiere incorporar un calendario visual que permita identificar con mayor claridad las obras que están en estreno y las que actualmente se encuentran en cartelera, lo que, según indica, optimizaría aún más la navegación y la planificación del espectador.
+
+##### Datos del Entrevistado #2
+- **Nombre completo:** Victor Otto Reinoso Diaz
+- **Segmento Objetivo:** Consumidor de teatro
+- **Edad:** 24
+- **Distrito:** Lurigancho - Chosica
+- **Inicio de la entrevista:** 04:41
+- **Duración:** 8:38
+- **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista2.png)
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/IQA1QyWc4uerQJwCLTV7AAlXAUX08xPRnaYaiePRQoVJHN8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GlDm4y)*
+
+**Resumen:**
+Víctor señala que la paleta de colores elegida le transmite una clara asociación con el mundo del teatro, lo que le resulta agradable y coherente con la temática de la aplicación. Expresa sentirse satisfecho con el resultado final del producto, destacando que Teatrope no solo cumple una función informativa, sino que también contribuye positivamente a la difusión cultural y al entretenimiento del público.
+
+
 ### 4.3.3 Evaluaciones según heurísticas
 
 
