@@ -320,7 +320,10 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
           <br>
           Me encargué en el desarrollo de la aplicación móvil para Android utilicé Kotlin y una arquitectura moderna basada en Clean Architecture y MVVM, con Jetpack Compose para construir una interfaz declarativa y reactiva. Implementé Jetpack Navigation para la gestión de pantallas, Retrofit para la comunicación con la API REST y Coil para la carga de imágenes. Además, usé DataStore para la persistencia de datos y Hilt para la inyección de dependencias, logrando una aplicación escalable, eficiente y fácilmente mantenible.
         <br>
-        <strong>ℹ️ TF:</strong><br>
+        <strong>ℹ️ TF:</strong>
+          <br>
+          En esta entrega me metí mas al desarrollo en Flutter, aplicando patrones de diseño y buenas prácticas para optimizar el desarrollo.Incorporé nuevas secciones y reforcé mis habilidades en experiencia de usuario y accesibilidad.
+          <br>
       </td>
     </tr>
     <tr>
@@ -394,7 +397,9 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
     <br>
     Reconozco la importancia del aprendizaje permanente en el ámbito del desarrollo de software, ya que la tecnología evoluciona constantemente y exige estar en actualización continua. Durante este proyecto reforcé mis conocimientos y adquirí nuevas habilidades en Kotlin, arquitectura moderna y herramientas de Android, lo que me permitió mejorar mi desempeño profesional y comprender la necesidad de seguir aprendiendo para desarrollar soluciones más eficientes, escalables y alineadas con las buenas prácticas del sector.
         <br>
-        <strong>ℹ️ TF:</strong><br>
+        <strong>ℹ️ TF:</strong>
+    <br>
+    En esta fase del proyecto comprendí lo crucial que es dominar herramientas de testing, tanto en backend como en frontend, para garantizar un software más robusto y libre de errores en producción. Aplicar estas prácticas no solo eleva la calidad de la aplicación, sino que también fortalece nuestro crecimiento profesional y nos prepara para enfrentar desafíos más complejos en futuros desarrollos.<br>
       </td>
     </tr>
     <tr>
