@@ -280,7 +280,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TB2:</strong><br>En esta entrega reforcé mis conocimientos sobre validación de productos digitales mediante la elaboración de las preguntas de entrevistas de validación, aplicando principios de usabilidad y evaluación heurística. Además, al desarrollar la vista del producto para el segmento 2, integré conceptos actualizados de diseño de interfaces y arquitectura orientada al usuario, fortaleciendo mi capacidad para transformar requerimientos funcionales en soluciones prácticas dentro del proyecto Teatrope.
         <br>
-        <strong>ℹ️ TF:</strong><br>
+        <strong>ℹ️ TF:</strong><br>En Teatrope reforcé mis conocimientos en diseño de interfaces, validación con usuarios y experiencia de usuario aplicada al software. Las entrevistas me ayudaron a comprender mejor las necesidades reales del público, mientras que el diseño de la vista para teatros y productores fortaleció mis habilidades en usabilidad y accesibilidad. Además, al elaborar el video “About the Product”, mejoré mi capacidad para comunicar soluciones tecnológicas de forma clara y profesional.
        <br>
       </td>
     </tr>
@@ -356,7 +356,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TB2:</strong><br>Las actividades realizadas me permitieron reconocer la importancia del aprendizaje continuo en el proceso de diseño y validación de soluciones tecnológicas. La preparación del video About the Product y el trabajo con la interfaz del segmento 2 demostraron que la mejora constante y la búsqueda de nuevas herramientas son esenciales para perfeccionar tanto la comunicación del proyecto como su calidad técnica.
         <br>
-        <strong>ℹ️ TF:</strong><br>
+        <strong>ℹ️ TF:</strong><br>El proyecto me permitió reconocer la importancia del aprendizaje continuo en el desarrollo de software. Las entrevistas evidenciaron que las necesidades de los usuarios cambian, lo que exige seguir actualizando metodologías de investigación y diseño. El trabajo de diseño y la elaboración del video reforzaron la necesidad de seguir aprendiendo herramientas y técnicas que mejoren tanto la experiencia del usuario como la comunicación del producto.
       </td>
     </tr>
     <tr>
