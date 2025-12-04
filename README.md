@@ -5399,6 +5399,10 @@ El trabajo colaborativo permitió aprovechar las fortalezas individuales de cada
 
 ## Video App Validation
 
+*[Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/IQBq89N5gDEWR5eUCzm-QeETASfU0SATpuep879x37NHiIE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KLjYx6)*
+
+![Screenshot del video](resources/validation.png)
+
 ## Video About the product
 
 <div align="center"><img src="resources/about-the-product.png" width="500px"> </div>
