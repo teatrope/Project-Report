@@ -5275,9 +5275,244 @@ Insights de Kotlin durante Sprint 2:
 
 En este sprint consolidamos las capacidades clave en Flutter y Kotlin/Compose y avanzamos el flujo del productor sin alterar las user stories definidas. Mantenemos la organización en Trello con tareas pequeñas, responsables claros y estados visibles.
 
-Enlace para acceder al Trello del Sprint 2: Trello Sprint Backlog 2
+Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
 
-<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;"> <tr> <td colspan="2" align="center"><b>Sprint #</b></td> <td colspan="6" align="center"><b>Sprint 2</b></td> </tr> <tr> <td colspan="2"><b>User Story</b></td> <td colspan="6" align="center"><b>Work-Item/Task</b></td> </tr> <tr> <td><b>Id</b></td> <td><b>Tittle</b></td> <td><b>Id</b></td> <td><b>Tittle</b></td> <td><b>Description</b></td> <td><b>Estimation (Hours)</b></td> <td><b>Assigned To</b></td> <td><b>Status (To-do/In-Process/To-Review/Done)</b></td> </tr> <!-- US001: Ver la cartelera del día --> <tr> <td rowspan="3">US001</td> <td rowspan="3">Ver la cartelera del día</td> <td>T201</td> <td>Card “ObraHoy” (Flutter)</td> <td>Componente con título, hora y teatro; lista paginada.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T202</td> <td>HomeView + Tabs</td> <td>Navegación hacia “Cartelera” con estado y loading.</td> <td>2</td> <td>Mario</td> <td>To-Review</td> </tr> <tr> <td>T203</td> <td>Datasource “Hoy”</td> <td>Servicio de datos y cache local en app.</td> <td>2</td> <td>Rodrigo</td> <td>In-Process</td> </tr> <!-- US002: Buscar por obra o teatro --> <tr> <td rowspan="3">US002</td> <td rowspan="3">Buscar por obra o teatro</td> <td>T204</td> <td>SearchBar con debounce</td> <td>Input accesible con semántica mobile.</td> <td>2</td> <td>Marcelo</td> <td>Done</td> </tr> <tr> <td>T205</td> <td>Endpoint búsqueda</td> <td>Filtro por título/teatro y manejo de vacíos.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <tr> <td>T206</td> <td>Resultados y estado</td> <td>Lista de resultados, error y reintento.</td> <td>2</td> <td>Angie</td> <td>In-Process</td> </tr> <!-- US003: Filtrar por fecha --> <tr> <td rowspan="2">US003</td> <td rowspan="2">Filtrar por fecha</td> <td>T207</td> <td>Datepicker (mobile-friendly)</td> <td>Selector con validaciones y actualización en vivo.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <tr> <td>T208</td> <td>Lógica de filtro</td> <td>Aplicación del filtro sin recarga y memoización.</td> <td>2</td> <td>Rodrigo</td> <td>To-Review</td> </tr> <!-- US004: Filtrar por distrito --> <tr> <td rowspan="2">US004</td> <td rowspan="2">Filtrar por distrito</td> <td>T209</td> <td>Dropdown de distritos</td> <td>Listado con búsqueda interna y accesibilidad.</td> <td>2</td> <td>Yalan</td> <td>In-Process</td> </tr> <tr> <td>T210</td> <td>Query por ubicación</td> <td>Extender servicio para filtrar por distrito.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> <!-- US006: Ver ficha de obra --> <tr> <td rowspan="3">US006</td> <td rowspan="3">Ver ficha de obra</td> <td>T211</td> <td>Pantalla de detalle (Compose)</td> <td>Vista con sinopsis, elenco y horarios.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T212</td> <td>Servicio detalle</td> <td>Fetch por ID + estados de carga/error.</td> <td>2</td> <td>Rodrigo</td> <td>To-Review</td> </tr> <tr> <td>T213</td> <td>Accesibilidad AA</td> <td>Contraste, foco y etiquetas semánticas.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <!-- US007: Ver mapa del teatro --> <tr> <td rowspan="2">US007</td> <td rowspan="2">Ver mapa del teatro</td> <td>T214</td> <td>Componente mapa</td> <td>Marker y deep link a Google Maps.</td> <td>2</td> <td>Yalan</td> <td>In-Process</td> </tr> <tr> <td>T215</td> <td>Permisos mobile</td> <td>Chequeo de ubicación y fallback.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> <!-- US008: Abrir enlace de compra externo --> <tr> <td rowspan="2">US008</td> <td rowspan="2">Abrir enlace de compra externo</td> <td>T216</td> <td>CTA “Comprar”</td> <td>Botón seguro (noopener) en la ficha.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T217</td> <td>Validación de URL</td> <td>Formato/https y manejo de enlaces rotos.</td> <td>2</td> <td>Rodrigo</td> <td>Done</td> </tr> <!-- US015: Iniciar sesión --> <tr> <td rowspan="2">US015</td> <td rowspan="2">Iniciar sesión</td> <td>T218</td> <td>Login UI (Compose)</td> <td>Campos, errores y navegación a panel.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <tr> <td>T219</td> <td>Session manager</td> <td>Gestión de sesión y persistencia local.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <!-- US016: Crear obra --> <tr> <td rowspan="3">US016</td> <td rowspan="3">Crear obra</td> <td>T220</td> <td>Form crear obra</td> <td>Título, sinopsis e imagen obligatorios.</td> <td>2</td> <td>Marcelo</td> <td>In-Process</td> </tr> <tr> <td>T221</td> <td>Validaciones</td> <td>Reglas de campos y feedback.</td> <td>2</td> <td>Angie</td> <td>To-Review</td> </tr> <tr> <td>T222</td> <td>Persistencia obra</td> <td>Registro en sistema y confirmación.</td> <td>2</td> <td>Rodrigo</td> <td>In-Process</td> </tr> <!-- US017: Agregar funciones a una obra --> <tr> <td rowspan="2">US017</td> <td rowspan="2">Agregar funciones a una obra</td> <td>T223</td> <td>UI gestionar funciones</td> <td>Fecha, hora y sala por obra.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <tr> <td>T224</td> <td>Sincronización en ficha</td> <td>Refresco de cartelera tras guardar.</td> <td>2</td> <td>Mario</td> <td>In-Process</td> </tr> <!-- US018: Publicar u ocultar obra --> <tr> <td rowspan="2">US018</td> <td rowspan="2">Publicar u ocultar obra</td> <td>T225</td> <td>Toggle visibilidad</td> <td>Control publicado/borrador.</td> <td>2</td> <td>Marcelo</td> <td>Done</td> </tr> <tr> <td>T226</td> <td>Refresco en cartelera</td> <td>Actualización inmediata del listado.</td> <td>2</td> <td>Rodrigo</td> <td>To-Review</td> </tr> <!-- US019: Añadir enlace de compra --> <tr> <td rowspan="2">US019</td> <td rowspan="2">Añadir enlace de compra</td> <td>T227</td> <td>Campo URL compra</td> <td>Validación y guardado por obra.</td> <td>2</td> <td>Angie</td> <td>Done</td> </tr> <tr> <td>T228</td> <td>Botón en ficha</td> <td>Mostrar CTA cuando la URL es válida.</td> <td>2</td> <td>Yalan</td> <td>Done</td> </tr> <!-- US020: Guardar obra como favorita --> <tr> <td rowspan="2">US020</td> <td rowspan="2">Guardar obra como favorita</td> <td>T229</td> <td>Toggle favorito</td> <td>Guardar/retirar en lista local.</td> <td>2</td> <td>Mario</td> <td>In-Process</td> </tr> <tr> <td>T230</td> <td>Lista de favoritos (UI)</td> <td>Vista de obras marcadas.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> <!-- US021: Ver lista de favoritos --> <tr> <td>US021</td> <td>Ver lista de favoritos</td> <td>T231</td> <td>Estado y vacíos</td> <td>Manejo de “sin favoritos” y navegación a ficha.</td> <td>2</td> <td>Rodrigo</td> <td>Done</td> </tr> <!-- US022: Activar recordatorio --> <tr> <td rowspan="2">US022</td> <td rowspan="2">Activar recordatorio</td> <td>T232</td> <td>UI “Recordar”</td> <td>Acción desde horario de función.</td> <td>2</td> <td>Angie</td> <td>In-Process</td> </tr> <tr> <td>T233</td> <td>Deep link Calendar/ICS</td> <td>Exportar evento con hora y ubicación.</td> <td>2</td> <td>Yalan</td> <td>To-Review</td> </tr> <!-- TS02: Estabilidad y build --> <tr> <td rowspan="3">TS02</td> <td rowspan="3">Stability, performance & build</td> <td>T234</td> <td>Revisión responsive</td> <td>Ajustes de grid/flex para móviles.</td> <td>2</td> <td>Mario</td> <td>Done</td> </tr> <tr> <td>T235</td> <td>Core Web Vitals</td> <td>Lazy, code-splitting y memo en listas.</td> <td>2</td> <td>Rodrigo</td> <td>In-Process</td> </tr> <tr> <td>T236</td> <td>CI/CD básico</td> <td>Build + lint + tests para web/mobile.</td> <td>2</td> <td>Marcelo</td> <td>To-Review</td> </tr> </table>
+<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td colspan="2" align="center"><b>Sprint #</b></td>
+    <td colspan="6" align="center"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Tittle</b></td>
+    <td><b>Id</b></td>
+    <td><b>Tittle</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status (To-do/In-Process/To-Review/Done)</b></td>
+  </tr>
+
+  <!-- US011: Ver estado de publicación -->
+  <tr>
+    <td rowspan="2">US011</td>
+    <td rowspan="2">Ver estado de publicación</td>
+    <td>T301</td>
+    <td>Vista “Mis obras” (panel admin)</td>
+    <td>Listado de obras del productor con columnas básicas (título, teatro, estado).</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T302</td>
+    <td>Filtros y orden por estado</td>
+    <td>Agregar filtro por publicado/borrador y orden por fecha de actualización.</td>
+    <td>2</td>
+    <td>Mario</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US012: Ver última actualización de datos -->
+  <tr>
+    <td rowspan="2">US012</td>
+    <td rowspan="2">Ver última actualización de datos</td>
+    <td>T303</td>
+    <td>Mostrar “Última actualización”</td>
+    <td>Agregar etiqueta de fecha/hora de última actualización en la ficha y en “Mis obras”.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T304</td>
+    <td>Actualizar timestamp en backend</td>
+    <td>Persistir campo <i>lastUpdatedAt</i> en la API cuando se cree o edite una obra.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US013: Editar información de obra publicada -->
+  <tr>
+    <td rowspan="3">US013</td>
+    <td rowspan="3">Editar información de obra publicada</td>
+    <td>T305</td>
+    <td>Pantalla “Editar obra”</td>
+    <td>Reusar formulario de creación para un flujo de edición en el panel del productor.</td>
+    <td>2</td>
+    <td>Mario</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T306</td>
+    <td>Endpoint actualización de obra</td>
+    <td>Implementar endpoint PUT/PATCH para actualizar datos de una obra con validaciones.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T307</td>
+    <td>Feedback y rollback visual</td>
+    <td>Estados de carga, error y confirmación al guardar cambios; manejo de rollback en UI.</td>
+    <td>2</td>
+    <td>Yalan</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US016: Crear obra -->
+  <tr>
+    <td rowspan="2">US016</td>
+    <td rowspan="2">Crear obra</td>
+    <td>T308</td>
+    <td>Subida de imagen (Firebase Storage)</td>
+    <td>Integrar subida de póster a Firebase Storage y guardar URL en la obra.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T309</td>
+    <td>Validaciones avanzadas del formulario</td>
+    <td>Reglas de campos obligatorios, longitudes y mensajes de error accesibles.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US017: Agregar funciones a una obra -->
+  <tr>
+    <td rowspan="2">US017</td>
+    <td rowspan="2">Agregar funciones a una obra</td>
+    <td>T310</td>
+    <td>CRUD de funciones en panel</td>
+    <td>Permitir crear, editar y eliminar funciones (fecha, hora, sala) por obra.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T311</td>
+    <td>Sincronizar funciones con ficha pública</td>
+    <td>Refrescar horarios en la ficha de obra y cartelera cuando se actualicen funciones.</td>
+    <td>2</td>
+    <td>Mario</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US018: Publicar u ocultar obra -->
+  <tr>
+    <td rowspan="2">US018</td>
+    <td rowspan="2">Publicar u ocultar obra</td>
+    <td>T312</td>
+    <td>Toggle publicado/borrador</td>
+    <td>Agregar control (switch) para cambiar visibilidad de la obra desde “Mis obras”.</td>
+    <td>2</td>
+    <td>Yalan</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T313</td>
+    <td>Invalidación de cache/listas</td>
+    <td>Actualizar inmediatamente la cartelera pública y listas locales al cambiar estado.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US019: Añadir enlace de compra -->
+  <tr>
+    <td rowspan="2">US019</td>
+    <td rowspan="2">Añadir enlace de compra</td>
+    <td>T314</td>
+    <td>Editor de enlace de compra</td>
+    <td>Habilitar campo de URL en el panel con validación de formato y https obligatorio.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T315</td>
+    <td>Pruebas extremo a extremo</td>
+    <td>Validar flujo completo desde ficha hasta sitio externo de boletería.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US020: Guardar obra como favorita -->
+  <tr>
+    <td rowspan="2">US020</td>
+    <td rowspan="2">Guardar obra como favorita</td>
+    <td>T316</td>
+    <td>Persistencia de favoritos</td>
+    <td>Sincronizar favoritos entre almacenamiento local y backend para usuario autenticado.</td>
+    <td>2</td>
+    <td>Yalan</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T317</td>
+    <td>UX y estados vacíos</td>
+    <td>Ajustar mensajes y diseño de la lista de favoritos en Flutter/Kotlin para mejor claridad.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- US022: Activar recordatorio -->
+  <tr>
+    <td rowspan="2">US022</td>
+    <td rowspan="2">Activar recordatorio</td>
+    <td>T318</td>
+    <td>Recordatorios con FCM</td>
+    <td>Integrar Firebase Cloud Messaging para enviar recordatorios de funciones favoritas.</td>
+    <td>2</td>
+    <td>Marcelo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T319</td>
+    <td>Exportar a Calendar/ICS</td>
+    <td>Generar evento ICS/Calendar desde la app al activar un recordatorio.</td>
+    <td>2</td>
+    <td>Yalan</td>
+    <td>To-Do</td>
+  </tr>
+
+  <!-- TS03: Deploy Firebase & observabilidad básica -->
+  <tr>
+    <td rowspan="3">TS03</td>
+    <td rowspan="3">Deploy Firebase &amp; observabilidad básica</td>
+    <td>T320</td>
+    <td>Configurar proyecto Firebase</td>
+    <td>Crear proyecto, configurar Hosting, Firestore y FCM para los entornos de prueba/producción.</td>
+    <td>2</td>
+    <td>Mario</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T321</td>
+    <td>Pipeline de build y deploy</td>
+    <td>Automatizar build y deploy a Firebase (landing/app web) mediante Firebase CLI/CI.</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>T322</td>
+    <td>Smoke tests y rollback documentado</td>
+    <td>Definir checklist de verificación post-deploy y procedimiento de rollback en el informe.</td>
+    <td>2</td>
+    <td>Rodrigo</td>
+    <td>To-Do</td>
+  </tr>
+</table>
 
 ### 4.2.3.3 Development Evidence for Sprint Review
 
