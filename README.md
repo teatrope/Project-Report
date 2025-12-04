@@ -339,6 +339,8 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Realicé las preguntas de validación correspondientes a las entrevistas y avancé con la integración de la aplicación móvil desarrollada en Kotlin. Además, documenté mi trabajo en la sección Software Deployment Evidence for Sprint Review, evidenciando el aprendizaje aplicado durante el proceso y el valor entregado al proyecto.
         <br>
         <strong>ℹ️ TF:</strong><br>
+        En esta entrega trabajé más activamente en el desarrollo, aplicando patrones de diseño y buenas prácticas para lograr un código más ordenado y mantenible. También me dediqué a corregir errores que afectaban la fluidez y estabilidad del sistema. Además, incorporé nuevas secciones que enriquecen la experiencia general del usuario y reforcé mis habilidades en UX y accesibilidad para asegurar una interacción más clara y cómoda.
+        <br>
       </td>
     </tr>
     <tr>
@@ -414,6 +416,8 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Integro el aprendizaje continuo en mi proceso de trabajo para mejorar mi desempeño y la calidad del proyecto: durante el sprint, profundicé en la integración de la app móvil en Kotlin y en la elaboración de preguntas de validación para las entrevistas. Documenté lo aprendido en Software Deployment Evidence for Sprint Review, aplicando nuevos conocimientos para optimizar la integración, mejorar la organización del código y fortalecer la conexión entre investigación y desarrollo. Esta práctica constante me permite adaptarme a nuevos desafíos y aportar mayor valor al equipo.
         <br>
         <strong>ℹ️ TF:</strong><br>
+        En esta entrega fortalecí mi aprendizaje continuo al aplicar patrones de diseño y buenas prácticas que mejoran la calidad y mantenibilidad del código. Además, corregí errores que afectaban la estabilidad del sistema e incorporé nuevas secciones que enriquecen la experiencia del usuario. Todo este proceso me permitió seguir desarrollando habilidades esenciales para el desempeño profesional y la creación de soluciones de software más eficientes y accesibles.
+        <br>
       </td>
     </tr>
     <tr>
