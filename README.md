@@ -5722,7 +5722,7 @@ El trabajo colaborativo permitió aprovechar las fortalezas individuales de cada
 
 <div align="center"><img src="resources/about-the-product.png" width="500px"> </div>
 
-Link del video: https://youtu.be/ifrea7u0XYA 
+*[Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/IQCSEgQrJJyQSLs38ArrVg6fAYbIMGNvEtvJkc7Cyy-9lbY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=H9xtDk)*
 
 
 ## Video About the team
