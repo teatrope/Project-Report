@@ -5518,7 +5518,7 @@ Enlace para acceder al Trello del Sprint 3: Trello Sprint Backlog 3
 
 Evidencia Sprint Backlog 3:
 
-
+![SprintBacklog3.jpeg](resources/SprintBacklog3.jpeg)
 
 ### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
