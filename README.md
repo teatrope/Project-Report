@@ -268,6 +268,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Para esta entrega amplié mis conocimeintos sobre el protocolo HTTP y sus mecanismos de seguridad basados en cabeceras como Cross-Origin Resource Sharing y tokens de autorización. Además, investigué acerca de las bibliotecas especializadas que se utilizan en el desarrollo móvil para consumir APIs y gestionar las peticiones. 
         <br>
         <strong>ℹ️ TF:</strong><br>
+        Para esta entrega tuve que investigar mucho sobre desarrollo móvil con Flutter y Bloc, además de aplicar técnicas y patrones de diseño eficientes durante el desarrollo. Actualizé mis conocimientos de desarrollo de interfaces y desarrollo frontend para mejorar la apariencia de la Landing Page y agregar una nueva sección para mostrar la app. 
       </td>
       <td rowspan="5"> conclusiones</td>
     </tr>
@@ -344,6 +345,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         Esta entrega me ayudó a reconocer que actualmente existen muchas herramientas para el desarrollo de software y es importante estar al tanto de cada una de ellas, teniendo al menos un poco de conocimiento sobre sus casos de uso, requerimientos y diferencias sobre sus competidores. 
         <br>
         <strong>ℹ️ TF:</strong><br>
+        Esta entrega me ayudó a reconocer la importancia de saber utilizar herramientas de testing, tanto en el apartado backend como el frontend, para evitar errores en producción y mejorar la calidad de nuestro software. Esta etapa del ciclo de vida del software es fundamental y nos ayudará a seguir creciendo profesionalmente. 
       </td>
       <td rowspan="6">Conclusiones</td>
     </tr>
