@@ -327,7 +327,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
       <td>Mario Lopez</td>
       <td>
         <strong>ℹ️ TB1:</strong><br> Participé activamente en la elaboración de los principales aportes para el desarrollo del proyecto, colaborando en la construcción del lenguaje ubicuo, la definición de historias de usuario y la creación del product backlog. Estas actividades facilitaron la identificación de las necesidades tanto de los consumidores de teatro como de los productores, permitiendo analizar los problemas actuales en la gestión de funciones y en la difusión de obras. Asimismo, contribuyeron a proponer soluciones digitales orientadas a mejorar la experiencia de los usuarios y optimizar la continuidad de los procesos, fortaleciendo mi aprendizaje en metodologías ágiles y en el diseño de soluciones de software centradas en el usuario.
-</strong><br>
+<br>
         <br>
         <strong>ℹ️ TP:</strong><br>
         Fortalecí mis conocimientos en planificación ágil y diseño de experiencia de usuario, participando activamente en la elaboración de los user flows, el prototipado web y móvil de la aplicación y la planificación del sprint. Estas actividades me permitieron comprender mejor la relación entre el diseño funcional y la ejecución técnica, aplicando buenas prácticas para estructurar procesos de desarrollo más organizados y centrados en las necesidades del usuario.
@@ -347,7 +347,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TB2: </strong><br> Realicé y ejecuté el Sprint Planning 2, construí el Sprint Backlog 2 y avancé la app móvil en Flutter (pantallas clave, navegación, BLoC/estados y pruebas en emulador) junto con el progreso completo de la app en Kotlin/Jetpack Compose (flows de autenticación, navegación, theming y DI con Hilt). Dejé evidencia de desarrollo para el Sprint Review (historias cerradas con commits/PRs, APK debug y capturas) y evidencia de ejecución (burndown, avance vs. plan y registro de incidencias), mostrando aprendizaje aplicado y valor entregado.
         <br>
-        <strong>ℹ️ TF:</strong><br>
+        <strong>ℹ️ TF:</strong><br> Para el desarrollo del trabajo actualicé y apliqué conceptos necesarios para el proyecto, cerrando el Sprint 3 con la consolidación del panel de administración y el avance de la app en Flutter, reforzando mis conocimientos de arquitectura, gestión de datos e integración con Firebase.
       </td>
     </tr>
     <!-- Criterio 2 -->
@@ -420,7 +420,7 @@ ABET – EAC - Student Outcome 7 Criterio: La capacidad de adquirir y aplicar nu
         <br>
         <strong>ℹ️ TB2:</strong><br> Reconozco y practico el aprendizaje continuo para sostener mi desempeño y la calidad de mis proyectos: cada sprint reviso novedades de Flutter y Kotlin/Compose, documento lecciones, ajusto el backlog y aplico lo aprendido en refactors, pruebas y mejoras de UX/rendimiento. Esta rutina me permite responder a cambios, cerrar historias con mayor calidad y entregar valor de forma consistente.
         <br>
-        <strong>ℹ️ TF:</strong><br>
+        <strong>ℹ️ TF:</strong><br> Para el desarrollo del trabajo reconocí la necesidad de seguir aprendiendo de forma constante, porque para avanzar el Sprint 3 y la app en Flutter tuve que investigar nuevas herramientas y flujos, comprobando que la actualización continua es clave en proyectos de soluciones de software.
       </td>
     </tr>
   </tbody>
