@@ -5205,7 +5205,71 @@ Insights de Kotlin durante Sprint 2:
 <img src="resources/insights-kotlin.png" alt="insights-tp">
 
 ### 4.2.3.1 Sprint Planning 3
-<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;"> <tr> <th colspan="2"><strong>Sprint #</strong></th> <td colspan="2">Sprint 2</td> </tr> <tr> <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Planning Background</strong></th> </tr> <tr> <th style="width: 20%;">Date</th> <td colspan="3">2025-11-1</td> </tr> <tr> <th>Time</th> <td colspan="3">07:40 PM</td> </tr> <tr> <th>Location</th> <td colspan="3">Videollamada en Discord.</td> </tr> <tr> <th>Prepared By</th> <td colspan="3">Zhang, Yalan</td> </tr> <tr> <th>Attendees (to planning meeting)</th> <td colspan="3">Zhang, Yalan / Angie Christina / Sosa Soto, Oskar Rodrigo / López Acuña, Mario Joaquín / Varela Bustinza, Marcelo Alessandro</td> </tr> <tr> <th>Sprint 1 Review Summary</th> <td colspan="3">Se validó la base de autenticación y la cartelera inicial; se recogieron observaciones de UX y rendimiento para afinar navegación y estados de carga.</td> </tr> <tr> <th>Sprint 1 Retrospective Summary</th> <td colspan="3">Ajustamos criterios de aceptación, formalizamos convenciones de ramas y reforzamos pruebas en emulador para reducir retrabajo.</td> </tr> <tr> <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Goal & User Stories</strong></th> </tr> <tr> <th>Sprint 2 Goal</th> <td colspan="3">Profundizar funciones móviles y de productor: búsqueda y filtros (fecha/distrito), ficha de obra con compra externa y mapa, favoritos/recordatorios, y flujo de gestión para productores (crear/editar/publicar obras y funciones). Además, mantener el landing desplegado y mostrar las funcionalidades core en demo.</td> </tr> <tr> <th>Sprint 2 Velocity</th> <td colspan="3">20 Story Points</td> </tr> <tr> <th>Sum of Story Points</th> <td colspan="3">20 Story Points</td> </tr> </table>
+<table cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th colspan="2"><strong>Sprint #</strong></th>
+    <td colspan="2">Sprint 3</td>
+  </tr>
+  <tr>
+    <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th style="width: 20%;">Date</th>
+    <td colspan="3">2025-11-28</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td colspan="3">07:40 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td colspan="3">Videollamada en Discord.</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td colspan="3">Zhang, Yalan</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td colspan="3">Zhang, Yalan / Angie Christina / Sosa Soto, Oskar Rodrigo / López Acuña, Mario Joaquín / Varela Bustinza, Marcelo Alessandro</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Review Summary</th>
+    <td colspan="3">
+      Se profundizaron las funciones móviles y de productor: búsqueda y filtros por fecha/distrito,
+      ficha de obra con enlace de compra externa y mapa, gestión de favoritos/recordatorios y flujo de
+      gestión para productores (crear/editar/publicar obras y funciones). Además, se mantuvo el landing
+      desplegado y se mostraron las funcionalidades core en la demo.
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Retrospective Summary</th>
+    <td colspan="3">
+      Se consolidó la coordinación entre frontend móvil, landing y backend para productores; se ajustaron
+      criterios de aceptación para búsquedas, filtros y favoritos, y se identificaron tareas pendientes para
+      completar el panel de administración y el despliegue final en Firebase en el siguiente sprint.
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4" style="background-color: #d9d9d9;"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 3 Goal</th>
+    <td colspan="3">
+      Concluir el panel de administrador para teatros, permitiendo editar, agregar y borrar obras (y sus funciones),
+      asegurando un flujo completo de gestión de cartelera. Además, realizar el deploy de la aplicación mediante
+      Firebase para disponer de una versión estable y accesible para la demo final.
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <td colspan="3">20 Story Points</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td colspan="3">20 Story Points</td>
+  </tr>
+</table>
 
 ### 4.2.3.2 Sprint Backlog 3
 
@@ -5217,15 +5281,12 @@ Enlace para acceder al Trello del Sprint 2: Trello Sprint Backlog 2
 
 ### 4.2.3.3 Development Evidence for Sprint Review
 
-Evidencia de funcionalidades (capturas APK/Debug y Compose):
-
 
 
 #### 4.2.3.8 Team Collaboration Insights during Sprint
 
-Insights de Kotlin durante Sprint 2:
+Insights de Kotlin durante Sprint 3:
 
-<img src="resources/insights-kotlin.png" alt="insights-tp">
 
 
 
